@@ -38,17 +38,17 @@ Improved prompt:
 
 ### The improved prompt is more specific because it defines:
 |---|---|
-|Component|Example in the prompt|
+| Component | Example in the prompt |
 
-|Task|Create five practice questions|
+| Task | Create five practice questions |
 
-|Context|Supervised and unsupervised learning|
+| Context | Supervised and unsupervised learning |
 
-|Audience|A high-school student new to machine learning|
+| Audience | A high-school student new to machine learning |
 
-|Format|Numbered questions followed by an answer key|
+| Format | Numbered questions followed by an answer key |
 
-|Constraints|Simple English and explanations under three sentences|
+| Constraints | Simple English and explanations under three sentences |
 
 ### Practical tips for prompt writing:
 
