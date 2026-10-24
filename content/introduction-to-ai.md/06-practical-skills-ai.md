@@ -18,13 +18,13 @@ A prompt is the instruction or question given to an AI tool. A clear prompt help
 
 An effective prompt can include five components:
 
-Task: What should the AI do?
-Context: What background information does it need?
-Audience: Who is the response intended for?
-Format: How should the answer be organized?
-Constraints: What limits or requirements should it follow?
-Not every prompt needs all five components. Their usefulness depends on the task.
-## Example: Improving a prompt
+1. Task: What should the AI do?
+2. Context: What background information does it need?
+3. Audience: Who is the response intended for?
+4. Format: How should the answer be organized?
+5. Constraints: What limits or requirements should it follow?
+6. Not every prompt needs all five components. Their usefulness depends on the task.
+### Example: Improving a prompt
 
 Initial prompt:
 
@@ -61,16 +61,47 @@ Improved prompt:
 
 ## 3. Evaluating AI Answers
 
-Check:
+An AI response may sound confident and well organized while still containing errors. Before using its output, evaluate it using the following checklist.
 
-- Accuracy: Can the claims be verified?
-- Relevance: Does the answer address the question?
-- Completeness: Is important information missing?
-- Clarity: Is the explanation understandable?
-- Bias: Does it make unfair assumptions?
-- Currency: Could the information have changed?
-- Sources: Are the references real and relevant?
+| Criterion | Question to ask |
+|---|---|
+| Accuracy | Are the facts, definitions, calculations, and examples correct? |
+| Relevance | Does the response directly answer the question? |
+| Completeness | Does it cover the important points without leaving out necessary information? |
+| Clarity | Is the explanation understandable and logically organized? |
+| Bias | Does it present assumptions or viewpoints unfairly? |
+| Currency | Is the information up to date enough for this task? |
+| Sources | Are the sources identifiable, reliable, and relevant to the claims? |
 
+The importance of each criterion depends on the task. For example, currency is especially important when researching current regulations, statistics, or technology developments. Accuracy and completeness are essential when learning a new concept or solving a mathematical problem.
+
+### Worked example: Evaluating a machine-learning claim
+
+Suppose an AI tool gives the following statement:
+
+"All machine-learning systems learn without labels."
+
+**Step 1: Identify the problem**
+
+The statement uses the word "all," making an overly broad claim about machine learning.
+
+**Step 2: Check the concept**
+
+Machine learning includes different approaches. Supervised learning typically uses labeled examples, while unsupervised learning typically identifies patterns in data without provided labels.
+
+**Step 3: Verify the explanation**
+
+Compare the statement with reliable course materials or an authoritative machine-learning textbook or educational resource.
+
+**Step 4: Correct the claim**
+
+A more accurate version is:
+
+"Machine-learning systems use different learning approaches. Supervised learning typically uses labeled training examples, whereas unsupervised learning typically works with data without provided labels to identify patterns."
+
+**Step 5: Learn from the mistake**
+
+The example demonstrates why users should examine absolute statements such as "all," "always," and "never." These words are not necessarily wrong, but they often require careful verification.
 ## 4. Verifying Sources
 
 When checking an AI answer:
