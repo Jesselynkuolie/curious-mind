@@ -34,13 +34,13 @@ Each member is responsible for completing their assigned work.
 
 | Task | Responsible Member | Due Date | Status |
 |---|---|---|---|
-| Coordinate project and Topic 1 | Jesselyn Kuolie | [Date] | [Status] |
-| Topic 2 and study guide | Michelle Kalyani | [Date] | [Status] |
-| Topic 3, video, and mini-lecture | Kristabelle Lian | [Date] | [Status] |
-| Topic 4, slides, and assets | Lai Quoc Hung | [Date] | [Status] |
-| Topic 5, practice questions, and quality check | Samantha Salvatrice | [Date] | [Status] |
-| Topic 6 and repository/submission | Le Tran Duc Trong | [Date] | [Status] |
-| Complete peer reviews | Assigned reviewers | [Date] | [Status] |
+| Coordinate project and Topic 1 | Jesselyn Kuolie | 10/23 | [Status] |
+| Topic 2 and study guide | Michelle Kalyani | 10/23 | [Status] |
+| Topic 3, video, and mini-lecture | Kristabelle Lian | 10/23 | [Status] |
+| Topic 4, slides, and assets | Lai Quoc Hung | 10/23 | [Status] |
+| Topic 5, practice questions, and quality check | Samantha Salvatrice | 10/23 | [Status] |
+| Topic 6 and repository/submission | Le Tran Duc Trong | 10/23 | [Status] |
+| Complete peer reviews | Assigned reviewers | 10/24 | [Status] |
 
 ## Decisions
 
