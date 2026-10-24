@@ -152,25 +152,68 @@ Responsible AI use requires users to follow academic rules, protect information,
 - **Disclose AI assistance when required:** Follow the instructor's preferred method for acknowledging AI use.
 - **Protect privacy:** Do not enter personal data, passwords, confidential documents, or other sensitive information into unapproved tools.
 - **Retain responsibility:** The user remains responsible for the accuracy, originality, and appropriateness of the final work.
-## 7. Reflection Activity
+## 7. Practical Activity: Use, Evaluate, and Improve
 
-Write a short reflection answering:
+### Instructions
 
-1. What task did you use AI to support?
-2. What prompt did you provide?
-3. What part of the response was useful?
-4. What information did you verify or correct?
-5. What would you do differently next time?
+**Step 1: Choose a learning task**
+
+Select a topic you are currently studying, such as machine learning, mathematics, economics, or academic writing.
+
+**Step 2: Write a prompt**
+
+Include the task, relevant context, intended audience, desired format, and any useful constraints.
+
+**Step 3: Review the AI response**
+
+Use the evaluation checklist from Section 3. Identify at least one strength and one potential weakness.
+
+**Step 4: Verify a claim**
+
+Select one factual claim from the response. Find a reliable source and check whether the evidence supports it.
+
+**Step 5: Improve the result**
+
+Correct unsupported or inaccurate information. Rewrite any explanation that remains unclear or incomplete.
+
+**Step 6: Reflect on the process**
+
+Answer the following questions:
+- What task did you ask the AI to perform?
+- What did you include in your prompt to make it specific?
+- Which part of the response was useful, and why?
+- Which claim did you verify, and what evidence did you find?
+- What did you correct, remove, or clarify?
+- What would you change about your prompt or verification process next time?
 
 ## 8. Key Takeaways
 
-Effective AI use combines clear prompts, source verification,
-critical thinking, privacy awareness, and responsibility.
-
+- AI can support brainstorming, explanation, practice, and organization, but it should not replace independent thinking.
+- Clear prompts specify the task and provide relevant context, audience, format, and constraints.
+- AI-generated content should be evaluated for accuracy, relevance, completeness, clarity, bias, currency, and source quality.
+- Reliable verification involves checking original evidence, dates, context, and whether the source supports the exact claim.
+- Responsible AI use includes following academic rules, protecting privacy, and acknowledging assistance when required.
+- Effective AI use combines technical assistance with human judgment, critical thinking, and accountability.
 ## 9. Review Questions
 
-1. Name four details that improve a prompt.
-2. Why should AI-generated facts be checked?
-3. Give two ways to verify sources.
-4. What should a student do before using AI?
-5. When should you avoid relying on an AI answer alone?
+### Knowledge and Understanding:
+
+1. What five components can make an AI prompt more effective?
+
+2. Why should users verify AI-generated information even when the response sounds confident?
+
+3. Identify two ways to check whether a source supports an AI-generated claim.
+
+4. State two responsibilities a student has when using AI for schoolwork.
+
+### Application and Critical Thinking:
+
+5. Improve the following prompt by adding relevant context, an intended audience, a format, and constraints:
+
+"Explain economics."
+
+6. An AI tool states, "All machine-learning systems learn without labels." Identify the problem with this statement and rewrite it more accurately.
+
+7. An AI tool gives three statistics about AI adoption in China and provides links to general articles, but the articles do not mention those figures. What should the user do before including the statistics in an assignment?
+
+8. An AI tool provides a well-written explanation, but one of its sources is several years old. What should the user consider before relying on the explanation?
