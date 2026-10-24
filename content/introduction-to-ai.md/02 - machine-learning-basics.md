@@ -4,77 +4,137 @@
 
 ## 1. What Is Machine Learning?
 
-Machine learning (ML) is a branch of AI that allows computer
-systems to learn patterns from data.
+Machine learning (ML) is a branch of artificial intelligence (AI) that allows computers to learn patterns from data and use those patterns to make predictions or decisions [1, 4].
 
-These patterns can be used to make predictions, classify
-information, or support decisions.
+Instead of programming every rule manually, developers train a machine learning model using examples.
+
+**Example: Spam Email Detection**
+
+A spam filter learns from emails labeled as either "spam" or "not spam." After training, it can use what it has learned to predict whether a new email is spam.
 
 ## 2. The Machine Learning Process
 
-1. Collect relevant data.
-2. Prepare and check the data.
-3. Train a model using a learning method.
-4. Test the model using new examples.
-5. Monitor its performance after deployment.
+Machine learning usually follows these steps [2, 3]:
 
-The quality of the data affects the model's performance.
+1. **Collect data:** Gather information related to the problem.
+2. **Prepare the data:** Check for errors, remove unnecessary information, and organize the data.
+3. **Train the model:** Use the prepared data to help the model learn patterns.
+4. **Test the model:** Evaluate how well the model works on data it has not seen during training.
+5. **Deploy and monitor:** Put the model into use and check its performance over time.
 
-## 3. Supervised Learning
+The quality and relevance of the data can strongly affect how well a model performs. Testing is also important because a model that performs well during training may not work well with new data [3].
 
-Supervised learning uses examples that already have labels.
+## 3. Types of Machine Learning
 
-For example, a spam filter can learn from emails labeled
-"spam" or "not spam."
+There are three commonly taught types of machine learning: supervised learning, unsupervised learning, and reinforcement learning [1, 4].
 
-The model then predicts the category of a new email.
+### 3.1 Supervised Learning
 
-## 4. Unsupervised Learning
+**Supervised learning** trains a model using labeled data. Labeled data contains examples along with their correct answers or categories [1].
 
-Unsupervised learning looks for patterns in data without
-being given the correct label for each example.
+**Example:** A spam filter is trained using emails labeled "spam" or "not spam." It learns patterns associated with each category and uses them to classify new emails.
 
-For example, a business may group customers with similar
-purchasing patterns.
+**Key idea:** The model learns from examples that include the correct answers.
 
-## 5. Reinforcement Learning
+### 3.2 Unsupervised Learning
 
-Reinforcement learning involves learning through interaction
-and feedback, often described using rewards.
+**Unsupervised learning** uses data without preassigned answers or labels. The model looks for patterns, similarities, or groups in the data [1].
 
-For example, an agent may learn which actions help it complete
-a task in a simulated environment.
+**Example:** A business analyzes customer purchasing habits and groups customers with similar shopping patterns. The groups can help the business understand its customers.
 
-## 6. Classification and Regression
+**Key idea:** The model searches for patterns without being given the correct answer for each example.
 
-Classification predicts a category.
+### 3.3 Reinforcement Learning
 
-Example: deciding whether an email is spam or not spam.
+**Reinforcement learning** involves an agent learning through interaction with an environment. The agent receives feedback, often in the form of rewards or penalties, and learns which actions are more effective over time [1, 4].
 
-Regression predicts a numerical value.
+**Example:** An agent learns to play a simple game. It receives rewards for successful actions and learns to avoid actions that lead to poor results.
 
-Example: estimating the time needed to reach a destination.
+**Key idea:** The agent learns by taking actions and receiving feedback.
 
-## 7. Overfitting
+### Comparing the Three Types
 
-Overfitting happens when a model fits its training data too
-closely and performs poorly on new examples.
+| Type | How it learns | Example |
+|---|---|---|
+| Supervised learning | Learns from labeled examples | Detecting spam emails |
+| Unsupervised learning | Finds patterns in unlabeled data | Grouping customers |
+| Reinforcement learning | Learns through actions and feedback | Learning to play a game |
 
-It is similar to memorizing practice questions without
-understanding the concepts behind them.
+## 4. Classification and Regression
 
-## 8. Key Takeaways
+Machine learning models can be used for different kinds of predictions. Two common tasks are classification and regression [1, 2].
 
-- Machine learning uses data to learn patterns.
-- Supervised learning uses labeled examples.
-- Unsupervised learning searches for patterns.
-- Reinforcement learning uses feedback.
-- Models need to be tested on new data.
+### 4.1 Classification
 
-## 9. Review Questions
+**Classification** predicts a category or class [1].
 
-1. What is machine learning?
-2. How do supervised and unsupervised learning differ?
-3. Which approach uses feedback or rewards?
-4. Give an example of classification and regression.
-5. What is overfitting?
+Examples:
+- Deciding whether an email is spam or not spam.
+- Classifying an image as a cat or a dog.
+- Predicting whether a transaction may be fraudulent.
+
+**Remember:** Classification predicts a category.
+
+### 4.2 Regression
+
+**Regression** predicts a numerical value [1, 2].
+
+Examples:
+- Estimating the price of a house.
+- Predicting tomorrow's temperature.
+- Estimating how many minutes a journey may take.
+
+**Remember:** Regression predicts a number.
+
+| Classification | Regression |
+|---|---|
+| Predicts a category | Predicts a numerical value |
+| Example: Spam or not spam | Example: A journey will take 25 minutes |
+
+## 5. What Is Overfitting?
+
+**Overfitting** occurs when a model learns the training data too closely, including details or noise that do not help it perform well on new data [3].
+
+As a result, the model may perform very well on its training examples but poorly on unfamiliar examples.
+
+**Example:** A student memorizes the answers to a set of practice questions but does not understand the underlying concepts. When the exam contains different questions, the student struggles to answer them.
+
+Similarly, an overfitted model may struggle when it encounters data that differs from its training examples.
+
+Testing a model on unseen data helps reveal whether it can perform well beyond the examples it has already learned from [3].
+
+## 6. Key Takeaways
+
+- Machine learning is a branch of AI that learns patterns from data.
+- The main steps include collecting data, preparing it, training a model, testing it, and monitoring its performance.
+- Supervised learning learns from labeled examples.
+- Unsupervised learning finds patterns in data without given labels.
+- Reinforcement learning learns through actions and feedback.
+- Classification predicts categories, while regression predicts numerical values.
+- Overfitting occurs when a model performs well on training data but poorly on new data.
+
+## 7. Review Questions
+
+Test your understanding of the concepts in this lesson.
+
+1. What is machine learning, and how does it differ from manually programming every rule?
+2. What are the main steps in the machine learning process?
+3. How do supervised learning and unsupervised learning differ?
+4. Which type of machine learning uses actions and feedback to learn?
+5. Explain the difference between classification and regression. Give one example of each.
+6. What is overfitting, and why can it cause problems?
+7. Why should a machine learning model be tested using data it has not seen during training?
+
+## 8. References
+
+1. Google for Developers. (n.d.). *What is machine learning?*  
+   https://developers.google.com/machine-learning/intro-to-ml/what-is-ml
+
+2. Google for Developers. (n.d.). *Machine Learning Crash Course.*  
+   https://developers.google.com/machine-learning/crash-course/
+
+3. Google for Developers. (2025, December 3). *Datasets, generalization, and overfitting.*  
+   https://developers.google.com/machine-learning/crash-course/overfitting
+
+4. Bergmann, D. (2026, October 2). *What is machine learning?* IBM.  
+   https://www.ibm.com/think/topics/machine-learning
