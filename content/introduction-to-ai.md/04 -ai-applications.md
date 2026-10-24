@@ -89,5 +89,6 @@ be evaluated for usefulness, accuracy, fairness, and privacy.
 1. Give one AI use in education and one risk.
 2. Why should healthcare AI be checked by professionals?
 3. Name two business applications of AI.
-4. Give one possible risk of AI in entertainment.
+4. Give some possible risks of AI in entertainment.
 5. How can people evaluate an AI application?
+6. How not to abuse it?
