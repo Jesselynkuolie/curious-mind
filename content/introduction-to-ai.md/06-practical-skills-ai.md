@@ -37,27 +37,13 @@ Improved prompt:
 "Create five beginner-level practice questions about supervised and unsupervised learning for a high-school student who is new to machine learning. Present the questions in a numbered list, then provide an answer key with short explanations in simple English. Keep each explanation under three sentences."
 
 ### The improved prompt is more specific because it defines:
-|---|---|
 | Component | Example in the prompt |
-
+|---|---|
 | Task | Create five practice questions |
-
 | Context | Supervised and unsupervised learning |
-
 | Audience | A high-school student new to machine learning |
-
 | Format | Numbered questions followed by an answer key |
-
 | Constraints | Simple English and explanations under three sentences |
-| Component | Example in the prompt |
-|---|---|
-| Coordinate project and Topic 1 | Jesselyn Kuolie |
-| Topic 2 and study guide | Michelle Kalyani |
-| Topic 3, video, and mini-lecture | Kristabelle Lian |
-| Topic 4, slides, and assets | Lai Quoc Hung |
-| Topic 5, practice questions, and quality check | Samantha Salvatrice |
-| Topic 6 and repository/submission | Le Tran Duc Trong |
-| Complete peer reviews | Assigned reviewers |
 
 ### Practical tips for prompt writing:
 
