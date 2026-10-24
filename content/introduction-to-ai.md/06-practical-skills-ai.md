@@ -10,7 +10,7 @@ For example, a student preparing for a machine-learning examination can ask an A
 
 AI-generated content may contain incorrect information, incomplete explanations, outdated facts, or biased assumptions. Therefore, users should treat AI responses as starting points for investigation rather than automatically accepting them as facts.
 
-Key principle: Use AI to improve your understanding, not to avoid developing your own understanding.
+**Key principle:** Use AI to improve your understanding, not to avoid developing your own understanding.
 
 ## 2. Writing a Clear Prompt
 
@@ -104,40 +104,54 @@ A more accurate version is:
 The example demonstrates why users should examine absolute statements such as "all," "always," and "never." These words are not necessarily wrong, but they often require careful verification.
 ## 4. Verifying Sources
 
-When checking an AI answer:
+AI-generated answers may include inaccurate claims, outdated information, or references that do not support the statements they accompany. Source verification helps users distinguish reliable information from unsupported claims.
+Follow these steps when checking an important claim:
 
-1. Find the original source.
-2. Prefer relevant official or academic sources.
-3. Check publication dates.
-4. Confirm that the source supports the exact claim.
-5. Compare reliable sources for important facts.
+- **Identify the exact claim:** Determine which fact, statistic, quotation, or explanation needs verification.
+- **Find the original source:** Whenever possible, locate the original research paper, official report, dataset, regulation, or document.
+- **Assess source reliability:** Consider the author's expertise, the publishing organization, the evidence provided, and the purpose of the publication.
+- **Check the date and context:** Confirm that the information is current enough and applies to the situation being discussed.
+- **Compare independent sources:** Check whether other credible sources support the same conclusion.
+- **Confirm the evidence matches the claim:** A source may be legitimate but still fail to support the specific statement.
 
 ## 5. Example of Critical Evaluation
 
-Suppose an AI answer says:
+Suppose an AI tool states:
+"AI adoption in China increased by 40% in 2025."
+It also provides a link to a general article about artificial intelligence in China.
 
-"All machine-learning systems learn without labels."
+A responsible user should:
 
-This statement is too broad.
+- Determine what "AI adoption" means in the claim.
+- Identify the population, industry, measurement method, and time period.
+- Find the original report or dataset behind the 40% figure.
+- Check whether the source actually reports a 40% increase in 2025.
+- Compare the figure with another credible source where possible.
+- Remove or correct the statistic if it cannot be verified.
 
-Supervised learning commonly uses labeled examples, while
-unsupervised learning typically looks for patterns without
-provided labels.
+A general article about AI does not automatically prove a specific statistic. If the original evidence cannot be found, the claim should be described as unverified rather than presented as an established fact.
 
-The user should verify the distinction and correct the
-statement instead of copying it automatically.
+**Useful source types include:**
+
+- Official government websites and statistical agencies.
+- Peer-reviewed academic research.
+- University publications and established educational resources.
+- Original datasets, technical documentation, and official reports from relevant organizations.
+
+The appropriate source depends on the claim. For example, an official government source may be suitable for a regulation, while an academic study may be more appropriate for a research finding.
 
 ## 6. Academic Responsibility
 
-Before using AI for schoolwork:
+Responsible AI use requires users to follow academic rules, protect information, and remain accountable for their work.
+### Good practices
 
-- Read the assignment instructions.
-- Follow the rules about AI assistance.
-- Verify facts and sources.
-- Write based on your own understanding.
-- Disclose assistance when required.
-- Avoid sharing confidential information with unapproved tools.
-
+- **Follow course policies:** Check whether AI is permitted for the specific assignment and what types of assistance are allowed.
+- **Understand your work:** Be able to explain the reasoning, evidence, and conclusions in your submission.
+- **Verify important information:** Check facts, calculations, quotations, and references before using them.
+- **Maintain academic integrity:** Do not submit AI-generated work as entirely your own when doing so violates course requirements.
+- **Disclose AI assistance when required:** Follow the instructor's preferred method for acknowledging AI use.
+- **Protect privacy:** Do not enter personal data, passwords, confidential documents, or other sensitive information into unapproved tools.
+- **Retain responsibility:** The user remains responsible for the accuracy, originality, and appropriateness of the final work.
 ## 7. Reflection Activity
 
 Write a short reflection answering:
