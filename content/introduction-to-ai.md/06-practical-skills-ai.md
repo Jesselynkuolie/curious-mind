@@ -51,13 +51,13 @@ Improved prompt:
 | Constraints | Simple English and explanations under three sentences |
 | Task | Responsible Member | Due Date | Status |
 |---|---|---|---|
-| Coordinate project and Topic 1 | Jesselyn Kuolie | [Date] | [Status] |
-| Topic 2 and study guide | Michelle Kalyani | [Date] | [Status] |
-| Topic 3, video, and mini-lecture | Kristabelle Lian | [Date] | [Status] |
-| Topic 4, slides, and assets | Lai Quoc Hung | [Date] | [Status] |
-| Topic 5, practice questions, and quality check | Samantha Salvatrice | [Date] | [Status] |
-| Topic 6 and repository/submission | Le Tran Duc Trong | [Date] | [Status] |
-| Complete peer reviews | Assigned reviewers | [Date] | [Status] |
+| Coordinate project and Topic 1 | Jesselyn Kuolie |
+| Topic 2 and study guide | Michelle Kalyani |
+| Topic 3, video, and mini-lecture | Kristabelle Lian |
+| Topic 4, slides, and assets | Lai Quoc Hung |
+| Topic 5, practice questions, and quality check | Samantha Salvatrice |
+| Topic 6 and repository/submission | Le Tran Duc Trong |
+| Complete peer reviews | Assigned reviewers |
 
 ### Practical tips for prompt writing:
 
