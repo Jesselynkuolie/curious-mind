@@ -39,7 +39,7 @@ Each member is responsible for completing their assigned work.
 | Topic 3, video, and mini-lecture | Kristabelle Lian | 10/23 | [Status] |
 | Topic 4, slides, and assets | Lai Quoc Hung | 10/23 | [Status] |
 | Topic 5, practice questions, and quality check | Samantha Salvatrice | 10/23 | [Status] |
-| Topic 6 and repository/submission | Le Tran Duc Trong | 10/23 | [Status] |
+| Topic 6 and repository/submission | Le Tran Duc Trong | 10/23 | Finished |
 | Complete peer reviews | Assigned reviewers | 10/24 | [Status] |
 
 ## Decisions
