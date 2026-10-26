@@ -1,179 +1,150 @@
-# Curious Mind: AI Overview
+# Curious Mind: Introduction to Artificial Intelligence
 
 ## 1. Project Overview
 
-**Curious Mind: AI Overview** is a beginner-friendly educational project that introduces the fundamental concepts of artificial intelligence (AI) and explores how AI can be used responsibly in everyday life.
+**Curious Mind** is an educational project designed to introduce beginners to Artificial Intelligence (AI), its applications, its limitations, and the importance of responsible AI use.
 
-The learning materials cover the fundamentals of AI, machine learning, generative AI, real-world applications, responsible AI, and practical skills for using and evaluating AI tools.
+The project explores fundamental AI concepts, machine learning, generative AI, real-world applications, responsible AI principles, and practical skills for using and evaluating AI tools.
 
-The repository contains a module outline, six topic chapters, a study guide, practice questions, presentation materials, video-planning documents, a mini-lecture script, meeting notes, review records, and project-management documents.
+The repository includes a learning module outline, chapter files, practice questions, study materials, presentation and video planning documents, a mini-lecture script, project documentation, and quality-assurance materials.
 
-### Project priorities
+### Project Goals
 
-The learning materials are organised to demonstrate:
+The project aims to:
 
-- A complete and clearly structured module outline.
-- Clearly stated learning objectives and a logical learning sequence.
-- At least one fully developed chapter that demonstrates the intended educational design.
-- Supporting learning activities, review questions, and answer guidance.
-- Appropriate references and responsible use of AI-related information.
-- Clear documentation of project progress and quality assurance.
-
-**Submission reminder:** Check the assignment brief and marking rubric before final submission. The presence of a file in the repository does not automatically mean that its contents are complete or that it meets every assessment requirement.
-
----
+- Provide a clear and complete learning module structure.
+- Introduce AI concepts in a logical sequence.
+- Develop learning materials appropriate for beginners.
+- Include examples, learning activities, and assessment questions.
+- Encourage critical evaluation of AI-generated information.
+- Promote responsible and ethical AI use.
+- Maintain clear documentation and quality-assurance procedures.
 
 ## 2. Learning Objectives
 
-By the end of this learning module, learners should be able to:
+By the end of the learning module, learners should be able to:
 
-1. Explain the meaning of artificial intelligence and identify its basic concepts.
-2. Describe fundamental machine learning approaches and terminology.
+1. Explain the meaning of artificial intelligence and identify fundamental AI concepts.
+2. Describe basic machine learning approaches and terminology.
 3. Explain generative AI and large language models at an introductory level.
-4. Identify examples of AI applications in everyday life and different industries.
+4. Identify applications of AI in everyday life and different industries.
 5. Recognise ethical concerns, privacy risks, bias, and limitations associated with AI.
-6. Create clear prompts and critically evaluate AI-generated responses.
-7. Use AI tools responsibly while applying independent judgement and following relevant academic-integrity requirements.
+6. Create effective prompts and critically evaluate AI-generated responses.
+7. Apply responsible AI practices while maintaining independent judgement.
 
----
+## 3. Learning Module Structure
 
-## 3. Module Structure and Content
+The module is planned around six chapters, preceded by a complete module outline.
 
-The module is organised into six topic chapters, preceded by a module outline.
-
-| Section | File | Main content |
+| Section | Learning material | Main topics |
 |---|---|---|
-| Module outline | [`content/00-module-outline.md`](content/00-module-outline.md) | Module structure, learning objectives, chapter sequence, assessment approach, and supporting materials |
-| Chapter 1: What Is AI? | [`content/01-what-is-ai.md`](content/01-what-is-ai.md) | AI definitions, foundational concepts, examples, benefits, limitations, and responsible use |
-| Chapter 2: Machine Learning Basics | [`content/02-machine-learning-basics.md`](content/02-machine-learning-basics.md) | Machine learning workflow, learning approaches, classification, regression, model evaluation, and overfitting |
-| Chapter 3: Generative AI and LLMs | [`content/03-generative-ai-and-llms.md`](content/03-generative-ai-and-llms.md) | Generative AI, large language models, their capabilities, and limitations |
-| Chapter 4: AI Applications | [`content/04-ai-applications.md`](content/04-ai-applications.md) | Examples of AI applications across everyday life and different industries |
-| Chapter 5: Responsible AI | [`content/05-responsible-ai.md`](content/05-responsible-ai.md) | Fairness, privacy, transparency, safety, accountability, and responsible use |
-| Chapter 6: Practical AI Skills | [`content/06-practical-ai-skills.md`](content/06-practical-ai-skills.md) | Prompt writing, evaluating AI outputs, checking information, and using AI responsibly |
+| Module outline | [00-module-outline.md](content/introduction-to-ai.md/00-module-outline.md) | Module structure, learning objectives, learning sequence, assessments, and supporting materials |
+| Chapter 1 | [01-what is ai.md](content/introduction-to-ai.md/01-what%20is%20ai.md) | Introduction to AI, foundational concepts, examples, benefits, limitations, and responsible use |
+| Chapter 2 | [02 - machine-learning-basics.md](content/introduction-to-ai.md/02%20-%20machine-learning-basics.md) | Machine learning concepts, learning approaches, classification, regression, evaluation, and overfitting |
+| Chapter 3 | [03-generative-ai-llms.md](content/introduction-to-ai.md/03-generative-ai-llms.md) | Generative AI, large language models, capabilities, and limitations |
+| Chapter 4 | [04 -ai-applications.md](content/introduction-to-ai.md/04%20-ai-applications.md) | AI applications in everyday life and different industries |
+| Chapter 5 | [05-responsible-ai.md](content/introduction-to-ai.md/05-responsible-ai.md) | Fairness, privacy, transparency, accountability, safety, and responsible use |
+| Chapter 6 | [06-practical-skills-ai.md](content/introduction-to-ai.md/06-practical-skills-ai.md) | Prompt writing, checking AI outputs, evaluating information, and responsible AI use |
 
-**Recommended learning sequence:** Begin with the module outline, then work through Chapters 1–6 in order.
+### Recommended Learning Sequence
 
-The module outline should remain consistent with the actual chapter contents. Update any progress indicators to reflect the materials that have genuinely been completed and reviewed.
+1. Read the module outline.
+2. Study Chapters 1–6 in order.
+3. Complete the learning activities and review questions.
+4. Use the supporting study materials to reinforce understanding.
+5. Review the references and apply the responsible AI principles discussed throughout the module.
 
----
+**Content status:** The existence of a chapter file does not necessarily mean the chapter is complete. Chapter content should be checked against its learning objectives and the assignment requirements before submission.
 
-## 4. Supporting Learning Materials
+## 4. Study and Assessment Materials
 
-### Study and assessment
+### Study Guide
 
-- **Study guide:** [`study-guide/study-guide.md`](study-guide/study-guide.md)  
-  Supporting material for reviewing key concepts and preparing for learning assessments.
+The study guide is intended to support revision and reinforce important concepts.
 
-- **Practice questions and answer key:** [`test-bank/practice-questions.md`](test-bank/practice-questions.md)  
-  Questions and answers for checking learners' understanding of the module.
+[Open the study guide outline](study%20guide/study-guide-outline.md)
 
-### Presentation and video planning
+### Practice Questions
 
-- **Presentation outline:** [`slides/presentation-outline.md`](slides/presentation-outline.md)  
-  The planned structure and content of the presentation.
+The practice questions provide opportunities for learners to check their understanding of AI concepts.
 
-- **Presentation slides:** [`slides/Curious-Mind-AI-Overview.pptx`](slides/Curious-Mind-AI-Overview.pptx)  
-  The PowerPoint presentation introducing the main topics in the module.
+[Open the practice questions](test-bank/practice-questions.md)
 
-- **Video plan:** [`videos/video-plan.md`](videos/video-plan.md)  
-  The planned purpose, structure, and production approach for the educational video.
+The question bank and its answer key should be checked for accuracy and alignment with the learning materials.
 
-- **Video storyboard:** [`videos/video-storyboard.md`](videos/video-storyboard.md)  
-  The proposed scenes, timing, narration, and visual direction for the video.
+## 5. Presentation and Video Materials
 
-- **Mini-lecture script:** [`mini-lecture/mini-lecture-script.md`](mini-lecture/mini-lecture-script.md)  
-  The script supporting the planned mini-lecture.
+### Presentation
 
-*Note: A script, plan, or storyboard is a planning document; it should not be described as a completed video or presentation delivery unless that deliverable has actually been produced.*
+[Open the presentation outline](slides/presentation-outline.md)
 
----
+This file describes the planned presentation structure. A completed PowerPoint file should be added if the assignment requires one.
 
-## 5. Project Documentation and Quality Assurance
+### Educational Video
 
-The repository also contains documents supporting project coordination, review, and quality assurance.
+- [Video plan](videos/video-plan.md)
+- [Video storyboard](videos/video-storyboard.md)
 
-| File | Purpose |
+These documents support the planning of an educational video. They should not be described as a completed video unless the video has actually been produced.
+
+### Mini-Lecture
+
+[Open the mini-lecture script](Mini%20lecture/mini-lecture-script.md)
+
+The script supports the preparation of a mini-lecture introducing the module's learning content.
+
+## 6. Project Documentation
+
+The following files support project organisation, collaboration, review, and quality assurance.
+
+| Document | Purpose |
 |---|---|
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Guidance for contributing to the project |
-| [`tasks.md`](tasks.md) | Project tasks, responsibilities, and progress tracking |
-| [`meeting-notes/meeting-notes.md`](meeting-notes/meeting-notes.md) | Records of project meetings and decisions |
-| [`review/review-notes.md`](review/review-notes.md) | Review feedback and documented improvement work |
-| [`assets/README.md`](assets/README.md) | Information about project assets and their sources |
-| [`AUDIT-REPORT.md`](AUDIT-REPORT.md) | Project audit findings and quality checks |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Explains how contributors can suggest and make improvements |
+| [AUDIT-REPORT.md](AUDIT-REPORT.md) | Records audit criteria, findings, and recommended improvements |
+| [tasks.md](tasks.md) | Tracks project tasks and progress |
+| [Meeting notes](Meeting%20notes/Mini%20lecture/slides/meeting-notes.md) | Records project meeting notes and decisions |
+| [Review notes](review/review-notes.md) | Records feedback and areas for improvement |
+| [Asset documentation](asset.md) | Documents project assets and related information |
+| [Additional video storyboard](study%20guide/videos/video-storyboard.md) | Provides supplementary video-planning material |
 
-These documents should accurately reflect the work performed. Meeting records, review responses, task statuses, and audit findings must be based on actual evidence rather than assumed or invented progress.
+Project records and audit findings should reflect actual work completed and checks performed.
 
----
+## 7. Quality-Assurance Checklist
 
-## 6. Quality-Assurance Checklist
+Before submitting the project, review the following checklist against the lecturer's instructions and marking rubric.
 
-Before submitting the project, review the following items against the assignment brief and marking rubric.
+### Module Structure
 
-### Module structure and learning content
+- [ ] The module outline contains the complete learning structure.
+- [ ] The learning objectives are clear and measurable.
+- [ ] The chapter sequence progresses logically.
+- [ ] Each chapter has a clear purpose and appropriate topics.
+- [ ] The module outline matches the actual chapter files.
 
-- [ ] Confirm that the module outline provides a complete and coherent structure for all six chapters.
-- [ ] Check that the chapter sequence is logical and appropriate for beginner learners.
-- [ ] Confirm that the learning objectives align with the actual chapter content.
-- [ ] Ensure that at least one chapter is fully developed and demonstrates the intended learning-material design.
-- [ ] Check that the developed chapter includes clear explanations, relevant examples, learning activities or review questions, and an answer key where appropriate.
-- [ ] Review the remaining chapters and complete any missing content required by the assignment.
-- [ ] Ensure that the module outline accurately reflects the actual completion status of each chapter.
+### Learning Content
 
-### Assessment and supporting materials
+- [ ] At least one complete chapter demonstrates the intended instructional design.
+- [ ] The selected chapter includes learning objectives, detailed explanations, examples, and a practical activity or equivalent.
+- [ ] The chapter includes a summary and review questions.
+- [ ] Answers or marking guidance are provided where appropriate.
+- [ ] The remaining chapters have been reviewed for completeness and accuracy.
+- [ ] The learning content is suitable for the intended audience.
 
-- [ ] Verify that the practice questions and answer key are accurate and consistent with the learning content.
-- [ ] Check that the study guide supports the stated learning objectives.
-- [ ] Review the presentation slides and their references.
-- [ ] Check the video plan, storyboard, and mini-lecture script against the intended learning outcomes.
-- [ ] Confirm which supporting deliverables are mandatory under the assignment requirements.
-- [ ] Clearly distinguish planned materials from completed deliverables.
+### Assessment and Supporting Materials
 
-### References and academic integrity
+- [ ] Practice questions and answer keys have been checked.
+- [ ] The study materials align with the learning objectives.
+- [ ] The presentation outline supports the module.
+- [ ] Video and mini-lecture materials are consistent with the learning content.
+- [ ] All additional deliverables required by the assignment are included.
 
-- [ ] Check that factual claims are supported by reliable and relevant sources.
-- [ ] Verify that references and links are accurate.
-- [ ] Attribute external text, images, and other materials as required.
-- [ ] Follow the course policy for disclosing AI assistance.
-- [ ] Review and verify the final content so that the submitted work reflects the team's understanding.
+### References and Responsible AI
 
-### Repository and submission readiness
+- [ ] Important factual claims are supported by reliable sources.
+- [ ] References and external links have been checked.
+- [ ] External content is appropriately attributed.
+- [ ] AI-generated information has been reviewed for accuracy.
+- [ ] Applicable academic-integrity and AI-use requirements have been followed.
+- [ ] Privacy, fairness, and other relevant ethical concerns are addressed.
 
-- [ ] Check that all internal links point to existing files.
-- [ ] Confirm that filenames and folder paths are consistent throughout the repository.
-- [ ] Check spelling, grammar, Markdown formatting, and document readability.
-- [ ] Remove obsolete instructions, unfilled placeholders, and unsupported completion claims.
-- [ ] Ensure that task statuses and audit findings reflect actual checks performed.
-- [ ] Confirm that the repository is organised and easy for a lecturer or other reader to navigate.
-
----
-
-## 7. How to Use This Repository
-
-For the best learning experience:
-
-1. Read [`content/00-module-outline.md`](content/00-module-outline.md) to understand the module structure and learning objectives.
-2. Study Chapters 1–6 in the order listed in the module contents.
-3. Use the study guide to review the main concepts.
-4. Complete the practice questions and check your answers.
-5. Use the presentation materials for an overview of the key topics.
-6. Consult the supporting documents to understand the project's planning, review, and quality-assurance process.
-
----
-
-## 8. References and Responsible Use
-
-The learning materials should use credible and relevant sources to explain AI concepts and applications. References should be checked for accuracy and relevance before submission.
-
-AI-generated content should be reviewed critically. Important claims should be verified using reliable sources, and the limitations of AI systems should be acknowledged.
-
-The project should follow the institution's academic-integrity requirements, including any applicable rules for acknowledging AI assistance and attributing external materials.
-
----
-
-## 9. Final Submission Note
-
-The purpose of this repository is to present a coherent, accessible, and educationally structured introduction to artificial intelligence.
-
-The priority is to ensure that the module outline is complete, that at least one chapter demonstrates a fully developed learning experience, and that all required supporting materials meet the assignment criteria.
-
-**Before submission, compare the final repository with the lecturer's instructions and marking rubric. Do not treat the checklist as proof of completion until each relevant item has been checked.**
+### Repository Quality
