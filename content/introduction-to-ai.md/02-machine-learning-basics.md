@@ -723,8 +723,8 @@ Before considering this chapter complete, confirm that:
 - [x] The practical activity has clear instructions and an answer guide.
 - [x] Knowledge-check questions include answers and explanations.
 - [x] The glossary and summary are complete.
-- [ ] References have been checked to confirm they are accessible and relevant.
+- [x] References have been checked to confirm they are accessible and relevant.
 - [x] The chapter's estimated learning time matches the module outline.
-- [ ] Markdown tables, headings, and links have been checked to ensure they render correctly.
+- [x] Markdown tables, headings, and links have been checked to ensure they render correctly.
 
 **End of Chapter 2**
