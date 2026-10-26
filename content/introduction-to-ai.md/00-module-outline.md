@@ -1,27 +1,36 @@
-# Curious Mind: Introduction to Artificial Intelligence
-## Complete Learning Module Outline
+# Introduction to Artificial Intelligence
+## Complete Module Outline
 
-## 1. Module Information
-
-| Item | Description |
-|---|---|
-| Module Title | Curious Mind: Introduction to Artificial Intelligence |
-| Subject Area | Artificial Intelligence and Digital Literacy |
-| Target Audience | Beginners and students with no previous AI experience |
-| Difficulty Level | Introductory |
-| Prerequisites | Basic computer literacy; no programming experience required |
-| Module Format | Six learning chapters supported by activities, study materials, and assessments |
-| Main Purpose | To develop foundational AI knowledge, practical skills, and responsible AI-use habits |
+**Module title:** Introduction to Artificial Intelligence  
+**Level:** Beginner  
+**Target audience:** Students and general learners with little or no prior knowledge of artificial intelligence  
+**Estimated total learning time:** 4–5 hours  
+**Format:** Self-directed learning with explanations, examples, practical activities, reflection questions, and assessments  
+**Prerequisites:** Basic digital literacy and access to a computer or internet-connected device  
+**Module status:** Content structure defined; individual learning materials should be checked against this outline before submission.
 
 ---
 
-## 2. Module Overview
+## 1. Module Overview
 
-Artificial intelligence (AI) is increasingly used in education, healthcare, business, transportation, entertainment, and everyday digital services. Understanding AI requires more than knowing what AI tools can do. Learners also need to understand basic AI concepts, recognise the limitations of AI-generated information, evaluate practical applications, and use AI responsibly.
+Artificial intelligence (AI) is increasingly used in education, healthcare, business, communication, transportation, and everyday digital tools. Understanding AI helps learners recognise how these systems work, what they can and cannot do, and how to use them responsibly.
 
-The Curious Mind module introduces these topics in a structured learning sequence. It begins with fundamental AI concepts, progresses to machine learning and generative AI, explores real-world applications and ethical considerations, and concludes with practical skills for prompting and evaluating AI systems.
+This module introduces the fundamental concepts of AI, machine learning, generative AI, and large language models. Learners explore real-world applications, examine ethical and social considerations, and practise using AI tools critically and responsibly.
 
-Each chapter is designed to include explanations, examples, learning activities, key takeaways, review questions, and appropriate references. Supporting resources such as the study guide, practice question bank, presentation, and video materials reinforce the learning experience.
+The module combines conceptual explanations with practical examples and activities. It is designed to help learners develop foundational AI literacy rather than advanced programming or mathematical skills.
+
+---
+
+## 2. Target Audience
+
+This module is intended for:
+
+- Students beginning to study artificial intelligence.
+- Learners who want to understand AI tools used in everyday life.
+- Educators and professionals seeking foundational AI knowledge.
+- General audiences interested in the opportunities and limitations of AI.
+
+No previous experience with AI programming or machine learning is required.
 
 ---
 
@@ -29,709 +38,562 @@ Each chapter is designed to include explanations, examples, learning activities,
 
 By the end of this module, learners should be able to:
 
-**LO1 — Explain fundamental AI concepts.**  
-Define artificial intelligence and distinguish AI from machine learning, deep learning, and conventional rule-based automation.
-
-**LO2 — Describe machine learning.**  
-Explain the basic machine learning workflow and distinguish supervised learning, unsupervised learning, and reinforcement learning.
-
-**LO3 — Explain generative AI.**  
-Describe generative AI and large language models at an introductory level, identify common applications, and explain important limitations.
-
-**LO4 — Evaluate AI applications.**  
-Identify AI applications in different industries and assess their potential benefits, limitations, and risks.
-
-**LO5 — Recognise responsible AI principles.**  
-Identify concerns involving accuracy, bias, fairness, privacy, transparency, accountability, and human oversight.
-
-**LO6 — Apply practical AI skills.**  
-Develop clear prompts, evaluate AI-generated responses, verify factual claims, and explain how to use AI appropriately in learning tasks.
+1. **Define artificial intelligence** and identify common examples of AI in everyday life.
+2. **Explain the relationship between AI, machine learning, and deep learning** using appropriate examples.
+3. **Describe fundamental machine learning concepts**, including training data, models, classification, and prediction.
+4. **Explain generative AI and large language models** and identify common uses and limitations.
+5. **Evaluate real-world AI applications** by considering their purpose, benefits, limitations, and potential risks.
+6. **Identify responsible AI concerns**, including bias, privacy, transparency, fairness, and accountability.
+7. **Use AI tools critically and responsibly**, checking outputs and recognising when human judgement is needed.
+8. **Apply foundational AI knowledge** to analyse a practical scenario and explain an appropriate approach to using AI.
 
 ---
 
-## 4. Prerequisite Knowledge and Learning Resources
+## 4. Module Structure at a Glance
 
-### 4.1 Prerequisite Knowledge
+The module contains six chapters. Each chapter introduces a defined set of concepts and connects them to examples, activities, and assessment questions.
 
-Learners should be able to:
-- Use a computer and a web browser.
-- Read and understand basic digital information.
-- Navigate common online platforms.
-- Follow written instructions and complete simple learning activities.
+| Chapter | Title | Main topics | Estimated time |
+|---|---|---|---:|
+| 1 | What Is AI? | AI definitions, AI history, AI capabilities, AI in everyday life | 35–45 minutes |
+| 2 | Machine Learning Basics | Data, models, training, supervised learning, unsupervised learning, evaluation | 40–50 minutes |
+| 3 | Generative AI and Large Language Models | Generative AI, LLMs, prompts, generated outputs, limitations | 40–50 minutes |
+| 4 | AI Applications | Applications across industries, benefits, limitations, case analysis | 35–45 minutes |
+| 5 | Responsible AI | Bias, fairness, privacy, transparency, accountability, safety | 40–50 minutes |
+| 6 | Practical AI Skills | Choosing tools, prompt writing, verifying outputs, responsible use, final activity | 45–60 minutes |
 
-No previous knowledge of artificial intelligence, advanced mathematics, or programming is required.
+**Estimated total:** Approximately 4–5 hours, including chapter activities and review.
 
-### 4.2 Required and Supporting Resources
-
-The module may use the following resources:
-
-- **Chapter materials:** Main explanations, examples, and learning activities.
-- **Study guide:** Key concepts, terminology, and revision notes.
-- **Practice question bank:** Questions and answer explanations for self-assessment.
-- **Presentation slides:** Visual summaries of important concepts.
-- **Video materials:** Short explanations and demonstrations of selected topics.
-- **Practical exercises:** Guided activities that develop prompting and evaluation skills.
-- **Reference materials:** Reliable sources that support technical explanations and responsible-use guidance.
-
-The availability of a resource does not automatically mean that it has been completed, reviewed, or produced. The final submission should accurately distinguish completed resources from planned materials.
+The times are planning estimates. Actual completion time will vary according to learners' experience and the time spent on activities.
 
 ---
 
-# 5. Complete Module Content Structure
+# 5. Detailed Chapter Outlines
 
-## Chapter 1: Introduction to Artificial Intelligence
+## Chapter 1: What Is AI?
 
-**File:** `content/01-what-is-ai.md`
+**File:** [`01-what is ai.md`](01-what%20is%20ai.md)  
+**Estimated time:** 35–45 minutes
 
-### 5.1 Chapter Purpose
+### Chapter purpose
 
-This chapter introduces artificial intelligence and establishes the foundational knowledge needed to understand the remaining chapters.
+Introduce learners to artificial intelligence and establish the foundational vocabulary needed for the rest of the module.
 
-### 5.2 Chapter Learning Objectives
+### Learning objectives
 
 By the end of this chapter, learners should be able to:
 
-1. Define artificial intelligence in their own words.
-2. Identify common examples of AI in everyday life.
-3. Explain the relationship between AI, machine learning, and deep learning.
-4. Distinguish AI-based systems from conventional rule-based automation.
-5. Identify at least two benefits and two limitations of AI.
+- Define artificial intelligence in their own words.
+- Identify examples of AI in everyday life.
+- Distinguish AI from traditional rule-based software at a basic level.
+- Explain the relationship between AI, machine learning, and deep learning.
+- Identify at least one benefit and one limitation of AI.
 
-### 5.3 Content Sections
+### Content topics
 
-**Section 1: Introduction to AI**
-- What artificial intelligence means.
-- Why AI is developed and used.
-- Examples of tasks AI systems can perform.
+1. Introduction to artificial intelligence.
+2. What AI means and what AI systems do.
+3. A brief overview of AI development.
+4. AI in everyday life.
+5. Differences between AI, machine learning, and deep learning.
+6. Common capabilities and limitations of AI.
+7. Benefits and risks of AI.
+8. Introduction to responsible AI.
 
-**Section 2: Everyday Applications of AI**
-- Recommendation systems.
-- Speech recognition.
-- Spam detection.
-- Navigation and traffic prediction.
-- Generative AI tools.
+### Learning activities
 
-**Section 3: AI, Machine Learning, and Deep Learning**
-- AI as the broader field.
-- Machine learning as an approach within AI.
-- Deep learning as a type of machine learning.
-- The relationship between the three concepts.
+**Activity 1: Identify AI**
 
-**Section 4: AI and Conventional Automation**
-- Rule-based systems.
-- Automated tasks and predefined instructions.
-- Differences between fixed rules and systems that learn patterns from data.
-- Examples of systems that combine automation and AI.
+Learners identify five digital tools or services they encounter in everyday life. For each one, they decide whether it uses AI, explain their reasoning, and identify what additional information would help them verify their answer.
 
-**Section 5: Benefits and Limitations**
-- Processing information and recognising patterns.
-- Supporting human tasks.
-- Incorrect outputs and limited context.
-- Bias and the importance of human judgment.
+**Activity 2: Explain AI**
 
-**Section 6: Key Takeaways**
-- Summarise the chapter's main concepts.
-- Reinforce the relationship between AI, ML, and DL.
-- Review why AI outputs should be evaluated.
+Learners write a short explanation of AI for someone with no technical background. Their explanation should include one example and one limitation.
 
-**Section 7: Review and Self-Assessment**
-- Short-answer questions.
-- Classification of everyday examples.
-- A short reflection on AI benefits and limitations.
+### Assessment
 
-### 5.4 Learning Activity
+Learners answer short questions about the definition of AI, examples of AI, and the relationship between AI, machine learning, and deep learning.
 
-Ask learners to identify five digital tools they encounter in everyday life. For each tool, they should decide whether it uses AI, conventional automation, or a combination of approaches, and explain the evidence or uncertainty behind their decision.
+### Evidence of learning
 
-### 5.5 Assessment Evidence
-
-Learners should be able to define AI, correctly explain the relationship between AI, ML, and DL, and provide examples that distinguish AI from conventional automation.
-
-### 5.6 Chapter Reference File
-
-`content/01-what-is-ai.md`
+Learners produce an everyday AI example table and a short explanation of AI.
 
 ---
 
 ## Chapter 2: Machine Learning Basics
 
-**File:** `content/02-machine-learning-basics.md`
+**File:** [`02-machine-learning-basics.md`](02-machine-learning-basics.md)  
+**Estimated time:** 40–50 minutes
 
-### 5.7 Chapter Purpose
+### Chapter purpose
 
-This chapter explains how machine learning systems learn patterns from data and use those patterns to make predictions or support decisions.
+Explain how machine learning systems learn patterns from data and use those patterns to make predictions or support decisions.
 
-### 5.8 Chapter Learning Objectives
+### Learning objectives
 
 By the end of this chapter, learners should be able to:
 
-1. Define machine learning.
-2. Identify the main stages of a machine learning workflow.
-3. Distinguish supervised, unsupervised, and reinforcement learning.
-4. Explain the difference between classification and regression.
-5. Describe overfitting and explain why testing matters.
+- Define machine learning.
+- Explain the roles of data, training, and models.
+- Distinguish supervised learning from unsupervised learning.
+- Recognise classification and regression as different prediction tasks.
+- Explain why a model must be evaluated using suitable data.
+- Identify how biased or poor-quality data can affect model outputs.
 
-### 5.9 Content Sections
+### Content topics
 
-**Section 1: Introduction to Machine Learning**
-- Definition of machine learning.
-- The role of data and algorithms.
-- Models, features, labels, and predictions.
-- Everyday examples of machine learning.
+1. Introduction to machine learning.
+2. How machine learning relates to AI.
+3. Data, features, labels, and models.
+4. Training a machine learning model.
+5. Supervised learning.
+6. Unsupervised learning.
+7. Classification and regression.
+8. Training, validation, and test data.
+9. Model evaluation and prediction errors.
+10. Overfitting and generalisation.
+11. Data quality, bias, and limitations.
 
-**Section 2: The Machine Learning Workflow**
-- Collecting data.
-- Preparing and checking data.
-- Training a model.
-- Evaluating model performance.
-- Making predictions.
-- Deploying and monitoring a model.
+### Learning activities
 
-**Section 3: Types of Machine Learning**
-- Supervised learning and labelled examples.
-- Unsupervised learning and pattern discovery.
-- Reinforcement learning and feedback.
-- Comparison of the three approaches.
+**Activity 1: Classify the task**
 
-**Section 4: Classification and Regression**
-- Classification as prediction of categories.
-- Regression as prediction of numerical values.
-- Practical examples of each task.
+Learners examine examples such as spam detection, house-price prediction, and grouping customers by purchasing patterns. They identify the likely machine learning task and explain their reasoning.
 
-**Section 5: Model Evaluation and Overfitting**
-- Training data and unseen data.
-- Why models must be tested.
-- Understanding overfitting.
-- The importance of data quality and generalisation.
+**Activity 2: Explore data quality**
 
-**Section 6: Key Takeaways**
-- Summarise the workflow.
-- Compare learning approaches.
-- Review classification, regression, and overfitting.
+Learners consider a hypothetical model trained on incomplete or unrepresentative data. They explain how the problem might affect predictions and suggest one improvement.
 
-**Section 7: Review and Self-Assessment**
-- Identify learning types from examples.
-- Arrange machine learning steps in the correct order.
-- Explain why a model may perform poorly on new data.
+### Assessment
 
-### 5.10 Learning Activity
+Learners answer questions about machine learning terminology, learning types, model evaluation, and data quality.
 
-Give learners a simple spam-detection scenario. Ask them to identify the data, labels, training process, prediction, and possible errors. Learners should then explain why the system needs testing before being relied upon.
+### Evidence of learning
 
-### 5.11 Assessment Evidence
-
-Learners should correctly describe the basic workflow, distinguish the three learning approaches, and explain the difference between classification and regression.
-
-### 5.12 Chapter Reference File
-
-`content/02-machine-learning-basics.md`
+Learners complete a task-classification table and explain one way that poor-quality data can affect an AI system.
 
 ---
 
 ## Chapter 3: Generative AI and Large Language Models
 
-**File:** `content/03-generative-ai-and-llms.md`
+**File:** [`03-generative-ai-llms.md`](03-generative-ai-llms.md)  
+**Estimated time:** 40–50 minutes
 
-### 5.13 Chapter Purpose
+### Chapter purpose
 
-This chapter introduces generative AI, explains large language models at a beginner level, and develops awareness of prompting and generated-content limitations.
+Introduce generative AI and large language models, explaining their capabilities, common uses, and limitations.
 
-### 5.14 Chapter Learning Objectives
-
-By the end of this chapter, learners should be able to:
-
-1. Define generative AI.
-2. Explain the basic purpose of a large language model.
-3. Identify different types of AI-generated content.
-4. Construct a prompt with a clear task and relevant context.
-5. Explain why generated information may be inaccurate or unsupported.
-6. Identify methods for checking AI-generated answers.
-
-### 5.15 Content Sections
-
-**Section 1: Introduction to Generative AI**
-- Definition and purpose.
-- Differences between generating content and making predictions.
-- Examples involving text, images, audio, video, and code.
-
-**Section 2: Large Language Models**
-- What an LLM is.
-- Tokens and language generation at an introductory level.
-- How a model generates a response based on patterns learned during training.
-- Why fluent language does not guarantee factual accuracy.
-
-**Section 3: Common Applications**
-- Drafting and editing.
-- Summarising.
-- Translation and rephrasing.
-- Brainstorming.
-- Learning support.
-- Coding assistance.
-
-**Section 4: Prompting Fundamentals**
-- The task or instruction.
-- Context and relevant information.
-- Intended audience.
-- Desired format.
-- Constraints and requirements.
-- Improving vague prompts.
-
-**Section 5: Limitations of Generative AI**
-- Hallucinations and unsupported claims.
-- Outdated or incomplete information.
-- Bias and misleading outputs.
-- Privacy and confidentiality concerns.
-- Limitations of generated references.
-
-**Section 6: Verifying AI-Generated Information**
-- Identify important factual claims.
-- Check reliable and independent sources.
-- Open and read cited sources.
-- Confirm names, dates, figures, and context.
-- Follow institutional rules on AI assistance.
-
-**Section 7: Key Takeaways and Review**
-- Summarise generative AI and LLMs.
-- Review prompt construction.
-- Explain why generated answers must be evaluated.
-
-### 5.16 Learning Activity
-
-Ask learners to write two prompts for the same task: one vague prompt and one improved prompt containing context, audience, format, and constraints. Compare the outputs and identify any claims that require verification.
-
-### 5.17 Assessment Evidence
-
-Learners should explain generative AI and LLMs at an introductory level, improve a prompt, and identify suitable ways to verify generated information.
-
-### 5.18 Chapter Reference File
-
-`content/03-generative-ai-and-llms.md`
-
----
-
-## Chapter 4: Real-World Applications of AI
-
-**File:** `content/04-ai-applications.md`
-
-### 5.19 Chapter Purpose
-
-This chapter explores AI applications in different industries and encourages learners to consider the benefits, limitations, and risks of each application.
-
-### 5.20 Chapter Learning Objectives
+### Learning objectives
 
 By the end of this chapter, learners should be able to:
 
-1. Identify AI applications in at least four areas.
-2. Explain the intended purpose of a selected AI application.
-3. Describe potential benefits and limitations.
-4. Identify risks that may arise in a specific application.
-5. Explain why human oversight and evaluation may be necessary.
+- Define generative AI.
+- Explain what a large language model does at a basic level.
+- Identify common applications of generative AI.
+- Describe how prompts influence generated outputs.
+- Recognise that generated information may be incorrect, incomplete, or misleading.
+- Identify appropriate ways to verify AI-generated content.
 
-### 5.21 Content Sections
+### Content topics
 
-**Section 1: Introduction to AI Applications**
-- Why organisations use AI.
-- Prediction, classification, pattern recognition, and content generation.
-- Choosing an appropriate tool for a particular problem.
+1. What generative AI is.
+2. How generative AI differs from other AI applications.
+3. Introduction to large language models.
+4. How text generation works at a conceptual level.
+5. Prompts and context.
+6. Common applications of generative AI.
+7. Strengths and limitations of generated content.
+8. Hallucinations and factual reliability.
+9. Privacy, copyright, and responsible use.
+10. Human review and verification.
 
-**Section 2: AI in Education**
-- Learning support and practice.
-- Feedback and explanation.
-- Accuracy, privacy, and academic integrity.
+### Learning activities
 
-**Section 3: AI in Healthcare**
-- Support for analysing medical information.
-- Research and administrative applications.
-- Reliability, privacy, bias, and professional oversight.
+**Activity 1: Improve a prompt**
 
-**Section 4: AI in Business and Finance**
-- Customer service.
-- Demand forecasting.
-- Fraud detection.
-- Recommendations and risk analysis.
-- Fairness and reliability concerns.
+Learners start with a vague request and rewrite it to specify the task, context, intended audience, and desired format. They explain why the revised prompt may produce a more useful result.
 
-**Section 5: AI in Transportation**
-- Traffic prediction.
-- Route planning.
-- Driver-assistance applications.
-- Safety and changing environmental conditions.
+**Activity 2: Verify an AI-generated answer**
 
-**Section 6: AI in Entertainment and Digital Services**
-- Content recommendations.
-- Personalisation.
-- Generative media.
-- Privacy, misleading synthetic media, and attribution.
+Learners examine a sample AI-generated explanation, identify claims that require verification, and describe how they would check those claims against reliable sources.
 
-**Section 7: Evaluating AI Applications**
-- The problem the system addresses.
-- The data and evidence used.
-- Potential benefits.
-- Possible failures and unintended effects.
-- People affected by the system.
-- Responsibility and oversight.
+### Assessment
 
-**Section 8: Key Takeaways and Review**
-- Compare applications.
-- Explain the importance of context.
-- Review benefits and risks.
+Learners answer questions about generative AI, language models, prompting, hallucinations, and verification.
 
-### 5.22 Learning Activity
+### Evidence of learning
 
-Select one AI application and complete a short evaluation:
-
-- What problem does it address?
-- Who uses it?
-- What are its potential benefits?
-- What could go wrong?
-- What data or evidence would help evaluate it?
-- Who should review important results?
-
-### 5.23 Assessment Evidence
-
-Learners should explain at least two applications of AI and evaluate their potential benefits, limitations, and risks.
-
-### 5.24 Chapter Reference File
-
-`content/04-ai-applications.md`
+Learners submit an improved prompt and a short verification plan.
 
 ---
 
-## Chapter 5: Responsible AI, Ethics, and Privacy
+## Chapter 4: AI Applications
 
-**File:** `content/05-responsible-ai.md`
+**File:** [`04 -ai-applications.md`](04%20-ai-applications.md)  
+**Estimated time:** 35–45 minutes
 
-### 5.25 Chapter Purpose
+### Chapter purpose
 
-This chapter introduces responsible AI practices and helps learners recognise ethical, privacy, and reliability concerns.
+Explore how AI is used in different industries and help learners evaluate its practical benefits and limitations.
 
-### 5.26 Chapter Learning Objectives
+### Learning objectives
 
 By the end of this chapter, learners should be able to:
 
-1. Explain what responsible AI means.
-2. Identify accuracy and reliability concerns.
-3. Explain how bias can contribute to unfair outcomes.
-4. Identify privacy and data-protection risks.
-5. Explain the importance of transparency, accountability, and human oversight.
-6. Recommend responsible actions for common AI-use scenarios.
+- Identify AI applications in at least four sectors.
+- Explain the problem an AI application is intended to address.
+- Describe potential benefits and limitations of an AI application.
+- Identify stakeholders who may be affected by an AI-supported decision.
+- Evaluate whether AI is appropriate for a particular task.
 
-### 5.27 Content Sections
+### Content topics
 
-**Section 1: Introduction to Responsible AI**
-- Definition and purpose.
-- Why responsible use matters.
-- Benefits and potential harms.
+1. Overview of AI applications.
+2. AI in healthcare.
+3. AI in education.
+4. AI in business and customer service.
+5. AI in transportation.
+6. AI in science and environmental monitoring.
+7. Benefits such as efficiency, pattern recognition, and accessibility.
+8. Limitations such as errors, cost, data requirements, and unequal outcomes.
+9. Human oversight in high-impact situations.
+10. Evaluating an AI use case.
 
-**Section 2: Accuracy and Reliability**
-- Incorrect and unsupported outputs.
-- Verification of important information.
-- Limits of automated recommendations.
+### Learning activities
 
-**Section 3: Bias and Fairness**
-- How data and design choices can introduce bias.
-- Unequal performance across groups.
-- The importance of evaluating different impacts.
-- Practical ways to question potentially unfair results.
+**Activity 1: Compare AI applications**
 
-**Section 4: Privacy and Data Protection**
-- Personal and confidential information.
-- Risks of sharing sensitive data.
-- Data minimisation.
-- Following approved-tool and institutional policies.
+Learners select two AI applications from different sectors. They compare the problem each application addresses, its potential benefits, its limitations, and the people affected by it.
 
-**Section 5: Transparency and Accountability**
-- Communicating AI involvement where appropriate.
-- Understanding the limits of a system.
-- Identifying who is responsible for decisions.
-- Keeping records and explaining important decisions when necessary.
+**Activity 2: AI or another solution?**
 
-**Section 6: Human Oversight**
-- Reviewing AI recommendations.
-- Recognising high-impact situations.
-- Escalating uncertain or consequential decisions to qualified people.
-- Avoiding unquestioned reliance on automated outputs.
+Learners examine a practical problem and decide whether AI is appropriate, whether a simpler solution may be sufficient, or whether further evidence is needed.
 
-**Section 7: Academic Integrity and Responsible Use**
-- Following course rules on AI assistance.
-- Verifying claims and references.
-- Acknowledging AI use when required.
-- Avoiding plagiarism and misrepresentation.
-- Using AI to support, rather than replace, independent learning.
+### Assessment
 
-**Section 8: Key Takeaways and Review**
-- Summarise the main responsible-use principles.
-- Apply the principles to realistic scenarios.
+Learners answer application-based questions and evaluate a short AI case study.
 
-### 5.28 Learning Activity
+### Evidence of learning
 
-Present learners with a scenario in which an AI tool produces a confident but incorrect answer and requests unnecessary personal information. Ask learners to identify the risks and recommend practical steps to address them.
-
-### 5.29 Assessment Evidence
-
-Learners should identify responsible AI concerns in a scenario and recommend appropriate actions involving verification, privacy, fairness, and human oversight.
-
-### 5.30 Chapter Reference File
-
-`content/05-responsible-ai.md`
+Learners produce a comparison table and a brief recommendation supported by reasons.
 
 ---
 
-## Chapter 6: Practical AI Skills and Critical Evaluation
+## Chapter 5: Responsible AI
 
-**File:** `content/06-practical-ai-skills.md`
+**File:** [`05-responsible-ai.md`](05-responsible-ai.md)  
+**Estimated time:** 40–50 minutes
 
-### 5.31 Chapter Purpose
+### Chapter purpose
 
-This chapter brings together the module's concepts by guiding learners through prompt writing, output evaluation, fact-checking, and reflection.
+Help learners recognise the ethical, social, and practical responsibilities associated with designing and using AI systems.
 
-### 5.32 Chapter Learning Objectives
+### Learning objectives
 
 By the end of this chapter, learners should be able to:
 
-1. Write a prompt that specifies a task, context, audience, format, and constraints.
-2. Improve a prompt after reviewing an initial response.
-3. Evaluate AI-generated content for relevance, accuracy, clarity, and completeness.
-4. Verify factual claims using reliable sources.
-5. Identify privacy and academic-integrity considerations.
-6. Reflect on the benefits and limitations of using AI for a learning task.
+- Explain why responsible AI matters.
+- Identify possible sources and consequences of bias.
+- Describe privacy and data-protection concerns.
+- Explain transparency and accountability at a basic level.
+- Identify situations that require human oversight.
+- Recommend practical steps to reduce risks when using AI.
 
-### 5.33 Content Sections
+### Content topics
 
-**Section 1: Planning an AI-Assisted Task**
-- Define the task and intended outcome.
-- Determine whether AI is appropriate.
-- Identify relevant constraints and course rules.
+1. Introduction to responsible AI.
+2. Fairness and algorithmic bias.
+3. Privacy and personal information.
+4. Transparency and explainability.
+5. Accountability and human oversight.
+6. Safety, reliability, and misuse.
+7. Accessibility and inclusion.
+8. Ethical use of generative AI.
+9. Responsible AI in education and the workplace.
+10. A practical framework for identifying risks.
 
-**Section 2: Writing Effective Prompts**
-- State the task clearly.
-- Provide relevant context.
-- Specify the audience.
-- Request an appropriate output format.
-- Include constraints and quality criteria.
+### Learning activities
 
-**Section 3: Iterative Prompt Improvement**
-- Review the first response.
-- Identify missing or unclear information.
-- Add relevant context.
-- Refine the instructions.
-- Compare the revised response with the original.
+**Activity 1: Identify an AI fairness issue**
 
-**Section 4: Evaluating AI Outputs**
-- Accuracy.
-- Relevance.
-- Clarity.
-- Completeness.
-- Bias and suitability.
-- Currency and source quality.
+Learners analyse a hypothetical AI system that produces different outcomes for different groups. They identify possible causes, affected stakeholders, and questions that should be investigated before the system is used.
 
-**Section 5: Fact-Checking and Source Verification**
-- Identify claims that need evidence.
-- Find reliable sources.
-- Check original sources rather than relying only on summaries.
-- Verify figures, dates, names, and context.
-- Remove or correct unsupported claims.
+**Activity 2: Make a responsible-use decision**
 
-**Section 6: Responsible Practical Use**
-- Protect personal and confidential information.
-- Follow institutional AI policies.
-- Acknowledge AI assistance when required.
-- Retain responsibility for submitted work.
+Learners consider a scenario involving personal information or an AI-generated answer. They identify the risks and propose a responsible course of action.
 
-**Section 7: Integrated Practical Exercise**
-- Select a small, appropriate learning task.
-- Draft a prompt.
-- Review the AI output.
-- Verify at least one factual claim.
-- Improve the response.
-- Document the changes and reflect on the outcome.
+### Assessment
 
-**Section 8: Key Takeaways and Review**
-- Summarise the practical workflow.
-- Review prompt-writing and verification techniques.
-- Reflect on responsible AI use.
+Learners answer scenario-based questions about fairness, privacy, transparency, and accountability.
 
-### 5.34 Learning Activity
+### Evidence of learning
 
-Learners complete a small AI-assisted task using non-sensitive information. They submit the original prompt, the revised prompt, a short evaluation of the output, evidence supporting one verified claim, and a reflection on what they changed and why.
-
-### 5.35 Assessment Evidence
-
-Learners should demonstrate a clear prompt, a reasoned evaluation of an AI response, evidence of fact-checking, and a reflection on responsible use.
-
-### 5.36 Chapter Reference File
-
-`content/06-practical-ai-skills.md`
+Learners complete a risk-analysis table and recommend at least two risk-reduction measures.
 
 ---
 
-# 6. Learning Sequence
+## Chapter 6: Practical AI Skills
 
-The six chapters should be completed in the following order:
+**File:** [`06-practical-skills-ai.md`](06-practical-skills-ai.md)  
+**Estimated time:** 45–60 minutes
 
-| Order | Chapter | Main Learning Focus | Builds On |
-|---|---|---|---|
-| 1 | Introduction to Artificial Intelligence | Foundational concepts and terminology | Prerequisite knowledge |
-| 2 | Machine Learning Basics | Data, models, training, and predictions | Chapter 1 |
-| 3 | Generative AI and Large Language Models | Content generation, prompting, and limitations | Chapters 1–2 |
-| 4 | Real-World Applications of AI | Practical uses, benefits, and risks | Chapters 1–3 |
-| 5 | Responsible AI, Ethics, and Privacy | Responsible decision-making and risk awareness | Chapters 1–4 |
-| 6 | Practical AI Skills and Critical Evaluation | Prompting, verification, and integrated practice | Chapters 1–5 |
+### Chapter purpose
 
-This sequence moves from foundational knowledge to practical application. Each chapter should use terminology and examples consistent with the earlier chapters.
+Help learners apply their knowledge by choosing appropriate AI tools, writing effective prompts, checking outputs, and using AI responsibly.
+
+### Learning objectives
+
+By the end of this chapter, learners should be able to:
+
+- Identify a task for which an AI tool may be useful.
+- Choose a suitable tool based on the task and its risks.
+- Write a clear prompt with relevant context and constraints.
+- Evaluate AI-generated output for accuracy, relevance, and quality.
+- Protect sensitive information when using AI tools.
+- Explain when human judgement or expert advice is needed.
+
+### Content topics
+
+1. Choosing an appropriate AI tool.
+2. Defining a task before using AI.
+3. Writing clear prompts.
+4. Providing useful context and constraints.
+5. Reviewing and improving outputs.
+6. Fact-checking AI-generated information.
+7. Privacy and information security.
+8. Acknowledging AI assistance where required.
+9. Recognising situations where AI should not be relied upon.
+10. Applying a responsible AI workflow.
+
+### Learning activities
+
+**Activity 1: Complete an AI-assisted task**
+
+Learners choose a low-risk task, such as generating study questions, organising non-sensitive notes, or drafting a simple outline. They write a prompt, review the output, identify weaknesses, and make improvements.
+
+Learners must not enter passwords, confidential information, or unnecessary personal data into an AI tool.
+
+**Activity 2: Evaluate the result**
+
+Learners assess their output for accuracy, relevance, clarity, bias, and suitability. They explain what they accepted, changed, or rejected and why.
+
+### Assessment
+
+Learners complete a practical task and submit the prompt, a short description of the output, their verification process, and a reflection on responsible use.
+
+### Evidence of learning
+
+Learners submit a completed practical task with an explanation of their decisions and checks.
+
+---
+
+# 6. Teaching and Learning Approach
+
+The module uses a learner-centred approach that combines explanations, examples, guided practice, and reflection.
+
+### Teaching methods
+
+- **Explanations:** Introduce concepts using accessible language.
+- **Examples:** Connect abstract ideas to familiar situations.
+- **Guided activities:** Allow learners to apply concepts step by step.
+- **Reflection:** Encourage learners to examine limitations, risks, and assumptions.
+- **Knowledge checks:** Help learners identify areas requiring further study.
+- **Practical application:** Give learners opportunities to demonstrate what they have learned.
+
+### Learning-material design principles
+
+Each chapter should follow a consistent structure:
+
+1. Chapter title and estimated time.
+2. Short introduction explaining why the topic matters.
+3. Measurable learning objectives.
+4. Main content divided into clearly labelled sections.
+5. Examples illustrating important concepts.
+6. At least one learning activity with clear instructions.
+7. Knowledge-check questions.
+8. Answers or marking guidance.
+9. Chapter summary.
+10. Key terms or glossary where appropriate.
+11. References or further reading.
+
+This structure makes the learning materials easier to navigate and helps learners understand what they should learn, practise, and demonstrate.
 
 ---
 
 # 7. Assessment Strategy
 
-The module uses formative assessment and an integrated practical activity to check learners' understanding.
+Assessment is designed to check conceptual understanding, practical application, and responsible judgement.
 
-## 7.1 Formative Assessment
+## 7.1 Formative assessment
 
-Formative activities are completed during learning and help learners identify gaps in their understanding.
+Formative assessment takes place throughout the module and helps learners check their progress.
 
 Examples include:
-- Chapter review questions.
-- Short-answer explanations.
-- Classification exercises.
-- Prompt-improvement tasks.
-- Scenario-based discussions.
-- Source-verification activities.
 
-## 7.2 Integrated Practical Assessment
+- Short-answer questions.
+- Multiple-choice questions.
+- Matching key terms with definitions.
+- Scenario-based questions.
+- Practical activities.
+- Reflection prompts.
 
-At the end of the module, learners complete a small AI-assisted learning task.
+These activities should include answers, feedback, or marking guidance so learners can identify and correct misunderstandings.
 
-The task should demonstrate the ability to:
-1. Define an appropriate task.
-2. Write a clear prompt.
-3. Review and improve an AI response.
-4. Verify at least one factual claim.
-5. Identify relevant limitations or risks.
-6. Reflect on responsible use.
+## 7.2 Summative assessment
 
-The task should use non-sensitive information and follow the relevant course policies.
+The final assessment should evaluate whether learners can apply the main learning outcomes across the module.
 
-## 7.3 Assessment Alignment
+### Suggested final assessment
 
-| Learning Outcome | Assessment Evidence |
-|---|---|
-| LO1: Explain fundamental AI concepts | Chapter 1 review questions and classification activity |
-| LO2: Describe machine learning | Chapter 2 review questions and workflow exercise |
-| LO3: Explain generative AI | Chapter 3 prompt comparison and output evaluation |
-| LO4: Evaluate AI applications | Chapter 4 application analysis |
-| LO5: Recognise responsible AI principles | Chapter 5 scenario analysis |
-| LO6: Apply practical AI skills | Chapter 6 integrated practical activity |
+**Task: Evaluate an AI application**
 
-The assessment methods above are a proposed design. Any official assessment format, question count, marks, or weighting specified by the instructor takes precedence.
+Choose an AI application used in everyday life, education, business, healthcare, or another relevant area.
+
+Prepare a short report that:
+
+1. Describes the application and the problem it addresses.
+2. Explains how AI contributes to the application at a beginner level.
+3. Identifies at least two potential benefits.
+4. Identifies at least two limitations or risks.
+5. Discusses relevant privacy, fairness, reliability, or accountability concerns.
+6. Recommends practical measures for responsible use.
+7. Supports factual claims with credible sources.
+
+### Suggested marking rubric
+
+| Criterion | Weight |
+|---|---:|
+| Understanding of AI concepts | 20% |
+| Explanation of the application | 20% |
+| Analysis of benefits and limitations | 20% |
+| Responsible AI considerations | 25% |
+| Evidence, clarity, and organisation | 15% |
+| **Total** | **100%** |
+
+The assessment should reward accurate explanations and reasoned analysis rather than unsupported claims.
 
 ---
 
-# 8. Supporting Learning Materials
+# 8. Learning Resources and Supporting Materials
 
-| Resource | File Path | Purpose |
+The following files support the module and should remain consistent with its learning outcomes and chapter structure.
+
+| Resource | File path | Purpose |
 |---|---|---|
-| Module outline | `content/00-module-outline.md` | Defines the complete learning structure |
-| Chapter 1 | `content/01-what-is-ai.md` | Introduces AI concepts |
-| Chapter 2 | `content/02-machine-learning-basics.md` | Explains machine learning |
-| Chapter 3 | `content/03-generative-ai-and-llms.md` | Explains generative AI and LLMs |
-| Chapter 4 | `content/04-ai-applications.md` | Examines practical applications |
-| Chapter 5 | `content/05-responsible-ai.md` | Covers ethics and responsible use |
-| Chapter 6 | `content/06-practical-ai-skills.md` | Develops practical AI skills |
-| Study guide | `study-guide/study-guide.md` | Supports revision |
-| Practice question bank | `test-bank/practice-questions.md` | Supports self-assessment |
-| Presentation outline | `slides/presentation-outline.md` | Organises the presentation |
-| Video plan | `videos/video-plan.md` | Describes the planned video |
-| Video storyboard | `videos/video-storyboard.md` | Maps scenes, narration, and visuals |
-| Mini-lecture script | `mini-lecture/mini-lecture-script.md` | Supports a structured spoken lesson |
-| Asset inventory | `assets/README.md` | Tracks visual assets and attribution |
-| Task tracker | `tasks.md` | Records outstanding work and verification |
+| Chapter 1 | `content/introduction-to-ai.md/01-what is ai.md` | Introduces foundational AI concepts. |
+| Chapter 2 | `content/introduction-to-ai.md/02-machine-learning-basics.md` | Explains machine learning fundamentals. |
+| Chapter 3 | `content/introduction-to-ai.md/03-generative-ai-llms.md` | Introduces generative AI and language models. |
+| Chapter 4 | `content/introduction-to-ai.md/04 -ai-applications.md` | Examines AI applications across sectors. |
+| Chapter 5 | `content/introduction-to-ai.md/05-responsible-ai.md` | Explores responsible AI principles and risks. |
+| Chapter 6 | `content/introduction-to-ai.md/06-practical-skills-ai.md` | Develops practical and critical AI skills. |
+| Study guide | `study guide/study-guide.md` | Supports revision and independent learning. |
+| Practice questions | `test-bank/practice-questions.md` | Provides opportunities to check understanding. |
+| Presentation outline | `slides/presentation-outline.md` | Supports the delivery of key module concepts. |
+| Mini-lecture script | `Mini lecture/mini-lecture-script.md` | Provides a structured short teaching session. |
+| Video plan | `videos/video-plan.md` | Outlines proposed educational video content. |
+| Video storyboard | `videos/video-storyboard.md` | Organises video scenes and narration. |
 
-These paths should be checked against the actual repository before final submission. A planned resource should not be described as completed unless the finished resource exists and has been reviewed.
+Supporting materials should be checked before submission to confirm that the files exist, their content is complete, and their links work.
 
 ---
 
-# 9. Quality Assurance and Review
+# 9. Accessibility and Inclusion
 
-Before the module is submitted, the team should check the following.
+The learning materials should be accessible to learners with different levels of prior knowledge and different learning needs.
 
-## 9.1 Content Completeness
+The following practices should be applied where relevant:
 
-- [ ] All six chapters are present.
-- [ ] Each chapter has a clear introduction and learning objectives.
-- [ ] Each chapter contains structured explanations and examples.
-- [ ] Each chapter includes appropriate learning activities.
-- [ ] Each chapter contains key takeaways and review questions.
-- [ ] Relevant references are included and verified.
-- [ ] At least one chapter is fully developed, not merely outlined.
-
-## 9.2 Learning Alignment
-
-- [ ] The overall learning outcomes are measurable.
-- [ ] The chapter objectives support the overall learning outcomes.
-- [ ] The chapter sequence progresses logically.
-- [ ] Activities allow learners to practise the concepts.
-- [ ] Assessment questions measure the intended learning outcomes.
-- [ ] Terminology is consistent across the learning materials.
-
-## 9.3 Accuracy and Responsible Use
-
-- [ ] Technical explanations have been checked against reliable sources.
-- [ ] Examples do not exaggerate AI capabilities.
-- [ ] Claims about AI risks and benefits are appropriately qualified.
-- [ ] Privacy and academic-integrity considerations are addressed.
-- [ ] External text, images, and other assets are appropriately attributed.
-- [ ] Internal links and file paths have been checked.
-
-## 9.4 Final Submission
-
-- [ ] The README describes the project accurately.
-- [ ] Planned and completed deliverables are clearly distinguished.
-- [ ] Required team and course details are correct.
-- [ ] The instructor's assignment brief and rubric have been checked.
-- [ ] All outstanding issues have been resolved or disclosed.
+- Use clear language and explain technical terms.
+- Define acronyms when they first appear.
+- Use descriptive headings and a logical document structure.
+- Avoid relying on colour alone to communicate information.
+- Provide text alternatives for meaningful images.
+- Include captions or transcripts for video and audio materials where possible.
+- Give practical activities clear, sequential instructions.
+- Use examples that do not rely on stereotypes.
+- Consider how AI systems may affect different groups of people.
+- Provide feedback or answer guidance for self-assessment activities.
 
 ---
 
-# 10. References and Citation Guidelines
+# 10. Responsible Use of AI in Learning
 
-Each chapter should provide references that support its technical explanations, examples, and recommendations.
+AI tools may support learning, but learners should remain responsible for evaluating and using their outputs.
 
-When using a source:
-- Identify the author or organisation.
-- Include the title of the source.
-- Include a publication date where available.
-- Provide a working URL or other required citation information.
-- Check that the source directly supports the claim being made.
-- Follow the citation style specified by the instructor.
-- Distinguish factual claims from examples and personal reflections.
+Learners should:
 
-A reference list alone does not demonstrate that every claim is supported. Add in-text citations where required and verify sources before submission.
+1. Follow the academic-integrity rules of their institution or course.
+2. Verify important factual claims using reliable sources.
+3. Avoid sharing confidential or unnecessary personal information.
+4. Identify potential errors, bias, or missing context.
+5. Acknowledge AI assistance when required.
+6. Avoid presenting generated material as verified fact without checking it.
+7. Use human judgement when evaluating important decisions.
+
+AI should be treated as a tool that can assist learning, not as a replacement for critical thinking or independent judgement.
 
 ---
 
-# 11. Module Completion Status
+# 11. Quality Assurance Checklist
 
-The module outline defines the intended content structure. It does not, by itself, confirm that every chapter or supporting resource is complete.
+Before the module is submitted, check the following.
 
-Use the following status labels consistently:
+## Module structure
 
-- **Planned:** The content has been identified but not yet drafted.
-- **Drafted:** A draft exists but has not completed review.
-- **Under Review:** The content is being checked for accuracy, clarity, alignment, and completeness.
-- **Reviewed:** The content has been checked and necessary corrections have been made.
-- **Complete:** The content and any required supporting materials have been finished and checked against the assignment requirements.
+- [ ] All six chapters are present in the repository.
+- [ ] Each chapter has a clear title and purpose.
+- [ ] Chapter objectives align with the overall learning outcomes.
+- [ ] The estimated learning times are reasonable.
+- [ ] Supporting resources correspond to the chapter content.
 
-Update the status of each chapter and resource according to actual evidence.
+## Chapter completeness
 
-| Deliverable | File | Status |
-|---|---|---|
-| Complete module outline | `content/00-module-outline.md` | Structure defined; verify against the instructor's rubric |
-| Chapter 1 | `content/01-what-is-ai.md` | Requires content and completeness review |
-| Chapter 2 | `content/02-machine-learning-basics.md` | Requires content and completeness review |
-| Chapter 3 | `content/03-generative-ai-and-llms.md` | Requires content and completeness review |
-| Chapter 4 | `content/04-ai-applications.md` | Requires content and completeness review |
-| Chapter 5 | `content/05-responsible-ai.md` | Requires content and completeness review |
-| Chapter 6 | `content/06-practical-ai-skills.md` | Requires content and completeness review |
+- [ ] Each chapter has an introduction and learning objectives.
+- [ ] Main concepts are explained accurately.
+- [ ] Examples are relevant to the topic.
+- [ ] Activities include clear instructions.
+- [ ] Assessment questions align with the learning objectives.
+- [ ] Answers or marking guidance are provided where appropriate.
+- [ ] Summaries and key terms are included where useful.
+- [ ] References are included for factual claims that require support.
 
-**Final note:** Before submission, confirm that this module structure matches the instructor's official requirements and that at least one chapter has been completed in full.
+## Technical quality
+
+- [ ] All internal links point to the correct files.
+- [ ] Filenames match the actual repository.
+- [ ] No unintended placeholders remain.
+- [ ] Markdown formatting renders correctly.
+- [ ] No nonexistent deliverables are described as completed.
+
+## Final review
+
+- [ ] At least one chapter is fully developed as a model of the learning-material design approach.
+- [ ] The module outline clearly describes the complete course.
+- [ ] Supporting materials are consistent with the module outline.
+- [ ] Outstanding work is documented honestly.
+- [ ] The audit report reflects checks that have actually been performed.
+
+---
+
+# 12. Completion Criteria
+
+The module can be considered ready for final review when:
+
+1. The complete course structure is documented.
+2. All six chapter files are present and correspond to this outline.
+3. At least one chapter is fully developed and demonstrates the intended learning-material design.
+4. Chapter activities and assessments are usable and aligned with learning objectives.
+5. Supporting learning resources are complete enough for their intended purpose.
+6. Internal links and Markdown formatting have been checked.
+7. References and factual claims have been reviewed.
+8. Remaining limitations or incomplete items are clearly documented.
+
+These criteria describe the required standard; they do not automatically confirm that every item has already been completed.
+
+---
+
+## 13. Conclusion
+
+This module provides a structured introduction to artificial intelligence, progressing from foundational concepts to machine learning, generative AI, practical applications, responsible use, and hands-on skills.
+
+The sequence is designed to help learners build understanding progressively, practise applying concepts, and evaluate AI critically. The detailed chapter outlines, learning objectives, activities, assessment strategy, and quality-assurance criteria provide a consistent framework for developing the accompanying educational materials.
