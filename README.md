@@ -62,8 +62,7 @@ The module is planned around six chapters, preceded by a complete module outline
 
 The study guide is intended to support revision and reinforce important concepts.
 
-[Open the study guide outline](study%20guide/study-guide-outline.md)
-
+[Open the study guide](study%20guide/study-guide.md)
 ### Practice Questions
 
 The practice questions provide opportunities for learners to check their understanding of AI concepts.
