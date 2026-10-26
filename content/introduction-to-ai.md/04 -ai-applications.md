@@ -1,566 +1,508 @@
+# Chapter 4: AI Applications in Everyday Life
 
-# Chapter 4: Applications of Artificial Intelligence
+## 4.1 Chapter Overview
 
-## Chapter Overview
+Artificial Intelligence (AI) is used in many areas of everyday life, including healthcare, education, transportation, business, entertainment, and communication. AI systems can help people analyse information, recognise patterns, make predictions, and complete tasks more efficiently.
 
-Artificial intelligence (AI) is used in many areas of everyday life, education, healthcare, business, transportation, agriculture, and environmental monitoring. AI systems can help people recognize patterns, make predictions, process language, generate content, and support decisions.
+However, AI does not always produce correct or fair results. Understanding how AI is used, what it can do, and where its limitations lie helps people use it responsibly.
 
-However, AI does not automatically produce correct, fair, or useful results. Its effectiveness depends on the quality of data, the design of the system, the task being performed, and the way people use and evaluate its outputs.
+This chapter introduces common AI applications, explains how they work at a basic level, and explores their benefits and challenges.
 
-This chapter explores common applications of AI, explains their benefits and limitations, and develops skills for evaluating whether an AI application is appropriate for a particular problem.
+**Estimated learning time:** 40–50 minutes
 
-## Learning Objectives
+## 4.2 Learning Objectives
 
-By the end of this chapter, learners should be able to:
+By the end of this chapter, learners will be able to:
 
-1. Identify common applications of AI in different sectors.
-2. Explain how AI supports specific tasks in real-world situations.
-3. Distinguish between AI-assisted decisions and decisions made by people.
-4. Evaluate the benefits, limitations, and risks of an AI application.
-5. Identify privacy, fairness, safety, and accountability concerns.
-6. Recommend responsible practices for using AI in a selected context.
+1. Identify common applications of AI in everyday life.
+2. Explain how AI is used in healthcare, education, transportation, business, and entertainment.
+3. Describe the benefits of using AI in different industries.
+4. Identify risks and limitations associated with AI applications.
+5. Explain why human oversight is important when using AI.
+6. Evaluate a real-world AI application using appropriate questions about its purpose, benefits, and risks.
 
-## 1. What Are AI Applications?
+## 4.3 What Are AI Applications?
 
-An AI application is a system that uses one or more AI techniques to perform a task or support a particular activity.
+AI applications are tools, systems, or software that use artificial intelligence to perform tasks that typically require human abilities, such as understanding language, recognising images, identifying patterns, generating content, or making predictions.
 
-Different applications use different approaches. For example:
+AI applications use different techniques depending on the task. For example:
 
-- Machine learning can classify information or predict outcomes.
-- Computer vision can analyze images and video.
-- Natural language processing can process human language.
-- Generative AI can create text, images, audio, and other content.
-- Recommendation systems can suggest products, music, films, or learning resources.
+- Machine learning can identify patterns in data.
+- Computer vision can analyse images and videos.
+- Natural language processing can work with human language.
+- Generative AI can produce new text, images, audio, or other content.
+- Recommendation systems can suggest products, films, music, or other items.
 
-These capabilities may be combined in one application. A learning platform, for example, might recommend educational resources, analyze learner progress, and use a language model to explain a difficult concept.
+AI applications vary in complexity. Some perform a narrow task, such as filtering spam emails, while others can support several activities, such as answering questions or summarising documents.
 
-### AI Does Not Solve Every Problem
+## 4.4 AI in Healthcare
 
-Before using AI, it is important to understand the problem that needs to be solved.
+AI is used in healthcare to help professionals analyse medical information and support certain clinical tasks.
 
-A simple rule-based system, a spreadsheet, or a human-led process may sometimes be cheaper, easier to explain, and more reliable than an AI system.
+### Examples
 
-A useful starting question is:
+**Medical image analysis:** AI systems can help identify patterns in X-rays, CT scans, and other medical images that may require further examination.
 
-**Does this task require AI, or would a simpler solution work just as well?**
+**Patient monitoring:** Some systems analyse information from medical devices to help identify changes in a patient's condition.
 
-## 2. AI in Education
+**Drug discovery:** AI can help researchers analyse large amounts of scientific data when investigating potential medicines.
 
-AI can support teaching, learning, assessment, and educational administration.
-
-### Common Applications
-
-- **Personalized learning:** Recommending practice activities based on a learner's progress.
-- **Tutoring support:** Explaining concepts and providing examples.
-- **Writing assistance:** Helping learners brainstorm, organize, and revise drafts.
-- **Accessibility:** Supporting transcription, translation, text-to-speech, and speech recognition.
-- **Administrative support:** Helping educators organize information and prepare routine materials.
-
-### Example: Supporting a Learner
-
-A learner finds fractions difficult. An AI-enabled learning tool identifies errors in practice questions and recommends additional exercises on equivalent fractions.
-
-The learner completes the exercises, reviews explanations, and asks the teacher for help with any remaining confusion.
-
-In this example, AI provides additional practice, while the teacher remains important for understanding the learner's needs and deciding what support is appropriate.
+**Administrative support:** AI tools can assist with tasks such as organising records, transcribing clinical notes, and summarising documents.
 
 ### Benefits
 
-- Learners may receive faster feedback.
-- Practice can be adapted to different learning needs.
-- Accessibility tools can help some learners participate.
-- Teachers may save time on selected routine tasks.
+- Can help professionals analyse large amounts of information.
+- May help identify patterns that are difficult to notice manually.
+- Can reduce time spent on some administrative tasks.
+- Can support research and the development of treatments.
 
 ### Risks and Limitations
 
-- AI explanations may be incorrect or misleading.
-- Automated assessment may disadvantage some learners.
-- Personal educational data may be sensitive.
-- Excessive dependence on generated answers may reduce independent learning.
-- Unequal access to technology may widen existing educational gaps.
+AI systems may produce inaccurate results or perform differently across patient groups. Medical information is sensitive, so privacy and security are important. AI recommendations should not automatically replace the judgement of qualified healthcare professionals.
 
-### Responsible Practice
+**Key point:** Healthcare AI should be evaluated carefully, and important medical decisions require appropriate professional oversight.
 
-Educators should verify educational content, protect learner information, provide appropriate human oversight, and follow institutional policies on AI use.
+## 4.5 AI in Education
 
-Learners should use AI to support understanding rather than submit generated work dishonestly or assume that every answer is correct.
+AI can support teaching and learning by helping learners practise skills, access explanations, and receive feedback.
 
-## 3. AI in Healthcare
+### Examples
 
-AI can support some healthcare activities, including medical-image analysis, clinical documentation, patient scheduling, and research.
+**Personalised learning:** Some educational systems adjust activities according to a learner's progress.
 
-### Common Applications
+**Writing assistance:** AI tools can suggest improvements to grammar, spelling, and sentence structure.
 
-- Analyzing medical images to help identify patterns.
-- Supporting the organization of clinical information.
-- Predicting selected health-related risks from available data.
-- Helping researchers analyze large datasets.
-- Automating some administrative tasks.
+**AI tutoring:** Conversational systems can explain concepts, generate practice questions, and provide examples.
 
-### Example: Medical Image Support
-
-An AI system analyzes a medical image and highlights an area that may require closer examination.
-
-A qualified healthcare professional reviews the image, considers the patient's circumstances, and determines the appropriate next steps.
-
-The AI output is supporting evidence, not a diagnosis that should automatically replace professional judgment.
+**Accessibility support:** Speech-to-text, text-to-speech, and translation tools can help make learning materials accessible to more people.
 
 ### Benefits
 
-- AI may help process large amounts of information.
-- Certain repetitive tasks may be completed more efficiently.
-- Pattern detection may help professionals identify areas requiring further review.
-- Administrative automation may allow more time for patient care.
+- Offers additional opportunities to practise.
+- Can provide explanations in different ways.
+- May help learners access educational materials.
+- Can assist educators with some routine tasks.
 
 ### Risks and Limitations
 
-- Incorrect predictions may affect patient safety.
-- Training data may not represent every population equally.
-- Health information requires strong privacy protections.
-- Systems may perform differently across hospitals or patient groups.
-- Professionals may find it difficult to interpret some model outputs.
+AI-generated explanations may be incorrect or misleading. Learners may become overly dependent on automated answers instead of developing their own understanding. Educational systems must also consider privacy, fairness, accessibility, and academic integrity.
 
-### Responsible Practice
+**Example:** A learner can ask an AI tool to explain photosynthesis in simple language, then compare the explanation with a textbook or reliable scientific source.
 
-Healthcare AI should be appropriately validated, monitored, and used under suitable professional oversight. Its use must follow applicable privacy, safety, and regulatory requirements.
+**Key point:** AI should support learning rather than replace independent thinking or the role of educators.
 
-AI-generated health information should not be treated as a substitute for appropriate professional medical advice.
+## 4.6 AI in Transportation
 
-## 4. AI in Business and Customer Service
+AI is used in transportation to analyse traffic, plan routes, and support vehicle technologies.
 
-Businesses use AI to support communication, forecasting, customer service, document processing, and analysis.
+### Examples
 
-### Common Applications
+**Navigation applications:** AI-based systems can estimate journey times and recommend routes using traffic and road information.
 
-- Chatbots answering routine questions.
-- Forecasting product demand.
-- Detecting unusual transactions.
-- Summarizing documents.
-- Recommending products or services.
-- Supporting inventory and logistics planning.
+**Traffic management:** Some systems analyse traffic patterns to help manage congestion.
 
-### Example: Customer Service Chatbot
+**Driver assistance:** Certain vehicles use AI-related technologies to identify lane markings, nearby vehicles, pedestrians, or potential hazards.
 
-An online store uses a chatbot to answer questions about delivery times and return procedures.
-
-The chatbot answers routine questions using approved information and directs unusual or complicated cases to a human employee.
-
-This approach combines automated assistance with a path to human support.
+**Autonomous vehicles:** Self-driving technologies combine sensors, software, and AI methods to interpret their surroundings and make driving-related decisions.
 
 ### Benefits
 
-- Routine requests may be handled more quickly.
-- Customers can sometimes receive assistance outside normal office hours.
-- Employees may spend less time on repetitive tasks.
-- Businesses can analyze patterns in customer requests.
+- Can help people choose efficient routes.
+- May improve traffic planning.
+- Can support the development of vehicle safety systems.
+- Can help transport organisations analyse travel patterns.
 
 ### Risks and Limitations
 
-- A chatbot may misunderstand a customer's situation.
-- Generated answers may be inconsistent with company policy.
-- Customers may not know whether they are interacting with AI.
-- Automated systems may mishandle personal or financial information.
-- Excessive automation may make it harder to obtain human assistance.
+AI systems may struggle with unusual road conditions, poor visibility, unexpected obstacles, or incomplete data. Errors can create serious safety risks. Driver-assistance features are not necessarily autonomous driving systems, and their limitations must be understood.
 
-### Responsible Practice
+**Key point:** Transportation AI must be tested carefully, and safety cannot be assumed simply because a system uses AI.
 
-Organizations should communicate when AI is being used where appropriate, protect customer data, test responses, monitor performance, and provide a clear route to human support.
+## 4.7 AI in Business and Customer Service
 
-## 5. AI in Transportation
+Businesses use AI to analyse information, support customers, and automate some routine tasks.
 
-Transportation systems can use AI to help estimate traffic, optimize routes, support driver-assistance functions, and coordinate logistics.
+### Examples
 
-### Common Applications
+**Customer-service chatbots:** These tools answer common questions and direct customers to relevant information.
 
-- Traffic-flow prediction.
-- Route recommendations.
-- Delivery scheduling.
-- Driver-assistance systems.
-- Analysis of vehicle sensor information.
-- Maintenance planning based on equipment data.
+**Demand forecasting:** AI can analyse historical sales and other information to estimate future demand.
 
-### Example: Route Optimization
+**Fraud detection:** Some systems identify unusual transaction patterns that may require investigation.
 
-A delivery company uses a routing system to estimate travel times and suggest efficient delivery routes.
+**Document processing:** AI can extract information from documents and help organise business records.
 
-The system considers available information such as road conditions, delivery locations, and expected travel times. A dispatcher may still need to account for local restrictions, vehicle limitations, customer requirements, and unexpected events.
+**Inventory management:** AI-supported systems can help businesses estimate stock requirements.
 
 ### Benefits
 
-- Routes may become more efficient.
-- Travel-time estimates may improve.
-- Fuel use and unnecessary travel may be reduced in some circumstances.
-- Logistics teams may coordinate deliveries more effectively.
+- Can handle some repetitive tasks quickly.
+- May help organisations identify patterns in large datasets.
+- Can provide customer support outside normal working hours.
+- Can help businesses plan resources.
 
 ### Risks and Limitations
 
-- Incorrect data can produce poor routes or predictions.
-- Road conditions can change rapidly.
-- Automated driving systems can fail in situations they were not designed to handle.
-- Location data may raise privacy concerns.
-- Overreliance on automation can create safety risks.
+AI systems may misunderstand customer questions or make incorrect predictions. Decisions about customers, employees, loans, or employment can have significant consequences and may be unfair if the system relies on biased or incomplete data.
 
-### Responsible Practice
+**Key point:** Businesses should monitor AI performance, protect customer information, and provide human assistance when needed.
 
-Transportation AI should be tested under relevant operating conditions, monitored for failures, and supported by suitable safety procedures and human oversight.
+## 4.8 AI in Entertainment and Social Media
 
-## 6. AI in Agriculture and the Environment
+AI plays a major role in how people discover and interact with digital content.
 
-AI can help analyze agricultural conditions and environmental data.
+### Examples
 
-### Common Applications
+**Recommendation systems:** Streaming services may suggest films, television programmes, or music based on viewing or listening patterns.
 
-- Identifying possible plant diseases from images.
-- Monitoring soil or crop conditions.
-- Estimating crop yields.
-- Supporting irrigation planning.
-- Analyzing satellite images.
-- Monitoring selected environmental changes.
+**Social media feeds:** Platforms may use algorithms to rank posts and recommend content.
 
-### Example: Crop Monitoring
+**Content creation:** Generative AI tools can help create images, music, video, and written material.
 
-A farmer uses an image-analysis tool to flag plants that may show signs of disease.
-
-The farmer inspects the affected plants, considers other possible causes, and seeks expert advice when necessary before deciding on treatment.
-
-The AI system helps direct attention but does not guarantee a correct diagnosis.
+**Gaming:** AI can control non-player characters, adjust game difficulty, or help generate game content.
 
 ### Benefits
 
-- Monitoring may become more efficient.
-- Farmers may identify areas that need inspection.
-- Data analysis can support resource planning.
-- Environmental researchers can process large datasets.
+- Helps users discover content that may interest them.
+- Supports creative experimentation.
+- Can make digital experiences more interactive.
+- Helps creators develop initial ideas or drafts.
 
 ### Risks and Limitations
 
-- Poor-quality images or data can lead to errors.
-- Models may not work equally well across different crops, climates, or regions.
-- Sensors and connected equipment can be costly.
-- Incorrect recommendations may waste resources or damage crops.
-- Data collection and equipment use can have environmental costs.
+Recommendations may repeatedly show users similar content and reduce their exposure to different viewpoints. Platforms may also recommend misleading material. AI-generated content can be used to create convincing fake images, audio, or videos.
 
-### Responsible Practice
+**Key point:** Users should think critically about online content and remember that a recommendation is not necessarily a reliable or balanced choice.
 
-AI recommendations should be evaluated alongside local knowledge, relevant measurements, and expert advice. Users should also consider cost, reliability, and environmental impact.
+## 4.9 AI in Agriculture and the Environment
 
-## 7. AI in Finance
+AI can help farmers, researchers, and environmental organisations analyse information about crops, weather, land, and natural resources.
 
-Financial organizations may use AI to help detect unusual transactions, assess certain risks, automate document processing, and support customer service.
+### Examples
 
-### Common Applications
+**Crop monitoring:** Image analysis can help identify signs of plant stress or disease.
 
-- Fraud detection.
-- Transaction monitoring.
-- Risk estimation.
-- Document classification.
-- Customer-service support.
-- Analysis of financial patterns.
+**Precision agriculture:** AI-supported tools can help estimate where water, fertiliser, or other resources may be needed.
 
-### Example: Unusual Transaction Detection
+**Weather and environmental analysis:** AI can help analyse large datasets used in forecasting and environmental research.
 
-A financial institution's monitoring system flags a transaction because it differs from a customer's usual activity.
-
-The flag prompts further checks. It does not automatically prove that fraud has occurred.
-
-Additional evidence and appropriate procedures are needed before taking action that could affect a customer.
+**Wildlife monitoring:** Image and sound recognition systems can help researchers identify animals in photographs or recordings.
 
 ### Benefits
 
-- Large numbers of transactions can be analyzed.
-- Unusual patterns may be detected more quickly.
-- Routine processing may become more efficient.
-- Analysts can prioritize cases requiring further investigation.
+- May help people use resources more efficiently.
+- Can support the early identification of certain problems.
+- Helps researchers analyse large amounts of environmental data.
+- Can contribute to monitoring ecosystems.
 
 ### Risks and Limitations
 
-- Legitimate transactions may be incorrectly flagged.
-- Historical data may reproduce unfair patterns.
-- Some decisions may be difficult to explain.
-- Financial data is sensitive.
-- Incorrect automated decisions can affect people's access to services.
+Results depend on the quality and coverage of the data. Systems may not work equally well in every region or climate. AI infrastructure also requires energy and computing resources, which should be considered when evaluating its environmental impact.
 
-### Responsible Practice
+**Key point:** AI can support environmental work, but its effectiveness depends on the problem, the data, and how the system is used.
 
-Financial AI should be tested for accuracy and fairness, monitored for errors, and used with appropriate safeguards, transparency, and review procedures.
+## 4.10 AI in Communication and Language
 
-## 8. Comparing AI Applications
+AI technologies help people communicate across languages and formats.
 
-Different sectors have different goals, risks, and requirements.
+### Examples
 
-| Sector | Example task | Potential benefit | Important risk |
-|---|---|---|---|
-| Education | Recommend practice exercises | Additional learning support | Incorrect explanations or unfair assessment |
-| Healthcare | Highlight patterns in medical images | Support professional review | Patient safety and unequal performance |
-| Business | Answer routine customer questions | Faster handling of common requests | Misleading responses or privacy issues |
-| Transportation | Recommend delivery routes | More efficient planning | Unsafe or unsuitable recommendations |
-| Agriculture | Flag possible crop disease | More targeted inspection | Incorrect identification |
-| Finance | Flag unusual transactions | Prioritize fraud investigations | False alerts or unfair outcomes |
+**Machine translation:** AI systems translate text or speech between languages.
 
-The benefit of an AI application depends on the task, the quality of its data, how it is evaluated, and how people use its outputs.
+**Speech recognition:** These systems convert spoken words into text.
 
-A system that performs well in one context may not perform well in another.
+**Text-to-speech:** These tools turn written text into spoken audio.
 
-## 9. How to Evaluate an AI Application
+**Writing assistance:** AI can help users brainstorm ideas, summarise documents, or improve the clarity of writing.
 
-Before adopting an AI system, ask the following questions.
+### Benefits
 
-### 9.1 Is It Suitable for the Task?
+- Can make information easier to access.
+- Supports communication across languages.
+- Can assist people with different accessibility needs.
+- May save time when working with long documents.
 
-Identify the problem and consider whether AI is appropriate. Compare it with simpler alternatives.
+### Risks and Limitations
 
-### 9.2 Is There Reliable Evidence of Performance?
+Translations can miss cultural context or change the intended meaning. Speech recognition may struggle with accents, background noise, or specialised terminology. AI-generated summaries can omit important details.
 
-Look for evaluations relevant to the intended users and real operating conditions. Do not assume that a system performs well simply because it has an impressive demonstration.
+**Key point:** For important communication, users should check AI-generated translations, summaries, and written content before relying on them.
 
-### 9.3 What Data Does It Use?
+## 4.11 Comparing AI Applications
 
-Consider the source, quality, relevance, privacy, and representativeness of the data.
+Different applications use AI for different purposes. The following table summarises several examples.
 
-### 9.4 What Could Go Wrong?
+| Industry       | Example application     | Main purpose                          | Important consideration                 |
+| -------------- | ----------------------- | ------------------------------------- | --------------------------------------- |
+| Healthcare     | Medical image analysis  | Support image interpretation          | Accuracy and patient safety             |
+| Education      | AI tutoring tools       | Explain concepts and support practice | Learning quality and academic integrity |
+| Transportation | Route planning          | Estimate efficient journeys           | Data quality and road safety            |
+| Business       | Fraud detection         | Identify unusual transactions         | False alarms and fairness               |
+| Entertainment  | Content recommendations | Suggest relevant content              | Privacy and recommendation bias         |
+| Agriculture    | Crop monitoring         | Identify possible crop problems       | Local conditions and data quality       |
+| Communication  | Machine translation     | Translate text or speech              | Meaning and cultural context            |
 
-Identify errors, bias, privacy breaches, security weaknesses, and possible harm to affected people.
+This comparison shows that AI does not have one universal purpose. Each application should be evaluated according to the task it performs and the consequences of its errors.
 
-### 9.5 Who Is Accountable?
+## 4.12 Benefits of AI Across Industries
 
-Determine who reviews the system, responds to failures, and makes consequential decisions.
+Although AI applications differ, several potential benefits appear across multiple industries.
 
-### 9.6 Can People Challenge or Correct an Outcome?
+### Efficiency
 
-For important decisions, consider whether affected people can obtain an explanation, request human review, or correct inaccurate information.
+AI can perform some tasks quickly and help automate repetitive work.
 
-### 9.7 How Will Performance Be Monitored?
+### Pattern Recognition
 
-AI performance may change as data, users, or operating conditions change. Appropriate monitoring helps identify problems after deployment.
+AI can identify patterns in large datasets that may be difficult to examine manually.
 
-## 10. Practical Activity: Evaluate an AI Application
+### Personalisation
 
-### Objective
+Some systems can adapt recommendations, learning activities, or services to individual users.
 
-Apply a structured evaluation method to a real or hypothetical AI application.
+### Accessibility
+
+Speech recognition, text-to-speech, translation, and other AI-supported tools can help people access information in different ways.
+
+### Decision Support
+
+AI can provide predictions, summaries, or recommendations that help people investigate a problem.
+
+These benefits are not guaranteed. They depend on the quality of the system, the task, the data, and the people using its results.
+
+## 4.13 Risks and Challenges Across Industries
+
+AI applications also introduce risks that should be considered before and during use.
+
+### Inaccurate Results
+
+AI can produce incorrect classifications, predictions, summaries, or recommendations.
+
+### Bias and Unfairness
+
+If training data does not adequately represent different people or situations, a system may perform unevenly or produce unfair outcomes.
+
+### Privacy and Security
+
+AI systems may process personal, confidential, or sensitive information. Users and organisations should understand how data is collected, stored, and used.
+
+### Lack of Transparency
+
+It may be difficult to understand why a complex system produced a particular result.
+
+### Overreliance
+
+People may accept AI outputs without checking them, even when the decision is important.
+
+### Employment and Social Effects
+
+Automation may change job tasks and the skills people need. The effects vary across occupations and organisations.
+
+### Environmental Costs
+
+Developing and operating some AI systems requires significant computing resources and energy.
+
+The appropriate response depends on the application. A minor error in a music recommendation is different from an error in a medical or transportation system.
+
+## 4.14 Human Oversight and Responsible Use
+
+Human oversight means that people remain appropriately involved in evaluating or supervising AI systems, especially when outcomes affect safety, rights, money, education, or access to services.
+
+Before relying on an AI application, ask:
+
+1. What task is the AI system designed to perform?
+2. What information does it use?
+3. Could its output be inaccurate or biased?
+4. What happens if it makes a mistake?
+5. Is personal or confidential information involved?
+6. Can a person review or challenge the result?
+7. How can the output be checked against reliable evidence?
+
+Responsible use also means being transparent when appropriate about AI-generated content, respecting privacy and copyright, and following relevant rules and organisational policies.
+
+## 4.15 Practical Activity: Evaluate an AI Application
+
+**Purpose:** Apply the concepts in this chapter to a real-world AI application.
+
+**Estimated time:** 15 minutes.
 
 ### Instructions
 
-1. Choose an application from education, healthcare, business, transportation, agriculture, or finance.
-2. Describe the task the AI system is intended to perform.
-3. Identify its intended users and the people affected by its outputs.
-4. Describe two potential benefits.
-5. Identify at least three risks or limitations.
-6. Explain how its performance could be checked.
-7. Recommend safeguards and identify where human oversight is needed.
+Choose one application from the following list:
 
-### Worksheet
+- An AI tutor
+- A navigation application
+- A customer-service chatbot
+- A film or music recommendation system
+- A medical image analysis tool
+- A machine translation tool
 
-**Application selected:**
+Complete the following questions:
 
-[Enter the application.]
+1. What is the name or type of application?
+2. What task does it perform?
+3. Who benefits from using it?
+4. What information might it need?
+5. What are two potential benefits?
+6. What are two possible risks or limitations?
+7. How could a user check whether its output is reliable?
+8. When should a human review or override its output?
 
-**Problem being addressed:**
+### Example Answer: A Navigation Application
 
-[Explain the problem and why it matters.]
+1. **Application:** An AI-supported navigation application.
+2. **Purpose:** It estimates journey times and suggests routes.
+3. **Users:** Drivers, cyclists, pedestrians, and other travellers.
+4. **Information:** Depending on the service, it may use road maps, location information, and traffic data.
+5. **Benefits:** It can suggest alternative routes and help estimate arrival times.
+6. **Risks:** Traffic information may be outdated, and a suggested route may be unsuitable or unsafe.
+7. **Checking reliability:** Compare the route with road signs, current conditions, and official travel information when necessary.
+8. **Human oversight:** The traveller should make the final decision and should not follow an instruction that appears unsafe or conflicts with road signs.
 
-**Intended users and affected people:**
+### Activity Assessment
 
-[Identify who uses the system and who may be affected.]
+A complete response should identify the application, explain its purpose, describe at least two benefits and two risks, and provide a sensible way to check its outputs.
 
-**Potential benefits:**
+## 4.16 Knowledge Check
 
-1. [Benefit and explanation]
-2. [Benefit and explanation]
+Answer the following questions to review your understanding.
+
+**Question 1:** Which of the following is an example of AI in healthcare?
 
-**Risks and limitations:**
+A. A paper appointment book
+B. A system that helps analyse medical images
+C. A manual filing cabinet
+D. A standard light switch
 
-1. [Risk and explanation]
-2. [Risk and explanation]
-3. [Risk and explanation]
+**Question 2:** How can AI support education?
 
-**How would you evaluate performance?**
+A. By guaranteeing that every answer is correct
+B. By replacing all teachers
+C. By providing practice questions and explanations
+D. By removing the need to study
 
-[Describe relevant measures, tests, or evidence.]
+**Question 3:** What is one possible use of AI in transportation?
 
-**Recommended safeguards:**
+A. Analysing traffic patterns
+B. Eliminating every road accident
+C. Guaranteeing that every journey is safe
+D. Removing the need for road signs
 
-[Explain how errors, bias, privacy risks, or other harms could be reduced.]
+**Question 4:** What is a recommendation system designed to do?
 
-**Role of human oversight:**
+A. Guarantee that a user will enjoy every item
+B. Suggest items that may interest a user
+C. Verify every online statement
+D. Eliminate all personal data
 
-[Explain when a person should review the output or make the final decision.]
+**Question 5:** Why should AI-generated medical information be checked carefully?
 
-**Conclusion:**
+A. AI can never analyse data
+B. Medical decisions have important consequences, and AI can make mistakes
+C. AI systems always use outdated information
+D. Human expertise is unnecessary
 
-Would you recommend using this AI application in the selected context? Explain your decision and identify any conditions that should be met first.
+**Question 6:** What is a potential risk of AI in social media?
 
-### Expected Learning Outcome
+A. All content becomes accurate
+B. Users see every possible viewpoint equally
+C. Recommendations may reinforce existing preferences or expose users to misleading content
+D. Online privacy concerns disappear
 
-Learners should be able to assess an AI application in context, balance potential benefits against risks, and propose reasonable safeguards.
+**Question 7:** What does human oversight mean?
 
-## 11. Knowledge Check
+A. Accepting every AI output
+B. Removing people from every decision
+C. Having people appropriately review or supervise AI use
+D. Using AI without evaluating its performance
 
-Answer the questions before checking the answer key.
+**Question 8:** Why does data quality matter in AI applications?
 
-### Question 1
+A. Data quality never affects results
+B. Incomplete or unrepresentative data can lead to unreliable or unfair outcomes
+C. AI only works with handwritten data
+D. High-quality data guarantees that no errors will occur
 
-Which statement best describes an AI application?
+**Question 9:** Which question is useful when evaluating an AI application?
 
-A. Every application that uses a computer  
-B. A system that uses AI techniques to perform or support a task  
-C. A system that always makes better decisions than people  
-D. A system that never needs evaluation
-
-### Question 2
-
-An educational tool recommends additional exercises based on a learner's performance. What is one potential benefit?
-
-A. It guarantees that every learner will succeed.  
-B. It removes the need for teachers.  
-C. It can provide additional practice suited to a learner's needs.  
-D. It guarantees that all learner data is private.
-
-### Question 3
-
-An AI tool highlights an area in a medical image. What is the most appropriate next step?
-
-A. Treat the highlighted area as a confirmed diagnosis.  
-B. Ignore all other clinical information.  
-C. Have a qualified professional review the output alongside relevant evidence.  
-D. Publish the image online.
-
-### Question 4
-
-A chatbot gives a customer incorrect information about a refund. Which safeguard would be most useful?
-
-A. Prevent customers from contacting staff.  
-B. Test the chatbot, use approved information, and provide human escalation.  
-C. Assume the chatbot is always correct.  
-D. Remove all customer feedback.
-
-### Question 5
-
-Why should financial AI systems be evaluated for fairness?
-
-A. Historical data can contain patterns that produce unfair outcomes.  
-B. AI systems cannot process financial data.  
-C. Fairness is relevant only to education.  
-D. A high processing speed guarantees fair decisions.
-
-### Question 6
-
-Which is the best way to evaluate a proposed AI application?
-
-A. Choose it because it is new.  
-B. Assume that a successful demonstration proves its reliability.  
-C. Assess task suitability, performance evidence, risks, and safeguards.  
-D. Avoid monitoring the system after deployment.
-
-### Question 7
-
-Identify two potential benefits and two risks of an AI application in a sector of your choice.
-
-### Question 8
-
-Explain why an AI recommendation should not automatically be treated as a final decision in a high-impact situation.
-
-## 12. Answer Key and Explanations
-
-### Question 1: B
-
-An AI application uses AI techniques to perform a task or support a process. It may also include non-AI software components and human decision-making.
-
-### Question 2: C
-
-Personalized practice may help a learner focus on areas requiring improvement. Its usefulness depends on the quality of the recommendations and the learner's circumstances.
-
-### Question 3: C
-
-An AI system can support medical review, but its output should be considered alongside relevant clinical information and professional judgment.
-
-### Question 4: B
-
-Testing, approved information, monitoring, and human escalation can help reduce the impact of incorrect chatbot responses.
-
-### Question 5: A
-
-Historical data may reflect social inequalities or incomplete representation. Evaluation can help identify differences in system performance and potentially unfair outcomes.
-
-### Question 6: C
-
-Responsible evaluation considers the problem being solved, evidence of performance, potential harms, and safeguards rather than novelty alone.
-
-### Question 7: Sample answer
-
-For a delivery-routing system:
-
-- **Potential benefits:** More efficient routes and improved delivery planning.
-- **Potential risks:** Incorrect travel-time predictions and unsuitable routes caused by poor data.
-
-Other relevant examples with clear explanations are acceptable.
-
-### Question 8: Sample answer
-
-An AI recommendation may be based on incomplete data, errors, or patterns that do not apply to a particular person or situation. Human review helps consider additional evidence, context, consequences, and accountability.
-
-## 13. Chapter Summary
-
-AI is used across many sectors to analyze information, identify patterns, make predictions, generate content, and support decisions.
-
-Key takeaways:
-
-- AI applications serve different purposes depending on the sector and task.
-- AI may improve efficiency, support analysis, and help people make informed decisions.
-- AI systems can make errors, reflect bias, and create privacy, safety, or accountability concerns.
-- A system that works in one context may not work equally well in another.
-- Responsible evaluation considers evidence, data quality, fairness, risks, and the people affected.
-- Human oversight is particularly important when AI outputs could have significant consequences.
-- AI should be selected because it is suitable for a well-defined problem, not simply because the technology is available.
-
-The central lesson is to evaluate AI applications critically and use them in ways that are appropriate, evidence-based, and accountable.
-
-## 14. Key Terms
-
-| Term | Definition |
-|---|---|
-| AI application | A system that uses AI techniques to perform or support a task |
-| Automation | The use of technology to carry out tasks with reduced manual effort |
-| Prediction | An estimate of a future or unknown outcome |
-| Computer vision | AI techniques for processing and interpreting images or video |
-| Natural language processing | Techniques for processing and working with human language |
-| Recommendation system | A system that suggests items or actions based on available information |
-| Bias | A systematic skew that can lead to inaccurate or unfair outcomes |
-| Human oversight | Review or supervision by people responsible for evaluating system behavior and decisions |
-| Accountability | Responsibility for decisions, actions, and their consequences |
-| Evaluation | The process of assessing a system's performance, suitability, and risks |
-
-## 15. References and Further Reading
-
-1. National Institute of Standards and Technology (NIST). (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0).*  
-   https://doi.org/10.6028/NIST.AI.100-1
-
-2. UNESCO. (2023). *Guidance for Generative AI in Education and Research.*  
-   https://unesdoc.unesco.org/ark:/48223/pf0000386693
-
-3. OECD. *OECD AI Principles.*  
-   https://oecd.ai/en/ai-principles
-
-4. World Health Organization (WHO). (2021). *Ethics and Governance of Artificial Intelligence for Health: WHO Guidance.*  
-   https://www.who.int/publications/i/item/9789240029200
-
-Use these sources for relevant background and verify the details before submission. Add further authoritative sources where specific claims require additional evidence.
-
-## 16. Chapter Quality Checklist
-
-- [ ] Learning objectives are clear and assessable.
-- [ ] Each sector includes relevant applications and examples.
-- [ ] Benefits are balanced with risks and limitations.
-- [ ] The evaluation framework supports critical thinking.
-- [ ] The practical activity has clear instructions.
-- [ ] Knowledge-check questions align with the learning objectives.
-- [ ] Answers and explanations have been reviewed for accuracy.
-- [ ] References have been verified.
-- [ ] Accessibility and Markdown formatting have been checked.
-- [ ] The chapter aligns with `content/00-module-outline.md`.
-
-## 17. Completion Status
-
-This chapter provides structured learning materials about AI applications across several sectors. Before submission, verify the content, references, activities, and formatting against the course outline and official assignment requirements.
-
-Mark the chapter complete in `tasks.md` only after the relevant checks have actually been performed.
+A. Does the application have the most colourful interface?
+B. Can its output be checked, and what could happen if it is wrong?
+C. Does it always agree with the user?
+D. Can the user avoid thinking about the task?
+
+**Question 10:** What is a responsible way to use an AI-generated translation?
+
+A. Assume it is always perfect
+B. Publish it without review in every situation
+C. Check the translation when accuracy and context are important
+D. Ignore the original meaning
+
+## 4.17 Answer Key and Explanations
+
+1. **B** — AI systems can help analyse medical images, although professionals must interpret results appropriately.
+2. **C** — AI tools can provide practice activities and explanations, but learners still need to think critically.
+3. **A** — AI can analyse traffic information to support route planning and traffic management.
+4. **B** — Recommendation systems suggest items based on patterns or other information; they cannot guarantee a user's preferences.
+5. **B** — Errors in healthcare can have serious consequences, so professional judgement and appropriate verification are essential.
+6. **C** — Recommendation systems can reinforce preferences, and online platforms may also expose users to misleading content.
+7. **C** — Human oversight involves appropriate monitoring, evaluation, and intervention.
+8. **B** — Poor-quality or unrepresentative data can reduce reliability and contribute to unfair outcomes.
+9. **B** — Evaluating reliability and possible consequences is an important part of responsible AI use.
+10. **C** — Translation systems may miss context or meaning, so important translations should be reviewed.
+
+**Suggested marking guidance:** Award one mark for each correct answer. A score of 8–10 indicates a strong understanding of the chapter. A score of 6–7 suggests that some concepts should be reviewed. A score below 6 suggests revisiting the chapter before moving on.
+
+## 4.18 Key Terms
+
+| Term                        | Definition                                                                               |
+| --------------------------- | ---------------------------------------------------------------------------------------- |
+| AI application              | A tool or system that uses AI to perform a particular task.                              |
+| Computer vision             | AI techniques that analyse images or video.                                              |
+| Natural language processing | Techniques that enable computers to process and work with human language.                |
+| Generative AI               | AI that produces new content, such as text, images, audio, or video.                     |
+| Recommendation system       | A system that suggests items a user may find relevant or interesting.                    |
+| Automation                  | Using technology to perform tasks with reduced manual effort.                            |
+| Human oversight             | Appropriate human supervision, review, or intervention in the use of a system.           |
+| Bias                        | A systematic tendency that can lead to uneven or unfair results.                         |
+| Data privacy                | Protecting personal information and controlling how it is collected, accessed, and used. |
+| Reliability                 | The extent to which a system performs consistently and produces dependable results.      |
+
+## 4.19 Chapter Summary
+
+AI is used in healthcare, education, transportation, business, entertainment, agriculture, and communication. Its applications include analysing images, supporting learning, planning routes, detecting unusual transactions, recommending content, monitoring crops, and translating languages.
+
+AI can improve efficiency, recognise patterns, support personalisation, increase accessibility, and assist decision-making. However, it can also produce inaccurate results, reflect bias, create privacy concerns, and encourage overreliance.
+
+The suitability of an AI system depends on its purpose, data, performance, and the consequences of its errors. Responsible use requires critical thinking, appropriate verification, privacy protection, and human oversight when necessary.
+
+**Remember:** AI is a tool to support people, not a guarantee of correctness. Its value depends on how carefully it is designed, evaluated, and used.
+
+## 4.20 References and Further Reading
+
+The following resources provide additional information about AI applications and responsible use:
+
+1. UNESCO — Guidance on AI and education: [https://www.unesco.org/en/digital-education/artificial-intelligence](https://www.unesco.org/en/digital-education/artificial-intelligence)
+2. National Institute of Standards and Technology (NIST) — AI Risk Management Framework: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)
+3. World Health Organization (WHO) — Artificial intelligence for health: [https://www.who.int/health-topics/artificial-intelligence](https://www.who.int/health-topics/artificial-intelligence)
+4. IBM — Artificial intelligence: [https://www.ibm.com/think/topics/artificial-intelligence](https://www.ibm.com/think/topics/artificial-intelligence)
+5. Google AI — AI resources and research: [https://ai.google/](https://ai.google/)
+
+**Note:** Check that each reference is accessible and directly supports the relevant material before submitting the project.
+
+## 4.21 Chapter Completion Checklist
+
+Use this checklist after reviewing the chapter and testing the file in GitHub.
+
+- [x] The chapter has a clear overview and learning objectives.
+- [x] AI applications across multiple industries are explained.
+- [x] Real-world examples are provided.
+- [x] Benefits and limitations are discussed.
+- [x] Risks involving accuracy, bias, privacy, and safety are addressed.
+- [x] Human oversight and responsible use are explained.
+- [x] A practical activity includes clear instructions and an example answer.
+- [x] Knowledge-check questions and an answer key are included.
+- [x] Key terms and a chapter summary are provided.
+- [x] References have been checked for accessibility and relevance.
+- [x] Spelling, grammar, and clarity have been reviewed.
+- [x] Headings, tables, and links have been checked in GitHub's rendered preview.
+- [x] The estimated learning time matches the module outline.
