@@ -1,140 +1,61 @@
-# Topic 2: Machine Learning Basics
+# Chapter 2: Machine Learning Basics
 
-**Author:** Michelle Kalyani
+**Project:** Curious Mind — Introduction to Artificial Intelligence  
+**Author:** Michelle Kalyani  
+**Chapter:** 2  
+**Estimated study time:** 25–35 minutes  
+**Prerequisite:** Chapter 1 — What Is Artificial Intelligence?
 
-## 1. What Is Machine Learning?
+---
 
-Machine learning (ML) is a branch of artificial intelligence (AI) that allows computers to learn patterns from data and use those patterns to make predictions or decisions [1, 4].
+## 2.1 Introduction
 
-Instead of programming every rule manually, developers train a machine learning model using examples.
+Artificial intelligence (AI) enables computers to perform tasks that typically require human intelligence. One important area of AI is **machine learning (ML)**.
 
-**Example: Spam Email Detection**
+Machine learning allows computers to identify patterns in data and use those patterns to make predictions or decisions. Instead of manually writing every rule, developers provide data and select a learning method that allows a model to learn patterns relevant to a task [1].
 
-A spam filter learns from emails labeled as either "spam" or "not spam." After training, it can use what it has learned to predict whether a new email is spam.
+Machine learning is used in many everyday applications, including email spam filters, recommendation systems, image recognition, and demand forecasting.
 
-## 2. The Machine Learning Process
+For example, an email service can use machine learning to identify patterns associated with spam messages. After learning from examples, the system can estimate whether a new email is likely to be spam.
 
-Machine learning usually follows these steps [2, 3]:
+However, machine learning is not perfect. A model's performance depends on factors such as the quality of its data, the learning method, and how well it handles new situations.
 
-1. **Collect data:** Gather information related to the problem.
-2. **Prepare the data:** Check for errors, remove unnecessary information, and organize the data.
-3. **Train the model:** Use the prepared data to help the model learn patterns.
-4. **Test the model:** Evaluate how well the model works on data it has not seen during training.
-5. **Deploy and monitor:** Put the model into use and check its performance over time.
+This chapter introduces the fundamental concepts needed to understand how machine learning works.
 
-The quality and relevance of the data can strongly affect how well a model performs. Testing is also important because a model that performs well during training may not work well with new data [3].
+### Learning objectives
 
-## 3. Types of Machine Learning
+By the end of this chapter, learners should be able to:
 
-There are three commonly taught types of machine learning: supervised learning, unsupervised learning, and reinforcement learning [1, 4].
+1. Define machine learning and explain its relationship to artificial intelligence.
+2. Describe the main stages of a typical machine learning workflow.
+3. Distinguish supervised, unsupervised, and reinforcement learning.
+4. Explain the difference between classification and regression.
+5. Describe training data, test data, and model evaluation.
+6. Explain overfitting and why it can reduce a model's performance on new data.
+7. Identify basic data-quality, fairness, privacy, and reliability concerns.
 
-### 3.1 Supervised Learning
+---
 
-**Supervised learning** trains a model using labeled data. Labeled data contains examples along with their correct answers or categories [1].
+## 2.2 What Is Machine Learning?
 
-**Example:** A spam filter is trained using emails labeled "spam" or "not spam." It learns patterns associated with each category and uses them to classify new emails.
+**Machine learning is a field of AI in which computer systems use data to learn patterns that support predictions, decisions, or other tasks.** [1]
 
-**Key idea:** The model learns from examples that include the correct answers.
+In traditional rule-based programming, a developer writes explicit instructions for a system to follow.
 
-### 3.2 Unsupervised Learning
+In machine learning, a developer selects a suitable learning method and provides relevant data. A learning algorithm uses that data to produce a model that can make predictions on new inputs.
 
-**Unsupervised learning** uses data without preassigned answers or labels. The model looks for patterns, similarities, or groups in the data [1].
+### Example: Spam email detection
 
-**Example:** A business analyzes customer purchasing habits and groups customers with similar shopping patterns. The groups can help the business understand its customers.
+Imagine that an email service needs to identify unwanted messages.
 
-**Key idea:** The model searches for patterns without being given the correct answer for each example.
+A traditional rule-based system might mark an email as spam whenever it contains a particular word. However, spammers can change their wording, making simple rules less effective.
 
-### 3.3 Reinforcement Learning
+A machine learning approach can use examples of emails labelled as spam or not spam. During training, the learning algorithm identifies patterns associated with each category.
 
-**Reinforcement learning** involves an agent learning through interaction with an environment. The agent receives feedback, often in the form of rewards or penalties, and learns which actions are more effective over time [1, 4].
+When a new email arrives, the trained model uses the patterns it learned to predict whether the email is likely to be spam.
 
-**Example:** An agent learns to play a simple game. It receives rewards for successful actions and learns to avoid actions that lead to poor results.
+The prediction is not guaranteed to be correct. Some legitimate emails may be incorrectly flagged, while some spam messages may be missed.
 
-**Key idea:** The agent learns by taking actions and receiving feedback.
+### Key terms
 
-### Comparing the Three Types
-
-| Type | How it learns | Example |
-|---|---|---|
-| Supervised learning | Learns from labeled examples | Detecting spam emails |
-| Unsupervised learning | Finds patterns in unlabeled data | Grouping customers |
-| Reinforcement learning | Learns through actions and feedback | Learning to play a game |
-
-## 4. Classification and Regression
-
-Machine learning models can be used for different kinds of predictions. Two common tasks are classification and regression [1, 2].
-
-### 4.1 Classification
-
-**Classification** predicts a category or class [1].
-
-Examples:
-- Deciding whether an email is spam or not spam.
-- Classifying an image as a cat or a dog.
-- Predicting whether a transaction may be fraudulent.
-
-**Remember:** Classification predicts a category.
-
-### 4.2 Regression
-
-**Regression** predicts a numerical value [1, 2].
-
-Examples:
-- Estimating the price of a house.
-- Predicting tomorrow's temperature.
-- Estimating how many minutes a journey may take.
-
-**Remember:** Regression predicts a number.
-
-| Classification | Regression |
-|---|---|
-| Predicts a category | Predicts a numerical value |
-| Example: Spam or not spam | Example: A journey will take 25 minutes |
-
-## 5. What Is Overfitting?
-
-**Overfitting** occurs when a model learns the training data too closely, including details or noise that do not help it perform well on new data [3].
-
-As a result, the model may perform very well on its training examples but poorly on unfamiliar examples.
-
-**Example:** A student memorizes the answers to a set of practice questions but does not understand the underlying concepts. When the exam contains different questions, the student struggles to answer them.
-
-Similarly, an overfitted model may struggle when it encounters data that differs from its training examples.
-
-Testing a model on unseen data helps reveal whether it can perform well beyond the examples it has already learned from [3].
-
-## 6. Key Takeaways
-
-- Machine learning is a branch of AI that learns patterns from data.
-- The main steps include collecting data, preparing it, training a model, testing it, and monitoring its performance.
-- Supervised learning learns from labeled examples.
-- Unsupervised learning finds patterns in data without given labels.
-- Reinforcement learning learns through actions and feedback.
-- Classification predicts categories, while regression predicts numerical values.
-- Overfitting occurs when a model performs well on training data but poorly on new data.
-
-## 7. Review Questions
-
-Test your understanding of the concepts in this lesson.
-
-1. What is machine learning, and how does it differ from manually programming every rule?
-2. What are the main steps in the machine learning process?
-3. How do supervised learning and unsupervised learning differ?
-4. Which type of machine learning uses actions and feedback to learn?
-5. Explain the difference between classification and regression. Give one example of each.
-6. What is overfitting, and why can it cause problems?
-7. Why should a machine learning model be tested using data it has not seen during training?
-
-## 8. References
-
-1. Google for Developers. (n.d.). *What is machine learning?*  
-   https://developers.google.com/machine-learning/intro-to-ml/what-is-ml
-
-2. Google for Developers. (n.d.). *Machine Learning Crash Course.*  
-   https://developers.google.com/machine-learning/crash-course/
-
-3. Google for Developers. (2025, December 3). *Datasets, generalization, and overfitting.*  
-   https://developers.google.com/machine-learning/crash-course/overfitting
-
-4. Bergmann, D. (2026, October 2). *What is machine learning?* IBM.  
-   https://www.ibm.com/think/topics/machine-learning
+|
