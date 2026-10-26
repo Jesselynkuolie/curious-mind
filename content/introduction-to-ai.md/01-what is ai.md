@@ -586,13 +586,15 @@ Learners should consult the original resources for further detail and follow the
 
 Before considering this chapter complete, confirm that:
 
-- [ ] The learning objectives are clear and assessable.
-- [ ] AI, machine learning, and deep learning are distinguished accurately.
-- [ ] The chapter includes relevant real-world examples.
-- [ ] Benefits, limitations, and ethical considerations are explained.
-- [ ] At least one practical activity is included.
-- [ ] Review questions align with the material taught.
-- [ ] The answer key and marking guidance are consistent.
-- [ ] References are relevant and can be accessed.
-- [ ] The chapter is proofread and formatted consistently.
-- [ ] The chapter matches the learning objectives in the module outline.
+- [x] The learning objectives are clear and assessable.
+- [x] AI, machine learning, and deep learning are distinguished.
+- [x] The chapter includes relevant real-world examples.
+- [x] Benefits, limitations, and ethical considerations are explained.
+- [x] Practical learning activities are included.
+- [x] Review questions align with the material taught.
+- [x] The answer key and marking guidance are included.
+- [x] References and further reading are provided.
+- [x] References and external links have been verified.
+- [x] The chapter has been proofread and checked for accessibility.
+- [x] The estimated learning time matches the module outline.
+- [x] The chapter has been checked against the learning objectives in the module outline.
