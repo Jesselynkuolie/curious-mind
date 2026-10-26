@@ -24,32 +24,39 @@ All contributions should support these educational goals and align with the cour
 
 The repository contains the following learning materials and supporting documents.
 
-| Path | Purpose |
-|---|---|
-| `README.md` | Project introduction, learning objectives, navigation, and usage instructions |
-| `content/00-module-outline.md` | Complete course structure, chapter sequence, and learning objectives |
-| `content/01-what-is-ai.md` | Introduction to artificial intelligence |
-| `content/02-machine-learning-basics.md` | Fundamentals of machine learning |
-| `content/03-generative-ai-and-llms.md` | Generative AI, large language models, and prompting concepts |
-| `content/04-ai-applications.md` | Applications of AI across different sectors |
-| `content/05-responsible-ai.md` | Fairness, transparency, privacy, safety, and accountability |
-| `content/06-practical-ai-skills.md` | Prompting, evaluating outputs, verification, and responsible workflows |
-| `study-guide/study-guide.md` | Learning review and revision support |
-| `test-bank/practice-questions.md` | Practice questions and answer explanations |
-| `mini-lecture/mini-lecture-script.md` | Script for a short educational lecture |
-| `slides/presentation-outline.md` | Presentation structure and learning sequence |
-| `slides/Curious-Mind-AI-Overview.pptx` | Presentation slides, subject to final review |
-| `videos/video-plan.md` | Video production plan |
-| `videos/video-storyboard.md` | Video sequence and visual planning |
-| `assets/README.md` | Asset organization, sourcing, attribution, and accessibility guidance |
-| `assets/asset-register.md` | Record of assets, sources, licenses, and attribution |
-| `tasks.md` | Project task tracking and completion checklist |
-| `meeting-notes/meeting-notes.md` | Meeting records, decisions, and assigned actions |
-| `review/review-notes.md` | Quality review, feedback, and corrective actions |
-| `AUDIT-REPORT.md` | Repository audit findings and follow-up actions |
-| `CONTRIBUTING.md` | Contribution and collaboration guidelines |
+## Repository Structure
 
-Some files may still be drafts or awaiting review. Their presence in the repository does not automatically mean they are complete or approved.
+```text
+curious-mind-main/
+├── README.md
+├── CONTRIBUTING.md
+├── AUDIT-REPORT.md
+├── tasks.md
+├── assets/
+│   └── README.md
+├── content/
+│   └── introduction-to-ai.md/
+│       ├── 00-module-outline.md
+│       ├── 01-what is ai.md
+│       ├── 02 - machine-learning-basics.md
+│       ├── 03-generative-ai-llms.md
+│       ├── 04 -ai-applications.md
+│       ├── 05-responsible-ai.md
+│       └── 06-practical-skills-ai.md
+├── study guide/
+│   └── study-guide.md
+├── test-bank/
+│   └── practice-questions.md
+├── slides/
+│   └── presentation-outline.md
+├── videos/
+│   ├── video-plan.md
+│   └── video-storyboard.md
+└── review/
+    └── review-notes.md
+```
+
+This structure describes the main project files. Check the repository to ensure all listed paths are accurate. Do not list files that have not been created or uploaded.
 
 ## 3. Contribution Principles
 
