@@ -1,238 +1,154 @@
+# Project Review Notes
 
-# Curious Mind — AI Overview
-## Project Review and Quality Assurance Notes
+## Project Information
 
-## 1. Purpose of This Review
+- **Project title:** Curious Mind: Introduction to Artificial Intelligence
+- **Document:** Project Review Notes
+- **Review date:** 26 October 2026
+- **Review status:** In progress — final verification required
+- **Review focus:** Content structure, chapter completeness, consistency, learning design, and repository documentation
 
-This document records the quality review of the Curious Mind — AI Overview learning-materials project.
+---
 
-The review focuses on the assignment requirements, instructional design, content accuracy, learning activities, accessibility, references, supporting materials, and repository quality.
+## 1. Purpose of the Review
 
-The primary objective is to identify gaps, document corrective actions, and verify that the final submission is supported by actual project evidence.
+The purpose of this review is to evaluate the completeness, consistency, and educational quality of the *Curious Mind: Introduction to Artificial Intelligence* learning materials.
 
-## 2. Review Information
+The review focuses particularly on the two main assessment requirements:
 
-- **Project:** Curious Mind — AI Overview
-- **Review date:** [Enter actual review date]
-- **Reviewer(s):** [Enter actual reviewer names]
-- **Review stage:** [Initial review / Revision review / Final review]
-- **Assignment brief reviewed:** [Yes / No]
-- **Official marking rubric reviewed:** [Yes / No]
+1. Providing a complete and clearly organised structure for the learning materials.
+2. Providing at least one fully completed chapter that demonstrates the overall design and teaching approach of the learning materials.
 
-> Complete this section using the actual review details. Do not claim that a review or rubric check has occurred unless it has.
+The review also considers navigation, learning objectives, activities, assessment questions, terminology, accessibility, and supporting documentation.
 
-## 3. Review Criteria and Results
+## 2. Overall Review Summary
 
-Use the following status labels:
+The project contains a six-chapter module structure supported by supplementary learning resources, including a study guide, practice questions, presentation and video planning documents, and project documentation.
 
-- **Not reviewed:** No evidence has been checked yet.
-- **Needs revision:** The requirement is not yet adequately met.
-- **Partially met:** Some evidence exists, but important gaps remain.
-- **Met:** The requirement has been checked and supported by evidence.
+The module outline establishes the intended learning sequence and provides a foundation for the overall design of the learning materials. The chapter materials address introductory AI concepts, machine learning, generative AI, AI applications, responsible AI, and practical AI skills.
 
-### 3.1 Essential Assignment Requirements
+Further work is required to ensure that all chapters are complete, learning activities are clearly explained, and supporting review and audit documents accurately reflect the current state of the repository.
 
-| Requirement | Evidence to inspect | Status | Required action |
-|---|---|---|---|
-| Complete content structure | `content/00-module-outline.md` | Not reviewed | Check the complete module and chapter sequence |
-| Full demonstration chapter | `content/01-what-is-ai.md` | Not reviewed | Verify that the chapter is a complete learning experience |
-| Alignment between outline and chapters | Outline and all chapter files | Not reviewed | Check titles, objectives, topics, and sequence |
-| Clear learning objectives | Module outline and chapter files | Not reviewed | Check that objectives are clear and assessable |
-| Appropriate learning activities | Demonstration chapter and supporting materials | Not reviewed | Verify that activities help learners meet the objectives |
-| Assessment and feedback | Chapter knowledge checks and test bank | Not reviewed | Check answers, explanations, and objective alignment |
+**Overall assessment:** The project has a defined structure and a developing instructional design. The next priority is to ensure that at least one complete chapter consistently demonstrates the intended learning design and that all documentation and internal links are verified before submission.
 
-**Priority:** The first two requirements must be addressed before the project can be considered ready for final review.
+## 3. Review Findings
 
-### 3.2 Complete Content Structure Review
+### 3.1 Content Structure
 
-Review `content/00-module-outline.md` against the following checklist.
+**Finding:** The project has a dedicated module outline and six planned chapters. The materials are organised into a main content directory and supporting resource directories.
 
-- [ ] The course purpose and target audience are stated.
-- [ ] Prerequisites or assumed prior knowledge are identified where relevant.
-- [ ] Course-level learning objectives are clearly stated.
-- [ ] All planned modules and chapters are listed.
-- [ ] Chapters follow a logical learning sequence.
-- [ ] Each chapter has a clear purpose and key topics.
-- [ ] Chapter-level learning objectives are included.
-- [ ] Learning activities and assessments are identified.
-- [ ] The relationship between modules is clear.
-- [ ] The outline agrees with the actual repository files.
-- [ ] The structure addresses the official assignment requirements.
+**Recommendation:** Keep the module outline as the central reference for the course structure. Ensure that every chapter has a clearly identified purpose, learning objectives, core content, learning activity, knowledge check, summary, and references where appropriate.
 
-**Review findings:**
+**Status:** Structure established; final consistency check required.
 
-[Record the actual strengths, missing sections, and inconsistencies found.]
+### 3.2 Chapter Completeness
 
-**Corrective actions:**
+**Finding:** Chapter 2 required completion because its key-terms section ended abruptly and did not provide a finished conclusion to the chapter.
 
-[Record the changes needed, the responsible person, and the target date.]
+**Correction made:** Chapter 2 has been prepared as a complete learning chapter, including learning objectives, explanations of key machine-learning concepts, examples, a practical activity, knowledge-check questions, an answer key, a glossary, a summary, and references.
 
-**Evidence of completion:**
+**Recommendation:** Replace the existing Chapter 2 content with the completed version and review the rendered Markdown on GitHub. Confirm that tables, headings, links, and the answer key display correctly.
 
-[Identify the revised file or section and verify the changes.]
+**Status:** Revised content prepared; repository replacement and final rendering check required.
 
-### 3.3 Fully Completed Demonstration Chapter Review
+### 3.3 Consistency of Learning Time
 
-Review `content/01-what-is-ai.md` to determine whether it demonstrates the intended design approach for the learning materials.
+**Finding:** The estimated duration for Chapter 2 was inconsistent with the duration stated in the module outline.
 
-- [ ] The chapter title and introduction are clear.
-- [ ] Learning objectives are explicit and assessable.
-- [ ] Concepts are explained in sufficient depth for the target audience.
-- [ ] Content progresses logically from introductory ideas to more detailed explanations.
-- [ ] Examples illustrate the concepts accurately.
-- [ ] A worked example, guided activity, or practical exercise is included.
-- [ ] Visuals or diagrams are included where useful and properly attributed.
-- [ ] Important terms are defined.
-- [ ] Knowledge-check questions test the stated objectives.
-- [ ] Correct answers and explanations are provided.
-- [ ] The chapter ends with a useful summary.
-- [ ] Credible references support factual claims.
-- [ ] Language, formatting, and accessibility have been reviewed.
-- [ ] A learner could use the chapter independently.
-- [ ] The chapter demonstrates a repeatable design approach for other chapters.
+**Correction made:** The completed Chapter 2 specifies an estimated learning time of 40–50 minutes, matching the module outline.
 
-**Review findings:**
+**Recommendation:** Check the estimated duration of every chapter against the module outline and update any conflicting values.
 
-[Describe what is complete, what is missing, and how effectively the chapter supports learning.]
+**Status:** Chapter 2 duration aligned; remaining chapters require a consistency check.
 
-**Corrective actions:**
+### 3.4 Learning Objectives and Teaching Approach
 
-[Record specific revisions rather than general comments such as "improve content".]
+**Finding:** The module outline establishes the learning objectives and intended learning sequence. The chapters should consistently demonstrate how learners progress from understanding concepts to applying them and checking their knowledge.
 
-**Evidence of completion:**
+**Recommendation:** Use a consistent chapter design:
 
-[Identify the revised chapter sections and confirm that the changes were checked.]
+1. Chapter title and estimated learning time.
+2. Introduction and learning objectives.
+3. Core explanations and examples.
+4. Practical activity or guided application.
+5. Knowledge-check questions.
+6. Answer key or feedback.
+7. Summary and key terms.
+8. References and further learning.
 
-## 4. Review of Supporting Learning Materials
+**Status:** Design approach defined; consistency across all chapters requires final verification.
 
-Check that supporting deliverables reinforce the course objectives and do not contradict the main content.
+### 3.5 Learning Activities and Placeholders
 
-| File or deliverable | Review focus | Status | Action required |
-|---|---|---|---|
-| `content/02-machine-learning-basics.md` | Accuracy, examples, learning objectives | Not reviewed | [Record findings] |
-| `content/03-generative-ai-and-llms.md` | Explanations, examples, references | Not reviewed | [Record findings] |
-| `content/04-ai-applications.md` | Relevance, accuracy, balanced coverage | Not reviewed | [Record findings] |
-| `content/05-responsible-ai.md` | Ethical issues, risks, responsible use | Not reviewed | [Record findings] |
-| `content/06-practical-ai-skills.md` | Practical activities and learner guidance | Not reviewed | [Record findings] |
-| `study-guide/study-guide.md` | Coverage of objectives and key concepts | Not reviewed | [Record findings] |
-| `test-bank/practice-questions.md` | Answer accuracy and assessment alignment | Not reviewed | [Record findings] |
-| `mini-lecture/mini-lecture-script.md` | Clarity, timing, learning objectives | Not reviewed | [Record findings] |
-| `slides/presentation-outline.md` | Structure and consistency | Not reviewed | [Record findings] |
-| `slides/Curious-Mind-AI-Overview.pptx` | Readability, accessibility, citations | Not reviewed | [Record findings] |
-| `videos/video-plan.md` | Learning purpose and production plan | Not reviewed | [Record findings] |
-| `videos/video-storyboard.md` | Scene sequence and narration alignment | Not reviewed | [Record findings] |
+**Finding:** Some activities in the generative AI and AI applications chapters contain prompts such as `[Enter your chosen topic]` and `[Enter the application.]`.
 
-A plan or storyboard should not be described as a completed video. Confirm the actual deliverables required by the assignment brief.
+**Recommendation:** Confirm whether these are intentional learner-completion fields. If they are, provide clear instructions and an example so learners understand what to enter. If they are unfinished authoring placeholders, replace them with complete activities before submission.
 
-## 5. Accuracy, Sources, and Attribution
+**Status:** Requires final review of Chapters 3 and 4.
 
-- [ ] Factual claims are supported by credible sources where appropriate.
-- [ ] References are relevant to the claims they support.
-- [ ] Author names, publication dates, titles, and links have been checked.
-- [ ] In-text citations correspond to the reference list.
-- [ ] External images, diagrams, and audio have been checked for permitted use.
-- [ ] Required attribution is included.
-- [ ] AI-generated content and visuals have been reviewed for accuracy and suitability.
-- [ ] Any institution-specific rules about AI assistance have been followed.
+### 3.6 Review and Audit Documentation
 
-**Findings:**
+**Finding:** The review and audit documents contained template placeholders, including reviewer details, unresolved issues, verified corrections, remaining actions, and dates. Some references in the review notes also pointed to outdated file paths.
 
-[Record verified problems and strengths.]
+**Recommendation:** Replace template placeholders with accurate findings, use the current repository paths, and distinguish completed corrections from work that remains outstanding. Do not describe a correction as verified until it has been checked in the repository.
 
-**Actions required:**
+**Status:** This review document has been completed as a substantive draft. The audit report and repository paths still need to be checked against the final project files.
 
-[Identify sources, claims, or assets that need correction.]
+### 3.7 Repository Tasks and Supporting Resources
 
-## 6. Accessibility and Learning Design
+**Finding:** The task list referenced some resources that were not present at the paths specified, including a PowerPoint file and an asset register.
 
-- [ ] Headings follow a logical hierarchy.
-- [ ] Language is appropriate for the target learners.
-- [ ] Technical terms are introduced and explained.
-- [ ] Examples are relevant and understandable.
-- [ ] Visuals have appropriate alternative text where needed.
-- [ ] Information is not conveyed by colour alone.
-- [ ] Colour contrast and text readability are adequate.
-- [ ] Videos have captions or transcripts where required.
-- [ ] Activities provide clear instructions.
-- [ ] Assessments include appropriate answers or feedback.
-- [ ] Learning objectives, content, activities, and assessments align.
+**Recommendation:** Either add the missing resources or update the task list to reference the files that actually exist. Keep supporting-resource links consistent with the repository structure.
 
-**Findings:**
+**Status:** Requires final repository verification.
 
-[Describe the actual accessibility and instructional-design issues.]
+### 3.8 Navigation and Markdown Formatting
 
-**Actions required:**
+**Finding:** The project uses Markdown files and nested directories, so links must match the actual filenames and directory names, including spaces and punctuation.
 
-[Record the changes and how they will be verified.]
+**Recommendation:** Test the internal links in the README, module outline, chapter files, study guide, and supporting documentation. Preview the Markdown on GitHub and correct any broken links, incomplete tables, formatting issues, or inconsistent headings.
 
-## 7. Repository and Technical Review
+**Status:** Final link and rendering check required.
 
-- [ ] The main `README.md` explains the project and provides useful navigation.
-- [ ] File names and folder structure are consistent.
-- [ ] Markdown renders correctly.
-- [ ] Internal links and relative paths work.
-- [ ] Referenced files actually exist.
-- [ ] PowerPoint and other required files open correctly.
-- [ ] Asset-register entries correspond to real assets.
-- [ ] No placeholder text is accidentally presented as finished work.
-- [ ] Team roles and acknowledgements are accurate.
-- [ ] The final repository contains the required deliverables.
+## 4. Verified Corrections and Improvements Prepared
 
-**Findings:**
+The following improvements have been prepared during the review process:
 
-[Record the actual technical checks and results.]
+- A complete six-chapter structure is documented in the module outline.
+- The module outline describes learning objectives, chapter topics, activities, assessments, and the intended instructional approach.
+- A complete revised version of Chapter 2 has been prepared to demonstrate the intended chapter design.
+- Chapter 2 includes explanations, examples, a practical activity, knowledge-check questions, answers, key terms, a summary, and references.
+- Chapter 2's estimated learning time has been aligned with the 40–50-minute estimate in the module outline.
+- The review priorities have been identified, including unfinished activities, outdated paths, task-list references, and final navigation checks.
 
-**Actions required:**
+**Verification note:** These items describe corrections and improvements prepared during the review. The final GitHub repository must be checked to confirm that the revised files have been saved and that all links and formatting work as intended.
 
-[Record each unresolved problem and its owner.]
+## 5. Remaining Actions
 
-## 8. Review Feedback and Corrective Action Log
+Before final submission, complete the following actions:
 
-Record real feedback from reviewers, teammates, or the instructor. Do not invent comments or claim that changes have been approved without confirmation.
+- [ ] Save the completed Chapter 2 in `content/introduction-to-ai.md/02-machine-learning-basics.md`.
+- [ ] Open Chapter 2 on GitHub and verify that its headings, tables, activity, questions, and answer key render correctly.
+- [ ] Check that all six chapters are linked correctly from `content/introduction-to-ai.md/00-module-outline.md`.
+- [ ] Review Chapters 1–6 for consistent learning objectives, activities, summaries, knowledge checks, and references.
+- [ ] Resolve or explain the prompts in Chapters 3 and 4.
+- [ ] Replace any remaining placeholders in the audit report and other project documentation.
+- [ ] Correct outdated file paths in the review notes and other supporting documents.
+- [ ] Update `tasks.md` so that its resource references match files that actually exist.
+- [ ] Test internal Markdown links across the README, module outline, chapters, and supporting resources.
+- [ ] Confirm that the README explains the project structure and identifies the completed chapter that demonstrates the instructional design.
+- [ ] Perform a final proofreading and consistency check before submission.
 
-| No. | Feedback or issue | Priority | Action taken or planned | Responsible person | Status |
-|---|---|---|---|---|---|
-| 1 | Confirm the completeness of the content structure | Critical | Compare the outline with the assignment requirements | [Name] | Open |
-| 2 | Confirm that one chapter is fully developed | Critical | Review and revise `content/01-what-is-ai.md` | [Name] | Open |
-| 3 | Verify consistency between outline and chapter files | High | Check headings, objectives, and chapter sequence | [Name] | Open |
-| 4 | Verify references and attribution | High | Check source details and asset licences | [Name] | Open |
-| 5 | Check accessibility and technical quality | Medium | Test formatting, links, visuals, and media | [Name] | Open |
+## 6. Final Review Conclusion
 
-Update each row after the action has been performed and its result verified. Add further rows for actual review feedback.
+The project has a clear foundation for an introductory AI learning module, with a defined sequence of six chapters and supporting learning resources. The module outline provides the overall content structure, while the revised Chapter 2 is designed to demonstrate a complete and consistent approach to teaching, practice, and assessment.
 
-## 9. Final Review Against the Assignment Brief
+The most important remaining step is to verify that the completed Chapter 2 and the updated module outline are present in the final GitHub repository and that the supporting documentation accurately reflects the finished work.
 
-Complete this section after comparing the final deliverables with the official requirements and marking rubric.
+Once the remaining actions have been completed and checked, update the review status to **Complete** and record the actual completion date.
 
-| Core requirement | Evidence in the project | Verification result |
-|---|---|---|
-| Complete content structure | `content/00-module-outline.md` and repository chapter files | Pending |
-| At least one fully completed chapter | `content/01-what-is-ai.md` | Pending |
-| Supporting deliverables | Relevant study, assessment, slide, and video files | Pending |
-| Source and attribution compliance | References and asset register | Pending |
-| Technical and presentation quality | Repository and rendered files | Pending |
-| All rubric criteria addressed | Official rubric mapped to evidence | Pending |
+---
 
-For each criterion, record the exact evidence, any remaining gap, and the corrective action. Do not mark a requirement as met until it has been checked.
-
-## 10. Final Review Outcome
-
-- **Overall result:** Pending review
-- **Critical issues remaining:** [List actual unresolved issues]
-- **Corrections completed:** [List verified corrections]
-- **Outstanding actions:** [List remaining actions]
-- **Reviewed by:** [Name]
-- **Review date:** [Date]
-
-### Definition of Ready for Submission
-
-The project can be recommended for submission review when:
-
-1. The complete content structure is documented and matches the repository.
-2. At least one complete chapter demonstrates the intended instructional design approach.
-3. Supporting materials align with the course objectives and main content.
-4. Factual accuracy, references, attribution, and accessibility have been checked.
-5. Technical issues and critical review findings have been resolved.
-6. Each official marking criterion has been mapped to actual evidence.
-
-**Important:** This document records a review process; it does not by itself prove that the project meets the requirements. The final review outcome must reflect the actual files and the official assignment rubric.
+**Reviewer:** Project author / self-review  
+**Review date:** 26 October 2026  
+**Final verification status:** Pending completion of the remaining actions listed above
