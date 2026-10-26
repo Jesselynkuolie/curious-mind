@@ -1,288 +1,238 @@
-# Overall Content Review
 
-**Assigned to:** Samantha Salvatrice
+# Curious Mind — AI Overview
+## Project Review and Quality Assurance Notes
 
-## Content and Accuracy
+## 1. Purpose of This Review
 
-- [ ] Chapters use clear beginner-friendly language.
-- [ ] Technical terms are explained.
-- [ ] Examples match the concepts.
-- [ ] Claims and references have been checked.
-- [ ] Chapters do not claim that AI is always accurate.
+This document records the quality review of the Curious Mind — AI Overview learning-materials project.
 
-## Structure and Readability
+The review focuses on the assignment requirements, instructional design, content accuracy, learning activities, accessibility, references, supporting materials, and repository quality.
 
-- [ ] Headings and formatting are consistent.
-- [ ] Grammar and spelling have been checked.
-- [ ] Review questions match chapter content.
-- [ ] Supporting materials match the chapters.
+The primary objective is to identify gaps, document corrective actions, and verify that the final submission is supported by actual project evidence.
 
-## Responsible AI
+## 2. Review Information
 
-- [ ] Privacy and bias are addressed.
-- [ ] Verification of important claims is encouraged.
-- [ ] Academic-integrity rules are mentioned.
-- [ ] Human judgment and accountability are emphasized.
+- **Project:** Curious Mind — AI Overview
+- **Review date:** [Enter actual review date]
+- **Reviewer(s):** [Enter actual reviewer names]
+- **Review stage:** [Initial review / Revision review / Final review]
+- **Assignment brief reviewed:** [Yes / No]
+- **Official marking rubric reviewed:** [Yes / No]
 
-## Repository
+> Complete this section using the actual review details. Do not claim that a review or rubric check has occurred unless it has.
 
-- [ ] File names match the folder structure.
-- [ ] Links and references work where applicable.
-- [ ] Peer reviews reflect actual chapter content.
-- [ ] Revision statuses are accurate.
+## 3. Review Criteria and Results
 
-## Review Summary
+Use the following status labels:
 
-Strengths observed:
-[Complete after reviewing the finished files.]
+- **Not reviewed:** No evidence has been checked yet.
+- **Needs revision:** The requirement is not yet adequately met.
+- **Partially met:** Some evidence exists, but important gaps remain.
+- **Met:** The requirement has been checked and supported by evidence.
 
-Issues found:
-[List actual issues.]
+### 3.1 Essential Assignment Requirements
 
-Next steps:
-[List the action and responsible person.]
+| Requirement | Evidence to inspect | Status | Required action |
+|---|---|---|---|
+| Complete content structure | `content/00-module-outline.md` | Not reviewed | Check the complete module and chapter sequence |
+| Full demonstration chapter | `content/01-what-is-ai.md` | Not reviewed | Verify that the chapter is a complete learning experience |
+| Alignment between outline and chapters | Outline and all chapter files | Not reviewed | Check titles, objectives, topics, and sequence |
+| Clear learning objectives | Module outline and chapter files | Not reviewed | Check that objectives are clear and assessable |
+| Appropriate learning activities | Demonstration chapter and supporting materials | Not reviewed | Verify that activities help learners meet the objectives |
+| Assessment and feedback | Chapter knowledge checks and test bank | Not reviewed | Check answers, explanations, and objective alignment |
 
-## Review Status
+**Priority:** The first two requirements must be addressed before the project can be considered ready for final review.
 
-Pending actual review. Mark complete only after checking
-the finished repository.
+### 3.2 Complete Content Structure Review
 
-# Peer Review — Person A
+Review `content/00-module-outline.md` against the following checklist.
 
-**Reviewer:** Jesselyn Kuolie  
-**Chapter:** Topic 5 — Responsible AI, Ethics, and Privacy  
-**Author:** Samantha Salvatrice
+- [ ] The course purpose and target audience are stated.
+- [ ] Prerequisites or assumed prior knowledge are identified where relevant.
+- [ ] Course-level learning objectives are clearly stated.
+- [ ] All planned modules and chapters are listed.
+- [ ] Chapters follow a logical learning sequence.
+- [ ] Each chapter has a clear purpose and key topics.
+- [ ] Chapter-level learning objectives are included.
+- [ ] Learning activities and assessments are identified.
+- [ ] The relationship between modules is clear.
+- [ ] The outline agrees with the actual repository files.
+- [ ] The structure addresses the official assignment requirements.
 
-## 1. Strengths
+**Review findings:**
 
-The chapter clearly introduces fairness, privacy, accuracy,
-transparency, accountability, and academic integrity.
-Its checklist gives readers practical questions to consider
-before using AI.
+[Record the actual strengths, missing sections, and inconsistencies found.]
 
-## 2. Areas for Improvement
+**Corrective actions:**
 
-A detailed example could show how an ethical issue happens
-in a real situation. Transparency and accountability could
-also be compared more directly.
+[Record the changes needed, the responsible person, and the target date.]
 
-## 3. Recommendations
+**Evidence of completion:**
 
-1. Add an example of bias or privacy risk.
-2. Compare transparency and accountability.
-3. Verify claims and references.
-4. Keep the checklist practical and easy to use.
+[Identify the revised file or section and verify the changes.]
 
-## 4. Author Response
+### 3.3 Fully Completed Demonstration Chapter Review
 
-- Feedback accepted: [Complete after review]
-- Feedback not adopted and reason: [If applicable]
-- Actual changes made: [Describe changes]
+Review `content/01-what-is-ai.md` to determine whether it demonstrates the intended design approach for the learning materials.
 
-## 5. Revision Status
+- [ ] The chapter title and introduction are clear.
+- [ ] Learning objectives are explicit and assessable.
+- [ ] Concepts are explained in sufficient depth for the target audience.
+- [ ] Content progresses logically from introductory ideas to more detailed explanations.
+- [ ] Examples illustrate the concepts accurately.
+- [ ] A worked example, guided activity, or practical exercise is included.
+- [ ] Visuals or diagrams are included where useful and properly attributed.
+- [ ] Important terms are defined.
+- [ ] Knowledge-check questions test the stated objectives.
+- [ ] Correct answers and explanations are provided.
+- [ ] The chapter ends with a useful summary.
+- [ ] Credible references support factual claims.
+- [ ] Language, formatting, and accessibility have been reviewed.
+- [ ] A learner could use the chapter independently.
+- [ ] The chapter demonstrates a repeatable design approach for other chapters.
 
-Pending author revision and final review.
+**Review findings:**
 
-## Final Comments
+[Describe what is complete, what is missing, and how effectively the chapter supports learning.]
 
-The chapter is useful for beginners. Practical examples
-could make the key principles easier to apply.
+**Corrective actions:**
 
-# Peer Review — Person B
+[Record specific revisions rather than general comments such as "improve content".]
 
-**Reviewer:** Kristabelle Lian  
-**Chapter:** Topic 4 — Real-World Applications of AI  
-**Author:** Lai Quoc Hung
+**Evidence of completion:**
 
-## 1. Strengths
+[Identify the revised chapter sections and confirm that the changes were checked.]
 
-The chapter covers AI in education, healthcare, business,
-transportation, and entertainment. It includes benefits and
-risks, giving readers a balanced introduction.
+## 4. Review of Supporting Learning Materials
 
-## 2. Areas for Improvement
+Check that supporting deliverables reinforce the course objectives and do not contradict the main content.
 
-The chapter covers many industries briefly. One detailed
-example of an AI system and how people check its results
-would make the ideas more concrete.
+| File or deliverable | Review focus | Status | Action required |
+|---|---|---|---|
+| `content/02-machine-learning-basics.md` | Accuracy, examples, learning objectives | Not reviewed | [Record findings] |
+| `content/03-generative-ai-and-llms.md` | Explanations, examples, references | Not reviewed | [Record findings] |
+| `content/04-ai-applications.md` | Relevance, accuracy, balanced coverage | Not reviewed | [Record findings] |
+| `content/05-responsible-ai.md` | Ethical issues, risks, responsible use | Not reviewed | [Record findings] |
+| `content/06-practical-ai-skills.md` | Practical activities and learner guidance | Not reviewed | [Record findings] |
+| `study-guide/study-guide.md` | Coverage of objectives and key concepts | Not reviewed | [Record findings] |
+| `test-bank/practice-questions.md` | Answer accuracy and assessment alignment | Not reviewed | [Record findings] |
+| `mini-lecture/mini-lecture-script.md` | Clarity, timing, learning objectives | Not reviewed | [Record findings] |
+| `slides/presentation-outline.md` | Structure and consistency | Not reviewed | [Record findings] |
+| `slides/Curious-Mind-AI-Overview.pptx` | Readability, accessibility, citations | Not reviewed | [Record findings] |
+| `videos/video-plan.md` | Learning purpose and production plan | Not reviewed | [Record findings] |
+| `videos/video-storyboard.md` | Scene sequence and narration alignment | Not reviewed | [Record findings] |
 
-## 3. Recommendations
+A plan or storyboard should not be described as a completed video. Confirm the actual deliverables required by the assignment brief.
 
-1. Add a detailed example from one industry.
-2. Explain the role of data in that example.
-3. Keep benefits and risks balanced.
-4. Verify examples and references.
+## 5. Accuracy, Sources, and Attribution
 
-## 4. Author Response
+- [ ] Factual claims are supported by credible sources where appropriate.
+- [ ] References are relevant to the claims they support.
+- [ ] Author names, publication dates, titles, and links have been checked.
+- [ ] In-text citations correspond to the reference list.
+- [ ] External images, diagrams, and audio have been checked for permitted use.
+- [ ] Required attribution is included.
+- [ ] AI-generated content and visuals have been reviewed for accuracy and suitability.
+- [ ] Any institution-specific rules about AI assistance have been followed.
 
-- Feedback accepted: [Complete after review]
-- Feedback not adopted and reason: [If applicable]
-- Actual changes made: [Describe changes]
+**Findings:**
 
-## 5. Revision Status
+[Record verified problems and strengths.]
 
-Pending author revision and final review.
+**Actions required:**
 
-## Final Comments
+[Identify sources, claims, or assets that need correction.]
 
-The chapter gives a broad overview. A deeper example could
-help readers connect the concepts to real situations.
+## 6. Accessibility and Learning Design
 
-# Peer Review — Person C
+- [ ] Headings follow a logical hierarchy.
+- [ ] Language is appropriate for the target learners.
+- [ ] Technical terms are introduced and explained.
+- [ ] Examples are relevant and understandable.
+- [ ] Visuals have appropriate alternative text where needed.
+- [ ] Information is not conveyed by colour alone.
+- [ ] Colour contrast and text readability are adequate.
+- [ ] Videos have captions or transcripts where required.
+- [ ] Activities provide clear instructions.
+- [ ] Assessments include appropriate answers or feedback.
+- [ ] Learning objectives, content, activities, and assessments align.
 
-**Reviewer:** Le Tran Duc Trong  
-**Chapter:** Topic 1 — Introduction to Artificial Intelligence  
-**Author:** Jesselyn Kuolie
+**Findings:**
 
-## 1. Strengths
+[Describe the actual accessibility and instructional-design issues.]
 
-The chapter uses familiar examples and explains AI,
-machine learning, and deep learning. It also notes that
-not every digital tool uses AI and that AI outputs can be wrong.
+**Actions required:**
 
-## 2. Areas for Improvement
+[Record the changes and how they will be verified.]
 
-A visual showing the relationship between the three terms
-could help readers remember them. Another example comparing
-fixed-rule automation with machine learning may also help.
+## 7. Repository and Technical Review
 
-## 3. Recommendations
+- [ ] The main `README.md` explains the project and provides useful navigation.
+- [ ] File names and folder structure are consistent.
+- [ ] Markdown renders correctly.
+- [ ] Internal links and relative paths work.
+- [ ] Referenced files actually exist.
+- [ ] PowerPoint and other required files open correctly.
+- [ ] Asset-register entries correspond to real assets.
+- [ ] No placeholder text is accidentally presented as finished work.
+- [ ] Team roles and acknowledgements are accurate.
+- [ ] The final repository contains the required deliverables.
 
-1. Add a simple AI/ML/deep-learning diagram.
-2. Add another automation comparison.
-3. Keep definitions consistent across the module.
-4. Match review questions to the learning outcomes.
+**Findings:**
 
-## 4. Author Response
+[Record the actual technical checks and results.]
 
-- Feedback accepted: [Complete after review]
-- Feedback not adopted and reason: [If applicable]
-- Actual changes made: [Describe changes]
+**Actions required:**
 
-## 5. Revision Status
+[Record each unresolved problem and its owner.]
 
-Pending author revision and final review.
+## 8. Review Feedback and Corrective Action Log
 
-## Final Comments
+Record real feedback from reviewers, teammates, or the instructor. Do not invent comments or claim that changes have been approved without confirmation.
 
-The chapter is a good starting point. A visual and an extra
-example could make key terms easier to remember.
+| No. | Feedback or issue | Priority | Action taken or planned | Responsible person | Status |
+|---|---|---|---|---|---|
+| 1 | Confirm the completeness of the content structure | Critical | Compare the outline with the assignment requirements | [Name] | Open |
+| 2 | Confirm that one chapter is fully developed | Critical | Review and revise `content/01-what-is-ai.md` | [Name] | Open |
+| 3 | Verify consistency between outline and chapter files | High | Check headings, objectives, and chapter sequence | [Name] | Open |
+| 4 | Verify references and attribution | High | Check source details and asset licences | [Name] | Open |
+| 5 | Check accessibility and technical quality | Medium | Test formatting, links, visuals, and media | [Name] | Open |
 
-# Peer Review — Person D
+Update each row after the action has been performed and its result verified. Add further rows for actual review feedback.
 
-**Reviewer:** Lai Quoc Hung  
-**Chapter:** Topic 2 — Machine Learning Basics  
-**Author:** Michelle Kalyani
+## 9. Final Review Against the Assignment Brief
 
-## 1. Strengths
+Complete this section after comparing the final deliverables with the official requirements and marking rubric.
 
-The chapter explains data, training, testing, and three
-learning approaches. Examples such as spam filtering help
-connect technical terms to familiar tasks.
+| Core requirement | Evidence in the project | Verification result |
+|---|---|---|
+| Complete content structure | `content/00-module-outline.md` and repository chapter files | Pending |
+| At least one fully completed chapter | `content/01-what-is-ai.md` | Pending |
+| Supporting deliverables | Relevant study, assessment, slide, and video files | Pending |
+| Source and attribution compliance | References and asset register | Pending |
+| Technical and presentation quality | Repository and rendered files | Pending |
+| All rubric criteria addressed | Official rubric mapped to evidence | Pending |
 
-## 2. Areas for Improvement
+For each criterion, record the exact evidence, any remaining gap, and the corrective action. Do not mark a requirement as met until it has been checked.
 
-Classification and regression can be confusing because both
-involve predictions. A short paired example would make the
-difference clearer.
+## 10. Final Review Outcome
 
-## 3. Recommendations
+- **Overall result:** Pending review
+- **Critical issues remaining:** [List actual unresolved issues]
+- **Corrections completed:** [List verified corrections]
+- **Outstanding actions:** [List remaining actions]
+- **Reviewed by:** [Name]
+- **Review date:** [Date]
 
-1. Add a comparison table of the three learning approaches.
-2. Give paired classification and regression examples.
-3. Explain overfitting with a simple analogy.
-4. Check the practice questions and answer key.
+### Definition of Ready for Submission
 
-## 4. Author Response
+The project can be recommended for submission review when:
 
-- Feedback accepted: [Complete after review]
-- Feedback not adopted and reason: [If applicable]
-- Actual changes made: [Describe changes]
+1. The complete content structure is documented and matches the repository.
+2. At least one complete chapter demonstrates the intended instructional design approach.
+3. Supporting materials align with the course objectives and main content.
+4. Factual accuracy, references, attribution, and accessibility have been checked.
+5. Technical issues and critical review findings have been resolved.
+6. Each official marking criterion has been mapped to actual evidence.
 
-## 5. Revision Status
-
-Pending author revision and final review.
-
-## Final Comments
-
-The chapter covers important concepts. A comparison table
-and clearer examples would improve understanding.
-
-# Peer Review — Person E
-
-**Reviewer:** Samantha Salvatrice  
-**Chapter:** Topic 3 — Generative AI and Large Language Models  
-**Author:** Kristabelle Lian
-
-## 1. Strengths
-
-The chapter explains generative AI and LLMs in accessible
-language. It includes prompt-writing advice and explains
-hallucinations and other limitations.
-
-## 2. Areas for Improvement
-
-The term "token" may be unfamiliar. A short example of a
-false or unsupported AI answer would help explain hallucinations.
-
-## 3. Recommendations
-
-1. Define "token" with a simple example.
-2. Show how to verify a possible hallucination.
-3. Clarify that detailed prompts do not guarantee accuracy.
-4. Check definitions and references.
-
-## 4. Author Response
-
-- Feedback accepted: [Complete after review]
-- Feedback not adopted and reason: [If applicable]
-- Actual changes made: [Describe changes]
-
-## 5. Revision Status
-
-Pending author revision and final review.
-
-## Final Comments
-
-The chapter is practical and relevant. A token example and
-fact-checking demonstration could clarify its limitations.
-
-# Peer Review — Person F
-
-**Reviewer:** Michelle Kalyani  
-**Chapter:** Topic 6 — Practical AI Skills and Critical Evaluation  
-**Author:** Le Tran Duc Trong
-
-## 1. Strengths
-
-The chapter focuses on prompting, evaluating responses,
-checking sources, and following academic rules. Its
-step-by-step structure encourages critical thinking.
-
-## 2. Areas for Improvement
-
-A worked example of checking an answer would make the
-evaluation criteria easier to apply. A sample reflection
-structure could also support learners.
-
-## 3. Recommendations
-
-1. Add a worked source-verification example.
-2. Explain how to check that a source supports a claim.
-3. Provide a reflection template.
-4. Keep advice consistent with the responsible AI chapter.
-
-## 4. Author Response
-
-- Feedback accepted: [Complete after review]
-- Feedback not adopted and reason: [If applicable]
-- Actual changes made: [Describe changes]
-
-## 5. Revision Status
-
-Pending author revision and final review.
-
-## Final Comments
-
-The chapter teaches useful habits. A worked example and
-reflection template could help learners apply the process.
+**Important:** This document records a review process; it does not by itself prove that the project meets the requirements. The final review outcome must reflect the actual files and the official assignment rubric.
