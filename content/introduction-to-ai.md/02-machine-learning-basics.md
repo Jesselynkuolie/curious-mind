@@ -713,18 +713,18 @@ The following resources provide further information about machine learning and m
 
 Before considering this chapter complete, confirm that:
 
-- [ ] All learning objectives are addressed in the chapter.
-- [ ] Key concepts are explained using beginner-friendly language.
-- [ ] Examples illustrate the difference between learning types.
-- [ ] Classification and regression are clearly distinguished.
-- [ ] Training, validation, and test data are explained.
-- [ ] Model evaluation and overfitting are covered.
-- [ ] Data quality and bias are discussed.
-- [ ] The practical activity has clear instructions and an answer guide.
-- [ ] Knowledge-check questions include answers and explanations.
-- [ ] The glossary and summary are complete.
-- [ ] References are accessible and relevant.
-- [ ] The chapter's estimated learning time matches the module outline.
-- [ ] Markdown tables, headings, and links render correctly.
+- [x] All learning objectives are addressed in the chapter.
+- [x] Key concepts are explained using beginner-friendly language.
+- [x] Examples illustrate the difference between learning types.
+- [x] Classification and regression are clearly distinguished.
+- [x] Training, validation, and test data are explained.
+- [x] Model evaluation and overfitting are covered.
+- [x] Data quality and bias are discussed.
+- [x] The practical activity has clear instructions and an answer guide.
+- [x] Knowledge-check questions include answers and explanations.
+- [x] The glossary and summary are complete.
+- [ ] References have been checked to confirm they are accessible and relevant.
+- [x] The chapter's estimated learning time matches the module outline.
+- [ ] Markdown tables, headings, and links have been checked to ensure they render correctly.
 
 **End of Chapter 2**
