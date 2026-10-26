@@ -24,8 +24,6 @@ All contributions should support these educational goals and align with the cour
 
 The repository contains the following learning materials and supporting documents.
 
-## Repository Structure
-
 ```text
 curious-mind-main/
 ├── README.md
