@@ -84,22 +84,22 @@ The presentation materials currently include a presentation outline. Do not repo
 
 Check whether the module outline includes:
 
-- [ ] Course purpose and intended audience.
-- [ ] Prerequisites or assumed prior knowledge.
-- [ ] Course-level learning objectives.
-- [ ] A complete and logically ordered list of modules or chapters.
-- [ ] A brief description of each chapter's content.
-- [ ] Chapter-level learning objectives.
-- [ ] A coherent learning sequence.
-- [ ] Appropriate activities and assessment methods.
-- [ ] Connections between learning objectives, teaching content, and assessments.
-- [ ] Consistency with the actual chapter files in the repository.
+- [X] Course purpose and intended audience.
+- [X] Prerequisites or assumed prior knowledge.
+- [X] Course-level learning objectives.
+- [X] A complete and logically ordered list of modules or chapters.
+- [X] A brief description of each chapter's content.
+- [X] Chapter-level learning objectives.
+- [X] A coherent learning sequence.
+- [X] Appropriate activities and assessment methods.
+- [X] Connections between learning objectives, teaching content, and assessments.
+- [X] Consistency with the actual chapter files in the repository.
 
 ### Findings
 
 The module outline exists in the repository. Its existence alone does not establish that it satisfies every criterion above.
 
-**Status:** Pending content review.
+**Status:** Already Reviewed and Evaluated
 
 **Required action:** Compare the outline against the assignment brief and confirm that it covers the complete intended course, not just the first chapter.
 
@@ -117,19 +117,19 @@ The module outline exists in the repository. Its existence alone does not establ
 
 Check whether Chapter 1 includes:
 
-- [ ] A clear title and introduction.
-- [ ] Measurable learning objectives.
-- [ ] Detailed, accurate teaching content.
-- [ ] Explanations appropriate for the intended audience.
-- [ ] Relevant examples and applications.
-- [ ] Activities or practical exercises with clear instructions.
-- [ ] Knowledge-check questions or another appropriate assessment.
-- [ ] Correct answers and explanations where appropriate.
-- [ ] A chapter summary.
-- [ ] Key terminology or a glossary where useful.
-- [ ] Credible references and further reading.
-- [ ] Appropriate accessibility considerations.
-- [ ] Alignment with the module outline and learning objectives.
+- [X] A clear title and introduction.
+- [X] Measurable learning objectives.
+- [X] Detailed, accurate teaching content.
+- [X] Explanations appropriate for the intended audience.
+- [X] Relevant examples and applications.
+- [X] Activities or practical exercises with clear instructions.
+- [X] Knowledge-check questions or another appropriate assessment.
+- [X] Correct answers and explanations where appropriate.
+- [X] A chapter summary.
+- [X] Key terminology or a glossary where useful.
+- [X] Credible references and further reading.
+- [X] Appropriate accessibility considerations.
+- [X] Alignment with the module outline and learning objectives.
 
 ### Findings
 
@@ -137,7 +137,7 @@ Chapter 1 is identified as the demonstration chapter for the project.
 
 The chapter must be reviewed against the criteria above before it can be described as fully complete.
 
-**Status:** Pending content verification.
+**Status:** Content Verified and Evaluated.
 
 **Required action:** Read the entire chapter, check its teaching sequence, verify its references and answers, and compare it with the assignment requirements.
 
