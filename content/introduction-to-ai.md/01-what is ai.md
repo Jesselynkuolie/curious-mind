@@ -272,36 +272,38 @@ Its performance should be monitored because data, user needs, and real-world con
 
 Not every AI system follows an identical workflow. A rule-based system may not require model training, while a generative AI system may have a complex training and deployment process.
 
----
-```
-Work Example
-Worked example: How an email spam filter works
 
-1. Define the problem
-   
-   Identify unwanted emails automatically.
 
-2. Collect data
-   
-   Gather examples of spam and legitimate emails, labelled appropriately.
+>**Work Example**
+>
+> Worked example: How an email spam filter works
+>
+>**1. Define the problem**
+>  
+>  Identify unwanted emails automatically.
+>
+>**2. Collect data**
+>   
+>   Gather examples of spam and legitimate emails, labelled appropriately.
+>
+>**3. Train the model**
+>   
+>   Let a machine-learning model learn patterns from the labelled emails.
+>
+>**4. Evaluate**
+>   
+>   Test the model using emails it has not seen during training. Check how often it incorrectly classifies messages.
+>
+>**5. Deploy and monitor**
+>   
+>   Use it to classify incoming emails and monitor performance as spam techniques change.
+>
+>
+>Q: What might happen if the training data contains very few examples of legitimate emails?
+>
+>A: The model may incorrectly classify legitimate emails as spam because it has not learned enough about them.
 
-3. Train the model
-   
-   Let a machine-learning model learn patterns from the labelled emails.
 
-4. Evaluate
-   
-   Test the model using emails it has not seen during training. Check how often it incorrectly classifies messages.
-
-5. Deploy and monitor
-   
-   Use it to classify incoming emails and monitor performance as spam techniques change.
-```
-Q: What might happen if the training data contains very few examples of legitimate emails?
-
-A: The model may incorrectly classify legitimate emails as spam because it has not learned enough about them.
-
----
 ## 1.5 Types of AI by Capability
 
 AI can be described in different ways. One common introductory distinction concerns the range of tasks a system can perform.
