@@ -384,6 +384,62 @@ Complete the following:
 - **Limitation:** What mistake or problem could occur?
 - **Human role:** When might a person need to check the result?
 
+### Activity 3: Identify AI in Everyday Life
+
+**Learning Objective:** Identify AI applications in everyday digital tools and distinguish them from traditional rule-based software.
+
+**Instructions:**
+
+Think about the digital tools you use in your everyday life. Identify five tools or applications and investigate whether they use Artificial Intelligence (AI).
+
+For each tool, complete the following table:
+
+| No. | Digital Tool / Application | Does It Use AI? (Yes/No/Unsure) | How Does It Work? |
+|---|---|---|---|
+| 1 | | | |
+| 2 | | | |
+| 3 | | | |
+| 4 | | | |
+| 5 | | | |
+
+**Guiding Questions:**
+
+1. Does the application learn patterns from data or make predictions?
+2. Does it simply follow predefined instructions?
+3. What evidence supports your decision?
+4. Can the same application contain both AI-powered and traditional software features?
+
+**Example:**
+
+| Digital Tool | Does It Use AI? | How Does It Work? |
+|---|---|---|
+| Google Maps traffic prediction | Yes | Uses traffic data and predictive models to estimate traffic conditions and travel times. |
+| Basic calculator | No | Performs calculations using predefined mathematical operations. |
+| Netflix recommendations | Yes | Uses recommendation algorithms to suggest content based on user activity and preferences. |
+| Traditional alarm clock | No | Follows a predefined schedule to activate an alarm. |
+| Email spam filter | Yes, if machine-learning-based | Uses patterns learned from labelled emails to identify potential spam. |
+
+**Discussion Questions:**
+
+1. Which of your five tools relies most heavily on AI? Explain your reasoning.
+2. Which tool could operate effectively without AI? Why?
+3. What are the possible benefits of using AI in these applications?
+4. What problems might occur if an AI system makes an incorrect prediction?
+
+**Expected Learning Outcomes:**
+
+After completing this activity, learners should be able to:
+
+- Recognise AI applications in everyday digital tools.
+- Distinguish machine-learning-based systems from traditional rule-based software.
+- Explain how AI contributes to the functionality of familiar applications.
+- Recognise that not every digital feature within an AI-powered application necessarily uses AI.
+
+**Answer Guidance:**
+
+Answers will vary depending on the applications selected. Learners should provide a reasonable explanation supported by evidence rather than simply guessing whether a tool uses AI.
+
+
 ## 1.7 Benefits of Artificial Intelligence
 
 AI can provide several benefits when it is appropriately designed and used.
