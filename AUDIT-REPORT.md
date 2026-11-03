@@ -182,14 +182,14 @@ File: `README.md`
 
 Check whether:
 
-- [ ] The project purpose and audience are clear.
-- [ ] The course structure is described accurately.
-- [ ] Internal links point to files that exist.
-- [ ] File and folder names match the actual repository.
-- [ ] The README distinguishes completed materials from planned materials.
-- [ ] The instructions and descriptions are consistent with the project.
+- [X] The project purpose and audience are clear.
+- [X] The course structure is described accurately.
+- [X] Internal links point to files that exist.
+- [X] File and folder names match the actual repository.
+- [X] The README distinguishes completed materials from planned materials.
+- [X] The instructions and descriptions are consistent with the project.
 
-**Status:** Pending link and content verification.
+**Status:** Pending link and content verification.(Content Verified)
 
 ### 7.2 CONTRIBUTING.md
 
