@@ -161,16 +161,16 @@ The project includes supporting materials intended to reinforce the course conte
 
 ### Audit criteria
 
-- [ ] Supporting materials exist at the listed paths.
-- [ ] Materials are consistent with the module outline.
-- [ ] Materials reinforce the intended learning objectives.
-- [ ] Assessment questions are accurate and appropriate.
-- [ ] Answer keys have been checked.
-- [ ] Scripts and storyboards agree where they cover the same material.
-- [ ] External assets and sources are documented where required.
-- [ ] The project does not claim that a planned resource has been completed when only an outline or plan exists.
+- [x] Supporting materials exist at the listed paths.
+- [x] Materials are consistent with the module outline.
+- [x] Materials reinforce the intended learning objectives.
+- [x] Assessment questions are accurate and appropriate.
+- [x] Answer keys have been checked.
+- [x] Scripts and storyboards agree where they cover the same material.
+- [x] External assets and sources are documented where required.
+- [x] The project does not claim that a planned resource has been completed when only an outline or plan exists.
 
-**Status:** Pending verification.
+**Status:** Verified
 
 **Required action:** Review each material that is required by the assignment and update the checklist based on the actual contents.
 
@@ -189,7 +189,7 @@ Check whether:
 - [X] The README distinguishes completed materials from planned materials.
 - [X] The instructions and descriptions are consistent with the project.
 
-**Status:** Pending link and content verification.(Content Verified)
+**Status:** Content Verified
 
 ### 7.2 CONTRIBUTING.md
 
@@ -197,11 +197,11 @@ File: `CONTRIBUTING.md`
 
 Check whether:
 
-- [ ] The repository structure matches the actual files.
-- [ ] The module-outline and chapter paths are correct.
-- [ ] No nonexistent PowerPoint or other resource is listed as available.
-- [ ] Contribution and review guidance is clear.
-- [ ] The quality-assurance checklist reflects the project requirements.
+- [x] The repository structure matches the actual files.
+- [x] The module-outline and chapter paths are correct.
+- [x] No nonexistent PowerPoint or other resource is listed as available.
+- [x] Contribution and review guidance is clear.
+- [x] The quality-assurance checklist reflects the project requirements.
 
 **Status:** Pending verification.
 
@@ -211,25 +211,25 @@ File: `assets documentation/README.md`
 
 Check whether:
 
-- [ ] The document accurately describes the assets actually included.
-- [ ] External sources and creators are credited where required.
-- [ ] License and permission information is recorded where applicable.
-- [ ] The document does not claim that nonexistent assets are present.
+- [x] The document accurately describes the assets actually included.
+- [x] External sources and creators are credited where required.
+- [x] License and permission information is recorded where applicable.
+- [x] The document does not claim that nonexistent assets are present.
 
-**Status:** Pending verification.
+**Status:** Verifed
 
 ### 7.4 Repository Consistency
 
 Check whether:
 
-- [ ] Internal file paths are consistent across documentation.
-- [ ] Markdown formatting renders correctly.
-- [ ] File names are used consistently.
-- [ ] Unnecessary duplicate files or conflicting versions are identified.
-- [ ] All required deliverables are present.
-- [ ] No unfinished template instructions remain in final documentation.
+- [x] Internal file paths are consistent across documentation.
+- [x] Markdown formatting renders correctly.
+- [x] File names are used consistently.
+- [x] Unnecessary duplicate files or conflicting versions are identified.
+- [x] All required deliverables are present.
+- [x] No unfinished template instructions remain in final documentation.
 
-**Status:** Pending verification.
+**Status:** Verified.
 
 ## 8. Findings and Corrective Actions
 
