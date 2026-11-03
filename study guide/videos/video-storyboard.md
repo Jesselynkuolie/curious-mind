@@ -28,13 +28,13 @@ By the end of the video, viewers should be able to:
 | Scene | Time | Duration | Topic |
 |---|---|---|---|
 | 1 | 00:00–00:15 | 15 seconds | Introduction |
-| 2 | 00:15–00:45 | 30 seconds | What Is AI? |
-| 3 | 00:45–01:20 | 35 seconds | Machine Learning |
-| 4 | 01:20–02:00 | 40 seconds | Generative AI |
-| 5 | 02:00–02:45 | 45 seconds | AI in Everyday Life |
-| 6 | 02:45–03:35 | 50 seconds | Responsible AI |
-| 7 | 03:35–04:10 | 35 seconds | Summary and Conclusion |
-| **Total** | **00:00–04:10** | **250 seconds** | |
+| 2 | 00:15–00:45 | 120 seconds | What Is AI? |
+| 3 | 00:45–01:20 | 120 seconds | Machine Learning |
+| 4 | 01:20–02:00 | 120 seconds | Generative AI |
+| 5 | 02:00–02:45 | 120 seconds | AI in Everyday Life |
+| 6 | 02:45–03:35 | 120 seconds | Responsible AI |
+| 7 | 03:35–04:10 | 120 seconds | Summary and Conclusion |
+| **Total** | **00:00–12:15** | **735 seconds** | |
 
 ---
 
