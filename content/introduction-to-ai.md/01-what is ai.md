@@ -568,16 +568,17 @@ The following resources provide additional information about AI and responsible 
 
 1. Russell, S. J., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
 
-2. IBM. *What Is Artificial Intelligence (AI)?*  
+   [Publisher page](https://www.pearson.com/en-us/subject-catalog/p/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/P200000003500/9780137505135)
+4. IBM. *What Is Artificial Intelligence (AI)?*  
    https://www.ibm.com/think/topics/artificial-intelligence
 
-3. Google for Developers. *Introduction to Machine Learning.*  
+5. Google for Developers. *Introduction to Machine Learning.*  
    https://developers.google.com/machine-learning/intro-to-ml
 
-4. UNESCO. *Guidance for Generative AI in Education and Research.*  
+6. UNESCO. *Guidance for Generative AI in Education and Research.*  
    https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
 
-5. National Institute of Standards and Technology. *Artificial Intelligence Risk Management Framework (AI RMF 1.0).*  
+7. National Institute of Standards and Technology. *Artificial Intelligence Risk Management Framework (AI RMF 1.0).*  
    https://www.nist.gov/itl/ai-risk-management-framework
 
 Learners should consult the original resources for further detail and follow their institution's referencing requirements.
