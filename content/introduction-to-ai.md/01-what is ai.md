@@ -49,6 +49,130 @@ It is important to remember that performing an intelligent-looking task does not
 ### Check Your Understanding
 
 In your own words, explain what AI is. Give one example of an AI system you have used or encountered.
+### 1.2.1 A Brief History of Artificial Intelligence
+
+Artificial Intelligence did not appear suddenly with modern chatbots. It developed through decades of research in mathematics, computer science, and cognitive science.
+
+Understanding its history helps explain why AI capabilities have changed over time.
+
+**Important stages in AI development**
+
+| Period | Development | Significance |
+|---|---|---|
+| 1950 | Alan Turing published his work on machine intelligence and proposed what became known as the Turing Test. | Raised the question of whether machines could demonstrate intelligent behaviour. |
+| 1956 | The Dartmouth Summer Research Project helped establish artificial intelligence as a recognised research field. | AI became a distinct area of academic research. |
+| 1960s–1970s | Researchers developed early symbolic AI systems and rule-based approaches. | Computers could solve certain problems using explicitly defined rules. |
+| 1980s | Expert systems became an important area of AI development. | Computer programs used stored knowledge and rules to support specialised decisions. |
+| 1990s–2000s | Statistical machine learning approaches became increasingly important. | Systems could learn patterns from data rather than relying entirely on manually written rules. |
+| 2010s | Deep learning achieved major progress in areas such as image recognition, speech processing, and language technology. | Neural networks became increasingly capable of processing complex information. |
+| 2020s | Generative AI systems became widely accessible to the public. | Users could generate text, images, code, and other content through natural-language prompts. |
+
+**Why does this history matter?**
+
+The development of AI shows a gradual change in how computers perform intelligent-looking tasks.
+
+Earlier systems often relied heavily on human-defined rules. Machine learning introduced methods for learning patterns from data. Deep learning enabled systems to process increasingly complex information, while generative AI expanded the ability to produce new content.
+
+However, newer technology does not automatically mean perfect intelligence. Modern AI systems still have limitations and require evaluation.
+
+**Check Your Understanding**
+
+1. What was the significance of the 1956 Dartmouth research project?
+2. How did machine learning change the way some AI systems were developed?
+3. Why should modern generative AI not automatically be considered equivalent to human intelligence?
+
+**Suggested Answers**
+
+1. It helped establish artificial intelligence as a recognised research field.
+2. It allowed systems to learn patterns from data instead of relying entirely on manually written rules.
+3. Generative AI can produce convincing content but may still make mistakes and does not necessarily possess human-like understanding or judgement.
+
+### 1.2.2 AI vs Traditional Rule-Based Software
+
+Not every computer program is an AI system. Understanding the difference between traditional rule-based software and AI is important.
+
+**Traditional rule-based software**
+
+Traditional software follows instructions and conditions explicitly written by developers.
+
+For example, imagine a simple system that determines whether a student passes an examination.
+
+The developer writes the following rule:
+
+- If the score is 50 or above, display "Pass".
+- If the score is below 50, display "Fail".
+
+The system follows these instructions exactly. It does not need to learn from previous examination results.
+
+**AI-based software**
+
+An AI-based system may use machine learning to identify patterns from previous examples.
+
+Imagine a system that analyses historical student performance to estimate which students may need additional academic support.
+
+It might examine information such as:
+- Previous examination results.
+- Assignment performance.
+- Attendance patterns.
+- Changes in academic performance.
+
+The model learns patterns from historical data and uses them to make predictions about new cases.
+
+**Comparison**
+
+| Feature | Traditional rule-based software | Machine-learning-based AI |
+|---|---|---|
+| How it works | Follows predefined instructions | Learns patterns from data |
+| Rules | Explicitly written by developers | Patterns are learned during training |
+| Learning | Does not automatically learn from examples | Can improve through suitable training and evaluation |
+| Output | Determined by programmed rules | Based on learned patterns and model predictions |
+| Example | Pass/fail calculator | Student performance prediction model |
+
+**Worked Example**
+
+A school wants to identify students who may need additional support.
+
+Approach A: Traditional software
+
+The school creates a rule:
+
+"If a student's examination score is below 50, flag the student for additional support."
+
+The program checks the score against the condition and produces a result.
+
+Approach B: Machine learning
+
+The school develops a model using historical student data. The model identifies patterns associated with students who previously needed additional support.
+
+It then estimates whether a new student may need support.
+
+The model's prediction is not guaranteed to be correct. The school should evaluate its performance and avoid treating the prediction as a final judgement about a student.
+
+**Important Distinction**
+
+Traditional rule-based software is not automatically AI. However, AI is a broad field that can include systems using rules, search, reasoning, machine learning, and other approaches.
+
+Therefore, it would be inaccurate to say that every AI system learns from data.
+
+**Learning Activity: Identify the Approach**
+
+For each scenario, decide whether it describes traditional rule-based software or machine-learning-based AI.
+
+1. A calculator follows a programmed formula to calculate a percentage.
+2. An email filter learns from labelled examples of spam and legitimate messages.
+3. A program displays a warning whenever a bank transaction exceeds a predefined amount.
+4. A recommendation system learns from users' previous viewing behaviour to suggest films.
+
+**Suggested Answers**
+
+1. Traditional rule-based software.
+2. Machine-learning-based AI.
+3. Traditional rule-based software.
+4. Machine-learning-based AI.
+
+**Reflection**
+
+Why might a school prefer human judgement alongside an AI prediction system rather than allowing the model to make the final decision independently?
 
 ## 1.3 AI, Machine Learning, and Deep Learning
 
