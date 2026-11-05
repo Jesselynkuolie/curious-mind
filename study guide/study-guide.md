@@ -386,6 +386,79 @@ Not every AI system follows exactly this workflow: a rule-based system may need 
 
 Return to your card sort (Activity 1.1). Change any card you would now place differently, and write one sentence on why.
 
+### 1.5 Apply: Place It, Date It, Audit It
+
+**APPLY** — *Use the vocabulary on new examples*
+
+#### ACTIVITY 1.3 Three Circles: Place the Systems
+
+*Individual • 10 minutes • paper*
+
+| | |
+|---|---|
+| **Goal** | Use the AI → ML → DL relationship to classify systems and spot incorrect statements. |
+| **Preparation** | Draw three nested circles labelled AI (largest), ML, and DL (smallest). Draw a small area inside AI but outside ML, labelled "AI without learning". |
+| **Task** | Place each system in the smallest circle that fits: (a) an email filter that flags a fixed list of phrases; (b) a spam filter that learns from labelled emails using a simple word-counting method; (c) a neural network with many layers that recognises objects in photos; (d) a chess program that searches moves using rules written by programmers. Decide whether each statement is true or false: (i) every machine-learning system is deep learning; (ii) every deep-learning system is machine learning; (iii) every AI system learns from data. |
+| **Observation** | Draw your diagram and write one-line reasons for each placement. |
+| **Reflection** | Why do people sometimes use "AI" and "deep learning" as if they meant the same thing? |
+| **Feedback (try first, then check)** | Placement: (a) AI without learning (rule-based; it performs an intelligent-looking task but learns nothing); (b) ML but not DL; (c) DL; (d) AI without learning (search and rules). Statements: (i) False; (ii) True; (iii) False.<br><br>Hint: if you got (a) wrong, check whether the phrases are learned from data or listed by a person. The popular use of "AI" for everything modern comes from headlines about deep learning and generative systems. |
+
+#### ACTIVITY 1.4 The AI Timeline Relay
+
+*Small group • 15 minutes • cut-up cards*
+
+| | |
+|---|---|
+| **Goal** | Understand why AI capabilities changed over time and why newer does not mean perfect. |
+| **Preparation** | Cut a sheet of paper into 14 cards. On seven, write the periods in random order; on the other seven, write the developments (without the significance). |
+| **Task** | Put the period cards in time order first from memory (PREDICT). Then match each period with its development and write its significance. Finally, check your order with the table. |
+| **Observation** | Record the order you predicted and which cards you moved after checking. |
+| **Reflection** | How did the way computers perform intelligent-looking tasks change across the timeline? Why should modern generative AI not automatically be treated as equivalent to human intelligence? |
+| **Feedback (try first, then check)** | The table below is the answer key for order and matching. Model reflection: early systems depended on human-written rules; machine learning added learning from data; deep learning handled more complex data; generative AI produces new content. Newer technology can still make mistakes and lacks guaranteed human-like understanding or judgment, so it must be evaluated.<br><br>Quick questions: Dartmouth 1956 helped establish AI as a research field; machine learning let systems learn from data rather than relying entirely on manually written rules. |
+
+**Timeline table**
+
+| Period | Development | Significance |
+|---|---|---|
+| 1950 | Alan Turing published work on machine intelligence and proposed what became known as the Turing Test. | Raised the question of whether machines could show intelligent behaviour. |
+| 1956 | The Dartmouth Summer Research Project. | Helped establish AI as a recognised research field. |
+| 1960s–1970s | Early symbolic and rule-based AI. | Computers solved some problems using explicitly defined rules. |
+| 1980s | Expert systems. | Programs used stored knowledge and rules for specialised decisions. |
+| 1990s–2000s | Statistical machine learning. | Systems learned patterns from data instead of relying only on hand-written rules. |
+| 2010s | Deep learning progress. | Neural networks processed complex information such as images and speech. |
+| 2020s | Generative AI became widely accessible. | Users could generate text, images, and code through natural-language prompts. |
+
+#### ACTIVITY 1.5 Everyday AI Audit
+
+*Individual, then pairs • 20 minutes • your own phone or computer*
+
+| | |
+|---|---|
+| **Goal** | Recognise AI in everyday digital tools and separate AI-powered features from traditional features. |
+| **Preparation** | Choose five tools you used this week (for example, a maps app, a video platform, a translation tool, a calculator, an alarm clock). Copy the table below. |
+| **Task** | Fill the table. Guiding questions: Does it learn patterns from data or make predictions? Does it simply follow predefined instructions? What evidence supports your decision? Can one app contain both AI-powered and traditional features? Then choose one tool and complete: Task it performs • Benefit • Limitation (what mistake could occur?) • Human role (when should a person check the result?). |
+| **Observation** | Fill the table. For each "Unsure", write what you would need to find out. |
+| **Reflection** | Which of your tools relies most on AI? Which could work well without AI? What could go wrong if an AI feature in one of these tools made an incorrect prediction? |
+| **Feedback (try first, then check)** | Example answers below. Answers vary, so judge your own response by its evidence, not by guessing. Expected outcomes: you can recognise AI in familiar tools, separate ML-based from rule-based features, and explain that not every feature inside an AI-powered app uses AI. |
+
+| No. | Tool / app | Uses AI? (Yes / No / Unsure) | How does it work? | Evidence |
+|---:|---|---|---|---|
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+| 5 |  |  |  |  |
+
+**Example answers**
+
+| Example tool | Uses AI? | How it works |
+|---|---|---|
+| Maps traffic prediction | Yes | Uses traffic data and predictive models to estimate conditions and travel times. |
+| Basic calculator | No | Performs calculations with predefined mathematical operations. |
+| Streaming recommendations | Yes | Recommendation algorithms suggest content based on activity and preferences. |
+| Traditional alarm clock | No | Follows a preset schedule. |
+| Email spam filter | Yes, if ML-based | Uses patterns learned from labelled emails. |
+
 ---
 
 # Topic 2: Machine Learning Basics
