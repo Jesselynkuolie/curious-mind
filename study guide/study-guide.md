@@ -899,7 +899,7 @@ A **large language model (LLM)** is an AI model trained on large amounts of text
 |---:|---|---|
 | 1 | What is generative AI? | AI designed to create new content (text, images, audio, video, code) based on patterns learned from training data. |
 | 2 | What is a token? | A unit of text processed by a language model (a word, part of a word, punctuation, etc.). |
-| 3 | Describe how many LLMs generate text. | They process the prompt as tokens, estimate possible next tokens, select one, and repeat until the response is complete. |
+| 3 | Describe how LLMs generate text. | They process the prompt as tokens, estimate possible next tokens, select one, and repeat until the response is complete. |
 | 4 | True or false: a fluent answer is a correct answer. | False. Fluent text can contain mistakes or invented details. |
 | 5 | Give two ways to improve a prompt. | State the task, add context, name the audience, request a format, or set constraints. |
 
@@ -910,4 +910,39 @@ A **large language model (LLM)** is an AI model trained on large amounts of text
 - Verify important claims, protect private data, disclose AI use when required, and keep human oversight.
 
 ---
+
+## Case 4 • The Inspection Tour
+
+**Module Chapter 4: AI Applications • Prerequisites: Cases 1–3**
+
+> **GLITCH THE OVERCONFIDENT BOT SAYS**
+> I am used in hospitals, schools, roads, shops, farms, and your video feed! That means I am always safe and always fair, obviously.
+
+> **DETECTIVE PIP SAYS**
+> **The mystery:** the same kind of tool can be harmless in one place and dangerous in another. How do we decide how much to trust an AI application, and how much human checking it needs? We will rank applications by the cost of mistakes and then inspect one like a detective.
+
+### Case map
+
+| Item | Details |
+|---|---|
+| **Learning objectives** | 1. Identify common AI applications in everyday life. 2. Explain how AI is used in healthcare, education, transport, business, and entertainment. 3. Describe benefits across industries, and identify risks and limitations. 4. Explain why human oversight matters. 5. Evaluate a real-world AI application with questions about purpose, benefits, and risks. |
+| **Time** | About 1 hour (original reading 40–50 minutes). |
+| **Sequence** | 4.1 Predict (stakes ladder) → 4.2 Explain (applications) → 4.3 Apply (inspection form) → 4.4 Check |
+
+### 4.1 Encounter and Predict: The Stakes Ladder
+
+**ENCOUNTER + PREDICT** — *Which mistakes matter most?*
+
+#### ACTIVITY 4.1 Climb the Stakes Ladder
+
+*Pairs • 15 minutes • paper*
+
+| | |
+|---|---|
+| **Goal** | Judge how serious an AI error would be and match the level of human oversight to the consequences. |
+| **Preparation** | Write each application on a card:<br>(a) music recommendations;<br>(b) an email spam filter;<br>(c) a navigation route suggestion;<br>(d) an AI tutor explaining photosynthesis;<br>(e) a customer-service chatbot;<br>(f) a bank's fraud-detection alert;<br>(g) driver-assistance lane detection;<br>(h) medical-image analysis that highlights possible problems. |
+| **Task** | **PREDICT:** line up the cards from "least serious if wrong" (1) to "most serious if wrong" (8).<br><br>For each card choose an oversight level: **Light** (user can notice and ignore errors), **Moderate** (spot checks and an easy way to challenge), or **Strong** (a qualified person reviews or decides).<br><br>Write one sentence about who could be harmed by an error and how. |
+| **Observation** | Record your order, oversight levels, and reasons. Mark the two cards you were least sure about. |
+| **Reflection** | What features of an application make its errors more serious: safety, money, health, rights, or scale? Which cards changed position after you discussed them? |
+| **Feedback (try first, then check)** | One defensible ordering (many are valid if reasoned): (a) music → (d) tutor → (b) spam filter → (e) chatbot → (c) navigation → (f) fraud alert → (g) driver assistance → (h) medical images. Oversight: Light for (a), (b), (d) (but check the tutor against a textbook); Moderate for (c), (e), (f); Strong for (g) and (h).<br><br>**Explanation.** A bad music suggestion is minor; a missed obstacle on the road or a missed finding in a medical image can cause serious harm. Driver-assistance features are not necessarily autonomous driving, and healthcare AI must not automatically replace qualified professionals. Different reasoning can place (b) or (f) differently. The key is to link consequences of errors to the level of oversight. |
 
