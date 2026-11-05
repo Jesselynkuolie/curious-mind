@@ -21,17 +21,71 @@
 ## Table of Contents
 
 - [Welcome to the Agency](#welcome-to-the-agency)
+  - [Meet the team](#meet-the-team)
+  - [What you will learn](#what-you-will-learn)
+  - [Prerequisites](#prerequisites)
+  - [Suggested route](#suggested-route)
+  - [How every Case works](#how-every-case-works)
+
 - [Case 1 • Is It Really AI?](#case-1--is-it-really-ai)
+  - [Case 1 map](#case-1-map)
   - [1.1 Encounter and Predict: Glitch's Card Pile](#11-encounter-and-predict-glitchs-card-pile)
   - [1.2 Explain: What Is AI?](#12-explain-what-is-ai)
+  - [1.3 Try and Observe: The Spam Detective Lab](#13-try-and-observe-the-spam-detective-lab)
+  - [1.4 Explain: AI, Machine Learning, and Deep Learning](#14-explain-ai-machine-learning-and-deep-learning)
+  - [1.5 Apply: Place It, Date It, Audit It](#15-apply-place-it-date-it-audit-it)
+  - [1.6 Benefits, Risks, and Responsible Use](#16-benefits-risks-and-responsible-use)
+  - [1.7 Apply to Glitch: Interrogate the Witness](#17-apply-to-glitch-interrogate-the-witness)
+  - [1.8 Check Your Understanding](#18-check-your-understanding)
+  - [1.9 Case Notes (Summary)](#19-case-notes-summary)
+
 - [Case 2 • The Fraud Alarm](#case-2--the-fraud-alarm)
+  - [Case 2 map](#case-2-map)
+  - [2.1 Encounter and Predict: Is 95% Accuracy Good?](#21-encounter-and-predict-is-95-accuracy-good)
+  - [2.2 Explain: How Machines Learn](#22-explain-how-machines-learn)
+  - [2.3 Try and Observe: Train a Small Text Classifier](#23-try-and-observe-train-a-small-text-classifier)
+  - [2.4 Try and Observe: Overfitting in TensorFlow Playground](#24-try-and-observe-overfitting-in-tensorflow-playground)
+  - [2.5 Check and Case Notes](#25-check-and-case-notes)
+
 - [Case 3 • The Overconfident Witness](#case-3--the-overconfident-witness)
+  - [Case 3 map](#case-3-map)
+  - [3.1 Encounter, Predict, and Try: Be the Language Model](#31-encounter-predict-and-try-be-the-language-model)
+  - [3.2 Explain: Generative AI and LLMs](#32-explain-generative-ai-and-llms)
+  - [3.3 Watch: A Short Video on How LLMs Work](#33-watch-a-short-video-on-how-llms-work)
+  - [3.4 Try and Observe: The Hallucination Trap](#34-try-and-observe-the-hallucination-trap)
+  - [3.5 Check and Case Notes](#35-check-and-case-notes)
+
 - [Case 4 • The Inspection Tour](#case-4--the-inspection-tour)
+  - [Case 4 map](#case-4-map)
+  - [4.1 Encounter and Predict: The Stakes Ladder](#41-encounter-and-predict-the-stakes-ladder)
+  - [4.2 Explain: Where AI Is Used](#42-explain-where-ai-is-used)
+  - [4.3 Apply: Inspect an AI Application](#43-apply-inspect-an-ai-application)
+  - [4.4 Check and Case Notes](#44-check-and-case-notes)
+
 - [Case 5 • The School Predictor Dispute](#case-5--the-school-predictor-dispute)
+  - [Case 5 map](#case-5-map)
+  - [5.1 Encounter and Try: The School Predictor Hearing](#51-encounter-and-try-the-school-predictor-hearing)
+  - [5.2 Explain: The Six Principles](#52-explain-the-six-principles)
+  - [5.3 Try and Observe: Bias Detective](#53-try-and-observe-bias-detective)
+  - [5.4 Apply: Redact Before You Paste](#54-apply-redact-before-you-paste)
+  - [5.5 Check and Case Notes](#55-check-and-case-notes)
+
 - [Case 6 • The Prompt Workshop](#case-6--the-prompt-workshop)
+  - [Case 6 map](#case-6-map)
+  - [6.1 Encounter and Try: Prompt Makeover](#61-encounter-and-try-prompt-makeover)
+  - [6.2 Explain: Skills for Working with AI](#62-explain-skills-for-working-with-ai)
+  - [6.3 Try and Observe: Run, Review, Revise](#63-try-and-observe-run-review-revise)
+  - [6.4 Try and Observe: Citation Detective](#64-try-and-observe-citation-detective)
+  - [6.5 Apply: The Capstone Mission](#65-apply-the-capstone-mission)
+  - [6.6 Check and Case Notes](#66-check-and-case-notes)
+
 - [Glossary](#glossary)
+
 - [Resource Directory and Access Notes](#resource-directory-and-access-notes)
+
 - [References and Acknowledgements](#references-and-acknowledgements)
+  - [Borrowed media and platforms](#borrowed-media-and-platforms)
+  - [Team contributions and AI-assistance statement](#team-contributions-and-ai-assistance-statement)
 
 ---
 ## Welcome to the Agency
