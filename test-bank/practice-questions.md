@@ -42,20 +42,44 @@
 
 ---
 
-## Instructions
+## Mission Briefing: How to Use This Test Bank
 
-- Answer all 20 questions.
-- **Part A:** Choose one best answer for each multiple-choice question. Each question is worth 1 mark.
-- **Part B:** Answer each short-answer question in your own words. Each question is worth 4 marks.
-- Complete the questions before checking the answer key.
+Welcome back, Explorer. Detective Pip has hidden six AI mysteries across this Test Bank. Your job is not simply to answer questions — it is to catch weak reasoning, spot misleading AI claims, test your own understanding, and explain your thinking like a real AI investigator.
 
-### Assessment Structure
+### Your mission rules
 
-| Section | Question Numbers | Number of Questions | Marks |
-|---|---|---:|---:|
-| Part A: Multiple Choice | 1–15 | 15 | 15 |
-| Part B: Short Answer | 16–20 | 5 | 20 |
-| **Total** | **1–20** | **20** | **35** |
+- **Predict before you answer.** Write your first instinct down, then check it.
+- **Explain false statements.** A correction is worth more than simply writing "False."
+- **Use the Mission Log.** Record surprises, mistakes, and ideas you want to revisit.
+- **Do not peek early.** The Answer Key is at the end — treat it like a locked lab cabinet.
+- **Score honestly.** The goal is to find gaps, not to collect a perfect score.
+- **Claim your badges.** Each completed section earns an Explorer Badge.
+
+### Your Explorer Profile
+
+| Field | Value |
+|---|---|
+| Explorer name |  |
+| Date |  |
+| Target score | ___ / 100 |
+| Badges earned | ☐ Identity Investigator ☐ Pattern Detective ☐ Content Machine Operator ☐ Real-World Analyst ☐ Ethics Officer ☐ Full Mission Commander |
+
+### Scoring guide
+
+| Section | Format | Points | Notes |
+|---|---|---:|---|
+| **A** | 20 true/false questions | 20 | 1 point per question; award the point only if a false statement is correctly corrected. |
+| **B** | 20 multiple choice questions | 20 | 1 point per best answer. |
+| **C** | 12 open-ended questions | 60 | 5 points per question, based on reasoning, examples, accuracy, and completeness. |
+
+**Score bands**
+
+| Score | Band |
+|---|---|
+| 75–100 | AI Explorer Commander |
+| 50–75 | Confident Investigator |
+| 25–50 | Emerging Explorer |
+| Below 25 | Return to the Lab and retry the chapter activities |
 
 ---
 
