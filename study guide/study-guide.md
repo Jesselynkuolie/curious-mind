@@ -1289,7 +1289,7 @@ Only share context that is relevant and appropriate. Constraints improve control
 6. Correct or remove unsupported claims.
 7. Record the sources you used.
 
-**Citations:** never accept AI-generated references automatically. Check that the publication exists, that author, title, and date are right, that the link opens the intended source, and that the source supports the statement. If a citation cannot be verified, do not present it as confirmed. When sources disagree, compare what question each answers, their dates, methods, and definitions, and explain uncertainty instead of claiming the issue is settled. A search snippet is not a substitute for checking the source.
+**Citations:** Never accept AI-generated references automatically. Check that the publication exists, that the author, title, and date are correct, that the link opens the intended source, and that the source supports the statement. If a citation cannot be verified, do not present it as confirmed. When sources disagree, compare what question each answers, their dates, methods, and definitions, and explain uncertainty instead of claiming the issue is settled. A search snippet is not a substitute for checking the source.
 
 **Protect information:** remove unnecessary personal details, never enter passwords or authentication codes, avoid uploading confidential documents to unapproved services, check privacy settings, and get permission before sharing another person's data. **Academic integrity:** read the assignment rules, track how AI was used, verify facts and references, write or revise in line with the rules, disclose AI help when required, and make sure submitted work reflects your own understanding. **Intellectual property:** check licences and service terms, respect source material, and never claim work you did not do.
 
@@ -1321,4 +1321,21 @@ Only share context that is relevant and appropriate. Constraints improve control
 | Completeness |  |
 | Clarity |  |
 | Fairness and safety |  |
+
+### 6.4 Try and Observe: Citation Detective
+
+**TRY / OBSERVE** — *Check whether AI-supplied references exist and support the claims they are attached to*
+
+#### ACTIVITY 6.3 Citation Detective
+
+*20 minutes • browser (or the fallback notes)*
+
+| | |
+|---|---|
+| **Goal** | Check whether AI-supplied references exist and support the claims they are attached to. |
+| **Preparation** | An AI tool gave you three references:<br>1. Russell, S. J., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.<br>2. National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. https://doi.org/10.6028/NIST.AI.100-1<br>3. Okonkwo-Hale, M. (2019). *The Quiet Algorithm*. Meridian Press. (fictional, invented for this activity) |
+| **Task** | For each reference, write the steps you would use to verify it (library or publisher catalogue, DOI lookup, reading the source).<br><br>Try the checks for references 1 and 2. For reference 3, search and record what you find and what you can and cannot conclude.<br><br>The AI also says: "According to NIST AI RMF 1.0, AI must never be used for hiring." Describe how you would test this claim. |
+| **Observation** | Record: reference, what you checked, result, and decision (use, correct, or remove). |
+| **Reflection** | Is a real reference enough? What else must you confirm? |
+| **Feedback (try first, then check)** | References 1 and 2 are real publications listed in this module's sources; confirm details by checking the publisher page or the DOI link. Reference 3 is invented: you should find no matching record. Not finding it is not absolute proof, but you must not present it as confirmed.<br><br>**The NIST claim:** a real reference is not enough. Open the document, search for the statement, and check that it actually says this. The AI RMF is a framework for managing AI risks, so a claim that it bans a use should be treated as unsupported until you find the exact text. If you cannot support it, remove it or state the uncertainty. |
 
