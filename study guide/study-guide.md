@@ -459,6 +459,43 @@ Return to your card sort (Activity 1.1). Change any card you would now place dif
 | Traditional alarm clock | No | Follows a preset schedule. |
 | Email spam filter | Yes, if ML-based | Uses patterns learned from labelled emails. |
 
+### 1.6 Benefits, Risks, and Responsible Use
+
+**EXPLAIN** — *Why AI is worth using and why it needs care*
+
+| Benefits (when well designed and used) | Limitations and risks |
+|---|---|
+| Efficiency — automates repetitive tasks and helps process large amounts of information. | Inaccurate results — fluent answers can still be wrong or fabricated. |
+| Pattern recognition — finds patterns that are hard to notice quickly. | Bias and unfair outcomes — e.g. a recruitment model trained on past hiring decisions can repeat past discrimination. |
+| Personalisation — adapts recommendations or learning activities to observed behaviour. | Privacy risks — personal or confidential information may be processed. |
+| Accessibility — speech recognition, transcription, translation, assistive tools. | Lack of transparency — hard to know why an output was produced. |
+| Decision support — predictions, summaries, classifications, with human oversight. | Overreliance — accepting output without checking. |
+|  | Security and misuse — deceptive messages, impersonation, other harms. |
+
+Responsible use means considering how AI affects people. Core ideas: fairness, privacy and data protection, transparency, accountability (people and organisations stay responsible), safety and reliability, and human oversight (meaningful review for important decisions about health, education, work, money, legal rights, or safety). When using generative AI: be specific; give context; verify important claims; protect confidential information; disclose AI use when required; keep responsibility for what you submit or decide; and respect intellectual property.
+
+#### ACTIVITY 1.6 Risk Radar
+
+*Pairs • 10 minutes*
+
+| | |
+|---|---|
+| **Goal** | Name the type of risk in a realistic situation and suggest a sensible safeguard. |
+| **Preparation** | Risk labels: Inaccurate results • Bias • Privacy • Lack of transparency • Overreliance • Security / misuse. |
+| **Task** | For each case, choose the best risk label and write one practical safeguard.<br><br>1. A chatbot gives a convincing reference to a research paper that does not exist.<br>2. A hiring model trained on past decisions rejects more applicants from a group that was previously under-represented.<br>3. A student pastes a classmate's feedback, with the classmate's name and ID, into a public AI tool.<br>4. A bank refuses a loan, and nobody can explain how the model reached its decision.<br>5. A student submits an AI answer without reading it, and it contains an error.<br>6. Someone clones a manager's voice to ask for an urgent payment. |
+| **Observation** | Note any case that could fit two labels, and say which label you chose and why. |
+| **Reflection** | Which risk worries you most for your own study or work, and what one habit would reduce it? |
+| **Feedback (try first, then check)** | See table below. |
+
+| Case | Risk | Example safeguard |
+|---:|---|---|
+| 1 | Inaccurate results (fabrication) | Check that the source exists and supports the claim. |
+| 2 | Bias | Test performance across groups; add qualified human review; allow appeal. |
+| 3 | Privacy | Do not share; remove identifiers; get permission; use approved tools. |
+| 4 | Lack of transparency | Require explanations and a review route for important decisions. |
+| 5 | Overreliance | Read, verify, and edit before use; keep responsibility. |
+| 6 | Security/misuse | Verify through a second, trusted channel before acting. |
+
 ---
 
 # Topic 2: Machine Learning Basics
