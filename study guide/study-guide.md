@@ -550,3 +550,59 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 > **If I cannot access it** Use the IBM overview https://www.ibm.com/think/topics/artificial-intelligence (note that it is a company page and can emphasise its own products) or re-read Section 1.2.
 
 ---
+
+## Case 2 • The Fraud Alarm
+
+**Module Chapter 2: Machine Learning Basics • Prerequisite: Case 1**
+
+> **GLITCH THE OVERCONFIDENT BOT SAYS**
+> My fraud detector is 95% accurate! That is practically perfect. Give me a medal.
+
+> **DETECTIVE PIP SAYS**
+> **The mystery:** a bank's history shows 95 of every 100 transactions are legitimate. Is a 95%-accurate fraud detector really good? We will find out by building a scoreboard, training a small classifier, and breaking a neural network on purpose.
+
+### Case map
+
+| Item | Details |
+|---|---|
+| **Learning objectives** | 1. Define machine learning and its relationship to AI. 2. Describe data, features, labels, and models. 3. Distinguish supervised, unsupervised, and reinforcement learning. 4. Explain classification versus regression. 5. Describe the stages of training and evaluating a model. 6. Explain overfitting and why unseen test data is needed. 7. Explain how data quality and bias affect results. |
+| **Time** | About 1.5 hours (the original reading is 40–50 minutes). |
+| **Sequence** | 2.1 Predict (scoreboard) → 2.2 Explain (core ideas) → 2.3 Try (text classifier) → 2.4 Try (TensorFlow Playground) → 2.5 Check |
+
+### 2.1 Encounter and Predict: Is 95% Accuracy Good?
+
+**ENCOUNTER + PREDICT** — *Three fraud alarms, one scoreboard*
+
+#### ACTIVITY 2.1 The Fraud Alarm Scoreboard
+
+*Individual or pairs • 20 minutes • pencil, paper, calculator*
+
+| | |
+|---|---|
+| **Goal** | Compute accuracy, precision, and recall and discover why accuracy alone can mislead. |
+| **Preparation** | A bank tests three alarm models on 100 transactions: 95 are legitimate and 5 are fraud. "Positive" means "flagged as fraud". |
+| **Model table** | See below. |
+| **Formulas** | **Accuracy** = (TP + TN) ÷ total • **Precision** = TP ÷ (TP + FP) • **Recall** = TP ÷ (TP + FN). |
+| **Task** | **PREDICT:** before calculating, which model do you think is best for the bank? Write it down with one reason.<br><br>Calculate accuracy, precision, and recall for A, B, and C (if you divide by zero, write "undefined: no positive predictions").<br><br>Choose a model for each situation and justify it: (i) a bank where every missed fraud is very costly and flagged transactions are reviewed by staff; (ii) a bank whose customers get angry when legitimate purchases are blocked. |
+| **Observation** | Complete a table with accuracy, precision, and recall for each model. Circle the model you predicted and its real scores. |
+| **Reflection** | Why does Model A score 95% accuracy while catching no fraud? What question does each metric answer? |
+| **Feedback (try first, then check)** | See feedback table below. |
+
+**Model table**
+
+| Model | What it does | Fraud caught (TP) | Legit wrongly flagged (FP) | Fraud missed (FN) | Legit correctly passed (TN) |
+|---|---|---:|---:|---:|---:|
+| A | Always says "legitimate" | 0 | 0 | 5 | 95 |
+| B | Flags 10 transactions | 4 | 6 | 1 | 89 |
+| C | Flags 20 transactions | 5 | 15 | 0 | 80 |
+
+**Feedback table**
+
+| Model | Accuracy | Precision | Recall |
+|---|---:|---:|---:|
+| A | 95% | undefined (0 flagged) | 0% |
+| B | 93% | 40% (4 of 10) | 80% (4 of 5) |
+| C | 85% | 25% (5 of 20) | 100% (5 of 5) |
+
+**Interpretation.** Model A has the highest accuracy and is useless for detecting fraud. Precision answers "Of the flagged transactions, how many were fraud?" Recall answers "Of all fraud, how many did we catch?" In situation (i), C (or B) may be preferred because recall matters and humans can review false alarms; in (ii), a model with higher precision, such as B, may be preferred. **The right balance depends on the cost of each kind of error.** Alternative justifications are valid if they use these numbers.
+
