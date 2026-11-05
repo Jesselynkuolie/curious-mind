@@ -1366,3 +1366,21 @@ Only share context that is relevant and appropriate. Constraints improve control
 | No private or confidential information was shared |  |
 | I kept my own judgement and disclosed AI help as required |  |
 
+### 6.6 Check and Case Notes
+
+| # | Question | Answer |
+|---:|---|---|
+| 1 | Which prompt is more useful: "AI." or "Explain supervised learning to a beginner in 150 words, with one example and three review questions"? | The second: specific task, audience, length, and format. |
+| 2 | Why does context help? | It clarifies the task, audience, and requirements, though it cannot guarantee accuracy. |
+| 3 | What should you do before using an AI-supplied citation? | Verify that the source exists and supports the claim. |
+| 4 | What if an important claim cannot be verified? | Remove it, or state the uncertainty; do not present it as fact. |
+| 5 | What is the purpose of human review? | To evaluate quality, verify claims, exercise judgement, and take responsibility for the final result. |
+
+**Case notes**
+
+- Choose suitable tasks, write structured prompts, iterate with targeted instructions, and review output on five criteria.
+- Verify claims and citations, protect information, follow academic-integrity rules, and respect intellectual property.
+- Define → check rules and risks → prompt → review → revise → verify → finalise → reflect.
+
+---
+
