@@ -251,7 +251,7 @@ Traditional software follows instructions written by developers. A pass/fail pro
 **TRY / OBSERVE** — *Rules versus learning, with real evidence*
 
 > **DETECTIVE PIP SAYS**
-> Time for an experiment. First you will act as a programmer who writes fixed rules to catch spam. Then you will act as a machine that learns from labelled examples. Finally you will try to fool both. Use pencil and paper; no computer is needed.
+> Time for an experiment. First, you will act as a programmer who writes fixed rules to catch spam. Then you will act as a machine that learns from labelled examples. Finally, you will try to fool both. Use pencil and paper; no computer is needed.
 
 #### ACTIVITY 1.2 The Spam Detective Lab
 
@@ -259,7 +259,7 @@ Traditional software follows instructions written by developers. A pass/fail pro
 
 | | |
 |---|---|
-| **Goal** | Compare a hand-written rule system with a system that learns word patterns from labelled examples, and see why evaluating on unseen data matters. |
+| **Goal** | Compare a handwritten rule system with a system that learns word patterns from labelled examples, and see why evaluating on unseen data matters. |
 | **Preparation** | Training emails (subject lines), labelled by a person: S = spam, L = legitimate (not spam). |
 
 **Training emails:**
@@ -268,13 +268,13 @@ Traditional software follows instructions written by developers. A pass/fail pro
 |---|---|---|
 | 1 | WIN a FREE prize now click here | S |
 | 2 | Free money claim your prize | S |
-| 3 | Meeting moved to 3pm tomorrow | L |
+| 3 | Meeting moved to 3 pm tomorrow | L |
 | 4 | Lecture notes for week 5 attached | L |
 | 5 | Click here to claim free gift card | S |
 | 6 | Lunch tomorrow? my treat | L |
-| 7 | Your account is locked verify password now | S |
+| 7 | Your account is locked; verify password now | S |
 | 8 | Assignment feedback and your grade | L |
-| 9 | Urgent verify your account to win prize | S |
+| 9 | Urgent: verify your account to win prize | S |
 | 10 | Study group tomorrow at library | L |
 
 **Test emails the system has never seen:**
@@ -332,7 +332,7 @@ Which emails did the rule get wrong, and which did the learned scorer get wrong 
 *Part B word-score table (as preserved in the source; some rows are missing in OCR):*
 
 | Word | S | L | Score |
-|---|---:|---:|---:|
+|---|---|---|---|
 | free | 3 | 0 | +3 |
 | prize | 3 | 0 | +3 |
 | claim | 2 | 0 | +2 |
@@ -341,12 +341,50 @@ Which emails did the rule get wrong, and which did the learned scorer get wrong 
 | now | 2 | 0 | +2 |
 | urgent | 1 | 0 | +1 |
 | password | 1 | 0 | +1 |
-| tomorrow | [ ] | [ ] | [ ] |
-| at | [ ] | [ ] | [ ] |
-| 3pm | [ ] | [ ] | [ ] |
-| meeting | [ ] | [ ] | [ ] |
-| notes | [ ] | [ ] | [ ] |
-| for | [ ] | [ ] | [ ] |
+| tomorrow | 0 | 3 | -3 |
+| at | 0 | 1 | -1 |
+| 3pm | 0 | 1 | -1 |
+| meeting | 0 | 1 | -1 |
+| notes | 0 | 1 | -1 |
+| for | 0 | 1 | -1 |
+
+### 1.4 Explain: AI, Machine Learning, and Deep Learning
+
+**EXPLAIN** — *Three terms, three nested circles*
+
+The Spam Detective Lab showed two styles of AI-related systems. The vocabulary below helps you name them:
+
+- **Artificial intelligence (AI)** — the broad field of systems that perform tasks associated with intelligent behaviour. Some AI systems use rules written by people.
+- **Machine learning (ML)** — a subset of AI: methods that let systems learn patterns from data and use them to predict or decide.
+- **Deep learning (DL)** — a subset of ML that uses artificial neural networks with multiple layers to learn complex patterns (used in image recognition, speech processing, and many modern language systems).
+
+> **KEY IDEA**
+> AI is the broadest circle; ML sits inside it; DL sits inside ML. So all deep-learning systems are machine learning, and all machine learning is AI. But not every AI system uses ML, and not every ML system uses deep learning.
+
+**Example with unwanted email:** A rule-based system flags certain phrases; a machine-learning system learns from labelled spam and legitimate emails; a deep-learning system uses a neural network to find more complex patterns in the text. Real filters usually combine several methods.
+
+**Typical workflow**
+
+| Step | What happens | Spam example |
+|---|---|---|
+| 1. Define the problem | Decide the task and how success will be measured. | Identify unwanted email automatically. |
+| 2. Collect or prepare data | Gather relevant, appropriate, representative data. | Collect emails labelled spam / legitimate. |
+| 3. Develop or train | Create rules, or let a model adjust its parameters using examples. | Train a model on the labelled emails. |
+| 4. Evaluate | Test on examples not used in training; check how often unseen emails are misclassified. | Study errors. |
+| 5. Use and monitor | Deploy, then keep checking because the world changes. | Monitor as spammers change tactics. |
+
+Not every AI system follows exactly this workflow: a rule-based system may need no training, and a generative AI system has a far more complex process. And what if the training data had very few legitimate emails? The model might not learn what legitimate mail looks like and could wrongly label real messages as spam (you can test this idea in Activity 1.2, Part C).
+
+**Types of AI by capability**
+
+- **Narrow AI** performs a specific task or a limited range of tasks (spam filtering, translation, image recognition, recommendations). Most AI used today is narrow.
+- **Artificial General Intelligence (AGI)** is a proposed AI with broad abilities to learn and perform many intellectual tasks across contexts. No universally accepted test settles every AGI question, and current systems should not be confused with human-level general intelligence.
+- **Superintelligence** is a hypothetical AI that would greatly exceed human abilities across many domains. It is a topic of debate, not a description of current systems.
+
+> **PLAYFUL ANALOGY (not a technical definition)**
+> Think of AI, ML, and DL like vehicle, car, and electric car: every electric car is a car and every car is a vehicle, but not every vehicle is a car. The analogy helps with the nesting, but it says nothing about how these systems work inside.
+
+Return to your card sort (Activity 1.1). Change any card you would now place differently, and write one sentence on why.
 
 ---
 
