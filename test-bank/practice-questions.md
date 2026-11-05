@@ -460,5 +460,36 @@ Answer each mission in developed prose, normally more than 100 words. Use exampl
 
 ---
 
+## Mission Log: What Did You Discover?
+
+Complete this after marking your answers. The best explorers learn from mistakes, not just correct answers.
+
+- Which question surprised me most, and why?
+
+  _________________________________________________
+
+- Which AI idea do I now understand better?
+
+  _________________________________________________
+
+- Which mistake taught me the most?
+
+  _________________________________________________
+
+- Where did I confuse "can AI do this?" with "should AI do this?"
+
+  _________________________________________________
+
+- What will I check before trusting an AI output next time?
+
+  _________________________________________________
+
+- One question I still want to investigate:
+
+  _________________________________________________
+
+---
+
+
 
 **End of test bank.**
