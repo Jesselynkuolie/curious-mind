@@ -783,3 +783,79 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 - Models should be monitored after deployment because conditions change.
 
 ---
+
+## Case 3 • The Overconfident Witness
+
+**Module Chapter 3: Generative AI and Large Language Models • Prerequisites: Cases 1–2**
+
+> **GLITCH THE OVERCONFIDENT BOT SAYS**
+> I read half the internet, so everything I say is true. Ask me about the famous 2019 book *The Quiet Algorithm*. I remember every chapter.
+
+> **DETECTIVE PIP SAYS**
+> **The mystery:** how can a chatbot write fluent text about almost anything, and yet describe a book that may not exist? We will build a tiny "language model" by hand, set a hallucination trap, and learn what to verify.
+
+### Case map
+
+| Item | Details |
+|---|---|
+| **Learning objectives** | 1. Define generative AI and its purpose. 2. Distinguish generative AI from other AI systems. 3. Explain what a large language model (LLM) is and how it generates a response. 4. Identify applications, benefits, and limitations. 5. Recognise privacy, bias, accuracy, and ethical concerns. 6. Write effective prompts and evaluate generated content responsibly. |
+| **Time** | About 1.25 hours (original reading 40–50 minutes). |
+| **Sequence** | 3.1 Predict + Try (be the language model) → 3.2 Explain → 3.3 Watch → 3.4 Try (hallucination trap) → 3.5 Check |
+
+### 3.1 Encounter, Predict, and Try: Be the Language Model
+
+**ENCOUNTER + PREDICT** — *How does a program choose the next word?*
+
+#### ACTIVITY 3.1 The Next-Word Game
+
+*Pairs or small groups • 20 minutes • paper, pencil, a cup, twelve paper slips*
+
+| | |
+|---|---|
+| **Goal** | Understand, through a miniature model, how generating text one piece at a time can produce fluent but unverified sentences. |
+| **Preparation** | **Mini-corpus (the only text your model has ever "read"):**<br>(1) the cat sat on the mat<br>(2) the cat ate the fish<br>(3) the dog sat on the rug<br>(4) the dog ate the bone<br>(5) the cat sat on the sofa<br>(6) the dog chased the cat.<br><br>Write each word that follows the word "the" in the corpus on its own paper slip (there are twelve such words). |
+| **Task** | **Part A – Predict (5 min).** Without any tool, finish each sentence and give a confidence from 0–100%: "The sun rises in the ____"; "Peanut butter and ____"; "The cat sat on the ____". Compare with a partner: did you choose the same words? Were there several reasonable choices?<br><br>**Part B – Count and draw (10 min).** Count the words that follow "the" and write each count as a fraction of the total. Put the twelve slips in a cup. To generate a sentence, start with "the", draw one slip, write the word, put it back, then continue with the rule that "cat" is followed by sat/ate/(end), "dog" by sat/ate/chased, and any verb is followed by "the" or "on the". Produce five sentences.<br><br>**Part C – Detect (5 min).** Circle any generated sentence that never appears in the corpus. Is it plausible? Is it true of anything in your corpus? |
+| **Observation** | Record the counts, your five sentences, and the circled ones. |
+| **Reflection** | Why can the same starting word lead to different sentences? A fluent sentence can still say something that no one ever wrote or verified. What does that suggest about trusting fluent AI text? Real LLMs do something similar in spirit (estimating the next token from context) at a vastly larger scale. What is different, and what do you think stays the same? |
+| **Feedback (try first, then check)** | Counts after "the": cat 4/12 (about 33%), dog 3/12 (25%), mat, fish, rug, bone, sofa 1/12 each (about 8%). After "cat": sat 2, ate 1, end 1.<br><br>A possible generated sentence is "the dog ate the sofa". It never appears in the corpus, it is grammatical, and it was made from learned patterns — yet nobody stated it. Fluency is not evidence of truth.<br><br>**Teaching-model note:** this is a toy that only looks at one previous word. Real LLMs use very large amounts of text, tokens rather than whole words, and much longer context, and may include extra components such as safety controls, retrieval systems, or tools. |
+
+### 3.2 Explain: Generative AI and LLMs
+
+**EXPLAIN** — *What generative AI is, and how a chatbot writes*
+
+**Generative AI** is AI that produces new content, such as text, images, audio, video, or code, based on patterns learned from training data. It does not necessarily understand information the way a person does; it generates outputs from learned patterns and the instructions (prompts) it receives.
+
+| AI task | Purpose | Example |
+|---|---|---|
+| Classification | Assign an item to a category | Spam or not spam |
+| Prediction | Estimate a likely value or outcome | Predicting future sales |
+| Recommendation | Suggest relevant items | Films based on viewing history |
+| Generation | Create new content | Drafting a story or an image |
+
+The categories overlap. The main difference is the intended output: a classifier assigns a label, a generator produces content.
+
+A **large language model (LLM)** is an AI model trained on large amounts of text and other language data. It learns statistical patterns and relationships between words, tokens, and pieces of text. A **token** is a unit of text processed by a model: a word, part of a word, punctuation, or another unit, depending on the model. LLMs can answer questions, summarise, draft, explain, translate, help with code, and generate ideas.
+
+**How an LLM generates a response (simplified)**
+
+1. Receive a prompt.
+2. Process the input as tokens.
+3. Estimate possible next tokens.
+4. Select a token according to the generation settings.
+5. Repeat until the response is complete.
+6. Return the response.
+
+> **WATCH OUT**
+> Generating a plausible sentence does not guarantee it is correct. A model can produce fluent text with mistakes, misleading statements, or invented details. Verify important claims with reliable sources.
+
+**Applications, benefits, limitations**
+
+| Applications | Benefits | Limitations and risks |
+|---|---|---|
+| Education: explanations, practice questions<br>Business: drafts, summaries<br>Healthcare: administrative and information tasks (with oversight)<br>Software: code suggestions that need review and testing<br>Creative work: ideas and drafts | Faster first drafts<br>Support for learning<br>Idea generation<br>Help with repetitive tasks<br>Adaptable tone, level, and format | Inaccurate information<br>Hallucinations (unsupported or fabricated content stated as true)<br>Bias from training data<br>Outdated information<br>Privacy risks<br>Overreliance<br>Copyright and ownership questions |
+
+**Responsible practices:** verify important claims; protect privacy; review for bias; disclose AI assistance when required; respect intellectual property; keep human oversight for important decisions; follow academic-integrity rules. Effective prompts state the task, context, audience, format, and constraints (Case 6 develops this in full). Refining a prompt can improve relevance but does not guarantee accuracy.
+
+> **PLAYFUL ANALOGY (not a technical definition)**
+> An LLM is like a very well-read autocomplete: it is excellent at continuing text in plausible ways. The analogy helps you remember that plausible and true are different. It is not a technical description of how an LLM is built.
+
