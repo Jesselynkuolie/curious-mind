@@ -1248,3 +1248,52 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 | **Reflection** | Which added part improved the answer most? Does a better prompt guarantee a correct answer? |
 | **Feedback (try first, then check)** | **Model rewrite for (1):** "You are helping a beginner understand responsible AI. Explain it in about 200 words using simple language. Include two everyday examples and distinguish fairness from privacy. Present it as short paragraphs followed by three review questions. Avoid unsupported claims and note important limitations."<br><br>**(2)** needs context (assignment, audience, rules), task (improve clarity only, keep my arguments), constraints (do not add facts), and a format (suggest changes in a table).<br><br>**(3)** needs audience (beginners), length (five minutes), and format (comparison table with why it matters, one everyday example, and a simple visual). A better prompt improves relevance but does not guarantee accuracy. |
 
+### 6.2 Explain: Skills for Working with AI
+
+**EXPLAIN** — *Task choice, prompts, iteration, evaluation, verification*
+
+Choose the task first. AI can often support brainstorming, learning, writing support, organising notes, programming help, research support, and creative work. Take extra care with medical, legal, or financial decisions; private or sensitive information; safety-critical instructions; assessments with strict rules; claims needing precise or current evidence; and decisions affecting someone's rights. Ask: What exactly do I want? Is AI allowed? What would I share? Could it be private? How will I check the result? Which parts need my judgement?
+
+**The six-part prompt framework**
+
+| Part | Ask yourself | Example |
+|---|---|---|
+| Role | What kind of help? | "Act as a study assistant." |
+| Task | What should it do? | "Explain supervised learning." |
+| Context | What background does it need? | "I am a beginner." |
+| Constraints | What rules or limits? | "150 words; do not invent citations." |
+| Output format | How organised? | "Definition, steps, example, five questions." |
+| Quality criteria | What makes it good? | "Accurate; say if uncertain." |
+
+Only share context that is relevant and appropriate. Constraints improve control but do not guarantee compliance or accuracy. Iterate: write, review, identify a specific weakness, give a targeted follow-up, compare with the task, verify facts, and edit yourself. Useful follow-ups: "Simplify without removing essential details", "List assumptions that may be wrong", "Separate facts from recommendations", "Give a counterexample", "List the claims that need external verification". Avoid vague requests such as "make it better".
+
+**Evaluate the output: five criteria**
+
+| Criterion | Key question | What to check |
+|---|---|---|
+| Accuracy | Is it correct? | Facts, calculations, names, dates, citations |
+| Relevance | Does it answer the real question? | Compare with task and audience |
+| Completeness | Is something important missing? | Required topics, steps, evidence, limitations |
+| Clarity | Is it understandable? | Vague language, confusing explanations, jargon |
+| Fairness and safety | Could it mislead or harm? | Bias, sensitive data, unsafe advice |
+
+**Common problems:** hallucinations, outdated information, missing context, bias, overconfidence, incomplete reasoning, and formatting or calculation errors in tables and lists.
+
+**Verify, protect, and stay honest**
+
+1. Identify the factual claims that matter.
+2. Find the original or authoritative source.
+3. Confirm that the source supports the claim.
+4. Check dates, definitions, units, and limits.
+5. Compare important claims with an independent reliable source.
+6. Correct or remove unsupported claims.
+7. Record the sources you used.
+
+**Citations:** never accept AI-generated references automatically. Check that the publication exists, that author, title, and date are right, that the link opens the intended source, and that the source supports the statement. If a citation cannot be verified, do not present it as confirmed. When sources disagree, compare what question each answers, their dates, methods, and definitions, and explain uncertainty instead of claiming the issue is settled. A search snippet is not a substitute for checking the source.
+
+**Protect information:** remove unnecessary personal details, never enter passwords or authentication codes, avoid uploading confidential documents to unapproved services, check privacy settings, and get permission before sharing another person's data. **Academic integrity:** read the assignment rules, track how AI was used, verify facts and references, write or revise in line with the rules, disclose AI help when required, and make sure submitted work reflects your own understanding. **Intellectual property:** check licences and service terms, respect source material, and never claim work you did not do.
+
+> **KEY WORKFLOW**
+> 
+> Eight-step workflow: **Define the task → Check rules and risks → Prompt → Review → Revise → Verify → Finalise → Reflect** (then loop back for next time).
+
