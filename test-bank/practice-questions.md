@@ -515,5 +515,30 @@ Complete this after marking your answers. The best explorers learn from mistakes
 19. **True** — Personal or confidential information should not be entered into public AI tools.
 20. **False** — The workflow continues through review, verification, improvement, and a final use decision.
 
+### Section B: Multiple Choice
+
+| # | Answer | Explanation |
+|---:|---|---|
+| 1 | **b** | AI is a field of computing that develops systems performing tasks associated with human intelligence. |
+| 2 | **b** | Deep learning is a subset of machine learning, which is a subset of AI. |
+| 3 | **c** | A basic calculator performs arithmetic rather than an AI-associated task. |
+| 4 | **b** | Overfitting is memorising training data and failing on unseen data. |
+| 5 | **c** | Supervised learning uses labelled examples. |
+| 6 | **b** | Regression predicts numerical values. |
+| 7 | **b** | Testing on unseen data checks generalisation. |
+| 8 | **b** | Generative AI creates new content. |
+| 9 | **b** | LLMs predict likely token sequences. |
+| 10 | **b** | This is a hallucination. |
+| 11 | **c** | LLMs may produce biased or incorrect outputs. |
+| 12 | **b** | Medical image analysis is a healthcare AI example. |
+| 13 | **b** | AI recommendations may be inaccurate or inappropriate and require human judgement. |
+| 14 | **b** | Transportation uses AI for navigation and route optimisation. |
+| 15 | **c** | Transparency is the relevant principle. |
+| 16 | **b** | This is bias. |
+| 17 | **b** | The "should" question concerns appropriateness, conditions, and safeguards. |
+| 18 | **c** | The first stage is defining the task and deciding whether AI is appropriate. |
+| 19 | **b** | W stands for Warnings/constraints. |
+| 20 | **c** | Medical decisions are high-stakes and require extra care. |
+
 
 **End of test bank.**
