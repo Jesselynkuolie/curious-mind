@@ -515,3 +515,38 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 | **Reflection** | Would an AI answer like this be enough as an academic reference? Why or why not? What did the confident tone tell you about accuracy? |
 | **Feedback (try first, then check)** | **Option B answer.** (1) Correct: Turing published in 1950. (2) Incorrect: the Dartmouth project was in 1956. (3) Incorrect and overstated: deep learning achieved major progress in the 2010s, and rule-based approaches are still used, so they are not "obsolete."<br><br>**Learning point.** Fluent, confident answers can still be wrong. AI output should be treated as information to evaluate, not fact. For an academic claim, you need credible research or official guidance, the sources, and a citation you have checked. A more specific prompt gives a better chance of a useful answer, but it still needs checking. |
 
+### 1.8 Check Your Understanding
+
+**CHECK** — *Six quick questions before you move on*
+
+| # | Question | Answer and explanation |
+|---:|---|---|
+| 1 | Which statement describes AI best: (A) technology only for robots; (B) a field of computing about systems that perform tasks associated with intelligent behaviour; (C) a method of storing files; (D) a system that is always correct? | B. AI is a broad field, not just robots, and it is not always correct. |
+| 2 | Complete: deep learning is a subset of ____, which is a subset of ____. | Machine learning; AI. |
+| 3 | True or false: a pass/fail program with a 50-mark threshold is machine learning. | False. It follows an explicit rule. |
+| 4 | Name two benefits and two limitations of AI. | Benefits: efficiency, pattern recognition, personalisation, accessibility, decision support. Limitations: inaccurate results, bias, privacy risk, lack of transparency, overreliance, misuse. |
+| 5 | Why is a high score on training emails not enough to trust a spam model? | It may have learned the training examples too closely. You need performance on unseen examples. |
+| 6 | Name two practices for responsible generative-AI use. | Verify important claims; protect confidential information; disclose AI use when required; keep responsibility; respect intellectual property. |
+
+### 1.9 Case Notes (Summary)
+
+- AI is a field of computing for systems that perform tasks associated with intelligent behaviour. Intelligent-looking is not the same as understanding.
+- Machine learning is a subset of AI and deep learning is a subset of machine learning. Not every AI system learns from data.
+- Rule-based software follows explicit instructions; learning systems find patterns in data. Learned systems must be tested on unseen examples.
+- AI is used in education, healthcare, transport, business, and online services, with real benefits and real risks: inaccuracy, bias, privacy, lack of transparency, overreliance, and misuse.
+- Responsible use needs fairness, privacy, transparency, accountability, reliability, and human oversight. AI is a valuable tool whose outputs must be understood and evaluated.
+
+> **RESOURCE — Elements of AI — Chapter 1, "What is AI?" (University of Helsinki and MinnaLearn)**
+> **What is it?** Free online introductory AI course; the first chapter discusses how AI can be defined and why the definition is debated. Link: https://www.elementsofai.com
+>
+> **Why use it?** Gives a second explanation of the question Case 1 asks: what counts as AI, and why the boundary is fuzzy?
+>
+> **Which part matters?** Chapter 1 only (about 30–45 minutes). [Team to confirm the exact section range after reading it.]
+>
+> **What should I do?** Before reading, write your own one-sentence definition of AI. After reading, compare it and note one idea you would add or change.
+>
+> **Watch out for** The course may ask you to create an account to save progress. It is a general introduction, so terminology may differ slightly from this guide.
+>
+> **If I cannot access it** Use the IBM overview https://www.ibm.com/think/topics/artificial-intelligence (note that it is a company page and can emphasise its own products) or re-read Section 1.2.
+
+---
