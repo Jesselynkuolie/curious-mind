@@ -38,8 +38,8 @@ Artificial intelligence is everywhere: in your spam folder, your map app, your r
 
 ### Meet the team
 
- **DETECTIVE PIP SAYS**
- I'm Detective Pip. My job is to ask good questions: What is the evidence? What happens if I change one thing? Could this be wrong? I will guide you through each Case.
+> **DETECTIVE PIP SAYS**
+> I'm Detective Pip. My job is to ask good questions: What is the evidence? What happens if I change one thing? Could this be wrong? I will guide you through each Case.
 
 > **GLITCH THE OVERCONFIDENT BOT SAYS**
 > I'm Glitch, the Agency's AI assistant. I am NEVER wrong. (I am sometimes wrong. I just say it very confidently.) Your job is to catch my mistakes. Glitch is a fictional character used for teaching: the mistakes he makes are the kinds that real AI tools can make.
@@ -95,7 +95,24 @@ Every Activity card has the same rows: **Goal** (what you will develop), **Prepa
 
 ---
 
-# Topic 1: Introduction to Artificial Intelligence
+## Case 1 • Is It Really AI?
+
+**Model Case • Module Chapter 1: What Is Artificial Intelligence?**
+
+> **GLITCH THE OVERCONFIDENT BOT SAYS**
+> Everything with a chip is AI! My calculator is AI! My toaster is AI! And my spam filter is definitely AI — although I cannot explain how it works. Also, I am never wrong.
+
+> **DETECTIVE PIP SAYS**
+> **The mystery:** Glitch labels everything "AI." Our job is to find out what really counts as AI, how AI differs from ordinary software, how the AI Agency's tools actually work, and why we should never accept an answer just because it sounds sure.
+
+### Case map
+
+| Item | Details |
+|---|---|
+| **Learning objectives** | 1. Define AI in your own words. 2. Distinguish AI, machine learning (ML), and deep learning (DL). 3. Identify common applications of AI in everyday life. 4. Explain at least two benefits and two limitations of AI. 5. Identify ethical concerns linked to AI. 6. Apply basic responsible-use principles when using an AI system. |
+| **Prerequisites** | None. This is the first Case. |
+| **Estimated time** | About 2 hours, including activities (the original reading takes 30–40 minutes). |
+| **Sequence** | 1.1 Encounter + Predict → 1.2 Explain (What AI is) → 1.3 Try + Observe (Spam Detective Lab) → 1.4 Explain (AI/ML/DL) → 1.5 Apply (circles, timeline, audit) → 1.6 Benefits, risks, responsible use → 1.7 Apply to Glitch → 1.8 Check |
 
 ## 1.1 What Is Artificial Intelligence?
 
