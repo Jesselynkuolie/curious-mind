@@ -22,6 +22,7 @@
 
 - [Welcome to the Agency](#welcome-to-the-agency)
 - [Case 1 • Is It Really AI?](#case-1--is-it-really-ai)
+- - [1.1 Encounter and Predict: Glitch's Card Pile](#1.1--encounter-and-predict)
 - [Case 2 • The Fraud Alarm](#case-2--the-fraud-alarm)
 - [Case 3 • The Overconfident Witness](#case-3--the-overconfident-witness)
 - [Case 4 • The Inspection Tour](#case-4--the-inspection-tour)
