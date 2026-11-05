@@ -1384,3 +1384,58 @@ Only share context that is relevant and appropriate. Constraints improve control
 
 ---
 
+## Glossary
+
+| Term | Meaning |
+|---|---|
+| Academic integrity | Honest and responsible participation in learning and assessment. |
+| Accountability | Responsibility of people and organisations for AI decisions and their consequences. |
+| Algorithm | A defined procedure for solving a problem or carrying out a task. |
+| Artificial general intelligence (AGI) | A proposed AI with broad ability to learn and perform many intellectual tasks across contexts. |
+| Artificial intelligence (AI) | A field of computing that develops systems that perform tasks associated with intelligent behaviour. |
+| Automation bias | Excessive reliance on automated recommendations even when contrary evidence exists. |
+| Bias | A systematic tendency that can contribute to inaccurate, distorted, or unfair outcomes. |
+| Classification | A task that predicts a category or class. |
+| Computer vision | AI techniques that analyse images or video. |
+| Data/dataset | Information used to develop, operate, or evaluate a system / an organised collection of it. |
+| Data leakage | Use of information in training or evaluation that would not legitimately be available at prediction time. |
+| Data minimisation | Limiting collection or sharing of personal information to what is necessary. |
+| Deep learning (DL) | A subset of machine learning that uses neural networks with multiple layers. |
+| Evaluation | Measuring how well a model performs. |
+| Explainability | How far people can understand the reasons for an AI output. |
+| Fairness | Considering whether people and groups are treated justly and whether outcomes are justified. |
+| Feature | An input characteristic used by a model. |
+| Generalisation | How well a model performs on new examples beyond its training data. |
+| Generative AI | AI designed to generate new content such as text, images, audio, video, or code. |
+| Hallucination | AI output that presents unsupported or fabricated information as though it were true. |
+| Human oversight | Appropriate human review, supervision, or intervention. |
+| Iteration | Repeatedly reviewing and improving a result. |
+| Label | The known target or category for an example in supervised learning. |
+| Large language model (LLM) | An AI model trained on large amounts of language data to process and generate language. |
+| Machine learning (ML) | Methods that let systems learn patterns from data and use them for predictions or decisions. |
+| Model | A learned representation or computational system that produces predictions or other outputs. |
+| Narrow AI | AI designed for a specific task or limited range of tasks. |
+| Natural language processing | Techniques that enable computers to work with human language. |
+| Overfitting | When a model fits training data closely but performs poorly on new data. |
+| Precision | The share of positive predictions that are actually positive. |
+| Prediction | An output a model produces for a given input. |
+| Privacy | Respecting people's interests and rights over information about them. |
+| Prompt | An instruction or input given to an AI system. |
+| Recall | The share of actual positive cases that the model correctly identifies. |
+| Recommendation system | A system that suggests items a user may find relevant. |
+| Regression | A task that predicts a numerical value. |
+| Reinforcement learning | Learning by an agent through actions and feedback (rewards or penalties) from an environment. |
+| Reliability | The extent to which a system performs consistently and dependably. |
+| Responsible AI | Developing and using AI while considering its effects on people and society. |
+| Superintelligence | A hypothetical AI greatly exceeding human intellectual abilities across many domains. |
+| Supervised learning | Learning from examples with known labels or target values. |
+| Test data | Data reserved to evaluate a model after development choices are made. |
+| Token | A unit of text processed by a language model. |
+| Training/training data | Adjusting a model using data / the data used for that. |
+| Transparency | Providing relevant information about an AI system's purpose, role, and limits. |
+| Unsupervised learning | Finding patterns or structure in data without predefined target labels. |
+| Validation data | Data used during development to compare approaches or adjust settings. |
+| Verification | Checking that information is accurate and supported by appropriate evidence. |
+
+---
+
