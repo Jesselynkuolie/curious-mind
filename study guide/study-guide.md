@@ -1182,6 +1182,7 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 ### 5.5 Check and Case Notes
 
 > **RESOURCE — UNESCO — Guidance for Generative AI in Education and Research**
+> 
 > **What is it?** An international guidance document discussing responsible use of generative AI in education and research. Link: https://unesdoc.unesco.org/ark:/48223/pf0000386693
 >
 > **Why use it?** It supports the human-agency, privacy, and institutional-safeguard ideas in this Case, in an education setting like yours.
@@ -1209,3 +1210,41 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 - Check performance across groups, protect personal data, assign accountability, and keep meaningful human review.
 
 ---
+
+## Case 6 • The Prompt Workshop
+
+**Module Chapter 6: Practical AI Skills • Prerequisites: Cases 1–5**
+
+> **GLITCH THE OVERCONFIDENT BOT SAYS**
+> 
+> Just type anything and trust my first answer. Prompts do not matter. References? I always make them look impressive.
+
+> **DETECTIVE PIP SAYS**
+> 
+> **The mystery:** how do you get useful help from an AI tool and make sure you can trust what you use? This final Case puts everything together: choose a task, write a structured prompt, review, revise, verify, and reflect.
+
+### Case map
+
+| Item | Details |
+|---|---|
+| **Learning objectives** | 1. Identify tasks suited to AI help. 2. Build effective prompts with a structured framework. 3. Improve a response by iterative prompting. 4. Evaluate output for accuracy, relevance, completeness, bias, and clarity. 5. Verify important claims using reliable sources. 6. Apply privacy, safety, and academic-integrity practices. 7. Complete a practical task with AI while documenting decisions and checking the result. |
+| **Time** | About 1.5 hours. |
+| **Sequence** | 6.1 Encounter + Try (prompt makeover) → 6.2 Explain → 6.3 Try (run, review, revise) → 6.4 Try (citation detective) → 6.5 Apply (capstone) → 6.6 Check |
+
+### 6.1 Encounter and Try: Prompt Makeover
+
+**ENCOUNTER + PREDICT** — *Which prompt would you rather receive?*
+
+#### ACTIVITY 6.1 Prompt Makeover
+
+*Individual or pairs • 15 minutes • paper; optional chatbot*
+
+| | |
+|---|---|
+| **Goal** | Turn weak prompts into clear, checkable ones using a six-part framework. |
+| **Preparation** | The six parts: **Role, Task, Context, Constraints, Output format, Quality criteria.** You do not always need all six. |
+| **Task** | **PREDICT:** Which weak prompt below will give the least useful answer? Why? Rewrite all three using the framework:<br>(1) "Tell me about responsible AI."<br>(2) "Make my essay better."<br>(3) "Give me ideas for a presentation about AI."<br>(Optional) Run the original and your version in a permitted chatbot and compare. |
+| **Observation** | For each prompt, mark which of the six parts you added. |
+| **Reflection** | Which added part improved the answer most? Does a better prompt guarantee a correct answer? |
+| **Feedback (try first, then check)** | **Model rewrite for (1):** "You are helping a beginner understand responsible AI. Explain it in about 200 words using simple language. Include two everyday examples and distinguish fairness from privacy. Present it as short paragraphs followed by three review questions. Avoid unsupported claims and note important limitations."<br><br>**(2)** needs context (assignment, audience, rules), task (improve clarity only, keep my arguments), constraints (do not add facts), and a format (suggest changes in a table).<br><br>**(3)** needs audience (beginners), length (five minutes), and format (comparison table with why it matters, one everyday example, and a simple visual). A better prompt improves relevance but does not guarantee accuracy. |
+
