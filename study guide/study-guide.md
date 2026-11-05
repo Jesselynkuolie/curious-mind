@@ -206,15 +206,45 @@ Glitch has twelve cards describing different systems. Before you read any explan
 
 > Hint: if you put many cards in Pile 3, that is a good sign. The boundary of "AI" really is blurry, and Section 1.2 explains why.
 
-## 1.2 AI, Machine Learning, and Deep Learning
+### 1.2 Explain: What Is AI?
 
-These terms are related, but they do not mean the same thing.
+**EXPLAIN** — *From "intelligent-looking" to a working definition*
 
-- **Artificial Intelligence (AI):** The broad field of creating computer systems that perform tasks associated with intelligent behavior.
-- **Machine Learning (ML):** An approach within AI that allows systems to learn patterns from data.
-- **Deep Learning (DL):** A type of machine learning that uses neural networks with multiple processing layers to learn complex patterns.
+Artificial intelligence is a field of computing concerned with developing systems that perform tasks commonly associated with human intelligence. Typical tasks include:
 
-**Remember the relationship:** Deep learning is a type of machine learning, and machine learning is a part of the broader field of AI.
+- recognising patterns in information
+- understanding or generating language
+- identifying objects in images
+- making predictions from data
+- recommending products or content
+- supporting decisions and solving specific problems
+
+> **KEY DEFINITION**
+> **Artificial Intelligence (AI):** A field of computing that develops systems capable of performing tasks associated with abilities such as learning, reasoning, perception, language processing, and decision support.
+
+Three examples: an email service identifies likely spam; a navigation app estimates journey times from traffic information; an assistant drafts or summarises text. In each case, the system processes information and finds patterns.
+
+> **WATCH OUT**
+> Performing an intelligent-looking task does not mean a system understands the world the way a person does. AI systems also do not all work in the same way: some use rules written by people, some learn patterns from data, and advanced systems may combine techniques.
+
+#### Rule-based software versus learning systems
+
+Traditional software follows instructions written by developers. A pass/fail program might say: if the score is 50 or above, display "Pass"; otherwise display "Fail". It does not need previous results. A machine-learning-based system instead studies historical examples (for instance, past exam results, assignment performance, and attendance) and learns patterns that it uses to make predictions about new cases.
+
+| Feature | Traditional rule-based software | Machine-learning-based AI |
+|---|---|---|
+| How it works | Follows predefined instructions | Learns patterns from data |
+| Rules | Written explicitly by developers | Patterns are learned during training |
+| Learning | Does not automatically learn from examples | Can improve through suitable training and evaluation |
+| Output | Determined by programmed rules | Based on learned patterns and model predictions |
+| Example | Pass/fail calculator | Student-performance prediction model |
+
+> **DETECTIVE PIP SAYS**
+> Important distinction: traditional rule-based software is not automatically AI, but AI is a broad field that includes rules, search, reasoning, machine learning, and more. So it would be wrong to say that every AI system learns from data. (Remember card 9?)
+
+**Worked example (school support).** Approach A: the school writes the rule "if an exam score is below 50, flag the student." The program checks the score and reports. Approach B: the school trains a model on past student data to estimate who may need support. The model's prediction is not guaranteed to be correct, so the school must evaluate it and must not treat it as a final judgement about a student.
+
+**Quick check.** In your own words, what is AI? Give one AI system you have encountered. Then answer: why might a school prefer human judgement alongside an AI prediction instead of letting the model decide alone? *(Model answer: predictions can be wrong or biased, students' circumstances are not fully captured in data, and a teacher can take context and fairness into account.)*
 
 ## 1.3 AI Compared with Rule-Based Automation
 
