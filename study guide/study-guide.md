@@ -38,8 +38,8 @@ Artificial intelligence is everywhere: in your spam folder, your map app, your r
 
 ### Meet the team
 
-> **DETECTIVE PIP SAYS**
-> I'm Detective Pip. My job is to ask good questions: What is the evidence? What happens if I change one thing? Could this be wrong? I will guide you through each Case.
+ **DETECTIVE PIP SAYS**
+ I'm Detective Pip. My job is to ask good questions: What is the evidence? What happens if I change one thing? Could this be wrong? I will guide you through each Case.
 
 > **GLITCH THE OVERCONFIDENT BOT SAYS**
 > I'm Glitch, the Agency's AI assistant. I am NEVER wrong. (I am sometimes wrong. I just say it very confidently.) Your job is to catch my mistakes. Glitch is a fictional character used for teaching: the mistakes he makes are the kinds that real AI tools can make.
