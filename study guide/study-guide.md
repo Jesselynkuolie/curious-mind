@@ -95,9 +95,11 @@ Artificial intelligence is everywhere: in your spam folder, your map app, your r
 ### Meet the team
 
 > **DETECTIVE PIP SAYS**
+> 
 > I'm Detective Pip. My job is to ask good questions: What is the evidence? What happens if I change one thing? Could this be wrong? I will guide you through each Case.
 
 > **GLITCH THE OVERCONFIDENT BOT SAYS**
+> 
 > I'm Glitch, the Agency's AI assistant. I am NEVER wrong. (I am sometimes wrong. I just say it very confidently.) Your job is to catch my mistakes. Glitch is a fictional character used for teaching: the mistakes he makes are the kinds that real AI tools can make.
 
 ### What you will learn
@@ -156,9 +158,11 @@ Every Activity card has the same rows: **Goal** (what you will develop), **Prepa
 **Model Case • Module Chapter 1: What Is Artificial Intelligence?**
 
 > **GLITCH THE OVERCONFIDENT BOT SAYS**
+> 
 > Everything with a chip is AI! My calculator is AI! My toaster is AI! And my spam filter is definitely AI — although I cannot explain how it works. Also, I am never wrong.
 
 > **DETECTIVE PIP SAYS**
+> 
 > **The mystery:** Glitch labels everything "AI." Our job is to find out what really counts as AI, how AI differs from ordinary software, how the AI Agency's tools actually work, and why we should never accept an answer just because it sounds sure.
 
 ### Case map
@@ -240,6 +244,7 @@ Traditional software follows instructions written by developers. A pass/fail pro
 | Example | Pass/fail calculator | Student-performance prediction model |
 
 > **DETECTIVE PIP SAYS**
+> 
 > Important distinction: traditional rule-based software is not automatically AI, but AI is a broad field that includes rules, search, reasoning, machine learning, and more. So it would be wrong to say that every AI system learns from data. (Remember card 9?)
 
 **Worked example (school support).** Approach A: the school writes the rule "if an exam score is below 50, flag the student." The program checks the score and reports. Approach B: the school trains a model on past student data to estimate who may need support. The model's prediction is not guaranteed to be correct, so the school must evaluate it and must not treat it as a final judgement about a student.
@@ -251,6 +256,7 @@ Traditional software follows instructions written by developers. A pass/fail pro
 **TRY / OBSERVE** — *Rules versus learning, with real evidence*
 
 > **DETECTIVE PIP SAYS**
+> 
 > Time for an experiment. First, you will act as a programmer who writes fixed rules to catch spam. Then you will act as a machine that learns from labelled examples. Finally, you will try to fool both. Use pencil and paper; no computer is needed.
 
 #### ACTIVITY 1.2 The Spam Detective Lab
@@ -916,9 +922,11 @@ A **large language model (LLM)** is an AI model trained on large amounts of text
 **Module Chapter 4: AI Applications • Prerequisites: Cases 1–3**
 
 > **GLITCH THE OVERCONFIDENT BOT SAYS**
+> 
 > I am used in hospitals, schools, roads, shops, farms, and your video feed! That means I am always safe and always fair, obviously.
 
 > **DETECTIVE PIP SAYS**
+> 
 > **The mystery:** the same kind of tool can be harmless in one place and dangerous in another. How do we decide how much to trust an AI application, and how much human checking it needs? We will rank applications by the cost of mistakes and then inspect one like a detective.
 
 ### Case map
