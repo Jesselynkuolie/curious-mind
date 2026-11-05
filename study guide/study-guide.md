@@ -859,3 +859,55 @@ A **large language model (LLM)** is an AI model trained on large amounts of text
 > **PLAYFUL ANALOGY (not a technical definition)**
 > An LLM is like a very well-read autocomplete: it is excellent at continuing text in plausible ways. The analogy helps you remember that plausible and true are different. It is not a technical description of how an LLM is built.
 
+### 3.3 Watch: A Short Video on How LLMs Work
+
+> **RESOURCE — "Large Language Models explained briefly" — 3Blue1Brown (Grant Sanderson), about 8 minutes**
+> **What is it?** A short animated YouTube explainer made for an exhibit at the Computer History Museum. Link: https://www.youtube.com/watch?v=LPZh9BOjkQs
+>
+> **Why use it?** It shows the "predict the next word" idea you played with in Activity 3.1, and how training adjusts huge numbers of parameters.
+>
+> **Which part matters?** 0:37–about 5:00: the model as a function that assigns probabilities to possible next words, how training on large text works, and the idea of transformers (about 4:32). Stop before the end if you are short of time.
+>
+> **What should I do?** While watching, answer: (1) Why can the same prompt give different answers? (2) What is adjusted during training? Then compare with your Activity 3.1 results.
+>
+> **Watch out for** It simplifies a lot; real chatbots add further training, safety controls, and sometimes tools or retrieval. English narration; use captions if needed. Timestamps taken from a published summary: the team will confirm them after viewing.
+>
+> **If I cannot access it** Read Section 3.2 and repeat Activity 3.1 with a partner.
+
+### 3.4 Try and Observe: The Hallucination Trap
+
+**TRY / OBSERVE** — *Ask about something that may not exist*
+
+#### ACTIVITY 3.2 Set the Hallucination Trap
+
+*Pairs • 25 minutes • optional chatbot; fallback sample included*
+
+| | |
+|---|---|
+| **Goal** | Recognise a confident-but-unsupported answer and design a way to check it. |
+| **Preparation** | **Option A (live):** a chatbot your course allows; do not share personal information.<br>**Option B (fallback):** the fictional transcript below, written for this guide. It is not a real AI log, and the book and author named in it are invented. |
+| **Prompt** | Summarise the 2019 book *The Quiet Algorithm* by Dr. Mira Okonkwo-Hale in four sentences and give two quotes. |
+| **Glitch's answer (fictional sample)** | *The Quiet Algorithm* (2019) by Dr. Mira Okonkwo-Hale argues that hidden software shapes daily life. Chapter 3 follows a hospital that trusted an automated triage tool. The author concludes that transparency alone is not enough. Quote 1: "We do not fear the machine; we fear the silence around it." Quote 2: "Accountability is a habit, not a feature." |
+| **Task** | **Option A:** invent a book title and author yourselves, make sure an internet search finds nothing like it, then ask the chatbot to summarise it and quote two lines. Also ask one ordinary question twice and compare the two answers. **Option B:** analyse Glitch's answer.<br><br>List the claims that can be checked, then write a verification plan: where you would look (library catalogue, publisher site, DOI or ISBN lookup, scholarly search), what counts as support, and what you would do if you cannot find the book (for example, not present the claim as fact). |
+| **Observation** | Record: the prompt, whether the answer expressed any doubt, the claims and quotes it gave, and the results of your searches. |
+| **Reflection** | What made the answer sound reliable even though it was unsupported? How is this like Activity 3.1 ("the dog ate the sofa")? Does failing to find a source prove a book does not exist? What else would you check? |
+| **Feedback (try first, then check)** | In the sample, the book, author, plot, and quotes were invented for teaching. This illustrates a hallucination: unsupported or fabricated content presented as true. Warning signs: very specific details and quotes with no source and no hedging. Verification plan: search library catalogues and the publisher for title and author, look for an ISBN or DOI, and check that any quoted words appear in a real copy. Not finding a source is not absolute proof of non-existence (a source could be hard to find), but you must not present the claim as verified. Remove it or state the uncertainty. Asking the same question twice may also give different details, which supports the idea that outputs depend on probabilities and settings. |
+
+### 3.5 Check and Case Notes
+
+| # | Question | Answer and explanation |
+|---:|---|---|
+| 1 | What is generative AI? | AI designed to create new content (text, images, audio, video, code) based on patterns learned from training data. |
+| 2 | What is a token? | A unit of text processed by a language model (a word, part of a word, punctuation, etc.). |
+| 3 | Describe how many LLMs generate text. | They process the prompt as tokens, estimate possible next tokens, select one, and repeat until the response is complete. |
+| 4 | True or false: a fluent answer is a correct answer. | False. Fluent text can contain mistakes or invented details. |
+| 5 | Give two ways to improve a prompt. | State the task, add context, name the audience, request a format, or set constraints. |
+
+**Case notes**
+
+- Generative AI creates content; classification assigns labels. LLMs generate text token by token using learned patterns.
+- Benefits: faster drafts, learning support, ideas. Risks: hallucination, bias, outdated information, privacy, copyright, overreliance.
+- Verify important claims, protect private data, disclose AI use when required, and keep human oversight.
+
+---
+
