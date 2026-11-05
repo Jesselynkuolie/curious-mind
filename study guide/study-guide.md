@@ -641,7 +641,67 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 
 **Overfitting, data quality, and bias**
 
-**Overfitting:** a model fits its training data very closely, even noise or accidental patterns, and performs poorly on new data. Example: a dog classifier trained on photos where most dogs are on grass may learn "grass" instead of "dog". Ways to reduce it include more representative data, validation data, less unnecessary complexity, regularisation where appropriate, removing leakage, and testing in realistic conditions. None guarantees success.
+**Overfitting:** a model fits its training data very closely, including noise or accidental patterns, and performs poorly on new data. Example: a dog classifier trained on photos where most dogs are on grass may learn "grass" instead of "dog". Ways to reduce it include more representative data, validation data, less unnecessary complexity, regularisation where appropriate, removing leakage, and testing in realistic conditions. None guarantees success.
 
-**Data problems:** missing, incorrect, duplicate, unrepresentative, or outdated data. Bias can arise when data reflect past unfair practices (for example historical hiring decisions). Reduce risk by checking data sources, checking representation, evaluating across groups, studying errors, protecting personal information, involving knowledgeable reviewers, and monitoring after deployment. Fairness cannot always be captured by one metric.
+**Data problems:** missing, incorrect, duplicate, unrepresentative, or outdated data. Bias can arise when data reflect past unfair practices (for example, historical hiring decisions). Reduce risk by checking data sources, checking representation, evaluating across groups, studying errors, protecting personal information, involving knowledgeable reviewers, and monitoring after deployment. Fairness cannot always be captured by one metric.
+
+### 2.3 Try and Observe: Train a Small Text Classifier
+
+#### ACTIVITY 2.2 Which Kind of Learning?
+
+*Individual • 10 minutes*
+
+| | |
+|---|---|
+| **Goal** | Classify real situations by learning type and task. |
+| **Preparation** | None. |
+| **Task** | For each scenario: (1) choose supervised, unsupervised, or reinforcement learning; (2) if supervised, choose classification or regression; (3) say what information you would need to evaluate it; (4) name one limitation.<br><br>**A** A system learns from emails labelled "Spam" / "Not spam" to classify new emails.<br>**B** A retailer wants groups of customers with similar buying patterns, without predefined groups.<br>**C** A model uses property features to estimate a house's selling price.<br>**D** An agent learns a strategy in a game from rewards and penalties.<br>**E** A model predicts whether a photo shows a cat, a dog, or a bird. |
+| **Observation** | Write your answers in a small table with columns: scenario, learning type, task, evaluation data, limitation. |
+| **Reflection** | Which scenario needs the most human oversight before its predictions are used for important decisions? Consider the consequences of errors and the people affected. |
+| **Feedback (try first, then check)** | See table below. |
+
+| Scenario | Type / task | Evaluation idea | Limitation example |
+|---|---|---|---|
+| A | Supervised • classification | Precision, recall, accuracy on separate test data | Legitimate emails flagged as spam |
+| B | Unsupervised • clustering | Are groups meaningful, stable, useful? | Groups may not reflect real differences |
+| C | Supervised • regression | Compare predicted and actual prices on test data | Market changes make old data outdated |
+| D | Reinforcement learning | Test across many games or scenarios | May fail in situations unlike training |
+| E | Supervised • classification | Test-set performance; study errors by image condition | Fails on images unlike the training data |
+
+#### ACTIVITY 2.3 Spam or Not Spam: Train, Test, Break, Improve
+
+*Pairs • 25 minutes • browser • Machine Learning for Kids*
+
+> **RESOURCE — Machine Learning for Kids (Dale Lane) — text recognition project**
+> **What is it?** A free web platform for training small machine learning models and using them in projects. Link: https://machinelearningforkids.co.uk
+>
+> **Why use it?** It makes the invisible training process visible: you provide labelled examples, press Train, and test the model yourself.
+>
+> **Which part matters?** The text-recognition project type only. Choose "Get started", then "Try it now" to use it without an account (your project cannot be saved, so keep notes). A free teacher account can be used for saved work.
+>
+> **What should I do?** Follow Activity 2.3. Do not type personal information into any example.
+>
+> **Watch out for** Small training sets give unstable results; this is a teaching tool, not a production system. The site's layout and messages may change; the team tested these steps on [date — insert] using [browser — insert].
+>
+> **If I cannot access it** Use the "illustrative results" table in the Feedback row of Activity 2.3 and answer its analysis questions.
+
+| | |
+|---|---|
+| **Goal** | Experience supervised learning: labelled data → training → prediction → error analysis → better data. |
+| **Preparation** | Open https://machinelearningforkids.co.uk → Get started → Try it now → Add a new project → name it SpamDetective, choose recognising text, language English → Create.<br><br>Training examples to type in (the site may ask for a minimum number per label): see table below. |
+| **Task** | Open Train, add the two labels, and add all twelve examples. Open Learn & Test and choose Train new machine learning model. **PREDICT:** which of the six test messages below will the model get wrong?<br><br>Test each message and record the label and confidence the model gives:<br>(1) Free pizza at the student club tonight<br>(2) Congratulations, you won a vacation, click to claim<br>(3) Please verify your attendance for tomorrow's class<br>(4) Limited seats left for our study workshop<br>(5) Your parcel is waiting, pay a small fee to release it<br>(6) Meeting notes attached, call me when free.<br><br>**Improve:** for any message the model got wrong, add 3–5 new, different training examples in the correct label (for instance normal messages that contain "free", "verify", or "limited"), train again, and retest the same six messages. |
+| **Observation** | Record a table: message • your prediction • model label • confidence • correct? (before). Repeat after retraining. Note which words appear in the mistakes. |
+| **Reflection** | What patterns did the model learn from the words, and what did it not learn? Why did adding data change the result? Would testing only on your training messages have revealed the problem? Is the model "understanding" messages? What does your evidence suggest? |
+| **Feedback (try first, then check)** | Expected outcomes vary with the platform version and the examples you typed, so use your own results. A common pattern is mistakes on messages that look spammy by single words (such as "free", "verify", "limited") but are normal in context (messages 1, 3, 4, 6), because the model learned word patterns rather than meaning. After adding varied normal examples, those mistakes often fall, showing that better, more representative training data improves a model.<br><br>**Fallback (hypothetical, not a real run):** Suppose a model labelled test messages as follows. Analyse it: (1) not_spam 55%; (2) spam 90%; (3) spam 70%; (4) spam 60%; (5) spam 52%; (6) not_spam 51%. Which results are probably wrong given human labels? (Answer: messages 3 and 4 are normal messages that the model wrongly calls spam; 1, 2, 5, and 6 agree with human labels, but the low confidence on 1, 5, and 6 shows the model is unsure.) Why might words like "verify" mislead it? (They appeared only in spam examples.)<br><br>Keep a screenshot of your before/after results for your own records. |
+
+**Training examples**
+
+| Label: spam | Label: not_spam |
+|---|---|
+| Win a free prize now | Can we move our meeting to 3 pm? |
+| Claim your free gift card today | Here are the lecture notes from today |
+| Urgent: verify your password to unlock your account | Don't forget the group project deadline on Friday |
+| You have been selected for a cash reward | Thanks for your help with the assignment |
+| Click here for a limited-time offer | Are you free for lunch tomorrow? |
+| Cheap watches best price buy now | The library closes early on Saturday |
 
