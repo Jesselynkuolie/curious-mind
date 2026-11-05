@@ -20,8 +20,8 @@ The team reviewed the learning materials for clarity, accuracy, beginner-friendl
 
 - [Complete final proofreading of all Markdown chapters.
 
-Check consistency between the study guide, test bank, slides, and video materials.
+- Check consistency between the study guide, test bank, slides, and video materials.
 
-Review formatting and references before final submission.
+- Review formatting and references before final submission.
 
-Make any additional revisions based on final team feedback.]
+- Make any additional revisions based on final team feedback.]
