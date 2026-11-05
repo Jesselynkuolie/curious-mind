@@ -68,32 +68,30 @@ Follow the Cases in order; each builds on the last. Case 1 is the model Case: it
 
 | Case | Module chapter | Main question | Hands-on tools | Time |
 |---|---|---|---|---|
-| 1 • Is It Really AI? | Ch 1: What Is AI? | What counts as AI, and what does not? | Cards, paper lab, timeline | about 2 hours |
-| 2 • The Fraud Alarm | Ch 2: Machine Learning Basics | How does a machine learn, and how do we know it learned well? | Paper scoreboard, Machine Learning for Kids, TensorFlow Playground | about 1.5 hours |
-| 3 • The Overconfident Witness | Ch 3: Generative AI and LLMs | How does a chatbot produce fluent text, and why can it be wrong? | Paper "next-word" game, optional chatbot, video | about 1.25 hours |
-| 4 • The Inspection Tour | Ch 4: AI Applications | Where is AI used, and what happens when it errs? | Inspection form, stakes ladder | about 1 hour |
-| 5 • The School Predictor Dispute | Ch 5: Responsible AI | Should this AI be used, and under what safeguards? | Role-play, fairness calculation, privacy redaction | about 1.25 hours |
-| 6 • The Prompt Workshop | Ch 6: Practical AI Skills | How do I get useful help from AI and check it? | Prompt makeover, citation check, caption workflow | about 1.5 hours |
+| 1 • Is It Really AI? | Ch. 1: What Is AI? | What counts as AI, and what does not? | Cards, paper lab, timeline | about 2 hours |
+| 2 • The Fraud Alarm | Ch. 2: Machine Learning Basics | How does a machine learn, and how do we know it learned well? | Paper scoreboard, Machine Learning for Kids, TensorFlow Playground | about 1.5 hours |
+| 3 • The Overconfident Witness | Ch. 3: Generative AI and LLMs | How does a chatbot produce fluent text, and why can it be wrong? | Paper "next-word" game, optional chatbot, video | about 1.25 hours |
+| 4 • The Inspection Tour | Ch. 4: AI Applications | Where is AI used, and what happens when it errs? | Inspection form, stakes ladder | about 1 hour |
+| 5 • The School Predictor Dispute | Ch. 5: Responsible AI | Should this AI be used, and under what safeguards? | Role-play, fairness calculation, privacy redaction | about 1.25 hours |
+| 6 • The Prompt Workshop | Ch. 6: Practical AI Skills | How do I get useful help from AI and check it? | Prompt makeover, citation check, caption workflow | about 1.5 hours |
 
----
-## 1. Purpose of This Study Guide
+### How every Case works
 
-This study guide supports learners as they explore Artificial Intelligence (AI), machine learning, generative AI, real-world AI applications, responsible AI use, and practical AI skills.
+Each Case follows a path that we call the Agency Method. Look for the amber tags:
 
-It summarizes key concepts from the six module topics, provides examples, and includes questions and activities to help learners check their understanding.
+| Tag | What you do | Why |
+|---|---|---|
+| ENCOUNTER | Meet a puzzling situation or claim. | Learning is easier when you have a problem to solve. |
+| PREDICT | Write down your guess before reading the answer. | Guessing first shows what you already think, so surprises teach you more. |
+| TRY / OBSERVE | Run the experiment and record what really happened. | Evidence beats opinion. |
+| EXPLAIN | Read the explanation and connect it to what you saw. | Now the ideas have something to attach to. |
+| APPLY | Use the idea in a new situation. | Understanding means you can use it. |
+| CHECK | Test yourself and review the case notes. | Find gaps before the exam does. |
 
-Use this guide alongside the learning materials in the `content/` folder and the practice questions in `test-bank/practice-questions.md`.
+Every Activity card has the same rows: **Goal** (what you will develop), **Preparation**, **Task**, **Observation** (what to record), **Reflection** (what it means), and **Feedback** (expected results, hints, and explanations). Try the task before reading the Feedback row. Other boxes you will see: **Detective Pip** (guidance), **Glitch** (a confident claim to test), **Key idea**, **Watch out**, **Playful analogy** (fun, but not a technical definition), and purple **Resource cards** for videos and websites.
 
-## 2. Intended Learning Outcomes
-
-After studying this module, learners should be able to:
-
-1. Define Artificial Intelligence and explain its relationship with Machine Learning and Deep Learning.
-2. Describe basic machine learning concepts, including data, training, models, and predictions.
-3. Explain the basic purpose and capabilities of generative AI and large language models.
-4. Identify AI applications across different industries and evaluate their potential benefits and limitations.
-5. Recognize ethical concerns involving accuracy, bias, privacy, fairness, and human oversight.
-6. Apply basic prompting, verification, and critical evaluation skills when using AI tools.
+> **WATCH OUT**
+> Tool safety rules for every Case. (1) Never type passwords, personal details, or other people's private information into any AI tool or website. (2) Follow your course's rules on AI use, and record any AI help you use. (3) AI output is evidence to check, not a fact to copy. (4) If a website is unavailable, use the fallback sample provided in the activity.
 
 ---
 
