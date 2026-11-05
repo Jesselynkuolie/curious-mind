@@ -606,3 +606,42 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 
 **Interpretation.** Model A has the highest accuracy and is useless for detecting fraud. Precision answers "Of the flagged transactions, how many were fraud?" Recall answers "Of all fraud, how many did we catch?" In situation (i), C (or B) may be preferred because recall matters and humans can review false alarms; in (ii), a model with higher precision, such as B, may be preferred. **The right balance depends on the cost of each kind of error.** Alternative justifications are valid if they use these numbers.
 
+### 2.2 Explain: How Machines Learn
+
+**EXPLAIN** — *From the scoreboard to the whole pipeline*
+
+**Machine learning (ML)** is an area of AI in which computer systems use data to learn patterns and perform tasks without every decision being written as a separate rule. In the Spam Detective Lab, the word scores were learned from labelled examples instead of typed in by a programmer.
+
+| Term | Meaning | Example |
+|---|---|---|
+| Data/dataset | Information used to develop or operate a system; an organised collection of it. | Thousands of labelled emails |
+| Feature | An input characteristic used by a model. | Number of links in an email |
+| Label | The known target in supervised learning. | "Spam" or "Not spam" |
+| Algorithm | A procedure used to learn patterns or solve a problem. | A procedure that learns to classify emails |
+| Model | A learned representation of patterns used for predictions. | A trained email classifier |
+| Training | Using data to adjust a model's parameters. | Learning from labelled emails |
+| Prediction | Model output for a new input. | Classifying a new email as likely spam |
+| Evaluation | Measuring performance on relevant data. | Checking how often the classifier is correct |
+
+**The ML pipeline:** Define the problem → Collect data → Prepare data (fix duplicates, missing values, errors) → Select a learning method → Train → Evaluate on data not used for training → Deploy and monitor. The cycle may repeat if results are poor.
+
+**Three types of machine learning**
+
+| Type | Data or feedback | Purpose | Example |
+|---|---|---|---|
+| Supervised | Examples with known labels or values | Predict a category or value | Classifying emails |
+| Unsupervised | Data without predefined target labels | Find patterns or groupings | Grouping customers by purchases |
+| Reinforcement | Rewards or penalties from actions in an environment | Learn a strategy by interaction | Learning to play a game |
+
+**Classification** predicts a category (spam or not spam; cat, dog, or bird). **Regression** predicts a number (house price; travel time). Discovered groups in unsupervised learning are not automatically meaningful; people must interpret them.
+
+**Training, validation, and test data**
+
+To check that a model generalises, data is often split. Example for 1,000 labelled examples: 700 for training (fit the model), 150 for validation (compare settings during development), 150 for testing (final check). This is only an illustration. **Data leakage** happens when information that would not truly be available at prediction time influences training or evaluation, making results look unrealistically good.
+
+**Overfitting, data quality, and bias**
+
+**Overfitting:** a model fits its training data very closely, even noise or accidental patterns, and performs poorly on new data. Example: a dog classifier trained on photos where most dogs are on grass may learn "grass" instead of "dog". Ways to reduce it include more representative data, validation data, less unnecessary complexity, regularisation where appropriate, removing leakage, and testing in realistic conditions. None guarantees success.
+
+**Data problems:** missing, incorrect, duplicate, unrepresentative, or outdated data. Bias can arise when data reflect past unfair practices (for example historical hiring decisions). Reduce risk by checking data sources, checking representation, evaluating across groups, studying errors, protecting personal information, involving knowledgeable reviewers, and monitoring after deployment. Fairness cannot always be captured by one metric.
+
