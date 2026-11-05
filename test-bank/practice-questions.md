@@ -627,5 +627,17 @@ Complete this after marking your answers. The best explorers learn from mistakes
 *Key points:* six-stage workflow, specific checks, rationale for verification, responsibility.
 
 ---
+## Section C Rubric
 
-**End of test bank.**
+| Score | Descriptor |
+|---|---|
+| **5 — Excellent** | Accurate, well-structured; addresses all key parts; applies concepts; reasoning and examples are clear. |
+| **4 — Strong** | Mostly accurate and complete; minor omission or limited development. |
+| **3 — Satisfactory** | Shows core understanding but misses one important element or gives limited explanation. |
+| **2 — Developing** | Partial understanding; several omissions or unclear reasoning. |
+| **1 — Limited** | Very little relevant understanding; major inaccuracies or unsupported statements. |
+| **0 — No credit** | No answer or response is unrelated. |
+
+---
+
+## End of Test Bank
