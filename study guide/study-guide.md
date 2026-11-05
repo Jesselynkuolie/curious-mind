@@ -1179,3 +1179,33 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 | **Reflection** | Whose permission might you need before sharing another person's information? When should you not use an AI tool at all for this task? |
 | **Feedback (try first, then check)** | **Underlined:** name, student ID, email, classmate's name, his score, comments about his performance and attendance. **Example rewrite:** "Please summarise this feedback so a student can improve a group report: 'The analysis needs more evidence and the structure needs to be clearer.'"<br><br>**Second case:** Yes, a combination of details can identify someone even without a name. Do not assume removing names makes information anonymous. Do not assume information typed into an AI tool is automatically private or immediately deleted; check privacy settings, rules, and permissions, or use an approved tool. Confidential or sensitive material may need to stay out of public AI tools entirely. |
 
+### 5.5 Check and Case Notes
+
+> **RESOURCE — UNESCO — Guidance for Generative AI in Education and Research**
+> **What is it?** An international guidance document discussing responsible use of generative AI in education and research. Link: https://unesdoc.unesco.org/ark:/48223/pf0000386693
+>
+> **Why use it?** It supports the human-agency, privacy, and institutional-safeguard ideas in this Case, in an education setting like yours.
+>
+> **Which part matters?** The summary or introduction and the sections about privacy and human agency. [Team: confirm the exact range after reading.]
+>
+> **What should I do?** Find one recommendation about data protection or human agency and say how it applies to Activity 5.1.
+>
+> **Watch out for** It is guidance and recommendations, not law; applicability varies by place. Long document: skim, do not read everything.
+>
+> **If I cannot access it**, use the six-principle table in Section 5.2.
+
+| # | Question | Answer |
+|---:|---|---|
+| 1 | What is the main goal of responsible AI? | To develop and use AI with appropriate consideration for people, society, and potential harms. |
+| 2 | A recruitment system does well overall but badly for one group. Which principle is most involved? | Fairness and non-discrimination; overall performance can hide group differences. |
+| 3 | What is meaningful human oversight? | Qualified people have the information and authority to evaluate, challenge, and intervene. |
+| 4 | Who is accountable for an AI-supported decision? | The responsible people and organisations; automation does not remove responsibility. |
+| 5 | Why is responsible AI an ongoing process? | Systems, data, users, and environments change, so risks need monitoring. |
+
+**Case notes**
+
+- Ask both: can the system do it, and should it be used here, with which safeguards?
+- Use the six principles and the five-step framework; watch for automation bias.
+- Check performance across groups, protect personal data, assign accountability, and keep meaningful human review.
+
+---
