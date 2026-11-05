@@ -5,6 +5,7 @@
 
 > Solve problems. Test the tools. Catch the mistakes. Learn why AI works, and why it sometimes fails.
 
+| | |
 |---|---|
 | **Module** | Introduction to Artificial Intelligence (beginner level) |
 | **Team** | Curious Mind |
@@ -45,15 +46,34 @@ Artificial intelligence is everywhere: in your spam folder, your map app, your r
 
 ### What you will learn
 
-By the end of the guide you should be able to:
+By the end of the guide, you should be able to:
 
 1. Explain the meaning of AI and recognise fundamental AI concepts (Case 1).
 2. Describe basic machine learning approaches and terminology, and evaluate a model (Case 2).
 3. Explain generative AI and large language models at an introductory level (Case 3).
 4. Identify AI applications in everyday life and different industries, and judge their benefits and risks (Case 4).
-5. Recognise ethical concerns, privacy risks, bias, and limitations, and apply responsible-AI principles (Case 5).
+5. Recognise ethical concerns, privacy risks, bias, and limitations, and apply responsible AI principles (Case 5).
 6. Create effective prompts and critically evaluate AI-generated responses (Case 6).
 7. Apply responsible AI practices while keeping your own independent judgement (all Cases).
+
+### Prerequisites
+
+- No programming and no mathematics beyond percentages and simple counting.
+- A web browser and a pen or pencil. Printed or handwritten cards are fine.
+- For some activities: an AI chatbot if your course allows it. Every such activity includes a ready-made sample so you can still complete it without a chatbot.
+
+### Suggested route
+
+Follow the Cases in order; each builds on the last. Case 1 is the model Case: it shows the full learning sequence in detail. Cases 2–6 use the same sequence in a more compact form.
+
+| Case | Module chapter | Main question | Hands-on tools | Time |
+|---|---|---|---|---|
+| 1 • Is It Really AI? | Ch 1: What Is AI? | What counts as AI, and what does not? | Cards, paper lab, timeline | about 2 hours |
+| 2 • The Fraud Alarm | Ch 2: Machine Learning Basics | How does a machine learn, and how do we know it learned well? | Paper scoreboard, Machine Learning for Kids, TensorFlow Playground | about 1.5 hours |
+| 3 • The Overconfident Witness | Ch 3: Generative AI and LLMs | How does a chatbot produce fluent text, and why can it be wrong? | Paper "next-word" game, optional chatbot, video | about 1.25 hours |
+| 4 • The Inspection Tour | Ch 4: AI Applications | Where is AI used, and what happens when it errs? | Inspection form, stakes ladder | about 1 hour |
+| 5 • The School Predictor Dispute | Ch 5: Responsible AI | Should this AI be used, and under what safeguards? | Role-play, fairness calculation, privacy redaction | about 1.25 hours |
+| 6 • The Prompt Workshop | Ch 6: Practical AI Skills | How do I get useful help from AI and check it? | Prompt makeover, citation check, caption workflow | about 1.5 hours |
 
 ---
 ## 1. Purpose of This Study Guide
