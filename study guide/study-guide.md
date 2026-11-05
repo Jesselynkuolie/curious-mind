@@ -224,11 +224,13 @@ Artificial intelligence is a field of computing concerned with developing system
 - supporting decisions and solving specific problems
 
 > **KEY DEFINITION**
+> 
 > **Artificial Intelligence (AI):** A field of computing that develops systems capable of performing tasks associated with abilities such as learning, reasoning, perception, language processing, and decision support.
 
 Three examples: an email service identifies likely spam; a navigation app estimates journey times from traffic information; an assistant drafts or summarises text. In each case, the system processes information and finds patterns.
 
 > **WATCH OUT**
+> 
 > Performing an intelligent-looking task does not mean a system understands the world the way a person does. AI systems also do not all work in the same way: some use rules written by people, some learn patterns from data, and advanced systems may combine techniques.
 
 #### Rule-based software versus learning systems
@@ -388,6 +390,7 @@ Not every AI system follows exactly this workflow: a rule-based system may need 
 - **Superintelligence** is a hypothetical AI that would greatly exceed human abilities across many domains. It is a topic of debate, not a description of current systems.
 
 > **PLAYFUL ANALOGY (not a technical definition)**
+> 
 > Think of AI, ML, and DL like vehicle, car, and electric car: every electric car is a car and every car is a vehicle, but not every vehicle is a car. The analogy helps with the nesting, but it says nothing about how these systems work inside.
 
 Return to your card sort (Activity 1.1). Change any card you would now place differently, and write one sentence on why.
@@ -543,6 +546,7 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 - Responsible use needs fairness, privacy, transparency, accountability, reliability, and human oversight. AI is a valuable tool whose outputs must be understood and evaluated.
 
 > **RESOURCE — Elements of AI — Chapter 1, "What is AI?" (University of Helsinki and MinnaLearn)**
+> 
 > **What is it?** Free online introductory AI course; the first chapter discusses how AI can be defined and why the definition is debated. Link: https://www.elementsofai.com
 >
 > **Why use it?** Gives a second explanation of the question Case 1 asks: what counts as AI, and why the boundary is fuzzy?
@@ -562,9 +566,11 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 **Module Chapter 2: Machine Learning Basics • Prerequisite: Case 1**
 
 > **GLITCH THE OVERCONFIDENT BOT SAYS**
+> 
 > My fraud detector is 95% accurate! That is practically perfect. Give me a medal.
 
 > **DETECTIVE PIP SAYS**
+> 
 > **The mystery:** a bank's history shows 95 of every 100 transactions are legitimate. Is a 95%-accurate fraud detector really good? We will find out by building a scoreboard, training a small classifier, and breaking a neural network on purpose.
 
 ### Case map
@@ -679,6 +685,7 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 *Pairs • 25 minutes • browser • Machine Learning for Kids*
 
 > **RESOURCE — Machine Learning for Kids (Dale Lane) — text recognition project**
+> 
 > **What is it?** A free web platform for training small machine learning models and using them in projects. Link: https://machinelearningforkids.co.uk
 >
 > **Why use it?** It makes the invisible training process visible: you provide labelled examples, press Train, and test the model yourself.
@@ -714,6 +721,7 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 ### 2.4 Try and Observe: Overfitting in TensorFlow Playground
 
 > **RESOURCE — TensorFlow Playground (Google / TensorFlow team)**
+> 
 > **What is it?** A free interactive page that trains a small neural network in the browser and shows its decision boundary. Link: https://playground.tensorflow.org
 >
 > **Why use it?** It lets you see overfitting happen. You can change data, features, network size, and regularisation, and watch training and test loss.
@@ -757,6 +765,7 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 **Analysis questions for the fallback:** What is the trend of each loss? At which epoch does generalisation start to worsen? What would you change first and why? *(Model answer: training loss falls while test loss rises after about epoch 100–300, so the model is overfitting. Try regularisation or a simpler model first.)*
 
 > **RESOURCE — 3Blue1Brown — "But what is a neural network? | Deep learning chapter 1" (optional)**
+> 
 > **What is it?** An animated YouTube explanation of how a neural network recognises handwritten digits. Link: https://www.youtube.com/watch?v=aircAruvnKk
 >
 > **Why use it?** After Activity 2.4, it gives a picture of what "layers" and "neurons" are, supporting the deep-learning idea from Case 1.
@@ -795,9 +804,11 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 **Module Chapter 3: Generative AI and Large Language Models • Prerequisites: Cases 1–2**
 
 > **GLITCH THE OVERCONFIDENT BOT SAYS**
+> 
 > I read half the internet, so everything I say is true. Ask me about the famous 2019 book *The Quiet Algorithm*. I remember every chapter.
 
 > **DETECTIVE PIP SAYS**
+> 
 > **The mystery:** how can a chatbot write fluent text about almost anything, and yet describe a book that may not exist? We will build a tiny "language model" by hand, set a hallucination trap, and learn what to verify.
 
 ### Case map
@@ -852,6 +863,7 @@ A **large language model (LLM)** is an AI model trained on large amounts of text
 6. Return the response.
 
 > **WATCH OUT**
+> 
 > Generating a plausible sentence does not guarantee it is correct. A model can produce fluent text with mistakes, misleading statements, or invented details. Verify important claims with reliable sources.
 
 **Applications, benefits, limitations**
@@ -863,11 +875,13 @@ A **large language model (LLM)** is an AI model trained on large amounts of text
 **Responsible practices:** verify important claims; protect privacy; review for bias; disclose AI assistance when required; respect intellectual property; keep human oversight for important decisions; follow academic-integrity rules. Effective prompts state the task, context, audience, format, and constraints (Case 6 develops this in full). Refining a prompt can improve relevance but does not guarantee accuracy.
 
 > **PLAYFUL ANALOGY (not a technical definition)**
+> 
 > An LLM is like a very well-read autocomplete: it is excellent at continuing text in plausible ways. The analogy helps you remember that plausible and true are different. It is not a technical description of how an LLM is built.
 
 ### 3.3 Watch: A Short Video on How LLMs Work
 
 > **RESOURCE — "Large Language Models explained briefly" — 3Blue1Brown (Grant Sanderson), about 8 minutes**
+> 
 > **What is it?** A short animated YouTube explainer made for an exhibit at the Computer History Museum. Link: https://www.youtube.com/watch?v=LPZh9BOjkQs
 >
 > **Why use it?** It shows the "predict the next word" idea you played with in Activity 3.1, and how training adjusts huge numbers of parameters.
@@ -981,6 +995,7 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 7. How can the output be checked against reliable evidence?
 
 > **RESOURCE — WHO — "Artificial intelligence" (health topic page)**
+> 
 > **What is it?** The World Health Organization's overview of AI for health. Link: https://www.who.int/health-topics/artificial-intelligence
 >
 > **Why use it?** It is an authoritative source for how AI in healthcare is discussed internationally, linked to the healthcare risks above.
@@ -1027,4 +1042,54 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 - Human oversight and the seven inspection questions help decide when and how to rely on an AI system.
 
 ---
+
+## Case 5 • The School Predictor Dispute
+
+**Module Chapter 5: Responsible AI • Prerequisites: Cases 1–4**
+
+> **GLITCH THE OVERCONFIDENT BOT SAYS**
+> 
+> I predicted who will fail the exam. I am extremely accurate overall. No one needs to understand how I did it. Please do not challenge my decisions.
+
+> **DETECTIVE PIP SAYS**
+> 
+> **The mystery:** a school wants to use an AI prediction tool. It can do the task. But should it be used, with whom, and with what safeguards? Two questions guide this Case: **Can the system perform the task?** and **Should it be used for this task, under these conditions, with these safeguards?**
+
+### Case map
+
+| Item | Details |
+|---|---|
+| **Learning objectives** | 1. Define responsible AI and explain why it matters. 2. Describe at least six principles of responsible AI. 3. Identify examples of bias, privacy risk, misinformation, and unsafe use. 4. Explain transparency, accountability, and human oversight. 5. Apply a responsible-AI checklist to a realistic case and recommend ways to reduce risk. 6. Justify when AI help is appropriate and when human judgement is needed. |
+| **Time** | About 1.25 hours. |
+| **Sequence** | 5.1 Encounter + Try (hearing) → 5.2 Explain (principles) → 5.3 Try (bias detective) → 5.4 Apply (privacy redaction) → 5.5 Check |
+
+### 5.1 Encounter and Try: The School Predictor Hearing
+
+**ENCOUNTER** — *A tool, a school, and many viewpoints*
+
+**Scenario.** A school is considering an AI tool that analyses student assignments and predicts which students are likely to get low exam scores. It hopes to offer early extra support. The tool was developed using data from a limited number of schools. Teachers do not know exactly how its predictions are produced. Students have not been told how their data will be used.
+
+#### ACTIVITY 5.1 The Hearing: Deploy, Pause, or Reject?
+
+*Groups of 4–6 • 30 minutes • role cards and the worksheet*
+
+| | |
+|---|---|
+| **Goal** | Apply the six responsible-AI principles to a realistic situation and defend a recommendation. |
+| **Preparation** | Assign roles (or imagine them alone): Student, Teacher, Parent or guardian, Data-protection officer, Tool vendor, Principal. Copy the worksheet below. |
+| **Task** | **PREDICT:** Each person writes "deploy/pause/reject" and one reason before the discussion.<br><br>Each role gives one benefit or concern in their own voice (two minutes each).<br><br>As a group, complete the worksheet and then decide: should the tool be used independently, support teachers, or not be used? |
+| **Observation** | Record each role's view, the completed worksheet, at least four risks, and the group decision with its reasons. |
+| **Reflection** | Did anyone change their mind? What evidence caused it? Who should be responsible for important decisions about students? |
+| **Feedback (try first, then check)** | **Reasonable recommendation:** pause deployment until the school has evaluated the tool and set safeguards. Possible measures: test on representative data and compare performance across student groups; explain purpose, limits, and role to teachers, students, and families; confirm data handling meets privacy rules and school policy; measure prediction errors and the consequences of wrong predictions; assign staff to monitor the tool and respond to concerns; make teachers use broader evidence and professional judgement; give students and families a way to raise concerns; monitor after deployment and suspend use if serious problems cannot be fixed.<br><br>The tool could help teachers find students who need support. But a prediction should not become a fixed label or determine a student's future without careful review. Other conclusions are valid if supported by evidence from the scenario. Strong responses: identify at least four risks, apply the six principles accurately, give specific safeguards, say who is responsible, and justify the decision. |
+
+**Worksheet**
+
+| Principle | Question to investigate | Your recommendation |
+|---|---|---|
+| Fairness | Could the tool be less accurate for some student groups? |  |
+| Transparency | Do students and teachers understand its purpose and limits? |  |
+| Privacy | Is student data collected and used appropriately? |  |
+| Safety and reliability | What happens if a prediction is wrong? |  |
+| Accountability | Who reviews and corrects errors? |  |
+| Human oversight | Can teachers challenge it and consider other evidence? |  |
 
