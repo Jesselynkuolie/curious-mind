@@ -171,14 +171,21 @@ Supervised learning uses examples that include both input data and known target 
 
 The model learns relationships between the inputs and labels. It can then use those learned relationships to predict labels or values for new inputs.
 
-**Example: Email classification**
+**Example: Train Your Own Spam Filter**
 
 A dataset contains emails labelled as “Spam” or “Not spam.” A model learns patterns from these examples and uses them to classify new emails.
-
+Imagine you have 100 emails:
+- 60 legitimate emails.
+- 40 spam emails.
+Answer these questions:
+1. What information could help distinguish spam from legitimate emails?
+2. What happens if the training data contains incorrect labels?
+3. How would you evaluate whether the model works?
+Learning outcome: Learners understand training data, features, labels, classification, and model evaluation through one connected example.
 Other examples include:
 
 - Predicting house prices from property information.
-- Classifying images into categories.
+- Classifying images.
 - Predicting whether a transaction may be fraudulent.
 
 Supervised learning is useful when suitable labelled examples are available.
