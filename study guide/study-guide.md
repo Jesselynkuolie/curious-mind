@@ -246,40 +246,107 @@ Traditional software follows instructions written by developers. A pass/fail pro
 
 **Quick check.** In your own words, what is AI? Give one AI system you have encountered. Then answer: why might a school prefer human judgement alongside an AI prediction instead of letting the model decide alone? *(Model answer: predictions can be wrong or biased, students' circumstances are not fully captured in data, and a teacher can take context and fairness into account.)*
 
-## 1.3 AI Compared with Rule-Based Automation
+### 1.3 Try and Observe: The Spam Detective Lab
 
-Traditional rule-based programs follow instructions explicitly specified by their developers. Machine learning systems, by contrast, use patterns learned from training data to make predictions or decisions.
+**TRY / OBSERVE** — *Rules versus learning, with real evidence*
 
-For example:
+> **DETECTIVE PIP SAYS**
+> Time for an experiment. First you will act as a programmer who writes fixed rules to catch spam. Then you will act as a machine that learns from labelled examples. Finally you will try to fool both. Use pencil and paper; no computer is needed.
 
-- A basic calculator follows programmed mathematical rules.
-- A machine learning spam filter uses patterns learned from examples to estimate whether a new email is spam.
+#### ACTIVITY 1.2 The Spam Detective Lab
 
-Not every automated task uses AI, and not every AI system uses machine learning.
+*Pairs • 30–40 minutes • pencil and paper • no technology needed*
 
-## Key Points to Remember
+| | |
+|---|---|
+| **Goal** | Compare a hand-written rule system with a system that learns word patterns from labelled examples, and see why evaluating on unseen data matters. |
+| **Preparation** | Training emails (subject lines), labelled by a person: S = spam, L = legitimate (not spam). |
 
-- AI is a broad field, not a single application.
-- Machine learning is one approach used to develop AI systems.
-- Deep learning is a type of machine learning.
-- AI systems can make errors and should not automatically be treated as reliable sources of truth.
+**Training emails:**
 
-## Review Questions
+| # | Subject line | Label |
+|---|---|---|
+| 1 | WIN a FREE prize now click here | S |
+| 2 | Free money claim your prize | S |
+| 3 | Meeting moved to 3pm tomorrow | L |
+| 4 | Lecture notes for week 5 attached | L |
+| 5 | Click here to claim free gift card | S |
+| 6 | Lunch tomorrow? my treat | L |
+| 7 | Your account is locked verify password now | S |
+| 8 | Assignment feedback and your grade | L |
+| 9 | Urgent verify your account to win prize | S |
+| 10 | Study group tomorrow at library | L |
 
-1. What is Artificial Intelligence?
-2. Explain the relationship between AI, machine learning, and deep learning.
-3. Give one example of a rule-based program and one example of a machine learning system.
-4. Why should users check information produced by AI?
+**Test emails the system has never seen:**
 
-## Learning Activity
+- T1: Free tutoring session tomorrow at 3pm
+- T2: Claim your reward gift now
+- T3: Meeting notes for tomorrow
+- T4: Urgent: password verification required now.
 
-Identify three digital tools you use in everyday life. For each tool:
+*(A person who read them would label T1 and T3 as L, and T2 and T4 as S.)*
 
-1. Describe what the tool does.
-2. Decide whether the feature you identified uses AI, ordinary automation, or whether you need more information to tell.
-3. Explain your reasoning.
+**Task**
 
-Do not assume that a tool uses AI simply because it is digital or automated.
+**Part A — Be the programmer (10 min).** Write a rule such as: if the subject contains "free", "win", or "prize", label it spam. **PREDICT:** how many of the 10 training emails and 4 test emails will your rule label correctly? Write the numbers, then test the rule on all 14 emails.
+
+**Part B — Be the machine (15 min).** Ignore your rule. Count how many times each word below appears in spam emails and in legitimate emails (training set only). Score = spam count − legitimate count. Positive scores are "spammy", negative scores are "normal".
+
+| Word | In spam (S) | In legitimate (L) | Score |
+|---|---:|---:|---:|
+| free |  |  |  |
+| prize |  |  |  |
+| claim |  |  |  |
+| your |  |  |  |
+| gift |  |  |  |
+| now |  |  |  |
+| urgent |  |  |  |
+| password |  |  |  |
+| tomorrow |  |  |  |
+| at |  |  |  |
+| 3pm |  |  |  |
+| meeting |  |  |  |
+| notes |  |  |  |
+| for |  |  |  |
+
+Classify each test email by adding the scores of its words. Words not in your table score 0. A total above 0 means spam; 0 or below means legitimate. Compare your accuracy (correct ÷ total) with Part A on the same four test emails.
+
+**Part C — Break it (10 min).** (i) Write a spam-like subject line that your learned scorer labels as legitimate. (ii) Add two new legitimate training emails containing "free" (for example "Free workshop on Friday" and "Free seats at the library"), recompute the score for "free", and re-check T1.
+
+**Observation**
+
+Record: the Part A rule and its accuracy on training and test emails; your completed word table; the Part B total for T1–T4; and your attempt for Part C(i) with its total score.
+
+Which emails did the rule get wrong, and which did the learned scorer get wrong (if any)?
+
+**Reflection**
+
+- Which approach needed a human to anticipate every spammer trick, and which needed examples instead?
+- Why is it more honest to judge both approaches on the test emails than on the training emails?
+- What would happen if the training set had very few legitimate emails? (Think about the worked example in Case 1 — the model may wrongly call legitimate mail spam.)
+
+**Feedback (try first, then check)**
+
+**Part A expected result.** The rule "free/win/prize" labels training emails 1, 2, 5, 9 correctly as spam and emails 3, 4, 6, 8, 10 correctly as legitimate, but misses email 7 (no keyword) — so 9/10 on the training set. On the test set it labels T1 spam (wrong, because of "free"), misses T2 and T4 (no keywords), and gets T3 right — so 1/4. The rule fits the examples its author looked at but does not transfer.
+
+*Part B word-score table (as preserved in the source; some rows are missing in OCR):*
+
+| Word | S | L | Score |
+|---|---:|---:|---:|
+| free | 3 | 0 | +3 |
+| prize | 3 | 0 | +3 |
+| claim | 2 | 0 | +2 |
+| your | 3 | 1 | +2 |
+| gift | 1 | 0 | +1 |
+| now | 2 | 0 | +2 |
+| urgent | 1 | 0 | +1 |
+| password | 1 | 0 | +1 |
+| tomorrow | [ ] | [ ] | [ ] |
+| at | [ ] | [ ] | [ ] |
+| 3pm | [ ] | [ ] | [ ] |
+| meeting | [ ] | [ ] | [ ] |
+| notes | [ ] | [ ] | [ ] |
+| for | [ ] | [ ] | [ ] |
 
 ---
 
