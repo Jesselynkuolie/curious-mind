@@ -21,23 +21,14 @@
   - [Your Explorer Profile](#your-explorer-profile)
   - [Scoring guide](#scoring-guide)
 - [Section A: True or False? — The Fact Scanner](#section-a-true-or-false--the-fact-scanner)
-  - [Chapters 1–2: Identity and Patterns](#chapters-12-identity-and-patterns)
-  - [Chapter 3: The Content Machine](#chapter-3-the-content-machine)
-  - [Chapters 4–6: Real World, Ethics, and Skills](#chapters-46-real-world-ethics-and-skills)
 - [Section B: Multiple Choice — The Decision Dashboard](#section-b-multiple-choice--the-decision-dashboard)
 - [Section C: Open Missions — Think Like an AI Explorer](#section-c-open-missions--think-like-an-ai-explorer)
-  - [Mission 1 — The Nested Boxes](#mission-1--the-nested-boxes)
-  - [Mission 2 — The Overfit Alarm](#mission-2--the-overfit-alarm)
-  - [Mission 3 — The Hallucination Hunt](#mission-3--the-hallucination-hunt)
-  - [Mission 4 — The Real-World Audit](#mission-4--the-real-world-audit)
-  - [Mission 5 — The Fairness File](#mission-5--the-fairness-file)
-  - [Mission 6 — The Responsible Draft](#mission-6--the-responsible-draft)
 - [Mission Log: What Did You Discover?](#mission-log-what-did-you-discover)
 - [Answer Key](#answer-key)
   - [Section A: True / False](#section-a-true--false)
   - [Section B: Multiple Choice](#section-b-multiple-choice)
   - [Section C: Sample Answers and Key Points](#section-c-sample-answers-and-key-points)
-- [Section C Rubric](#section-c-rubric)
+  - [Section C Rubric](#section-c-rubric)
 - [End of Test Bank](#end-of-test-bank)
 
 ---
@@ -236,5 +227,194 @@ Decide whether each statement is true or false. If it is false, correct it in th
 > 🏅 **Badge unlocked:** Identity & Pattern Investigator
 
 ---
+
+## Section B: Multiple Choice — The Decision Dashboard
+
+Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure**.
+
+**1.** Ch. 1 — Which statement best defines artificial intelligence?
+
+- a) A system that is conscious and understands the world like a human.
+- b) A field of computing that develops systems performing tasks associated with human intelligence.
+- c) A type of calculator that solves mathematical equations.
+- d) A programming language used only for robotics.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**2.** Ch. 1 — What is the relationship between AI, machine learning, and deep learning?
+
+- a) They are three unrelated fields.
+- b) Deep learning is a subset of machine learning, which is a subset of AI.
+- c) Machine learning is a subset of deep learning.
+- d) AI is a subset of machine learning.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**3.** Ch. 1 — Which of the following is not typically considered an AI task?
+
+- a) Recognising objects in images.
+- b) Generating human language.
+- c) Adding two numbers with a basic calculator.
+- d) Making predictions from data.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**4.** Ch. 2 — A model that memorises training data but fails on new data is experiencing:
+
+- a) Underfitting.
+- b) Overfitting.
+- c) Reinforcement learning.
+- d) Unsupervised learning.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**5.** Ch. 2 — Which type of learning uses labelled examples?
+
+- a) Unsupervised learning.
+- b) Reinforcement learning.
+- c) Supervised learning.
+- d) Clustering.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**6.** Ch. 2 — Predicting a house price from features such as size and location is an example of:
+
+- a) Classification.
+- b) Regression.
+- c) Clustering.
+- d) Generation.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**7.** Ch. 2 — Why must a model be tested on unseen data?
+
+- a) To increase its training speed.
+- b) To check whether it generalises beyond the training examples.
+- c) To make the model more complex.
+- d) To remove bias from the data.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**8.** Ch. 3 — What is the primary purpose of generative AI?
+
+- a) To classify emails as spam or not spam.
+- b) To create new content such as text, images, or code.
+- c) To predict numerical values from historical data.
+- d) To replace all human decision-making.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**9.** Ch. 3 — How does an LLM generate a response?
+
+- a) By searching a database of correct answers.
+- b) By predicting likely sequences of tokens based on learned patterns.
+- c) By asking a human for the answer.
+- d) By using a fixed set of hand-written rules.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**10.** Ch. 3 — A generative AI produces a detailed but entirely false biography of a nonexistent person. This is an example of:
+
+- a) Overfitting.
+- b) Hallucination.
+- c) Classification.
+- d) Reinforcement learning.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**11.** Ch. 3 — Which of the following is a limitation of LLMs?
+
+- a) They can only generate images, not text.
+- b) They always provide accurate and verified information.
+- c) They may produce biased or incorrect outputs.
+- d) They cannot be used for summarising documents.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**12.** Ch. 4 — Which of the following is an example of AI in healthcare?
+
+- a) A spreadsheet used to store patient records.
+- b) An AI system that flags possible abnormalities in medical images.
+- c) A stethoscope used by a doctor.
+- d) A hospital's payroll software.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**13.** Ch. 4 — Why is human oversight important in high-stakes AI applications?
+
+- a) Because AI systems are always wrong.
+- b) Because AI recommendations may be inaccurate or inappropriate and require professional judgement.
+- c) Because humans are faster than AI at all tasks.
+- d) Because AI cannot process large amounts of data.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**14.** Ch. 4 — Which sector uses AI for route optimisation and navigation?
+
+- a) Healthcare.
+- b) Transportation.
+- c) Entertainment.
+- d) Agriculture.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**15.** Ch. 5 — Which principle of responsible AI requires that people can understand, at an appropriate level, how a system produces its results?
+
+- a) Fairness.
+- b) Privacy.
+- c) Transparency.
+- d) Safety.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**16.** Ch. 5 — A hiring AI favours candidates from one university because past hires came mostly from that university. This is an example of:
+
+- a) Overfitting.
+- b) Bias.
+- c) Hallucination.
+- d) Reinforcement learning.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**17.** Ch. 5 — What does the "should" question in responsible AI ask?
+
+- a) Whether the system can technically perform the task.
+- b) Whether the system should be used for this task, under these conditions, and with these safeguards.
+- c) Whether the system is faster than a human.
+- d) Whether the system uses deep learning.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**18.** Ch. 6 — What is the first stage of the practical AI workflow?
+
+- a) Writing the prompt.
+- b) Verifying claims.
+- c) Defining the task and deciding whether AI is appropriate.
+- d) Submitting the output.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**19.** Ch. 6 — In the C.R.E.W. prompting framework, what does the "W" stand for?
+
+- a) Writing.
+- b) Warnings/constraints.
+- c) Workflow.
+- d) Web access.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+**20.** Ch. 6 — Which task requires extra care when using an AI assistant?
+
+- a) Brainstorming project topics.
+- b) Explaining a concept at a simpler level.
+- c) Making a medical decision.
+- d) Suggesting an outline for an essay.
+
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
+
+> 🏅 **Badge unlocked:** Decision Dashboard Operator
+
+---
+
 
 **End of test bank.**
