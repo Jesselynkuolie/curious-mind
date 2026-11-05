@@ -1339,3 +1339,30 @@ Only share context that is relevant and appropriate. Constraints improve control
 | **Reflection** | Is a real reference enough? What else must you confirm? |
 | **Feedback (try first, then check)** | References 1 and 2 are real publications listed in this module's sources; confirm details by checking the publisher page or the DOI link. Reference 3 is invented: you should find no matching record. Not finding it is not absolute proof, but you must not present it as confirmed.<br><br>**The NIST claim:** a real reference is not enough. Open the document, search for the statement, and check that it actually says this. The AI RMF is a framework for managing AI risks, so a claim that it bans a use should be treated as unsupported until you find the exact text. If you cannot support it, remove it or state the uncertainty. |
 
+### 6.5 Apply: The Capstone Mission
+
+**APPLY** — *Run the complete workflow*
+
+#### ACTIVITY 6.4 Capstone Mission: The Three-Minute Explainer
+
+*Individual • 45 minutes • optional AI tool; rules permitting*
+
+| | |
+|---|---|
+| **Goal** | Complete an AI-assisted task from start to finish while documenting decisions and checking the result. |
+| **Preparation** | **Deliverable:** a beginner-friendly three-minute explanation (about 400 words, or a short script) of how machine learning uses training data, with one example and one limitation. Check that AI use is allowed for this task and what you must disclose. |
+| **Task** | Follow the workflow: define the task and success criteria; check rules and risks; write a structured prompt; generate and review; revise with a targeted prompt; verify at least three claims (for example using Case 2 and Google's Machine Learning Crash Course); edit it yourself; document AI help and reflect.<br><br>If you do not use an AI tool, do the same with a sample draft from a classmate or a teacher and treat it as the "AI draft" to review. |
+| **Observation** | Evidence pack: the prompt(s), a list of claims checked with sources, what you changed and why, and a short disclosure note. |
+| **Reflection** | What did the tool do well? What did you have to correct? What will you do differently next time? |
+| **Feedback (try first, then check)** | Use the self-check table below. |
+
+**Self-check**
+
+| Criterion | Score (0 = not yet, 1 = partly, 2 = fully) |
+|---|---:|
+| The explanation is accurate, and I verified key claims with sources |  |
+| It is clear for a beginner and includes an example and a limitation |  |
+| The prompt had task, context, constraints, format, and quality criteria |  |
+| No private or confidential information was shared |  |
+| I kept my own judgement and disclosed AI help as required |  |
+
