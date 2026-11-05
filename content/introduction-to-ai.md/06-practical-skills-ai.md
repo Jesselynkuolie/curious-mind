@@ -11,17 +11,6 @@ This chapter focuses on skills that learners can apply in education, the workpla
 
 By the end of this chapter, learners will have practised a complete AI-assisted workflow: defining a task, writing a prompt, reviewing the result, checking important claims, improving the output, and deciding whether it is appropriate to use.
 
-### Why These Skills Matter
-
-Practical AI skills help learners:
-
-- Communicate clearly with AI tools.
-- Obtain more relevant and useful outputs.
-- Recognize inaccurate, incomplete, or misleading information.
-- Protect personal and confidential data.
-- Use AI in ways that respect academic integrity and intellectual property.
-- Improve their work through critical thinking and revision.
-- Decide when AI is useful and when another approach is better.
 
 ## 2. Learning Objectives
 
