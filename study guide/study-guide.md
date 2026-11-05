@@ -1093,3 +1093,37 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 | Accountability | Who reviews and corrects errors? |  |
 | Human oversight | Can teachers challenge it and consider other evidence? |  |
 
+### 5.2 Explain: The Six Principles
+
+**EXPLAIN** — *What each principle means in practice*
+
+**Responsible AI** means developing, using, and evaluating AI in ways that consider people's rights, fairness, safety, privacy, transparency, and accountability across the AI life cycle: planning → data collection and preparation → development and testing → deployment → monitoring and improvement. It is an ongoing process, not a one-time approval: a system that did well in testing can fail later if users, data, or conditions change.
+
+| Principle | Meaning | Example safeguard |
+|---|---|---|
+| Fairness and non-discrimination | Check for unjustified disadvantage to people or groups; data may reflect historical inequality or miss some people. | Compare performance across groups; qualified human review; ways to appeal. |
+| Transparency and explainability | Give appropriate information about purpose, limits, data use, and role in decisions; explanation needs depend on the stakes. | Tell people when AI plays a meaningful role; communicate uncertainty. |
+| Privacy and data protection | Respect control over personal information; collect, store, use, and delete data appropriately. | Share only what is needed; check privacy settings and rules; get permission. |
+| Safety, security, and reliability | Reduce harm, protect against misuse, and perform consistently. | Test before use; verify important information; use professionals for high-stakes decisions; monitor. |
+| Accountability | People and organisations remain responsible; "the AI decided" is not an excuse. | Clear roles, documentation, reporting and correction processes. |
+| Human oversight and agency | Qualified people can review, question, override, or stop the system; review must be meaningful. | Define which decisions need review; train reviewers; allow overrides. |
+
+> **WATCH OUT**
+> 
+> **Automation bias** is excessive trust in automated recommendations even when contrary evidence exists. Asking a person to approve every AI recommendation without examining it is not meaningful oversight.
+
+**Other concerns:** hallucinations (confident but unsupported output; check that sources exist); misinformation and manipulated content (realistic AI-generated text, images, audio, or video can mislead or impersonate: check the source and confirm independently); intellectual property and attribution (rules vary; follow academic-integrity and licence rules); and environmental and social impacts (energy use, employment, access to services).
+
+**A five-step evaluation framework**
+
+| Step | Ask |
+|---:|---|
+| 1. Define the purpose | What is the task? Is AI necessary? Who benefits? Who could be harmed? |
+| 2. Check the information | Is the input data appropriate, and are the outputs supported? Is personal data involved? What context could be missing? |
+| 3. Evaluate fairness and safety | Could someone be disadvantaged? What if it is wrong? Could it be misused or manipulated? |
+| 4. Examine transparency and accountability | Do users know AI is involved? Are limits communicated? Who reviews? Can people raise concerns? |
+| 5. Decide and monitor | Is it suitable? What human review is needed? How are errors corrected? When should it not be used? |
+
+> **KEY IDEA**
+> 
+> **Decision rule:** use AI when the expected benefits justify the risks and suitable safeguards are in place. If serious risks cannot be adequately reduced, do not use the system for that purpose.
