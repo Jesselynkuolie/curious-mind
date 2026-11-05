@@ -1297,3 +1297,28 @@ Only share context that is relevant and appropriate. Constraints improve control
 > 
 > Eight-step workflow: **Define the task → Check rules and risks → Prompt → Review → Revise → Verify → Finalise → Reflect** (then loop back for next time).
 
+### 6.3 Try and Observe: Run, Review, Revise
+
+**TRY / OBSERVE** — *Test an answer instead of trusting it*
+
+#### ACTIVITY 6.2 Run, Review, Revise
+
+*Individual • 25 minutes • optional chatbot; fallback sample included*
+
+| | |
+|---|---|
+| **Goal** | Practise reviewing an AI answer against five criteria and writing one targeted improvement prompt. |
+| **Preparation** | **Option A (live):** use your improved prompt (Activity 6.1) in a permitted chatbot.<br>**Option B (fallback):** review Glitch's fictional answer to "Explain responsible AI for beginners in under 100 words."<br><br>**Glitch's answer (fictional sample, with deliberate mistakes):**<br>"Responsible AI means a system never makes mistakes because it is tested once before release. The main ideas include fairness, privacy, transparency, and accountability. Every company in the world is legally required to follow the OECD AI Principles, so humans are no longer needed to check AI decisions." |
+| **Task** | Review the answer with the five-criterion table (accuracy, relevance, completeness, clarity, fairness and safety). Mark every claim you would verify.<br><br>Write one targeted follow-up prompt that fixes a specific weakness (for example: "Revise to explain that responsible AI is an ongoing process, remove claims about legal requirements, and keep it under 100 words").<br><br>State one thing you would verify independently and which source you would use. |
+| **Observation** | Fill the observation table below. |
+| **Reflection** | Which part needed the most careful checking? Did the answer meet every requirement? Give evidence. What information should never be entered into the tool for this task? |
+| **Feedback (try first, then check)** | **Option B:** Accuracy problems: responsible AI is not "tested once" (it is an ongoing process of evaluation, safeguards, accountability, and monitoring); the OECD AI Principles are recommendations, not a universal legal requirement, and legal status varies; "humans are no longer needed" contradicts the need for human oversight. Completeness: it omits safety and human oversight. Clarity: it is readable. Fairness and safety: the final claim could encourage unsafe overreliance. To verify, consult the OECD page https://oecd.ai/en/ai-principles and the NIST AI RMF.<br><br>A strong submission contains: the original weak prompt, the improved prompt, a brief evaluation, one targeted follow-up prompt, and a short reflection on verification and responsible use. Do not include AI output if your assignment rules forbid it. |
+
+| Criterion | Notes and evidence |
+|---|---|
+| Accuracy |  |
+| Relevance |  |
+| Completeness |  |
+| Clarity |  |
+| Fairness and safety |  |
+
