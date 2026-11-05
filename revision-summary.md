@@ -21,33 +21,42 @@ learning materials for Stage 2.
 
 ## Peer Review
 
-Peer review status: [Not started / In progress / Completed]
+Peer review status: / [In progress]
 
 Reviewer names:
-- [Name]
-- [Name]
+- [Jesselyn Kuolie]
+- [Lê Trần Đức Trọng]
 
 Feedback received:
-- [Add actual feedback]
+- [Some explanation needed to be clearer and easier for beginners to understand.]
+- [The study guide and test bank needed better alignment with the markdown chapters.]
+- [Some question needed more detailed explanations.]
 
 Changes made from feedback:
-- [Add actual changes]
+- [Simplified explanations and improved wording.]
+- [Checked that study guide topics matched the markdown chapters]
+- [Reviewed questions, answer, and explanations for consistency.]
 
 ## Learner Testing
 
-Learner testing status: [Not started / In progress / Completed]
+Learner testing status: [Complete]
 
 Testing participants:
-- [Add number or description]
+- [2 student reviewers]
 
 Feedback:
-- [Add actual learner feedback]
+- [The materials were generally easy to understand]
+- [Some technical terms needed clearer explanations.]
+- [Practice questions were helpful for reviewing the topics.]
 
 Changes made:
-- [Add actual changes]
+- [Added or improve explanations of important terms]
+- [Simplified confusing sentences.]
+- [Reviewed practice questions to improve clarity]
 
 ## Remaining Issues
-- [List remaining issues, or write "None" if verified]
+- [Final proofreading and consistency checks are still needed.]
+- [Some learning materials may require further refinement based on final feedback]
 
 ## Final Status
-[In progress / Ready for final review / Completed]
+[Ready for final review]
