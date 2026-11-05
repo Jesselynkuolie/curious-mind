@@ -705,3 +705,81 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 | Click here for a limited-time offer | Are you free for lunch tomorrow? |
 | Cheap watches best price buy now | The library closes early on Saturday |
 
+### 2.4 Try and Observe: Overfitting in TensorFlow Playground
+
+> **RESOURCE — TensorFlow Playground (Google / TensorFlow team)**
+> **What is it?** A free interactive page that trains a small neural network in the browser and shows its decision boundary. Link: https://playground.tensorflow.org
+>
+> **Why use it?** It lets you see overfitting happen. You can change data, features, network size, and regularisation, and watch training and test loss.
+>
+> **Which part matters?** The controls (Data, Features, Hidden layers, Regularisation), the output graph, and the Test loss and Training loss numbers at the top right.
+>
+> **What should I do?** Complete Activity 2.4 using the instructions below.
+>
+> **Watch out for:** The data are generated randomly, so the exact numbers differ every run. The page is a simplified instructional tool. Record the date and browser you used: the team tested on [date — insert].
+>
+> **If I cannot access it**, use the illustrative trace in the Feedback row of Activity 2.4, or any screenshots your team captured.
+
+#### ACTIVITY 2.4 Make a Network Overfit (Then Fix It)
+
+*Pairs • 25 minutes • browser • TensorFlow Playground*
+
+| | |
+|---|---|
+| **Goal** | Observe the gap between training loss and test loss and test three ways to reduce overfitting. |
+| **Preparation** | Open https://playground.tensorflow.org. Press Reset (circular arrow) between runs. Make sure the problem type is Classification.<br><br>**Run 1 (baseline):** dataset = the circle pattern, noise = 0, training/test ratio = 50%, features = X1 and X2 only, one hidden layer with 4 neurons, regularisation = None. Press Play and stop at about 200 epochs.<br><br>**Run 2 (overfit risk):** noise about 40–50, training ratio about 10–30%, all seven features switched on, two hidden layers with 6–8 neurons each, regularisation = None. Play for 500–1000 epochs. |
+| **Task** | **PREDICT for Run 2:** Will test loss end up lower than, equal to, or higher than training loss? Will the boundary be smooth or wiggly?<br><br>Run both and record training loss, test loss, and boundary shape every 100–200 epochs.<br><br>**Run 3 (fix):** Repeat Run 2 but change only one factor: (a) set L2 regularisation with a moderate rate; or (b) reduce features and neurons; or (c) increase training ratio and lower noise. Record the new losses. If time allows, test the other two factors separately (never change two at once). |
+| **Observation** | Use the observation table below. |
+| **Reflection** | What did the gap between training loss and test loss show about generalisation? Which single change reduced the gap most in your trials, and why do you think that happened? How does this connect to the fraud and spam examples earlier in this Case? |
+| **Feedback (try first, then check)** | Expected pattern (numbers will vary): in Run 2, training loss usually keeps falling while test loss stops improving or rises, and the boundary often becomes irregular, bending around individual noisy points. That is overfitting: the model fits the training examples too closely and generalises worse. Regularisation, a simpler model, more data, or less noise usually narrow the gap; none is guaranteed. |
+
+| Run | Settings changed | Epochs | Training loss | Test loss | Boundary shape |
+|---:|---|---:|---:|---:|---|
+| 1 | baseline |  |  |  |  |
+| 2 | overfit risk |  |  |  |  |
+| 3 | one fix: ___ |  |  |  |  |
+
+**Illustrative trace (NOT from a real run; replace with your screenshots):**
+
+| Epoch | Training loss | Test loss |
+|---:|---:|---:|
+| 100 | 0.35 | 0.42 |
+| 300 | 0.20 | 0.43 |
+| 600 | 0.10 | 0.48 |
+| 1000 | 0.06 | 0.55 |
+
+**Analysis questions for the fallback:** What is the trend of each loss? At which epoch does generalisation start to worsen? What would you change first and why? *(Model answer: training loss falls while test loss rises after about epoch 100–300, so the model is overfitting. Try regularisation or a simpler model first.)*
+
+> **RESOURCE — 3Blue1Brown — "But what is a neural network? | Deep learning chapter 1" (optional)**
+> **What is it?** An animated YouTube explanation of how a neural network recognises handwritten digits. Link: https://www.youtube.com/watch?v=aircAruvnKk
+>
+> **Why use it?** After Activity 2.4, it gives a picture of what "layers" and "neurons" are, supporting the deep-learning idea from Case 1.
+>
+> **Which part matters?** About the first 8–10 minutes, where layers of neurons are introduced. [Team: confirm exact timestamps after viewing.]
+>
+> **What should I do?** Before watching, predict what a "neuron" might do. After watching, explain in two sentences how layers could detect patterns.
+>
+> **Watch out for:** It simplifies a lot, uses some mathematics, and is in English (check captions). It is about one type of network and not about chatbots.
+>
+> **If I cannot access it** Re-read Section 2.2 and the Playground output; or read Google's Machine Learning Crash Course: https://developers.google.com/machine-learning/crash-course
+
+### 2.5 Check and Case Notes
+
+**CHECK** — *Five questions*
+
+| # | Question | Answer and explanation |
+|---:|---|---|
+| 1 | A model learns from emails labelled "Approved" / "Rejected". Which type is this? | Supervised learning (labelled examples). |
+| 2 | Predicting a house's price is classification or regression? | Regression (numeric output). |
+| 3 | Why keep test data separate from training data? | To estimate how the model performs on examples it did not use for training. |
+| 4 | Why can high accuracy be misleading? | A model can score well on the majority class while missing important minority cases, as with Model A. |
+| 5 | Define overfitting and give one way to reduce it. | A model fits training data closely but performs poorly on new data. Reduce with more representative data, a simpler model, regularisation, or validation. |
+
+**Case notes**
+
+- ML systems learn patterns from data; features are inputs and labels are targets in supervised learning.
+- Supervised, unsupervised, and reinforcement learning solve different problems; classification predicts categories and regression predicts numbers.
+- Use separate training, validation, and test data; choose metrics according to the cost of errors; watch for overfitting, leakage, bias, and outdated data.
+- Models should be monitored after deployment because conditions change.
+
+---
