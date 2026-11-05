@@ -1127,3 +1127,38 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 > **KEY IDEA**
 > 
 > **Decision rule:** use AI when the expected benefits justify the risks and suitable safeguards are in place. If serious risks cannot be adequately reduced, do not use the system for that purpose.
+
+### 5.3 Try and Observe: Bias Detective
+
+**TRY / OBSERVE** — *Overall accuracy can hide unfair differences*
+
+#### ACTIVITY 5.2 Count the Difference
+
+*Pairs • 20 minutes • calculator or pencil*
+
+| | |
+|---|---|
+| **Goal** | Show with numbers that a screening system that looks fine overall can treat groups differently. |
+| **Preparation** | A company tests a hiring-screening model on hypothetical data (invented for this activity). In each group, a panel of experts had marked 50 of 100 applicants as qualified. The model "recommended" some applicants. See table below.<br><br>**Definitions:** selection rate = recommended ÷ applicants. Recall = recommended-and-qualified ÷ qualified. Precision = recommended-and-qualified ÷ recommended. |
+| **Task** | **PREDICT:** does the model treat the groups similarly? Write yes/no and a reason.<br><br>Compute selection rate, recall, and precision for each group, and also overall (combine both groups).<br><br>Write two possible causes you would investigate, and two safeguards you would require before using the model. |
+| **Observation** | Complete a table: group, selection rate, recall, precision; plus overall recall and precision. |
+| **Reflection** | What would a manager see if they looked only at the overall numbers? Precision is equal for both groups. Does that show the model is fair? Explain. Does this data prove why the difference exists? |
+| **Feedback (try first, then check)** | See feedback table below. |
+
+**Data table**
+
+| Applicants | Qualified | Recommended by model | Recommended and qualified |
+|---|---:|---:|---:|
+| Group A | 100 | 50 | 60 | 45 |
+| Group B | 100 | 50 | 20 | 15 |
+
+**Feedback table**
+
+| Group | Selection rate | Recall (qualified recommended) | Precision |
+|---|---:|---:|---:|
+| Group A | 60% | 90% (45 of 50) | 75% (45 of 60) |
+| Group B | 20% | 30% (15 of 50) | 75% (15 of 20) |
+| Overall | 40% (80 of 200) | 60% (60 of 100) | 75% (60 of 80) |
+
+**Interpretation.** Qualified applicants in Group B are far more likely to be overlooked (30% versus 90%), yet overall precision looks acceptable and overall recall is a single middling number. Equal precision does not prove fairness. Possible causes to investigate: training data reflecting past hiring decisions, groups under-represented in the data, features that act as proxies, or differences in how "qualified" was judged. The numbers show a difference, not its cause. Safeguards: evaluate across groups before and after deployment, require qualified human review, investigate error patterns, and provide an appeal route.
+
