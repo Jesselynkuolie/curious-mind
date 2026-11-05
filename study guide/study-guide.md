@@ -1,9 +1,34 @@
-# Study Guide: Curious Mind — AI Overview
+# Case Files in Artificial Intelligence
 
-**Project:** Curious Mind: AI Overview  
-**Topic:** Artificial Intelligence (AI)  
-**Intended audience:** Beginners  
-**Assigned to:** Michelle Kalyani
+**Study Guide • Version 1.0**
+
+> Solve problems. Test the tools. Catch the mistakes. Learn why AI works, and why it sometimes fails.
+
+| | |
+|---|---|
+| **Module** | Introduction to Artificial Intelligence (beginner level) |
+| **Team** | Curious Mind |
+| **Author** | Le Tran Duc Trong |
+| **Version** | V1.0 (first complete version), built from Markdown Content V2.0 (six chapters) |
+| **Date** | November 2026 |
+| **Companion file** | Test Bank V1.0 (separate Word document, with answer key) |
+
+**Learning-experience identity:** Every chapter is a "Case" solved by Detective Pip and the Agency's overconfident robot, Glitch. The same labels, boxes, and activity cards are used in all six Cases.
+
+---
+
+## Table of Contents
+
+- [Welcome to the Agency](#welcome-to-the-agency)
+- [Case 1 • Is It Really AI?](#case-1--is-it-really-ai)
+- [Case 2 • The Fraud Alarm](#case-2--the-fraud-alarm)
+- [Case 3 • The Overconfident Witness](#case-3--the-overconfident-witness)
+- [Case 4 • The Inspection Tour](#case-4--the-inspection-tour)
+- [Case 5 • The School Predictor Dispute](#case-5--the-school-predictor-dispute)
+- [Case 6 • The Prompt Workshop](#case-6--the-prompt-workshop)
+- [Glossary](#glossary)
+- [Resource Directory and Access Notes](#resource-directory-and-access-notes)
+- [References and Acknowledgements](#references-and-acknowledgements)
 
 ---
 
