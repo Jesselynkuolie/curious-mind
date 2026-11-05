@@ -941,8 +941,46 @@ A **large language model (LLM)** is an AI model trained on large amounts of text
 |---|---|
 | **Goal** | Judge how serious an AI error would be and match the level of human oversight to the consequences. |
 | **Preparation** | Write each application on a card:<br>(a) music recommendations;<br>(b) an email spam filter;<br>(c) a navigation route suggestion;<br>(d) an AI tutor explaining photosynthesis;<br>(e) a customer-service chatbot;<br>(f) a bank's fraud-detection alert;<br>(g) driver-assistance lane detection;<br>(h) medical-image analysis that highlights possible problems. |
-| **Task** | **PREDICT:** line up the cards from "least serious if wrong" (1) to "most serious if wrong" (8).<br><br>For each card choose an oversight level: **Light** (user can notice and ignore errors), **Moderate** (spot checks and an easy way to challenge), or **Strong** (a qualified person reviews or decides).<br><br>Write one sentence about who could be harmed by an error and how. |
+| **Task** | **PREDICT:** line up the cards from "least serious if wrong" (1) to "most serious if wrong" (8).<br><br>For each card, choose an oversight level: **Light** (user can notice and ignore errors), **Moderate** (spot checks and an easy way to challenge), or **Strong** (a qualified person reviews or decides).<br><br>Write one sentence about who could be harmed by an error and how. |
 | **Observation** | Record your order, oversight levels, and reasons. Mark the two cards you were least sure about. |
 | **Reflection** | What features of an application make its errors more serious: safety, money, health, rights, or scale? Which cards changed position after you discussed them? |
 | **Feedback (try first, then check)** | One defensible ordering (many are valid if reasoned): (a) music → (d) tutor → (b) spam filter → (e) chatbot → (c) navigation → (f) fraud alert → (g) driver assistance → (h) medical images. Oversight: Light for (a), (b), (d) (but check the tutor against a textbook); Moderate for (c), (e), (f); Strong for (g) and (h).<br><br>**Explanation.** A bad music suggestion is minor; a missed obstacle on the road or a missed finding in a medical image can cause serious harm. Driver-assistance features are not necessarily autonomous driving, and healthcare AI must not automatically replace qualified professionals. Different reasoning can place (b) or (f) differently. The key is to link consequences of errors to the level of oversight. |
 
+### 4.2 Explain: Where AI Is Used
+
+**EXPLAIN** — *Applications, benefits, and risks*
+
+An **AI application** is a tool or system that uses AI for a task. Techniques behind applications include machine learning (patterns in data), computer vision (images and video), natural language processing (human language), generative AI (new content), and recommendation systems (suggested items).
+
+| Industry | Example uses | Benefit | Key risk / consideration |
+|---|---|---|---|
+| Healthcare | Medical-image analysis, patient monitoring, drug discovery, administrative support | Analyse large information; reduce admin time; support research | Accuracy, patient safety, privacy; not a replacement for professional judgement |
+| Education | Personalised learning, writing help, AI tutoring, accessibility tools | Extra practice and explanations; access to materials | Incorrect explanations; overdependence; academic integrity; privacy |
+| Transportation | Navigation, traffic management, driver assistance, autonomous vehicles | Efficient routes; traffic planning; safety systems | Unusual conditions; safety risks; driver assistance is not full autonomy |
+| Business | Chatbots, demand forecasting, fraud detection, document processing | Handle repetitive tasks; support outside working hours | Misunderstandings; unfair decisions from biased data; customer privacy |
+| Entertainment and social media | Recommendations, ranked feeds, content creation, game characters | Discovery; creative experimentation | Narrow content exposure; misleading or fake content |
+| Agriculture and environment | Crop monitoring, precision agriculture, wildlife monitoring | Efficient resource use; early problem detection | Data coverage and quality; energy use of AI systems |
+| Communication | Machine translation, speech recognition, text-to-speech, writing help | Access across languages and needs | Lost cultural context; accent and noise problems; omitted details in summaries |
+
+**Seven inspection questions**
+
+1. What task is it designed to do?
+2. What information does it use?
+3. Could its output be inaccurate or biased?
+4. What happens if it makes a mistake?
+5. Is personal or confidential information involved?
+6. Can a person review or challenge the result?
+7. How can the output be checked against reliable evidence?
+
+> **RESOURCE — WHO — "Artificial intelligence" (health topic page)**
+> **What is it?** The World Health Organization's overview of AI for health. Link: https://www.who.int/health-topics/artificial-intelligence
+>
+> **Why use it?** It is an authoritative source for how AI in healthcare is discussed internationally, linked to the healthcare risks above.
+>
+> **Which part matters?** The introduction and any guidance or publications listed for AI and health. [Team: confirm the exact section after reading.]
+>
+> **What should I do?** Find one benefit and one safeguard mentioned for health AI, and add them to your inspection form for a medical-image tool.
+>
+> **Watch out for:** The page is a gateway to documents and may be updated; read dates carefully. It is general guidance, not advice for a specific condition.
+>
+> **If I cannot access it**, use the healthcare row of the table above.
