@@ -1,10 +1,10 @@
+**THE CURIOUS MIND DETECTIVE AGENCY**
 # Case Files in Artificial Intelligence
 
 **Study Guide • Version 1.0**
 
 > Solve problems. Test the tools. Catch the mistakes. Learn why AI works, and why it sometimes fails.
 
-| | |
 |---|---|
 | **Module** | Introduction to Artificial Intelligence (beginner level) |
 | **Team** | Curious Mind |
@@ -31,7 +31,31 @@
 - [References and Acknowledgements](#references-and-acknowledgements)
 
 ---
+## Welcome to the Agency
 
+Artificial intelligence is everywhere: in your spam folder, your map app, your recommended videos, and the chatbot that writes essays at 2 a.m. But what is it really? When can you trust it? When should you double-check it? This guide will not just tell you. It will let you try, predict, break, and fix AI ideas yourself.
+
+### Meet the team
+
+> **DETECTIVE PIP SAYS**
+> I'm Detective Pip. My job is to ask good questions: What is the evidence? What happens if I change one thing? Could this be wrong? I will guide you through each Case.
+
+> **GLITCH THE OVERCONFIDENT BOT SAYS**
+> I'm Glitch, the Agency's AI assistant. I am NEVER wrong. (I am sometimes wrong. I just say it very confidently.) Your job is to catch my mistakes. Glitch is a fictional character used for teaching: the mistakes he makes are the kinds that real AI tools can make.
+
+### What you will learn
+
+By the end of the guide you should be able to:
+
+1. Explain the meaning of AI and recognise fundamental AI concepts (Case 1).
+2. Describe basic machine learning approaches and terminology, and evaluate a model (Case 2).
+3. Explain generative AI and large language models at an introductory level (Case 3).
+4. Identify AI applications in everyday life and different industries, and judge their benefits and risks (Case 4).
+5. Recognise ethical concerns, privacy risks, bias, and limitations, and apply responsible-AI principles (Case 5).
+6. Create effective prompts and critically evaluate AI-generated responses (Case 6).
+7. Apply responsible AI practices while keeping your own independent judgement (all Cases).
+
+---
 ## 1. Purpose of This Study Guide
 
 This study guide supports learners as they explore Artificial Intelligence (AI), machine learning, generative AI, real-world AI applications, responsible AI use, and practical AI skills.
