@@ -114,21 +114,41 @@ Every Activity card has the same rows: **Goal** (what you will develop), **Prepa
 | **Estimated time** | About 2 hours, including activities (the original reading takes 30–40 minutes). |
 | **Sequence** | 1.1 Encounter + Predict → 1.2 Explain (What AI is) → 1.3 Try + Observe (Spam Detective Lab) → 1.4 Explain (AI/ML/DL) → 1.5 Apply (circles, timeline, audit) → 1.6 Benefits, risks, responsible use → 1.7 Apply to Glitch → 1.8 Check |
 
-## 1.1 What Is Artificial Intelligence?
+### 1.1 Encounter and Predict: Glitch's Card Pile
 
-Artificial Intelligence (AI) is a field of computer science concerned with creating systems that perform tasks commonly associated with intelligent behavior.
+**ENCOUNTER** — *Twelve things, three piles*
 
-These tasks may include recognizing patterns, processing language, making predictions, identifying objects, and generating content.
+Glitch has twelve cards describing different systems. Before you read any explanation, sort them using your **current** understanding. There are no penalties for being wrong at this stage; the guess is the point.
 
-AI systems do not necessarily understand information or think in the same way humans do. Their capabilities and limitations depend on how they are designed, trained, and used.
+#### ACTIVITY 1.1 Card Sort: Rules, Learning, or Not Sure?
 
-### Examples of AI
+*Individual or pairs • 15 minutes • paper cards (or a table you fill in)*
 
-- A recommendation system suggesting videos based on viewing activity.
-- A spam filter identifying potentially unwanted emails.
-- A speech-recognition system converting spoken words into text.
-- An image-recognition system identifying objects in photographs.
-- A generative AI tool producing a draft from a written prompt.
+| | |
+|---|---|
+| **Goal** | Notice what you already believe about "AI" and find where the idea of AI becomes blurry. |
+| **Preparation** | Write each of the twelve statements below on a small card (or number them 1–12 on paper). Draw three zones: **Pile 1 — Follows fixed instructions**, **Pile 2 — Learns patterns from data**, **Pile 3 — Not sure / something else**. |
+| **Task** | Sort the twelve statements into the three piles before reading Section 1.2. Write one sentence for any card you place in Pile 3. |
+| **Observation** | Record your piles and the one-sentence reasons. |
+| **Reflection** | Which cards were hardest to place, and why? Where does "AI" start to feel like a marketing word? |
+| **Feedback** | The twelve statements and expected piles are given below. Hint: if you put many cards in Pile 3, that is a good sign. The boundary of "AI" really is blurry, and Section 1.2 explains why. |
+
+*The twelve statements (as preserved in the source; some cards are partially lost in OCR):*
+
+1. A calculator that adds numbers using a keypad. — *Pile 1 (fixed instructions)*
+2. A spam filter that learns from labelled emails. — *Pile 2 (learns patterns)*
+3. A chess program that searches moves using rules written by programmers. — *Pile 1 (search and rules)*
+4. A photo app that recognises faces by training on many images. — *Pile 2*
+5. A voice assistant that responds to spoken commands. — *Pile 2 (typically)*
+6. A recommendation feed that suggests videos. — *Pile 2*
+7. A bank's rule-based fraud alert ("flag any transaction over $5,000"). — *Pile 1*
+8. A navigation app that estimates travel time. — *Pile 2 (typically) Travel-time estimates usually combine data and predictive models, but the exact method depends on the service.*
+9. A search engine that matches keywords using indexed rules. — *Pile 3 It seems intelligent, but it uses search and rules written by people, not learning from data. It shows that not every AI system learns from data.*
+10. [Card 10 — OCR missing; insert from original]
+11. [Card 11 — OCR missing; insert from original]
+12. [Card 12 — OCR missing; insert from original]
+
+> Hint: if you put many cards in Pile 3, that is a good sign. The boundary of "AI" really is blurry, and Section 1.2 explains why.
 
 ## 1.2 AI, Machine Learning, and Deep Learning
 
