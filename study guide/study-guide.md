@@ -1439,3 +1439,23 @@ Only share context that is relevant and appropriate. Constraints improve control
 
 ---
 
+## Resource Directory and Access Notes
+
+All external links were chosen to support specific activities. **Access note:** Some websites (including YouTube and some Google-hosted tools) may not be available on every network. Every resource card gives a fallback, and the guide contains the essential explanations so that learning does not depend on a link. Please check that each link works before you rely on it.
+
+| Resource | Used in | Type | Link | Needs |
+|---|---|---|---|---|
+| Elements of AI (Univ. of Helsinki) | Case 1 | Reading | https://www.elementsofai.com | Browser; may offer sign-in |
+| IBM: What is AI? | Case 1 fallback | Reading | https://www.ibm.com/think/topics/artificial-intelligence | Browser |
+| Machine Learning for Kids | Case 2 | Interactive | https://machinelearningforkids.co.uk | Browser; "Try it now" without account |
+| TensorFlow Playground | Case 2 | Interactive | https://playground.tensorflow.org | Browser |
+| 3Blue1Brown: But what is a neural network? | Case 2 | Video (English) | https://www.youtube.com/watch?v=aircAruvnKk | YouTube access; captions |
+| Google: Machine Learning Crash Course | Cases 2, 6 | Course / reading | https://developers.google.com/machine-learning/crash-course | Browser |
+| 3Blue1Brown: Large Language Models explained briefly | Case 3 | Video (about 8 min, English) | https://www.youtube.com/watch?v=LPZh9BOjkQs | YouTube access; captions |
+| WHO: Artificial intelligence (health topic) | Case 4 | Reading | https://www.who.int/health-topics/artificial-intelligence | Browser |
+| UNESCO: Guidance for Generative AI in Education and Research | Cases 5, 6 | Reading | https://unesdoc.unesco.org/ark:/48223/pf0000386693 | Browser |
+| NIST: AI Risk Management Framework | Cases 5, 6 | Reference | https://doi.org/10.6028/NIST.AI.100-1 | Browser |
+| OECD AI Principles | Cases 5, 6 | Reference | https://oecd.ai/en/ai-principles | Browser |
+
+---
+
