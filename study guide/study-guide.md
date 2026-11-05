@@ -1160,5 +1160,22 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 | Group B | 20% | 30% (15 of 50) | 75% (15 of 20) |
 | Overall | 40% (80 of 200) | 60% (60 of 100) | 75% (60 of 80) |
 
-**Interpretation.** Qualified applicants in Group B are far more likely to be overlooked (30% versus 90%), yet overall precision looks acceptable and overall recall is a single middling number. Equal precision does not prove fairness. Possible causes to investigate: training data reflecting past hiring decisions, groups under-represented in the data, features that act as proxies, or differences in how "qualified" was judged. The numbers show a difference, not its cause. Safeguards: evaluate across groups before and after deployment, require qualified human review, investigate error patterns, and provide an appeal route.
+**Interpretation.** Qualified applicants in Group B are far more likely to be overlooked (30% versus 90%), yet overall precision looks acceptable, and overall recall is a single middling number. Equal precision does not prove fairness. Possible causes to investigate: training data reflecting past hiring decisions, groups under-represented in the data, features that act as proxies, or differences in how "qualified" was judged. The numbers show a difference, not its cause. Safeguards: evaluate across groups before and after deployment, require qualified human review, investigate error patterns, and provide an appeal route.
+
+### 5.4 Apply: Redact Before You Paste
+
+**APPLY** — *Protect privacy when using AI tools*
+
+#### ACTIVITY 5.3 Redact Before You Paste
+
+*Individual • 10 minutes • paper*
+
+| | |
+|---|---|
+| **Goal** | Share only the information needed for an AI task, and see why removing a name may not be enough. |
+| **Preparation** | Read the fictional draft prompt: "Hi! I'm Linh Tran, student ID 20261234, linh.tran@example.edu. My classmate Minh Pham got 54/100 on our group report, and the teacher wrote that his analysis was weak and that he missed two meetings. Please summarise the feedback so I can improve our next report." |
+| **Task** | Underline every piece of information that identifies a person or is private.<br><br>Rewrite the prompt so it still lets an AI tool help, but with the minimum information needed.<br><br>**Second case:** after you delete all names, the message says, "the only left-handed exchange student from Chile in Class 3B scored 54." Could someone still identify the person? Why? |
+| **Observation** | Write the original, the redacted version, and your answer to the second case. |
+| **Reflection** | Whose permission might you need before sharing another person's information? When should you not use an AI tool at all for this task? |
+| **Feedback (try first, then check)** | **Underlined:** name, student ID, email, classmate's name, his score, comments about his performance and attendance. **Example rewrite:** "Please summarise this feedback so a student can improve a group report: 'The analysis needs more evidence and the structure needs to be clearer.'"<br><br>**Second case:** Yes, a combination of details can identify someone even without a name. Do not assume removing names makes information anonymous. Do not assume information typed into an AI tool is automatically private or immediately deleted; check privacy settings, rules, and permissions, or use an approved tool. Confidential or sensitive material may need to stay out of public AI tools entirely. |
 
