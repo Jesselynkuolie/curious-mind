@@ -984,3 +984,39 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 > **Watch out for:** The page is a gateway to documents and may be updated; read dates carefully. It is general guidance, not advice for a specific condition.
 >
 > **If I cannot access it**, use the healthcare row of the table above.
+
+### 4.3 Apply: Inspect an AI Application
+
+**APPLY** — *Use the inspection form*
+
+#### ACTIVITY 4.2 AI Inspection Form
+
+*Individual • 15 minutes • paper or document*
+
+| | |
+|---|---|
+| **Goal** | Evaluate a real-world AI application using questions about purpose, benefits, risks, and checking. |
+| **Preparation** | Choose one: an AI tutor, a navigation app, a customer-service chatbot, a film or music recommender, a medical-image analysis tool, or a machine-translation tool. |
+| **Task** | Answer eight questions:<br>(1) name or type of application;<br>(2) task it performs;<br>(3) who benefits;<br>(4) information it may need;<br>(5) two potential benefits;<br>(6) two possible risks or limitations;<br>(7) how a user can check whether its output is reliable;<br>(8) when a human should review or override it.<br><br>Compare your answer with the worked example below after writing yours. |
+| **Observation** | Complete the form in full sentences. Underline the risk you consider most serious. |
+| **Reflection** | Where did you need more information to answer? What would you ask the developer or provider? |
+| **Feedback (try first, then check)** | **Example (navigation app):** (1) AI-supported navigation. (2) Estimates journey times and suggests routes. (3) Drivers, cyclists, pedestrians, other travellers. (4) Depending on the service: maps, location, traffic data. (5) Suggests alternative routes; estimates arrival times. (6) Traffic data may be outdated; a suggested route may be unsuitable or unsafe. (7) Compare with road signs, current conditions, or official travel information. (8) The traveller makes the final decision and should not follow an instruction that seems unsafe or contradicts road signs.<br><br>A complete response identifies the application, explains its purpose, describes two benefits and two risks, and gives a sensible way to check outputs. |
+
+### 4.4 Check and Case Notes
+
+| # | Question | Answer |
+|---:|---|---|
+| 1 | Which is an AI healthcare example: a paper appointment book or a system that helps analyse medical images? | The medical-image analysis system. Professionals must still interpret results. |
+| 2 | Why should AI-generated medical information be checked carefully? | Errors can have serious consequences, and professional judgement is essential. |
+| 3 | What is a recommendation system designed to do, and what can it not do? | Suggest items that may interest a user; it cannot guarantee that they will like them or that they are reliable or balanced. |
+| 4 | Why does data quality matter? | Incomplete or unrepresentative data can lead to unreliable or unfair outcomes. |
+| 5 | What is a responsible way to use an AI translation? | Review it when accuracy and context matter, because it may miss meaning or cultural context. |
+
+**Case notes**
+
+- AI is used across healthcare, education, transport, business, entertainment, agriculture, and communication, each with its own benefits and risks.
+- Judge each application by its task and the consequences of its errors.
+- Human oversight and the seven inspection questions help decide when and how to rely on an AI system.
+
+---
+
