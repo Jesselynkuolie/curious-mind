@@ -1,11 +1,46 @@
-# Curious Mind: AI Overview — Test Bank
+# The Curious Mind AI Explorer's Lab
 
-**Module:** Introduction to Artificial Intelligence  
-**Level:** Beginner  
-**Total Questions:** 20  
-**Question Types:** Multiple Choice and Short Answer  
-**Total Marks:** 35  
-**Suggested Time:** 35–45 minutes
+**Test Bank & Mission Log**
+
+**Version 1.0 — Stage 2 Submission**
+
+> Don't just revise. Investigate, predict, experiment, and earn your AI Explorer badges.
+
+| | |
+|---|---|
+| **Team** | Curious Mind Module Team |
+| **Module** | Introduction to Artificial Intelligence |
+| **Coverage** | Chapters 1–6 |
+
+---
+
+## Table of Contents
+
+- [Mission Briefing: How to Use This Test Bank](#mission-briefing-how-to-use-this-test-bank)
+  - [Your mission rules](#your-mission-rules)
+  - [Your Explorer Profile](#your-explorer-profile)
+  - [Scoring guide](#scoring-guide)
+- [Section A: True or False? — The Fact Scanner](#section-a-true-or-false--the-fact-scanner)
+  - [Chapters 1–2: Identity and Patterns](#chapters-12-identity-and-patterns)
+  - [Chapter 3: The Content Machine](#chapter-3-the-content-machine)
+  - [Chapters 4–6: Real World, Ethics, and Skills](#chapters-46-real-world-ethics-and-skills)
+- [Section B: Multiple Choice — The Decision Dashboard](#section-b-multiple-choice--the-decision-dashboard)
+- [Section C: Open Missions — Think Like an AI Explorer](#section-c-open-missions--think-like-an-ai-explorer)
+  - [Mission 1 — The Nested Boxes](#mission-1--the-nested-boxes)
+  - [Mission 2 — The Overfit Alarm](#mission-2--the-overfit-alarm)
+  - [Mission 3 — The Hallucination Hunt](#mission-3--the-hallucination-hunt)
+  - [Mission 4 — The Real-World Audit](#mission-4--the-real-world-audit)
+  - [Mission 5 — The Fairness File](#mission-5--the-fairness-file)
+  - [Mission 6 — The Responsible Draft](#mission-6--the-responsible-draft)
+- [Mission Log: What Did You Discover?](#mission-log-what-did-you-discover)
+- [Answer Key](#answer-key)
+  - [Section A: True / False](#section-a-true--false)
+  - [Section B: Multiple Choice](#section-b-multiple-choice)
+  - [Section C: Sample Answers and Key Points](#section-c-sample-answers-and-key-points)
+- [Section C Rubric](#section-c-rubric)
+- [End of Test Bank](#end-of-test-bank)
+
+---
 
 ## Instructions
 
