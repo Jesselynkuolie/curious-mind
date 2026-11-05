@@ -496,6 +496,25 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 | 5 | Overreliance | Read, verify, and edit before use; keep responsibility. |
 | 6 | Security/misuse | Verify through a second, trusted channel before acting. |
 
+### 1.7 Apply to Glitch: Interrogate the Witness
+
+**APPLY** — *Check an AI answer instead of trusting it*
+
+#### ACTIVITY 1.7 Interrogate Glitch
+
+*Individual or pairs • 20 minutes • optional chatbot; fallback sample included*
+
+| | |
+|---|---|
+| **Goal** | Practise treating AI output as information to evaluate, using evidence rather than confidence. |
+| **Preparation** | **Option A (live):** an AI chatbot that your course allows. Do not enter personal information.<br>**Option B (fallback, no chatbot needed):** use Glitch's sample answer below. It is a fictional example written for this guide (not a real AI log), and it contains deliberate mistakes. |
+| **Prompt** | Tell me three facts about the history of AI. |
+| **Glitch's sample answer** | 1) Alan Turing proposed the Turing Test in 1950. 2) The Dartmouth research project in 1965 established AI as a research field. 3) Deep learning was invented in the 2020s and made rule-based systems obsolete. |
+| **Task** | **Option B:** Mark each of Glitch's three "facts" as correct, incorrect, or overstated. Use the timeline in Activity 1.4 as your evidence source, and say what extra source you would check. **Option A:** Ask a chatbot "What is the difference between rule-based software and machine learning?" twice, and compare the two answers. List one claim you would verify, then check it against this guide or a reliable source.<br><br>Rewrite the prompt to be better: name the audience, length, and format, and ask for uncertainty to be flagged (for example: "Explain AI to a beginner in about 150 words with two everyday examples and one limitation"). |
+| **Observation** | Record each claim, your verdict, your evidence, and (Option A) any difference between the two chatbot answers. |
+| **Reflection** | Would an AI answer like this be enough as an academic reference? Why or why not? What did the confident tone tell you about accuracy? |
+| **Feedback (try first, then check)** | **Option B answer.** (1) Correct: Turing published in 1950. (2) Incorrect: the Dartmouth project was in 1956. (3) Incorrect and overstated: deep learning achieved major progress in the 2010s, and rule-based approaches are still used, so they are not "obsolete."<br><br>**Learning point.** Fluent, confident answers can still be wrong. AI output should be treated as information to evaluate, not fact. For an academic claim, you need credible research or official guidance, the sources, and a citation you have checked. A more specific prompt gives a better chance of a useful answer, but it still needs checking. |
+
 ---
 
 # Topic 2: Machine Learning Basics
