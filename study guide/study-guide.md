@@ -1459,3 +1459,23 @@ All external links were chosen to support specific activities. **Access note:** 
 
 ---
 
+## References and Acknowledgements
+
+1. Markdown Content V2.0 of this project, *Curious Mind: Introduction to Artificial Intelligence*, Chapters 1–6 (team-authored learning content that this guide is built from).
+2. Russell, S. J., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
+3. IBM. *What Is Artificial Intelligence (AI)?* https://www.ibm.com/think/topics/artificial-intelligence
+4. Google for Developers. *Machine Learning Crash Course*. https://developers.google.com/machine-learning/crash-course
+5. scikit-learn. *Supervised learning* and *Unsupervised learning*. https://scikit-learn.org/stable/
+6. UNESCO. (2023). *Guidance for Generative AI in Education and Research*. https://unesdoc.unesco.org/ark:/48223/pf0000386693
+7. UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence*. https://unesdoc.unesco.org/ark:/48223/pf0000381137
+8. National Institute of Standards and Technology. (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*. https://doi.org/10.6028/NIST.AI.100-1
+9. OECD. *OECD AI Principles*. https://oecd.ai/en/ai-principles
+10. World Health Organization. *Artificial intelligence (health topic)*. https://www.who.int/health-topics/artificial-intelligence
+
+### Borrowed media and platforms
+
+Videos, websites, and platforms linked in this guide belong to their creators: 3Blue1Brown (Grant Sanderson), Machine Learning for Kids (Dale Lane), TensorFlow Playground (Google / TensorFlow team), Elements of AI (University of Helsinki and MinnaLearn), Google for Developers, IBM, UNESCO, NIST, OECD, and WHO. They are linked, not copied. The characters Detective Pip and Glitch, the datasets, hypothetical numbers, and fictional transcripts in this guide are original teaching examples; fictional items are labelled as such. Playful analogies are identified and are not technical definitions.
+
+### Team contributions and AI-assistance statement
+
+[Team to insert: who wrote, tested, and reviewed each Case; which activities were attempted by someone other than the author; and how any AI assistance was used, in line with the Shared Assignment Rules and the project and personal logs.]
