@@ -540,5 +540,92 @@ Complete this after marking your answers. The best explorers learn from mistakes
 | 19 | **b** | W stands for Warnings/constraints. |
 | 20 | **c** | Medical decisions are high-stakes and require extra care. |
 
+### Section C: Sample Answers and Key Points
+
+#### Mission 1
+
+**1a. Ch. 1: What Is AI?**
+
+*Sample answer:* AI is a field of computing that builds systems to do jobs that normally need human thinking, like recognising faces, understanding speech, or making predictions. One example is the face unlock on a phone. AI is not the same as human intelligence because it follows patterns and rules. It does not really understand or have feelings. It can also make mistakes or give biased results.
+
+*Key points:* simple definition of AI; one real-life example; explains that AI does not understand like a human; mentions mistakes or bias.
+
+**1b. Ch. 1: The Nested Boxes**
+
+*Sample answer:* AI is the biggest box: any system that does "smart" tasks. Inside AI is machine learning (ML), where a computer learns from data instead of only following hand-written rules. Inside ML is deep learning, which uses many layers of neural networks. Example of AI: a chess program with rules. Example of ML: a spam filter that learns from emails. Example of deep learning: face recognition on a phone.
+
+*Key points:* correct order (deep learning inside ML inside AI); one example for each level.
+
+#### Mission 2
+
+**2a. Ch. 2: Overfitting**
+
+*Sample answer:* The model has probably overfitted. That means it memorised the training emails instead of learning general patterns. So it does well on the emails it has seen but badly on new ones. To fix it, the team could use more and more varied training emails. They could also test the model on new emails it has never seen before.
+
+*Key points:* names overfitting; explains "memorised instead of generalised"; one practical fix (more data, simpler model, or testing on unseen data).
+
+**2b. Ch. 2: The Card Activity**
+
+*Sample answer:* The data was all the message cards. The features were the clues I looked for, like the word "free" or lots of capital letters. The labels were "SPAM" and "NOT SPAM". I tested my rule on the other cards because I wanted to see if it worked on new messages, not just the ones I learned from. That shows whether my rule really generalises.
+
+*Key points:* data = cards; features = words or punctuation; labels = spam / not spam; explains why testing on unseen cards matters (generalisation).
+
+#### Mission 3
+
+**3a. Ch. 3: Using Generative AI for Study**
+
+*Sample answer:* A good way is asking AI to explain a hard topic in simpler words. A risky way is copying its essay or facts without checking. That is a problem because AI can be wrong or biased, and you might hand in false information. Before using AI text, check the facts in a trusted source and rewrite it in your own words.
+
+*Key points:* one good use; one risky use; explains the risk (errors or bias); gives a checking step.
+
+**3b. Ch. 3: LLMs and Hallucination**
+
+*Sample answer:* An LLM breaks a prompt into tokens and predicts the next token using probabilities learned during training. It repeats this process to create a response. Because it is optimised for plausible sequences rather than guaranteed truth, it can generate confident but false statements — hallucinations. For example, asked about a non-existent researcher, it may invent a convincing biography. An important claim should be checked against an authoritative source, such as an official website, peer-reviewed article, or module material.
+
+*Key points:* token prediction, hallucination, verification with reliable sources.
+
+#### Mission 4
+
+**4a. Ch. 4: Evaluating an AI App**
+
+*Sample answer:* I chose a navigation app. Its job is to find the fastest route. A benefit is that it saves time and avoids traffic. A risk is that it can be wrong about traffic or road closures. A human should step in and choose a different route if the app's advice looks unsafe or clearly wrong.
+
+*Key points:* names the app and purpose; one benefit; one risk; says when a human should override it.
+
+**4b. Ch. 4: Healthcare vs Transportation**
+
+*Sample answer:* In healthcare, AI can spot possible problems in X-rays — helpful, but a wrong result could harm a patient. In transportation, AI can plan faster routes — helpful, but a wrong route could cause delays. Doctors need more human checking because health decisions are high-stakes and can affect someone's safety or life.
+
+*Key points:* one benefit and one risk for each sector; explains that oversight depends on how serious the harm could be.
+
+#### Mission 5
+
+**5a. Ch. 5: Scholarship Bias**
+
+*Sample answer:* The problem is bias. The AI learned from old winners, who mostly came from three rich schools, so it now favours those schools. Students from other schools could be unfairly rejected even if they are just as good. One way to make it fairer is to remove school names from the data and have people review the shortlist.
+
+*Key points:* identifies bias from training data; explains who is harmed; gives one safeguard (remove the feature, audit data, or add human review).
+
+**5b. Ch. 5: Two Responsible AI Ideas**
+
+*Sample answer:* Fairness means AI should not treat one group worse than another. For example, a hiring tool should not reject people because of their gender. Privacy means personal data must be protected. For example, a health chatbot should not share your medical details with strangers. Both ideas matter because AI affects real people.
+
+*Key points:* defines two principles correctly; one small example for each; explains why they matter.
+
+#### Mission 6
+
+**6a. Ch. 6: Critiquing a Bad Draft**
+
+*Sample answer:* Problem one: the advice is wrong and unsafe — "let AI do your homework" and "copy exactly" are not responsible study habits. Problem two: it says "AI is never wrong", which is false, because AI can hallucinate. A better tip is: "Use AI to explain ideas, but check the facts and write the work yourself."
+
+*Key points:* names two problems (bad advice, false claim); gives one improved, responsible tip.
+
+**6b. Ch. 6: Helping Write a Study Guide**
+
+*Sample answer:* First, define the task and decide whether AI is appropriate. Then write a structured prompt with audience, purpose, length, and constraints. Review the draft for accuracy, relevance, completeness, bias, and clarity. Verify factual claims against reliable sources, revise the prompt or output, and decide whether the final version is appropriate to use. Checks include confirming statistics and ensuring the tone suits the audience. Verification matters because fluent writing is not proof of accuracy; the human user remains responsible.
+
+*Key points:* six-stage workflow, specific checks, rationale for verification, responsibility.
+
+---
 
 **End of test bank.**
