@@ -490,6 +490,30 @@ Complete this after marking your answers. The best explorers learn from mistakes
 
 ---
 
+## Answer Key
+
+### Section A: True / False
+
+1. **False** — AI is not the same as human intelligence; AI can make mistakes, be biased, and does not necessarily understand the world as humans do.
+2. **True** — Machine learning is an area of AI.
+3. **False** — The Turing Test was proposed in 1950; the Dartmouth conference was in 1956.
+4. **True** — Supervised learning uses labelled examples.
+5. **False** — Overfitting means strong performance on training data but poor performance on unseen data.
+6. **False** — Classification assigns categories; regression predicts numerical values.
+7. **False** — Unsupervised learning uses unlabeled data.
+8. **True** — Generative AI can create text, images, audio, video, and code.
+9. **False** — An LLM predicts tokens from learned patterns; it does not retrieve facts from a built-in database.
+10. **True** — Hallucination is confident but false generation.
+11. **False** — These categories can overlap; a generative system may include classification or prediction components.
+12. **False** — Healthcare AI includes medical image analysis, patient monitoring, drug discovery, and administrative support.
+13. **False** — Human oversight remains essential, especially in high-stakes settings, even when test accuracy is high.
+14. **True** — Recommendation systems are a common AI application.
+15. **False** — Responsible AI involves developers, organisations, users, educators, policymakers, and other stakeholders.
+16. **True** — A system can be accurate on historical data yet unfair if that data reflects discrimination.
+17. **True** — Transparency means appropriate understanding of how results are produced.
+18. **False** — Polished output still needs verification for accuracy, bias, and appropriateness.
+19. **True** — Personal or confidential information should not be entered into public AI tools.
+20. **False** — The workflow continues through review, verification, improvement, and a final use decision.
 
 
 **End of test bank.**
