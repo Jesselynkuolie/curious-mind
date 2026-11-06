@@ -592,7 +592,7 @@ Before marking this chapter complete, confirm that:
 
 ## 16. Completion Status
 
-**Document status:** Draft for team review.
+**Document status:** Submission note.
 
 **Next steps:**
 1. Compare this chapter with the approved module outline and course learning objectives.
