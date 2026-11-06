@@ -133,49 +133,44 @@ Explain how machine learning systems learn patterns from data and use those patt
 
 By the end of this chapter, learners should be able to:
 
-- Identify tasks that are appropriate for AI assistance.
-- Construct effective prompts using a structured prompting framework.
-- Improve an AI-generated response through iterative prompting.
-- Evaluate AI outputs for accuracy, relevance, completeness, bias, and clarity.
-- Verify important claims using reliable sources.
-- Apply privacy, safety, and academic-integrity practices when using AI.
-- Complete a practical task using AI while documenting their decisions and checking the final result.
-- Explain the limitations of AI and identify situations requiring human expertise or independent work.
+- Explain what machine learning is.
+- Identify the role of data in machine learning.
+- Explain the basic purpose of a machine learning model.
+- Describe the difference between supervised and unsupervised learning.
+- Identify examples of classification and prediction.
+- Explain why training and testing data are important.
+- Describe how the quality of data can affect model performance.
 
 ### Content topics
 
-1. Choosing the right task for AI.
-2. Identifying tasks that require extra care.
-3. Writing effective prompts using a six-part framework.
-4. Providing context, constraints, and output formats.
-5. Improving results through iterative prompting.
-6. Evaluating AI-generated outputs.
-7. Recognising common output problems.
-8. Fact-checking and source verification.
-9. Choosing reliable sources and verifying citations.
-10. Privacy and personal data protection.
-11. Academic integrity and intellectual property.
-12. Matching AI tools to tasks.
-13. Completing a practical AI-assisted workflow.
+1. Introduction to machine learning.
+2. The relationship between AI and machine learning.
+3. Data and its role in machine learning.
+4. What machine learning models are.
+5. Training and testing data.
+6. Supervised learning.
+7. Unsupervised learning.
+8. Classification and prediction.
+9. Model evaluation and performance.
+10. Data quality and common limitations.
 
 ### Learning activities
 
-**Activity 1: Improve and evaluate a prompt**
+**Activity 1: Identify learning types**
 
-Learners begin with a weak prompt, improve it using the six-part prompting framework, and evaluate the resulting AI response for accuracy, relevance, completeness, clarity, and safety.
+Learners examine simple examples and decide whether they involve supervised learning or unsupervised learning. They explain their choices.
 
-**Activity 2: Revise and reflect**
+**Activity 2: Explore data quality**
 
-Learners write a targeted follow-up prompt, identify what they verified independently, and reflect on how they used AI responsibly.
+Learners examine a small sample dataset and identify possible problems, such as missing or inconsistent information. They explain how these problems could affect a machine learning model.
 
 ### Assessment
 
-Learners complete a practical prompt-improvement activity and submit their initial prompt, revised prompt, evaluation, follow-up prompt, and reflection.
+Learners answer questions about machine learning terminology, learning types, model training, evaluation, and data quality.
 
 ### Evidence of learning
 
-Learners demonstrate effective prompting, critical evaluation, verification, and responsible AI use.
-
+Learners complete a learning-type classification table and explain one way that poor-quality data can affect an AI system.
 ### Assessment
 
 Learners answer questions about machine learning terminology, learning types, model evaluation, and data quality.
@@ -357,11 +352,13 @@ Help learners apply their knowledge by choosing appropriate AI tools, writing ef
 
 By the end of this chapter, learners should be able to:
 
-- Identify a task for which an AI tool may be useful.
-- Choose a suitable tool based on the task and its risks.
-- Write a clear prompt with relevant context and constraints.
-- Evaluate AI-generated output for accuracy, relevance, and quality.
-- Protect sensitive information when using AI tools.
+- Identify tasks that are appropriate for AI assistance.
+- Choose suitable AI tools based on the task and its risks.
+- Construct effective prompts using a structured prompting framework.
+- Improve AI-generated responses through iterative prompting.
+- Evaluate AI outputs for accuracy, relevance, completeness, bias, and clarity.
+- Verify important claims using reliable sources.
+- Apply privacy, safety, and academic-integrity practices when using AI.
 - Explain when human judgement or expert advice is needed.
 
 ### Content topics
