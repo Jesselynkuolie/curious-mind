@@ -5,7 +5,7 @@
 | Reviewer | File Reviewed | Feedback | Action Taken |
 |---|---|---|---|
 | [Jesselyn Kuolie] | [Markdown Chapter 1:Introduction to AI] | [Some explanations were difficult for beginners to understand.] | [Simplified the explanations and clarified important terms.] |
-| [Kristabelle Lian] | [Study Guide and Practice Questions] | [Some questions needed clearer wording and explanations.] | [Revised the questions and checked the answers for accuracy.] |
+| [Lê Trần Đức Trọng] | [Study Guide and Practice Questions] | [Some questions needed clearer wording and explanations.] | [Revised the questions and checked the answers for accuracy.] |
 ## Learner Testing
 
 | Participant | Material Tested | Feedback | Action Taken |
