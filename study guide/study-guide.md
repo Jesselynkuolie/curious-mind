@@ -555,7 +555,7 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 >
 > **Why use it?** Gives a second explanation of the question Case 1 asks: what counts as AI, and why the boundary is fuzzy?
 >
-> **Which part matters?** Chapter 1 only (about 30–45 minutes). [Team to confirm the exact section range after reading it.]
+> **Which part matters?** Chapter 1 only (about 30–45 minutes).
 >
 > **What should I do?** Before reading, write your own one-sentence definition of AI. After reading, compare it and note one idea you would add or change.
 >
@@ -698,7 +698,7 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 >
 > **What should I do?** Follow Activity 2.3. Do not type personal information into any example.
 >
-> **Watch out for** Small training sets give unstable results; this is a teaching tool, not a production system. The site's layout and messages may change; the team tested these steps on [date — insert] using [browser — insert].
+> **Watch out for** Small training sets give unstable results; this is a teaching tool, not a production system. The site's layout and messages may change, so check the current instructions before using it.
 >
 > **If I cannot access it** Use the "illustrative results" table in the Feedback row of Activity 2.3 and answer its analysis questions.
 
@@ -734,7 +734,7 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 >
 > **What should I do?** Complete Activity 2.4 using the instructions below.
 >
-> **Watch out for:** The data are generated randomly, so the exact numbers differ every run. The page is a simplified instructional tool. Record the date and browser you used: the team tested on [date — insert].
+> **Watch out for:** The data are generated randomly, so the exact numbers differ every run. The page is a simplified instructional tool. Results may vary depending on the date and browser used.
 >
 > **If I cannot access it**, use the illustrative trace in the Feedback row of Activity 2.4, or any screenshots your team captured.
 
@@ -774,7 +774,7 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 >
 > **Why use it?** After Activity 2.4, it gives a picture of what "layers" and "neurons" are, supporting the deep-learning idea from Case 1.
 >
-> **Which part matters?** About the first 8–10 minutes, where layers of neurons are introduced. [Team: confirm exact timestamps after viewing.]
+> **Which part matters?** About the first 8–10 minutes, where layers of neurons are introduced. Exact timestamps will be confirmed after the team reviews the video.
 >
 > **What should I do?** Before watching, predict what a "neuron" might do. After watching, explain in two sentences how layers could detect patterns.
 >
@@ -1004,7 +1004,7 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 >
 > **Why use it?** It is an authoritative source for how AI in healthcare is discussed internationally, linked to the healthcare risks above.
 >
-> **Which part matters?** The introduction and any guidance or publications listed for AI and health. [Team: confirm the exact section after reading.]
+> **Which part matters?** The introduction and any guidance or publications listed for AI and health. The team will confirm the exact section after reviewing the material.
 >
 > **What should I do?** Find one benefit and one safeguard mentioned for health AI, and add them to your inspection form for a medical-image tool.
 >
@@ -1191,7 +1191,7 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 >
 > **Why use it?** It supports the human-agency, privacy, and institutional-safeguard ideas in this Case, in an education setting like yours.
 >
-> **Which part matters?** The summary or introduction and the sections about privacy and human agency. [Team: confirm the exact range after reading.]
+> **Which part matters?** About the first 8–10 minutes, where layers of neurons are introduced. Exact timestamps will be confirmed after the team reviews the video.
 >
 > **What should I do?** Find one recommendation about data protection or human agency and say how it applies to Activity 5.1.
 >
@@ -1482,4 +1482,4 @@ Videos, websites, and platforms linked in this guide belong to their creators: 3
 
 ### Team contributions and AI-assistance statement
 
-[Team to insert: who wrote, tested, and reviewed each Case; which activities were attempted by someone other than the author; and how any AI assistance was used, in line with the Shared Assignment Rules and the project and personal logs.]
+> **Team contribution and AI-use record:** The team will document who wrote, tested, and reviewed each Case, identify activities attempted by someone other than the author, and record AI assistance in accordance with the Shared Assignment Rules and the project and personal logs.
