@@ -184,7 +184,7 @@ Emphasise that benefits and risks can exist at the same time. Whether AI is appr
 
 **On-slide content**
 Responsible AI use includes:
-- **Accuracy:** Verify important claims with reliable sources.
+- **Safety:** Reduce harm, protect against misuse, and perform consistently.
 - **Privacy:** Avoid entering confidential or sensitive information into tools without appropriate safeguards.
 - **Fairness:** Consider whether outputs could disadvantage particular groups.
 - **Transparency:** Be clear about when AI has materially contributed to work when disclosure is required or appropriate.
