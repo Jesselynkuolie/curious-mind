@@ -68,15 +68,14 @@ Welcome back, Explorer. Detective Pip has hidden six AI mysteries across this Te
 | Score | Band |
 |---|---|
 | 75–100 | AI Explorer Commander |
-| 50–75 | Confident Investigator |
-| 25–50 | Emerging Explorer |
-| Below 25 | Return to the Lab and retry the chapter activities |
-
+| 50–74 | Confident Investigator |
+| 25–49 | Emerging Explorer |
+| 0–24 | Return to the Lab and retry the chapter activities |
 ---
 
 ## Section A: True or False? — The Fact Scanner
 
-Decide whether each statement is true or false. If it is false, correct it in the space provided. One point each.
+Decide whether each statement is true or false. If it is false, correct it in the space provided. Award 1 point for each correct True/False choice. For false statements, the correction must also be accurate to earn the point.
 
 ### Chapters 1–2: Identity and Patterns
 
@@ -418,7 +417,7 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 ## Section C: Open Missions — Think Like an AI Explorer
 
-Answer each mission in developed prose, normally more than 100 words. Use examples, reasoning, and clear explanations. These questions are worth **5 points each**.
+Answer each mission in developed prose, normally around 80–120 words. Use examples, reasoning, and clear explanations. These questions are worth **5 points each**.
 
 ### Mission 1 — The Nested Boxes
 
