@@ -1,45 +1,71 @@
-
 # Curious Mind — AI Overview
 
 ## Project Overview
 
-Curious Mind is an educational project designed to introduce students and beginners to Artificial Intelligence (AI).
+Curious Mind is an educational project that introduces students and beginners to Artificial Intelligence (AI).
 
-The project explains fundamental AI concepts, applications, benefits, limitations, and ethical considerations through accessible learning materials.
+The project explains the basic concepts of AI, its applications, benefits, limitations, and responsible use through different learning materials.
 
-## Target Audience
+## Project Objectives
 
-Students and beginners with limited prior knowledge of Artificial Intelligence.
+- Understand the meaning and basic concepts of Artificial Intelligence.
+- Explore how Machine Learning and Generative AI work.
+- Identify real-life applications of AI.
+- Understand the benefits, limitations, and ethical concerns of AI.
+- Develop practical skills for using AI responsibly.
 
-## Learning Objectives
+## Module Contents
 
-By completing this module, learners should be able to:
+The module contains six chapters:
 
-- Explain the basic concept of Artificial Intelligence.
-- Identify the relationship between AI, Machine Learning, and Deep Learning.
-- Describe how AI systems use data.
-- Identify common AI applications.
-- Explain the benefits and limitations of AI.
-- Recognize ethical concerns and responsible AI practices.
+| Chapter | Topic |
+|---|---|
+| 1 | Introduction to Artificial Intelligence |
+| 2 | Machine Learning Basics |
+| 3 | Generative AI and Large Language Models |
+| 4 | AI Applications |
+| 5 | Responsible AI |
+| 6 | Practical AI Skills |
 
-## Project Structure
+## Learning Materials
 
-- `markdown/` — Module outline and learning chapters.
-- `study-guide/` — Study guide materials.
-- `test-bank/` — Practice questions and answers.
-- `slides/` — Presentation outline and slides.
-- `videos/` — Video tutorial plans and materials.
-- `revision-summary.md` — Summary of Stage 2 revisions.
+The project includes:
 
-## Project Status
+- **Markdown Chapters:** Detailed explanations of the six topics.
+- **Study Guide:** Summaries and important concepts for revision.
+- **Test Bank:** Practice questions to check understanding.
+- **PowerPoint Presentation:** Visual presentation of the main concepts.
+- **Video Tutorials:** Supporting explanations and demonstrations.
+- **Resource Mapping:** Shows how the learning materials connect to each chapter.
 
-Stage 2: Markdown Content V2.0 — Revision and validation.
+## Repository Structure
 
-## Team Members
-
-- Jesselyn Kuolie — Coordinator (CEO)
-- Kristabelle Lian — Video Lead
-- Le Tran Duc Trong — Repository and Submission Lead (CIO)
-- Lai Quoc Hung — Visual Design Lead
-- Samantha Salvatrice — Quality Lead
-- Michelle Kalyani — Content Lead
+```text
+curious-mind/
+│
+├── content/
+│   └── introduction-to-ai.md/
+│       ├── 00-module-outline.md
+│       ├── 01-what is ai.md
+│       ├── 02-machine-learning-basics.md
+│       ├── 03-generative-ai-llms.md
+│       ├── 04 -ai-applications.md
+│       ├── 05-responsible-ai.md
+│       └── 06-practical-skills-ai.md
+│
+├── study guide/
+│   └── study-guide.md
+│
+├── test-bank/
+│   └── practice-questions.md
+│
+├── slides/
+│   └── presentation-outline.md
+│
+├── videos/
+│   ├── video-plan.md
+│   └── video-storyboard.md
+│
+├── revision-summary.md
+├── review-and-learner-test.md
+└── README.md
