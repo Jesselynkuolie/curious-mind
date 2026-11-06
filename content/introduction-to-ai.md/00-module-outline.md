@@ -133,36 +133,48 @@ Explain how machine learning systems learn patterns from data and use those patt
 
 By the end of this chapter, learners should be able to:
 
-- Define machine learning.
-- Explain the roles of data, training, and models.
-- Distinguish supervised learning from unsupervised learning.
-- Recognise classification and regression as different prediction tasks.
-- Explain why a model must be evaluated using suitable data.
-- Identify how biased or poor-quality data can affect model outputs.
+- Identify tasks that are appropriate for AI assistance.
+- Construct effective prompts using a structured prompting framework.
+- Improve an AI-generated response through iterative prompting.
+- Evaluate AI outputs for accuracy, relevance, completeness, bias, and clarity.
+- Verify important claims using reliable sources.
+- Apply privacy, safety, and academic-integrity practices when using AI.
+- Complete a practical task using AI while documenting their decisions and checking the final result.
+- Explain the limitations of AI and identify situations requiring human expertise or independent work.
 
 ### Content topics
 
-1. Introduction to machine learning.
-2. How machine learning relates to AI.
-3. Data, features, labels, and models.
-4. Training a machine learning model.
-5. Supervised learning.
-6. Unsupervised learning.
-7. Classification and regression.
-8. Training, validation, and test data.
-9. Model evaluation and prediction errors.
-10. Overfitting and generalisation.
-11. Data quality, bias, and limitations.
+1. Choosing the right task for AI.
+2. Identifying tasks that require extra care.
+3. Writing effective prompts using a six-part framework.
+4. Providing context, constraints, and output formats.
+5. Improving results through iterative prompting.
+6. Evaluating AI-generated outputs.
+7. Recognising common output problems.
+8. Fact-checking and source verification.
+9. Choosing reliable sources and verifying citations.
+10. Privacy and personal data protection.
+11. Academic integrity and intellectual property.
+12. Matching AI tools to tasks.
+13. Completing a practical AI-assisted workflow.
 
 ### Learning activities
 
-**Activity 1: Classify the task**
+**Activity 1: Improve and evaluate a prompt**
 
-Learners examine examples such as spam detection, house-price prediction, and grouping customers by purchasing patterns. They identify the likely machine learning task and explain their reasoning.
+Learners begin with a weak prompt, improve it using the six-part prompting framework, and evaluate the resulting AI response for accuracy, relevance, completeness, clarity, and safety.
 
-**Activity 2: Explore data quality**
+**Activity 2: Revise and reflect**
 
-Learners consider a hypothetical model trained on incomplete or unrepresentative data. They explain how the problem might affect predictions and suggest one improvement.
+Learners write a targeted follow-up prompt, identify what they verified independently, and reflect on how they used AI responsibly.
+
+### Assessment
+
+Learners complete a practical prompt-improvement activity and submit their initial prompt, revised prompt, evaluation, follow-up prompt, and reflection.
+
+### Evidence of learning
+
+Learners demonstrate effective prompting, critical evaluation, verification, and responsible AI use.
 
 ### Assessment
 
