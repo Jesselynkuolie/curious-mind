@@ -1,66 +1,78 @@
-
 # Stage 2 Revision Summary
 
-## Project
+## Project Information
 
-Curious Mind: AI Overview
+- **Project:** Curious Mind — AI Overview
+- **Stage:** Stage 2 — Markdown Content V2.0
+- **Purpose:** To document improvements made to the Stage 1 learning materials and supporting resources.
 
-## Purpose
-
-This document summarizes the revisions made to the Stage 1 Markdown learning materials for Stage 2.
-
-## Revision Summary
+## 1. Revision Summary
 
 | File | Revision Made | Reason |
 |---|---|---|
-| `README.md` | Updated project status and Stage 2 information. | To reflect current project progress. |
-| `markdown/module-outline.md` | Reviewed chapter sequence and learning outcomes. | To improve organization and alignment. |
-| `markdown/chapters/` | Reviewed and revised chapter content for clarity and completeness. | To make the materials easier for beginners to understand. |
-| `study-guide/study-guide-outline.md` | Reviewed study guide topics against the Markdown chapters. | To improve consistency and support student revision. |
-| `test-bank/practice-questions.md` | Reviewed questions, answers, and explanations. | To improve clarity and check understanding. |
-| `slides/presentation-outline.md` | Reviewed presentation topics against the Markdown content. | To maintain consistency across learning resources. |
-| `videos/video-plan.md` | Reviewed video topics against the Markdown content. | To ensure alignment with the learning materials. |
+| `README.md` | Reviewed project information, repository structure, and resource descriptions. | To improve navigation and documentation consistency. |
+| `content/introduction-to-ai.md/00-module-outline.md` | Reviewed chapter structure, learning objectives, and learning sequence. | To ensure logical organization and alignment with learning objectives. |
+| `content/introduction-to-ai.md/01-what is ai.md` | Reviewed explanations, examples, activities, and knowledge-check questions. | To improve clarity and learning experience. |
+| `content/introduction-to-ai.md/02-machine-learning-basics.md` | Reviewed chapter explanations, activities, questions, answers, and references. | To provide complete learning content on machine learning. |
+| `content/introduction-to-ai.md/03-generative-ai-llms.md` | Reviewed generative AI explanations, examples, and learning activities. | To improve understanding of generative AI and large language models. |
+| `content/introduction-to-ai.md/04 -ai-applications.md` | Reviewed AI application examples and learning activities. | To connect AI concepts with real-world applications. |
+| `content/introduction-to-ai.md/05-responsible-ai.md` | Reviewed responsible AI content, ethical concerns, and limitations. | To improve understanding of responsible AI practices. |
+| `content/introduction-to-ai.md/06-practical-skills-ai.md` | Reviewed practical AI skills, activities, and responsible-use guidance. | To support practical application and critical evaluation of AI outputs. |
+| `study guide/study-guide.md` | Reviewed study guide content against the learning chapters. | To reinforce important concepts and support revision. |
+| `test-bank/practice-questions.md` | Reviewed questions, answers, and explanations. | To improve assessment clarity and alignment. |
+| `slides/presentation-outline.md` | Reviewed presentation topics and structure. | To maintain consistency with the Markdown content. |
+| `videos/video-plan.md` | Reviewed video topics and learning objectives. | To align video content with the learning chapters. |
+| `videos/video-storyboard.md` | Reviewed video sequence and planned learning content. | To improve instructional flow. |
+| `revision-summary.md` | Updated revision records and repository paths. | To document Stage 2 improvements accurately. |
 
-## Peer Review
+## 2. Peer Review
 
-**Peer review status:** Complete
+**Peer review status:** Recorded in the Peer Review and Learner Testing document.
 
-**Reviewers:**
-- Jesselyn Kuolie
-- Lê Trần Đức Trọng
+Feedback focused on:
+- Improving explanations for beginners.
+- Clarifying technical terminology.
+- Improving practice question wording.
+- Ensuring consistency between chapters and supporting resources.
 
-**Feedback received:**
-- Some explanations needed to be clearer and easier for beginners to understand.
-- The study guide and test bank needed better alignment with the Markdown chapters.
-- Some questions needed more detailed explanations.
+Actions taken:
+- Reviewed explanations and wording.
+- Improved clarity where needed.
+- Reviewed practice questions and answer explanations.
+- Checked alignment between learning chapters and supporting resources.
 
-**Changes made based on feedback:**
-- Simplified explanations and improved wording.
-- Checked that study guide topics matched the Markdown chapters.
-- Reviewed questions, answers, and explanations for consistency.
+Detailed feedback is recorded in `review-and-learner-test.md`.
 
-## Learner Testing
+## 3. Learner Testing
 
-**Learner testing status:** Complete
+**Learner testing status:** Recorded in the Peer Review and Learner Testing document.
 
-**Testing participants:**
-- 2 student reviewers
+Feedback focused on:
+- Understanding technical terminology.
+- Clarity of the study guide.
+- Usefulness of practice questions.
+- Need for clearer answer explanations.
 
-**Feedback:**
-- The materials were generally easy to understand.
-- Some technical terms needed clearer explanations.
-- Practice questions were helpful for reviewing the topics.
+Actions taken:
+- Reviewed technical explanations.
+- Improved wording where necessary.
+- Reviewed practice questions and explanations.
 
-**Changes made:**
-- Added clearer explanations of important terms.
-- Simplified confusing sentences.
-- Reviewed practice questions to improve clarity.
+Detailed learner testing records are available in `review-and-learner-test.md`.
 
-## Remaining Issues
+## 4. Remaining Issues
 
-- Final proofreading and consistency checks are still needed.
-- Some learning materials may require further refinement based on final feedback.
+The following items require final verification before submission:
 
-## Final Status
+- Complete final proofreading of all Markdown chapters.
+- Check consistency of learning objectives and supporting resources.
+- Verify references and citations.
+- Check internal links and Markdown formatting.
+- Confirm peer review and learner testing records accurately reflect actual feedback.
+- Prepare and verify the final PDF and submission report.
 
-Ready for final review.
+## 5. Final Status
+
+The Stage 2 Markdown materials have been revised and organized for final review.
+
+Final submission readiness depends on completing the remaining verification tasks and confirming that all required deliverables meet the assignment instructions.
