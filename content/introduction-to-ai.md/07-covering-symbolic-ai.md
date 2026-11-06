@@ -1,4 +1,4 @@
-# Chapter 07: Covering Symbolic AI
+# Chapter 7: Covering Symbolic AI
 
 ## 1. Overview
 
