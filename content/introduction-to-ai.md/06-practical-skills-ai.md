@@ -1,755 +1,335 @@
+# Chapter 6: Modern Practical AI Skills and Workflows
 
-# Chapter 6: Practical AI Skills — Prompting, Evaluating, and Using AI Effectively
+**Level:** Beginner  
+**Estimated learning time:** 45–60 minutes  
+**Target audience:** Students and general learners who want to use modern AI tools effectively and responsibly
 
 ## 1. Chapter Overview
 
-Artificial intelligence (AI) tools can help people brainstorm ideas, explain difficult concepts, summarize information, draft content, organize data, and solve problems. However, getting useful results requires more than entering a short question and accepting the first answer.
+AI tools are becoming part of everyday study, communication, research, and work. Modern AI can help users organise information, summarise documents, generate ideas, analyse data, create presentations, and support problem-solving.
 
-Practical AI skills involve choosing appropriate tools, writing clear instructions, evaluating outputs, improving results, protecting information, and taking responsibility for how AI-generated content is used.
+However, using AI effectively involves more than writing a prompt. Users need to understand how to choose suitable tools, organise tasks into steps, review generated results, and check important information.
 
-This chapter focuses on skills that learners can apply in education, the workplace, and everyday life. It emphasizes that AI should support human thinking rather than replace independent judgment.
-
-By the end of this chapter, learners will have practised a complete AI-assisted workflow: defining a task, writing a prompt, reviewing the result, checking important claims, improving the output, and deciding whether it is appropriate to use.
-
-### Why These Skills Matter
-
-Practical AI skills help learners:
-
-- Communicate clearly with AI tools.
-- Obtain more relevant and useful outputs.
-- Recognize inaccurate, incomplete, or misleading information.
-- Protect personal and confidential data.
-- Use AI in ways that respect academic integrity and intellectual property.
-- Improve their work through critical thinking and revision.
-- Decide when AI is useful and when another approach is better.
+This chapter introduces practical AI workflows that combine human judgement with AI assistance. Learners will explore how to use AI tools to complete tasks while maintaining accuracy, privacy, and responsibility.
 
 ## 2. Learning Objectives
 
 By the end of this chapter, learners should be able to:
 
-1. Identify tasks that are appropriate for AI assistance.
-2. Construct effective prompts using a structured prompting framework.
-3. Improve an AI-generated response through iterative prompting.
-4. Evaluate AI outputs for accuracy, relevance, completeness, bias, and clarity.
-5. Verify important claims using reliable sources.
-6. Apply privacy, safety, and academic-integrity practices when using AI.
-7. Complete a practical task using AI while documenting their decisions and checking the final result.
-8. Explain the limitations of AI and identify situations requiring human expertise or independent work.
-
-## 3. Choosing the Right Task for AI
-
-Before using an AI tool, define the problem you want to solve. AI is most useful when the task, expected output, and acceptable limitations are clear.
-
-### 3.1 Tasks AI Can Often Support
-
-Examples include:
-
-- **Brainstorming:** Generating possible project topics or discussion questions.
-- **Learning:** Explaining a concept at different levels of difficulty.
-- **Writing support:** Suggesting an outline, improving clarity, or identifying grammatical errors.
-- **Organization:** Turning notes into a structured checklist or table.
-- **Programming support:** Explaining code, suggesting debugging approaches, or creating examples for review.
-- **Research support:** Suggesting search terms, organizing notes, and identifying questions that need further investigation.
-- **Creative work:** Exploring alternative story ideas, presentation structures, or design concepts.
-
-These are possible uses, not guarantees of quality. Outputs still need to be reviewed.
-
-### 3.2 Tasks Requiring Extra Care
-
-AI requires particular caution when a task involves:
-
-- Medical, legal, financial, or other high-stakes decisions.
-- Personal, confidential, or sensitive information.
-- Safety-critical instructions.
-- Assessments with strict rules about permitted assistance.
-- Claims that require precise, current, or authoritative evidence.
-- Decisions that may significantly affect someone's rights or opportunities.
-
-In these situations, AI may provide general support where appropriate, but it should not automatically replace qualified professionals, official sources, institutional rules, or meaningful human judgment.
-
-### 3.3 A Simple Task-Selection Checklist
-
-Before beginning, ask:
-
-1. What exactly am I trying to achieve?
-2. Can AI reasonably assist with this task?
-3. Is the task permitted under the relevant rules?
-4. What information will I need to provide?
-5. Could that information be private or confidential?
-6. How will I check whether the result is correct?
-7. What parts of the final result require my own judgment?
-
-If the task is unsuitable for AI or the risks cannot be managed, choose another method.
-
-## 4. Writing Effective Prompts
-
-A prompt is the instruction, question, or information supplied to an AI system to guide its response.
-
-Clear prompts often lead to more useful results because they communicate the intended task and the conditions the output should satisfy. However, a well-written prompt cannot guarantee that the answer will be accurate.
-
-### 4.1 The Six-Part Prompt Framework
-
-A practical prompt can include six elements:
-
-1. **Role:** What perspective or type of assistance should the AI provide?
-2. **Task:** What should the AI do?
-3. **Context:** What background information does it need?
-4. **Constraints:** What rules, limitations, or requirements should it follow?
-5. **Output format:** How should the answer be organized?
-6. **Quality criteria:** What characteristics should a useful answer have?
-
-Not every prompt needs all six elements. Use the elements that help clarify the task.
-
-### 4.2 Example: Improving a Weak Prompt
-
-**Weak prompt:**
-
-"Explain AI."
-
-This prompt does not identify the audience, desired level of detail, examples, or format.
-
-**Improved prompt:**
-
-"You are helping a beginner understand artificial intelligence. Explain what AI is in approximately 200 words. Use simple language, provide two everyday examples, distinguish AI from traditional rule-based software, and end with three short review questions. Avoid unsupported claims and clearly identify any important limitations."
-
-The improved prompt specifies the task, audience, context, constraints, output format, and quality expectations.
-
-### 4.3 Example: A Structured Study Prompt
-
-**Prompt:**
-
-"Act as a study assistant. Help me understand supervised machine learning.
-
-Context: I am a beginner who understands basic computer concepts but has not studied machine learning before.
-
-Task: Explain supervised learning and how labelled training data is used.
-
-Constraints: Use simple language, avoid unnecessary technical jargon, and do not invent research citations.
-
-Output:
-1. A short definition.
-2. A step-by-step explanation.
-3. One everyday example.
-4. Three common misconceptions.
-5. Five review questions with an answer key.
-
-Quality criteria: Make the explanation accurate, organized, and suitable for a beginner. If an important detail is uncertain, say so."
-
-### 4.4 Why Context Matters
-
-AI systems can interpret a short prompt in several ways. Relevant context helps narrow the range of possible responses.
-
-Compare these instructions:
-
-- "Write an introduction."
-- "Write a 150-word introduction for a beginner-level presentation about responsible AI. Explain why fairness, privacy, and accountability matter, and use a friendly but academic tone."
-
-The second prompt makes the intended audience, length, topic, content, and tone much clearer.
-
-However, context should be relevant and appropriate to share. Do not include sensitive information simply to make a prompt more detailed.
-
-### 4.5 Specify Constraints and Output Format
-
-Constraints help define the boundaries of a response.
-
-Examples include:
-
-- Limit the response to 200 words.
-- Use language suitable for secondary-school learners.
-- Provide three examples.
-- Use a table with the columns "Benefit," "Risk," and "Safeguard."
-- Separate verified facts from suggestions.
-- Identify assumptions and missing information.
-- Do not include personal information.
-- Ask a clarifying question if essential details are missing.
-
-Constraints improve control over the response, but they do not guarantee compliance or factual accuracy. Always review the result.
-
-## 5. Improving Results Through Iteration
-
-Prompting is often a process of revision rather than a single interaction.
-
-A useful workflow is:
-
-1. Write an initial prompt.
-2. Review the response.
-3. Identify specific weaknesses.
-4. Give a targeted follow-up instruction.
-5. Compare the revised response with the original task.
-6. Verify factual claims and important details.
-7. Edit the final result yourself.
-
-### Example: Iterative Improvement
-
-**First prompt:**
-
-"Give me ideas for a presentation about AI."
-
-**Problem with the result:**
-
-The response provides many general topics but does not distinguish beginner-friendly ideas from advanced ones.
-
-**Follow-up prompt:**
-
-"Select the three most suitable topics for a five-minute presentation by beginner learners. For each topic, explain why it matters, provide one everyday example, and suggest a simple visual. Present the results in a comparison table."
-
-**Final review:**
-
-The learner checks whether the suggestions are relevant, feasible within five minutes, factually sound, and appropriate for the intended audience.
-
-The key lesson is to identify a specific weakness and provide a clear revision instruction rather than repeatedly asking the AI to "make it better."
-
-### Useful Follow-Up Instructions
-
-- "Make the explanation simpler without removing essential details."
-- "Identify assumptions that may be incorrect."
-- "Separate factual claims from recommendations."
-- "Give a counterexample that tests this explanation."
-- "Point out missing information."
-- "Compare the two options using the criteria I provided."
-- "Shorten the response to 150 words while preserving the main points."
-- "List the claims that need external verification."
-
-These instructions support revision and critical thinking. They do not remove the need to evaluate the result independently.
-
-## 6. Evaluating AI-Generated Outputs
-
-A response can be fluent and persuasive while still being incorrect. Learners should evaluate outputs systematically instead of relying on how confident or professional the writing sounds.
-
-### 6.1 The Five-Part Output Review
-
-Use the following criteria.
-
-| Criterion | Key question | What to check |
+- Identify tasks that can benefit from AI assistance.
+- Select suitable AI tools for different tasks.
+- Design a simple AI-assisted workflow.
+- Write clear prompts and provide useful context.
+- Use AI to organise, summarise, analyse, and create information.
+- Review and improve AI-generated outputs.
+- Verify important information using reliable sources.
+- Protect personal information and use AI responsibly.
+- Explain why human review is important in AI-assisted workflows.
+
+## 3. Choosing the Right AI Tool
+
+Different AI tools are designed for different purposes. Choosing a suitable tool depends on the task, required output, reliability, and privacy considerations.
+
+| Task | AI Tool Category | Example Use |
 |---|---|---|
-| Accuracy | Is the information correct? | Check facts, calculations, names, dates, and citations. |
-| Relevance | Does it answer the actual question? | Compare the output with the original task and audience. |
-| Completeness | Is anything important missing? | Check the required topics, steps, evidence, and limitations. |
-| Clarity | Is it understandable and well organized? | Look for vague language, confusing explanations, and unsupported jargon. |
-| Fairness and safety | Could it mislead or cause harm? | Examine bias, sensitive information, unsafe advice, and possible negative effects. |
+| Research | AI research assistants | Explore a topic and identify useful sources |
+| Writing | AI writing assistants | Improve clarity and organise ideas |
+| Studying | AI learning assistants | Generate revision questions and explain concepts |
+| Data analysis | AI data-analysis tools | Summarise trends in a dataset |
+| Design | AI image-generation tools | Create visual ideas for a presentation |
+| Productivity | AI assistants | Organise tasks and draft schedules |
+| Programming | AI coding assistants | Explain code and help identify errors |
 
-A response may be clear and relevant but still fail on accuracy. Each criterion should be considered separately.
+**Important:** AI tools may produce incorrect results. Users should check important information rather than accepting every output.
 
-### 6.2 Recognizing Common Problems
+## 4. Understanding an AI Workflow
 
-**Hallucinations:** AI may generate plausible but false information, including invented citations, events, or statistics.
+An AI workflow is a sequence of steps that combines AI tools and human decisions to complete a task.
 
-**Outdated information:** An answer may not reflect recent developments, revised rules, or current data.
+A simple workflow contains six stages:
 
-**Missing context:** The response may overlook a detail that changes the conclusion.
+1. **Define the task:** Identify the problem and desired result.
+2. **Prepare the information:** Gather relevant, non-sensitive materials.
+3. **Choose the tool:** Select an AI tool that matches the task.
+4. **Give instructions:** Provide a clear prompt with context and requirements.
+5. **Review the result:** Check accuracy, relevance, completeness, and quality.
+6. **Improve and finalise:** Make corrections and decide what should be used.
 
-**Bias:** An output may reproduce stereotypes or unfair assumptions.
+### Example: Creating a Study Guide
 
-**Overconfidence:** The wording may sound certain even when the evidence is weak.
+A student wants to prepare a study guide for an upcoming class.
 
-**Incomplete reasoning:** The output may give a conclusion without addressing important alternatives or limitations.
+**Step 1: Define the task**
 
-**Formatting errors:** A table, list, or calculation may contain mistakes even when the surrounding explanation looks correct.
+The student wants to turn class notes into a clear revision guide.
 
-Recognizing these problems is the first step toward addressing them.
+**Step 2: Prepare the information**
 
-## 7. Fact-Checking and Source Verification
+The student organises their notes and removes unnecessary personal information.
 
-Important claims should be verified using sources appropriate to the subject and the consequences of an error.
+**Step 3: Choose the tool**
 
-### 7.1 A Practical Verification Process
+The student selects an AI assistant that can process text.
 
-1. Identify the factual claims that matter to your task.
-2. Locate the original or authoritative source where possible.
-3. Confirm that the source actually supports the claim.
-4. Check dates, definitions, units, context, and limitations.
-5. Compare important claims with an independent reliable source when appropriate.
-6. Correct or remove unsupported claims.
-7. Keep a record of sources used in the final work.
+**Step 4: Give instructions**
 
-### 7.2 Choosing Reliable Sources
+The student asks the AI to organise the notes into topics, key terms, and practice questions.
 
-Useful sources may include:
+**Step 5: Review the result**
 
-- Official government or public-agency publications.
-- Original research papers and reputable academic publications.
-- Official documentation from relevant institutions.
-- Recognized standards and professional organizations.
-- Reputable reference works with clear editorial processes.
+The student compares the generated guide with the original notes and checks for missing or incorrect information.
 
-The best source depends on the question. For current laws, use current official legal or government sources. For scientific claims, consult appropriate research or authoritative scientific guidance.
+**Step 6: Improve and finalise**
 
-A search-result snippet is not a substitute for checking the source itself.
+The student corrects errors, adds missing explanations, and produces the final study guide.
 
-### 7.3 Verifying Citations
+The AI supports the process, but the student remains responsible for the final result.
 
-AI-generated references should never be accepted automatically.
+## 5. Effective Prompting for Practical Tasks
 
-Check:
+A prompt is an instruction or request given to an AI tool.
 
-- Whether the cited publication actually exists.
-- Whether the author, title, and publication date are correct.
-- Whether the link opens the intended source.
-- Whether the cited source supports the specific statement.
-- Whether the source is appropriate for the assignment.
+A useful prompt should provide:
 
-If a citation cannot be verified, do not present it as a confirmed reference.
+- **Task:** What should the AI do?
+- **Context:** What background information does it need?
+- **Audience:** Who is the output for?
+- **Requirements:** What should be included or avoided?
+- **Format:** How should the answer be organised?
 
-### 7.4 When Sources Disagree
+### Example of a Weak Prompt
 
-Reliable sources sometimes reach different conclusions because they use different methods, dates, definitions, or evidence.
+"Help me study biology."
 
-When this happens:
+### Improved Prompt
 
-- Check what question each source addresses.
-- Compare publication dates and methods.
-- Identify areas of agreement and disagreement.
-- Avoid claiming that a disputed issue is settled.
-- Explain the uncertainty where it affects the conclusion.
+"Create a beginner-friendly biology revision guide about cells for a high-school student. Include five key terms, short explanations, three examples, and five multiple-choice questions with answers. Use simple English and organise the information with headings."
 
-Critical thinking includes recognizing when the available evidence is incomplete.
+The improved prompt gives the AI clearer instructions and a more specific expected result.
 
-## 8. Responsible AI Use and Personal Data
+## 6. Using AI for Common Workflows
 
-Practical AI skills include knowing what not to share and when not to use an AI tool.
+### 6.1 Research Workflow
 
-### 8.1 Protecting Information
+AI can help users explore a topic and organise research.
 
-Before submitting information to an AI service:
+A responsible research workflow:
 
-- Remove personal details that are unnecessary for the task.
-- Never enter passwords or authentication codes.
-- Avoid uploading confidential documents to unapproved services.
-- Check the service's privacy settings and data-handling terms.
-- Follow school, workplace, and applicable legal requirements.
-- Obtain appropriate permission before sharing another person's information.
+1. Define a research question.
+2. Ask AI for an overview of the topic.
+3. Identify important concepts and possible search terms.
+4. Find reliable original sources.
+5. Check whether the sources support the claims.
+6. Write a summary using verified information.
 
-Replacing a person's name with a label may not be enough to protect their identity if other details reveal who they are.
+AI-generated references should not automatically be trusted. Users should open and verify the original sources.
 
-### 8.2 Academic Integrity
+### 6.2 Writing Workflow
 
-AI assistance should follow the rules of the relevant course or institution.
+AI can support the writing process.
 
-Depending on the assignment, permitted uses may include brainstorming, explanations, language feedback, or practice questions. Other tasks may require independent work or restrict AI assistance.
+A practical workflow:
 
-Responsible academic practice includes:
+1. Identify the purpose and audience.
+2. Ask AI to brainstorm ideas.
+3. Create an outline.
+4. Draft the content.
+5. Review the organisation and clarity.
+6. Check facts, citations, and originality.
+7. Edit the final version using personal judgement.
 
-1. Reading the assignment instructions before using AI.
-2. Keeping track of how AI was used.
-3. Checking all factual claims and references.
-4. Writing or revising work in accordance with the assignment rules.
-5. Disclosing AI assistance when required.
-6. Ensuring that submitted work reflects the learner's own understanding.
+### 6.3 Presentation Workflow
 
-Submitting AI-generated work as independent work when the rules prohibit it is not responsible use.
+AI can help users plan educational presentations.
 
-### 8.3 Intellectual Property and Attribution
+A practical workflow:
 
-AI-assisted work can raise questions about copyright, licensing, attribution, and ownership. Requirements vary depending on the material, jurisdiction, tool, and context.
+1. Define the presentation topic.
+2. Identify the audience and presentation length.
+3. Ask AI to suggest a slide structure.
+4. Review and organise the main points.
+5. Create slides using a presentation tool.
+6. Check facts, readability, and visual consistency.
+7. Practise the presentation and revise where necessary.
 
-Before using AI-generated text, images, audio, or code:
+### 6.4 Data Analysis Workflow
 
-- Check relevant service terms and licenses.
-- Respect the rights and licenses associated with source material.
-- Follow the institution's citation and disclosure requirements.
-- Do not claim to have conducted research or performed work that you did not actually do.
-- Verify whether third-party material may be reproduced or redistributed.
+AI tools can assist with understanding datasets.
 
-AI-generated content should not automatically be assumed to be free of intellectual-property concerns.
+A practical workflow:
 
-## 9. Matching AI Tools to Tasks
+1. Identify the question to investigate.
+2. Check the dataset for missing or inconsistent information.
+3. Select an appropriate analysis tool.
+4. Ask the tool to summarise the data.
+5. Examine the results and visualisations.
+6. Verify calculations and interpretations.
+7. Explain the findings and limitations.
 
-Different tools may support different kinds of work. Choose a tool based on the task, not simply because it is popular.
+Users should not upload confidential or sensitive data unless the tool and relevant policies explicitly permit it.
 
-| Task | Potentially suitable tool type | Important check |
-|---|---|---|
-| Brainstorming | General-purpose AI assistant | Are the suggestions relevant and original enough for the task? |
-| Learning a concept | Educational assistant or conversational AI | Is the explanation accurate and appropriate for the learner's level? |
-| Current research | Search-enabled research tool | Are claims supported by accessible, reliable sources? |
-| Data analysis | Spreadsheet or data-analysis tool | Are the data, calculations, assumptions, and results correct? |
-| Programming help | Coding assistant | Has the code been reviewed, tested, and checked for security? |
-| Image creation | Image-generation tool | Are the result, usage rights, and accessibility requirements appropriate? |
-| Writing improvement | Writing assistant | Does the final text preserve the intended meaning and meet the relevant rules? |
+## 7. Improving AI Outputs
 
-No category guarantees a correct result. Users remain responsible for checking whether the selected tool is suitable.
+The first response from an AI tool may not fully satisfy the task.
 
-## 10. Practical Workflow: Completing a Task with AI
-
-The following workflow combines effective prompting, verification, and responsible use.
-
-### Step 1: Define the Deliverable
-
-Write down the task, intended audience, required length or format, and success criteria.
-
-Example: "Create a beginner-friendly, three-minute explanation of how machine learning uses training data."
-
-### Step 2: Check the Rules and Risks
-
-Determine whether AI assistance is permitted. Identify sensitive data, high-stakes issues, and any information that should not be shared.
-
-### Step 3: Write a Structured Prompt
-
-Include the task, audience, relevant context, constraints, format, and quality criteria.
-
-### Step 4: Generate and Review
-
-Read the response carefully. Mark incorrect claims, missing information, vague wording, and material that does not fit the task.
-
-### Step 5: Revise with Targeted Prompts
-
-Ask the AI to address specific weaknesses. Avoid accepting a revision without reviewing it.
-
-### Step 6: Verify Important Claims
-
-Check sources, statistics, calculations, names, dates, and other important facts.
-
-### Step 7: Edit and Finalize
-
-Improve the organization and clarity. Make sure the final work reflects your understanding and follows the relevant rules.
-
-### Step 8: Document and Reflect
-
-Record significant AI assistance when required. Reflect on what helped, what failed, and what you would change next time.
-
-**Workflow summary:**
-
-Define the task → Check rules and risks → Prompt → Review → Revise → Verify → Finalize → Reflect.
-
-## 11. Practical Learning Activity: Improve and Evaluate a Prompt
-
-### Activity Purpose
-
-Practise constructing a clear prompt, evaluating the result, and improving it using a specific revision instruction.
-
-### Scenario
-
-You need to prepare a short educational explanation of responsible AI for beginner learners. Your explanation must include examples, use accessible language, and identify important limitations.
-
-### Part A: Write an Initial Prompt
-
-Start with the following weak prompt:
-
-"Tell me about responsible AI."
-
-Identify at least three details missing from the instruction.
-
-### Part B: Improve the Prompt
-
-Rewrite the prompt using the six-part framework:
-
-- Role
-- Task
-- Context
-- Constraints
-- Output format
-- Quality criteria
-
-Your improved prompt should make the expected response easier to evaluate.
-
-### Part C: Test and Review
-
-If an AI tool is available and permitted, submit the improved prompt. Review the response using the table below.
-
-| Review criterion | Question | Notes |
-|---|---|---|
-| Accuracy | Are the definitions and examples correct? | |
-| Relevance | Is the explanation suitable for beginners? | |
-| Completeness | Does it cover the required principles? | |
-| Clarity | Is the language easy to understand? | |
-| Safety and fairness | Does it avoid misleading or harmful claims? | |
-
-If you do not have access to an AI tool, complete the prompt-writing and evaluation steps using a sample response provided by your teacher.
-
-### Part D: Revise
-
-Write one follow-up prompt that addresses a specific weakness found during the review.
+Users can improve results by giving targeted follow-up instructions.
 
 For example:
 
-"Revise the explanation to include one practical example of privacy risks. Use simple language, distinguish recommendations from facts, and keep the total length below 250 words."
+- "Make the explanation shorter."
+- "Add a practical example."
+- "Organise the answer into a comparison table."
+- "Explain this term using simpler language."
+- "Identify claims that need reliable sources."
+- "Check whether the conclusion follows from the information provided."
 
-### Part E: Reflect
+Users should review every revised response rather than assuming that additional prompts automatically make the result correct.
 
-Answer these questions:
+## 8. Evaluating AI-Generated Results
 
-1. What changed between your first and improved prompts?
-2. Which part of the output required the most careful checking?
-3. Did the AI meet every requirement? Provide evidence.
-4. What did you verify independently?
-5. What information should never be entered into the tool for this task?
-6. How would you improve your workflow next time?
+Before using AI-generated content, consider the following questions:
 
-### Suggested Submission Evidence
+| Evaluation Area | Question |
+|---|---|
+| Accuracy | Are the facts and calculations correct? |
+| Relevance | Does the output answer the original task? |
+| Completeness | Is important information missing? |
+| Clarity | Is the result easy to understand? |
+| Reliability | Are important claims supported by trustworthy sources? |
+| Bias | Does the output contain unfair assumptions? |
+| Privacy | Does it expose personal or confidential information? |
 
-A complete activity submission should contain:
+If the output fails any important check, revise it or verify the information independently.
 
-- The original weak prompt.
-- The revised prompt.
-- A brief evaluation of the output.
-- One targeted follow-up prompt.
-- A short reflection explaining verification and responsible use.
+## 9. Responsible AI Practices
 
-If the activity requires an AI-generated output, include it only when permitted by the assignment instructions.
+When using modern AI tools, users should:
 
-## 12. Knowledge Check
+1. Avoid entering passwords, private records, or unnecessary personal information.
+2. Verify important facts and references.
+3. Follow academic-integrity and workplace rules.
+4. Acknowledge AI assistance when required.
+5. Respect copyright and intellectual property.
+6. Avoid using AI as the only source for important decisions.
+7. Review generated content before sharing or submitting it.
+8. Keep human judgement involved throughout the workflow.
 
-Choose the best answer for each question before reading the answer key.
+## 10. Practical Activity: Build an AI-Assisted Workflow
 
-### Question 1
+**Scenario:**
 
-Which prompt is most likely to produce a useful response?
+Your team needs to prepare a short presentation about the benefits and limitations of artificial intelligence.
 
-A. "AI."
+You may use an AI assistant to support the planning process.
 
-B. "Tell me everything."
+**Tasks:**
 
-C. "Explain supervised learning to a beginner in 150 words, include one example, and finish with three review questions."
+1. Define the presentation's purpose and target audience.
+2. Choose an appropriate AI tool.
+3. Write a prompt asking the AI to create a presentation outline.
+4. Review the outline and identify two improvements.
+5. Check at least two important factual claims using reliable sources.
+6. Create a final outline and explain which AI suggestions you accepted or rejected.
 
-D. "Write something interesting."
+**Deliverables:**
 
-### Question 2
+- Initial prompt.
+- AI-generated outline.
+- Two improvements made after reviewing the result.
+- Evidence of fact-checking.
+- Final presentation outline.
+- Short reflection on responsible AI use.
 
-Why is context useful when writing a prompt?
+**Suggested Reflection Questions:**
 
-A. It guarantees that the AI will never make mistakes.
+- Which part of the workflow did AI help with most?
+- What errors or weaknesses did you identify?
+- How did you verify the information?
+- Which decisions required your own judgement?
 
-B. It helps the AI interpret the task, audience, and requirements.
+## 11. Knowledge Check
 
-C. It removes the need to review the response.
+**1. What is an AI workflow?**
 
-D. It makes all generated information confidential.
+A. A single prompt sent to an AI tool.  
+B. A sequence of steps combining AI assistance and human decisions to complete a task.  
+C. A method of storing passwords.  
+D. A computer operating system.
 
-### Question 3
+**Answer: B.** An AI workflow organises a task into stages and includes human review.
 
-An AI assistant provides a research citation that looks convincing. What should you do before using it?
+**2. What should users do before selecting an AI tool?**
 
-A. Accept it because the formatting looks professional.
+A. Choose the most popular tool.  
+B. Upload all available information.  
+C. Identify the task and its requirements.  
+D. Accept the first result.
 
-B. Assume it is correct if the AI repeats it.
+**Answer: C.** Understanding the task helps users select an appropriate tool.
 
-C. Verify that the source exists and supports the relevant claim.
+**3. Why should AI-generated references be checked?**
 
-D. Remove all citations from the assignment.
+A. AI always produces accurate references.  
+B. Some references may be incorrect or may not exist.  
+C. References are never useful.  
+D. AI cannot discuss research.
 
-### Question 4
+**Answer: B.** AI can generate inaccurate or fabricated references, so original sources must be checked.
 
-Which is an example of a useful iterative prompt?
+**4. What is the purpose of reviewing AI-generated output?**
 
-A. "Try again."
+A. To make the task longer.  
+B. To avoid using human judgement.  
+C. To check quality, accuracy, and suitability.  
+D. To prevent all AI use.
 
-B. "Make it better somehow."
+**Answer: C.** Review helps users identify errors and improve the final result.
 
-C. "Shorten the response to 150 words and retain the three main findings."
+**5. Which is a responsible AI practice?**
 
-D. "Ignore the original task."
+A. Entering confidential information into any AI tool.  
+B. Sharing AI-generated answers without checking them.  
+C. Following relevant rules and verifying important information.  
+D. Allowing AI to make every decision.
 
-### Question 5
+**Answer: C.** Responsible use includes verification, privacy protection, and human judgement.
 
-What should you do before uploading a confidential document to an AI tool?
+## 12. Chapter Summary
 
-A. Upload it immediately to test the system.
+Modern practical AI skills involve more than writing prompts. Users need to understand how to select suitable tools, organise tasks into workflows, provide clear instructions, and evaluate generated results.
 
-B. Check whether the tool is approved for that information and remove unnecessary sensitive details.
+AI can support research, writing, studying, presentations, and data analysis. However, human review remains important because AI outputs can contain errors, bias, or missing information.
 
-C. Assume the information will be deleted immediately.
+A good AI workflow combines the speed and assistance of AI with human judgement, verification, and responsibility.
 
-D. Share it with multiple services.
-
-### Question 6
-
-Which statement about AI-generated information is correct?
-
-A. Fluent writing proves that a response is accurate.
-
-B. AI systems can produce plausible but incorrect information.
-
-C. Every AI-generated citation is genuine.
-
-D. AI output never requires human review.
-
-### Question 7
-
-What is the most responsible way to use AI for an assignment?
-
-A. Ignore the teacher's instructions.
-
-B. Submit the output without checking it.
-
-C. Follow the assignment rules, verify the work, and disclose AI assistance when required.
-
-D. Claim that all AI-generated work is entirely your own independent work.
-
-### Question 8
-
-An AI tool produces code that appears to solve a programming problem. What should the learner do?
-
-A. Run it in a production environment without testing.
-
-B. Assume that code generated by AI is secure.
-
-C. Review, test, and check the code for errors and security concerns before relying on it.
-
-D. Delete the original problem statement and trust the output.
-
-### Question 9
-
-Which approach is best when an important AI-generated claim cannot be verified?
-
-A. Present the claim as a confirmed fact.
-
-B. Invent a source to support the claim.
-
-C. Remove the claim or clearly communicate its uncertainty until adequate evidence is available.
-
-D. Repeat the claim in different words.
-
-### Question 10
-
-What is the most important purpose of human review in an AI-assisted workflow?
-
-A. To accept every recommendation automatically.
-
-B. To evaluate quality, verify important claims, exercise judgment, and take responsibility for the final result.
-
-C. To ensure that no AI tool is ever used.
-
-D. To make the prompt longer regardless of the task.
-
-1. **C** — A specific task, audience, length, and output format make the response easier to direct and evaluate.
-
-2. **B** — Context clarifies the task and requirements. It reduces ambiguity but cannot guarantee accuracy.
-
-3. **C** — Verify the source and its relevance. AI can invent references or misrepresent real publications.
-
-4. **C** — A targeted revision instruction identifies a measurable change while preserving important content.
-
-5. **B** — Check approval and minimize sensitive data before sharing confidential information.
-
-6. **B** — Plausible text can still be incorrect. Fluency and confidence are not substitutes for evidence.
-
-7. **C** — Follow assignment rules, check the work, and disclose AI assistance when required.
-
-8. **C** — Review and test AI-generated code for errors and security concerns.
-
-9. **C** — Remove unsupported claims or communicate uncertainty until adequate evidence is available.
-
-10. **B** — Human reviewers evaluate the output, exercise judgment, and take responsibility for the final result.
-
-### Suggested Scoring Guide
-
-- **9–10 correct:** Strong understanding of the chapter's main skills.
-- **7–8 correct:** Good understanding; review any missed concepts.
-- **5–6 correct:** Developing understanding; revisit prompting and verification.
-- **0–4 correct:** Review the chapter and repeat the knowledge check.
-
-This is a suggested self-assessment guide, not an official grading rubric.
-
-## 14. Key Terms
+## 13. Key Terms
 
 | Term | Definition |
 |---|---|
-| Prompt | An instruction or input supplied to an AI system. |
-| Prompt engineering | The practice of designing and refining prompts to guide AI outputs. |
-| Context | Relevant background information that helps define a task. |
-| Constraint | A rule or limitation that an output should follow. |
-| Iteration | Repeatedly reviewing and improving a result. |
-| Hallucination | AI-generated information that is inaccurate or unsupported but may appear plausible. |
-| Verification | Checking whether information is accurate and supported by appropriate evidence. |
-| Source credibility | The extent to which a source is trustworthy and appropriate for a particular claim. |
-| Bias | A systematic tendency that may distort results or contribute to unfair outcomes. |
-| Data minimization | Limiting the collection or sharing of personal information to what is necessary for a purpose. |
-| Academic integrity | Honest and responsible participation in learning and assessment. |
-| Human oversight | Meaningful human review, intervention, or control where appropriate. |
-| Iterative prompting | Improving an AI response through targeted follow-up instructions. |
-| Output evaluation | Assessing an AI response for accuracy, relevance, completeness, clarity, and safety. |
+| AI Workflow | A sequence of steps combining AI tools and human decisions to complete a task. |
+| Prompt | An instruction or request given to an AI system. |
+| AI Assistant | A tool that helps users complete tasks using AI capabilities. |
+| Fact-checking | Verifying information using reliable sources. |
+| Data Analysis | The process of examining data to identify patterns and findings. |
+| Human Oversight | Human review and control of AI-supported processes. |
+| AI Output | Information or content generated by an AI system. |
+| Iterative Prompting | Improving an AI response through follow-up instructions. |
 
-## 15. Further Reading and References
+## 14. References and Further Reading
 
-The following sources provide guidance on AI literacy, risk management, responsible use, and education.
+- UNESCO. [Guidance for Generative AI in Education and Research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research).
+- NIST. [Artificial Intelligence Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework).
+- Google for Developers. [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml).
 
-1. National Institute of Standards and Technology (NIST). (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0).*  
-   https://doi.org/10.6028/NIST.AI.100-1
+## 15. Chapter Completion Checklist
 
-   **Relevance:** Provides a framework for identifying, evaluating, and managing AI risks.
-
-2. UNESCO. (2023). *Guidance for Generative AI in Education and Research.*  
-   https://unesdoc.unesco.org/ark:/48223/pf0000386693
-
-   **Relevance:** Discusses human-centred approaches and responsible use of generative AI in education and research.
-
-3. Organisation for Economic Co-operation and Development (OECD). *OECD AI Principles.*  
-   https://oecd.ai/en/ai-principles
-
-   **Relevance:** Provides principles for trustworthy AI, including transparency, robustness, and accountability.
-
-4. UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence.*  
-   https://unesdoc.unesco.org/ark:/48223/pf0000381137
-
-   **Relevance:** Discusses ethical considerations, human rights, privacy, fairness, and societal impacts.
-
-**Reference-use note:** Consult the original publications for detailed recommendations. Confirm that all links work and follow the citation format required by your course.
-
-## 16. Accessibility and Learning Design
-
-This chapter supports accessible and self-directed learning through:
-
-- A clear heading hierarchy.
-- Plain-language explanations of technical concepts.
-- Practical examples and step-by-step workflows.
-- Tables that organize evaluation criteria.
-- A hands-on activity with clear deliverables.
-- Knowledge-check questions with explained answers.
-- A glossary of key terms.
-- A workflow summary that reinforces the learning sequence.
-
-The chapter can be used with or without direct access to an AI tool. Where a tool is unavailable, a teacher-provided sample response can support the same evaluation activity.
-
-### Suggested Visual
-
-Create a workflow diagram with eight connected stages:
-
-1. Define the task.
-2. Check rules and risks.
-3. Write the prompt.
-4. Review the output.
-5. Revise the prompt.
-6. Verify claims.
-7. Finalize the work.
-8. Reflect on the result.
-
-Show an arrow from the final stage back to the first stage to indicate that future tasks can benefit from what the learner has learned.
-
-**Suggested alt text:** "An eight-stage AI-assisted workflow: define the task, check rules and risks, write the prompt, review the output, revise the prompt, verify claims, finalize the work, and reflect on the result. An arrow loops back to the beginning to represent continuous improvement."
-
-If you create or add this visual to the repository, record the creator, source, license, and attribution details in `assets/asset-register.md`.
-
-## 17. Chapter Completion Checklist
-
-Before marking this chapter complete, verify that:
-
-- [ ] The chapter includes an overview and clear learning objectives.
-- [ ] Task selection and responsible AI use are explained.
-- [ ] The six-part prompting framework is demonstrated with examples.
-- [ ] Iterative prompting is explained step by step.
-- [ ] Output evaluation covers accuracy, relevance, completeness, clarity, fairness, and safety.
-- [ ] Fact-checking and citation verification are addressed.
-- [ ] Privacy, academic integrity, and intellectual-property concerns are included.
-- [ ] The practical activity has clear instructions and deliverables.
-- [ ] Knowledge-check questions align with the learning objectives.
-- [ ] Every knowledge-check answer includes an explanation.
-- [ ] References are relevant and links have been checked.
-- [ ] The suggested visual includes appropriate alt text.
-- [ ] The chapter aligns with the approved module outline.
-- [ ] The team has reviewed the content for accuracy, consistency, and accessibility.
-- [ ] Feedback and revisions are recorded in the appropriate review document.
-
-## 18. Completion Status
-
-**Document status:** Draft for team review.
-
-### Remaining Review Tasks
-
-- Compare the chapter with the approved module outline and course learning objectives.
-- Verify the references and citation style.
-- Check consistency with the chapters on Generative AI, AI Applications, and Responsible AI.
-- Review the activity and answer key to ensure learners can complete them using the chapter content.
-- Test all links and check Markdown rendering on GitHub.
-- Record actual reviewer feedback and revisions in the review document.
-- Update the project task tracker only after the corresponding tasks have been completed.
-
-**Submission note:** Final approval depends on the teacher's rubric, consistency across the repository, reference accuracy, and completion of the required review.
+- [ ] Modern AI tools and their uses are introduced.
+- [ ] AI workflows are explained step by step.
+- [ ] Research, writing, presentation, and data-analysis workflows are included.
+- [ ] Prompting and output improvement are explained.
+- [ ] AI-generated results are evaluated using clear criteria.
+- [ ] Privacy and responsible-use practices are included.
+- [ ] Practical activity and deliverables are complete.
+- [ ] Knowledge-check answers include explanations.
+- [ ] References and links have been checked.
+- [ ] Markdown formatting has been reviewed.
