@@ -44,7 +44,7 @@ Welcome back, Explorer. Detective Pip has hidden six AI mysteries across this Te
 - **Use the Mission Log.** Record surprises, mistakes, and ideas you want to revisit.
 - **Do not peek early.** The Answer Key is at the end — treat it like a locked lab cabinet.
 - **Score honestly.** The goal is to find gaps, not to collect a perfect score.
-- **Claim your badges.** Each completed section earns an Explorer Badge.
+- **Claim your badges.** Each completed mission in Section C earns one Explorer Badge. Complete all six missions to collect the full set.
 
 ### Your Explorer Profile
 
@@ -75,7 +75,7 @@ Welcome back, Explorer. Detective Pip has hidden six AI mysteries across this Te
 
 ## Section A: True or False? — The Fact Scanner
 
-Decide whether each statement is true or false. If it is false, correct it in the space provided. Award 1 point for each correct True/False choice. For false statements, the correction must also be accurate to earn the point.
+1 point per question. Choose True or False for each statement. If a statement is false, provide an accurate correction to earn the point.
 
 ### Chapters 1–2: Identity and Patterns
 
@@ -223,8 +223,6 @@ Decide whether each statement is true or false. If it is false, correct it in th
 
 *Correction/reasoning:* _________________________________________________
 
-> 🏅 **Badge unlocked:** Identity & Pattern Investigator
-
 ---
 
 ## Section B: Multiple Choice — The Decision Dashboard
@@ -249,7 +247,7 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**3.** Ch. 1 — Which of the following is not typically considered an AI task?
+**3.** Ch. 1 — Which of the following is usually performed without AI?
 
 - a) Recognising objects in images.
 - b) Generating human language.
@@ -409,9 +407,7 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 - c) Making a medical decision.
 - d) Suggesting an outline for an essay.
 
-*Your answer:* a / b / c / d - *Confidence:* Sure / Unsure
-
-> 🏅 **Badge unlocked:** Decision Dashboard Operator
+*Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 ---
 
@@ -421,39 +417,37 @@ Answer each mission in developed prose, normally around 80–120 words. Use exam
 
 ### Mission 1 — The Nested Boxes
 
-**1a.** Ch. 1 — What is artificial intelligence? Give one example of AI you have seen in real life. Then explain, in simple words, why AI is not the same as human intelligence. *Suggested length: 80–120 words.*
+**1a.** Ch. 1 — What is artificial intelligence? Give one example of AI you have seen in real life. Then explain, in simple words, why AI is not the same as human intelligence. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
-**1b.** Ch. 1 — Explain the "nested boxes" idea: AI, machine learning, and deep learning. Give one simple example for each level. *Suggested length: 80–120 words.*
+**1b.** Ch. 1 — Explain the "nested boxes" idea: AI, machine learning, and deep learning. Give one simple example for each level. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
 ### Mission 2 — The Overfit Alarm
 
-**2a.** Ch. 2 — In the card activity, you sorted messages into SPAM and NOT SPAM. Explain what the data, the features, and the labels were in that activity. Then explain why you should test your rule on cards you did not use for learning. *Suggested length: 80–120 words.*
+**2a.** Ch. 2 — In the card activity, you sorted messages into SPAM and NOT SPAM. Explain what the data, the features, and the labels were in that activity. Then explain why you should test your rule on cards you did not use for learning. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
-**2b.** Ch. 2 — A spam filter gets 99% correct on its training emails, but only 65% correct on new emails. What has probably happened? Explain in simple words, and give one way the team could fix it. *Suggested length: 80–120 words.*
-
+**2b.** Ch. 2 — A spam filter gets 99% correct on its training emails, but only 65% correct on new emails. What has probably happened? Explain in simple words, and give one way the team could fix it. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 ### Mission 3 — The Hallucination Hunt
 
-**3a.** Ch. 3 — Name one good way and one risky way to use generative AI for studying. Explain why the risky way is a problem and what a student should do before using AI-written text. *Suggested length: 80–120 words.*
+**3a.** Ch. 3 — Name one good way and one risky way to use generative AI for studying. Explain why the risky way is a problem and what a student should do before using AI-written text. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
-**3b.** Ch. 3 — Describe how a large language model generates a response to a prompt. Explain why an LLM might produce a confident but false statement. Use token prediction and give an example of how you would verify an important claim. *Suggested length: 80–120 words.*
-
+**3b.** Ch. 3 — Describe how a large language model generates a response to a prompt. Explain why an LLM might produce a confident but false statement. Use token prediction and give an example of how you would verify an important claim. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 ### Mission 4 — The Real-World Audit
 
-**4a.** Ch. 4 — Choose one real-world AI application, such as medical image analysis, loan scoring, or navigation. Evaluate its purpose, benefits, risks, or limitations, and explain when a human should override the system. *Suggested length: 80–120 words.*
+**4a.** Ch. 4 — Choose one real-world AI application, such as medical image analysis, loan scoring, or navigation. Evaluate its purpose, benefits, risks, or limitations, and explain when a human should override the system. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
-**4b.** Ch. 4 — AI is used in both healthcare and transportation. Give one benefit and one risk for each. Then explain why doctors need more human checking than a navigation app. *Suggested length: 80–120 words.*
+**4b.** Ch. 4 — AI is used in both healthcare and transportation. Give one benefit and one risk for each. Then explain why doctors need more human checking than a navigation app. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
 ### Mission 5 — The Fairness File
 
-**5a.** Ch. 5 — Pick two responsible AI ideas (for example, fairness, privacy, or transparency). Explain what each one means in simple words, using one small example for each. *Suggested length: 80–120 words.*
+**5a.** Ch. 5 — Pick two responsible AI ideas (for example, fairness, privacy, or transparency). Explain what each one means in simple words, using one small example for each. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
-**5b.** Ch. 5 — A university uses AI to choose scholarship students. The AI was trained on past winners, and most past winners came from three rich schools. What is the problem here? Who could be hurt? Give one way to make the system fairer. *Suggested length: 80–120 words.*
+**5b.** Ch. 5 — A university uses AI to choose scholarship students. The AI was trained on past winners, and most past winners came from three rich schools. What is the problem here? Who could be hurt? Give one way to make the system fairer. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
 ### Mission 6 — The Responsible Draft
 
-**6a.** Ch. 6 — Read this bad AI draft: *"Top tips: 1. Always let AI do your homework. 2. Copy the answer exactly. 3. AI is never wrong."* Give two problems with this draft and write one better tip to replace them. *Suggested length: 80–120 words.*
+**6a.** Ch. 6 — Read this bad AI draft: *"Top tips: 1. Always let AI do your homework. 2. Copy the answer exactly. 3. AI is never wrong."* Give two problems with this draft and write one better tip to replace them. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
-**6b.** Ch. 6 — You are asked to use an AI assistant to draft a one-page study guide for a class. Describe the complete workflow from defining the task to deciding whether to use the final output. Include at least two specific checks and explain why verification is essential even if the first draft looks polished. *Suggested length: 80–120 words.*
+**6b.** Ch. 6 — You are asked to use an AI assistant to draft a one-page study guide for a class. Describe the complete workflow from defining the task to deciding whether to use the final output. Include at least two specific checks and explain why verification is essential even if the first draft looks polished. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
 > 🏅 **Badge unlocked:** Full Mission Commander
 
