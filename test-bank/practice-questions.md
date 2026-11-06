@@ -394,12 +394,12 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**19.** Ch. 6 — In the C.R.E.W. prompting framework, what does the "W" stand for?
+**19.** Ch. 6 — In the six-part prompt framework, which element tells the AI the rules, limits, or requirements its answer must follow (for example, “use no more than 150 words” or “do not invent citations”)?
 
-- a) Writing.
-- b) Warnings/constraints.
-- c) Workflow.
-- d) Web access.
+- a) Role.
+- b) Constraints.
+- c) Context.
+- d) Output format.
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
@@ -537,7 +537,7 @@ Complete this after marking your answers. The best explorers learn from mistakes
 | 16 | **b** | This is bias. |
 | 17 | **b** | The "should" question concerns appropriateness, conditions, and safeguards. |
 | 18 | **c** | The first stage is defining the task and deciding whether AI is appropriate. |
-| 19 | **b** | W stands for Warnings/constraints. |
+| 19 | **b** | Constraints set the rules and limits the answer must follow. |
 | 20 | **c** | Medical decisions are high-stakes and require extra care. |
 
 ### Section C: Sample Answers and Key Points
