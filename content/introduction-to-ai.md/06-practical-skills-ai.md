@@ -610,27 +610,25 @@ C. To ensure that no AI tool is ever used.
 
 D. To make the prompt longer regardless of the task.
 
-## 13. Answer Key and Explanations
+1. **C** — A specific task, audience, length, and output format make the response easier to direct and evaluate.
 
-1. **C — A specific task, audience, length, and output format.** These details make the response easier to direct and evaluate.
+2. **B** — Context clarifies the task and requirements. It reduces ambiguity but cannot guarantee accuracy.
 
-2. **B — Context clarifies the task and requirements.** Relevant context reduces ambiguity, although it cannot guarantee accuracy.
+3. **C** — Verify the source and its relevance. AI can invent references or misrepresent real publications.
 
-3. **C — Verify the source and its relevance.** AI can invent references or misrepresent real publications, so citations must be checked.
+4. **C** — A targeted revision instruction identifies a measurable change while preserving important content.
 
-4. **C — A targeted revision instruction.** It identifies a measurable change while preserving important content.
+5. **B** — Check approval and minimize sensitive data before sharing confidential information.
 
-5. **B — Check approval and minimize sensitive data.** Confidential information should only be shared when appropriate and permitted.
+6. **B** — Plausible text can still be incorrect. Fluency and confidence are not substitutes for evidence.
 
-6. **B — Plausible text can still be incorrect.** Fluency and confidence are not reliable substitutes for evidence.
+7. **C** — Follow assignment rules, check the work, and disclose AI assistance when required.
 
-7. **C — Follow the rules and check the work.** Responsible use requires academic integrity, independent evaluation, and disclosure where required.
+8. **C** — Review and test AI-generated code for errors and security concerns.
 
-8. **C — Review and test the code.** AI-generated code may contain bugs, insecure practices, or incorrect assumptions.
+9. **C** — Remove unsupported claims or communicate uncertainty until adequate evidence is available.
 
-9. **C — Remove the claim or communicate uncertainty.** Unsupported information should not be presented as verified fact.
-
-10. **B — Human judgment and responsibility.** The reviewer must evaluate the output and make appropriate decisions rather than relying on automation alone.
+10. **B** — Human reviewers evaluate the output, exercise judgment, and take responsibility for the final result.
 
 ### Suggested Scoring Guide
 
@@ -724,34 +722,34 @@ If you create or add this visual to the repository, record the creator, source, 
 
 Before marking this chapter complete, verify that:
 
-- [ ] The chapter includes an overview and specific learning objectives.
+- [ ] The chapter includes an overview and clear learning objectives.
 - [ ] Task selection and responsible AI use are explained.
 - [ ] The six-part prompting framework is demonstrated with examples.
 - [ ] Iterative prompting is explained step by step.
-- [ ] Output evaluation includes accuracy, relevance, completeness, clarity, fairness, and safety.
+- [ ] Output evaluation covers accuracy, relevance, completeness, clarity, fairness, and safety.
 - [ ] Fact-checking and citation verification are addressed.
 - [ ] Privacy, academic integrity, and intellectual-property concerns are included.
-- [ ] The practical activity has clear instructions and measurable deliverables.
+- [ ] The practical activity has clear instructions and deliverables.
 - [ ] Knowledge-check questions align with the learning objectives.
 - [ ] Every knowledge-check answer includes an explanation.
 - [ ] References are relevant and links have been checked.
 - [ ] The suggested visual includes appropriate alt text.
-- [ ] The chapter aligns with `content/00-module-outline.md`.
+- [ ] The chapter aligns with the approved module outline.
 - [ ] The team has reviewed the content for accuracy, consistency, and accessibility.
-- [ ] Feedback has been recorded in `review/review-notes.md`.
+- [ ] Feedback and revisions are recorded in the appropriate review document.
 
 ## 18. Completion Status
 
 **Document status:** Draft for team review.
 
-### Next Steps
+### Remaining Review Tasks
 
-1. Compare this chapter with the approved module outline and the course learning objectives.
-2. Verify the sources and citation style.
-3. Check consistency with `content/03-generative-ai-and-llms.md`, `content/04-ai-applications.md`, and `content/05-responsible-ai.md`.
-4. Review the activity and answer key to ensure that learners can complete them using the information taught in the chapter.
-5. Test all links and review the Markdown rendering on GitHub.
-6. Record reviewer feedback and corrections in `review/review-notes.md`.
-7. Update `tasks.md` only after the corresponding tasks have actually been completed and checked.
+- Compare the chapter with the approved module outline and course learning objectives.
+- Verify the references and citation style.
+- Check consistency with the chapters on Generative AI, AI Applications, and Responsible AI.
+- Review the activity and answer key to ensure learners can complete them using the chapter content.
+- Test all links and check Markdown rendering on GitHub.
+- Record actual reviewer feedback and revisions in the review document.
+- Update the project task tracker only after the corresponding tasks have been completed.
 
-**Submission note:** This chapter is designed as a substantial learning resource. Final approval depends on the teacher's rubric, consistency across the repository, reference accuracy, and completion of the required review.
+**Submission note:** Final approval depends on the teacher's rubric, consistency across the repository, reference accuracy, and completion of the required review.
