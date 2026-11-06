@@ -1,5 +1,16 @@
 # Curious Mind — AI Overview
 
+## Team Members
+
+| Member | Role |
+|---|---|
+| Jesselyn Kuolie | Coordinator (CEO) |
+| Kristabelle Lian | Video Lead |
+| Le Tran Duc Trong | Repository and Submission Lead (CIO) |
+| Lai Quoc Hung | Visual Design Lead |
+| Samantha Salvatrice | Quality Lead |
+| Michelle Kalyani | Content Lead |
+
 ## Project Overview
 
 Curious Mind is an educational project that introduces students and beginners to Artificial Intelligence (AI).
@@ -69,3 +80,4 @@ curious-mind/
 ├── revision-summary.md
 ├── review-and-learner-test.md
 └── README.md
+
