@@ -70,55 +70,53 @@ The times are planning estimates. Actual completion time will vary according to 
 
 # 5. Detailed Chapter Outlines
 
-## Chapter 1: What Is AI?
+## Chapter 1: Introduction to Artificial Intelligence
 
-**File:** [`01-what is ai.md`](01-what%20is%20ai.md)  
-**Estimated time:** 35–45 minutes
+**Estimated learning time:** 35–45 minutes
 
 ### Chapter purpose
 
-Introduce learners to artificial intelligence and establish the foundational vocabulary needed for the rest of the module.
+Introduce learners to artificial intelligence, its development, major approaches, and relationship with machine learning and deep learning.
 
 ### Learning objectives
 
 By the end of this chapter, learners should be able to:
 
-- Define artificial intelligence in their own words.
-- Identify examples of AI in everyday life.
-- Distinguish AI from traditional rule-based software at a basic level.
+- Define artificial intelligence in simple terms.
+- Describe key stages in the development of AI.
+- Explain Symbolic AI, Connectionist AI, and Behaviorist AI.
+- Compare the strengths and limitations of these three approaches.
 - Explain the relationship between AI, machine learning, and deep learning.
-- Identify at least one benefit and one limitation of AI.
+- Identify examples of AI in everyday life.
+- Describe common benefits and limitations of AI.
 
 ### Content topics
 
-1. Introduction to artificial intelligence.
-2. What AI means and what AI systems do.
-3. A brief overview of AI development.
-4. AI in everyday life.
-5. Differences between AI, machine learning, and deep learning.
-6. Common capabilities and limitations of AI.
-7. Benefits and risks of AI.
-8. Introduction to responsible AI.
+- Definition and history of artificial intelligence.
+- Symbolic AI: rules, symbols, and logical reasoning.
+- Connectionist AI: neural networks and learning from data.
+- Behaviorist AI: actions, rewards, and feedback.
+- Comparison of the three AI approaches.
+- Relationship between AI, machine learning, and deep learning.
+- Everyday applications of AI.
+- Benefits and limitations of AI.
 
 ### Learning activities
 
-**Activity 1: Identify AI**
-
-Learners identify five digital tools or services they encounter in everyday life. For each one, they decide whether it uses AI, explain their reasoning, and identify what additional information would help them verify their answer.
-
-**Activity 2: Explain AI**
-
-Learners write a short explanation of AI for someone with no technical background. Their explanation should include one example and one limitation.
+- Explore examples of AI in everyday life.
+- Compare Symbolic, Connectionist, and Behaviorist AI.
+- Identify which AI approach is illustrated by different examples.
+- Discuss the benefits and limitations of AI.
 
 ### Assessment
 
-Learners answer short questions about the definition of AI, examples of AI, and the relationship between AI, machine learning, and deep learning.
+- Knowledge-check questions.
+- AI approach identification activity.
+- Short-answer questions about AI, ML, and DL.
 
 ### Evidence of learning
 
-Learners produce an everyday AI example table and a short explanation of AI.
-
----
+Learners can define AI, distinguish between the three approaches, explain the relationship between AI, ML, and DL, and identify everyday AI applications.
 
 ## Chapter 2: Machine Learning Basics
 
@@ -339,62 +337,61 @@ Learners complete a risk-analysis table and recommend at least two risk-reductio
 
 ---
 
-## Chapter 6: Practical AI Skills
+## Chapter 6: Modern Practical AI Skills and Workflows
 
-**File:** [`06-practical-skills-ai.md`](06-practical-skills-ai.md)  
-**Estimated time:** 45–60 minutes
+**Estimated learning time:** 45–60 minutes
 
 ### Chapter purpose
 
-Help learners apply their knowledge by choosing appropriate AI tools, writing effective prompts, checking outputs, and using AI responsibly.
+Help learners develop practical skills for using modern AI tools in everyday study and work. Learners will explore AI-assisted workflows, effective prompting, output evaluation, and responsible AI use.
 
 ### Learning objectives
 
 By the end of this chapter, learners should be able to:
 
-- Identify tasks that are appropriate for AI assistance.
-- Choose suitable AI tools based on the task and its risks.
-- Construct effective prompts using a structured prompting framework.
-- Improve AI-generated responses through iterative prompting.
-- Evaluate AI outputs for accuracy, relevance, completeness, bias, and clarity.
-- Verify important claims using reliable sources.
-- Apply privacy, safety, and academic-integrity practices when using AI.
-- Explain when human judgement or expert advice is needed.
+- Identify tasks that can benefit from AI assistance.
+- Select suitable AI tools for different tasks.
+- Design a simple AI-assisted workflow.
+- Write clear prompts with useful context and requirements.
+- Use AI in research, writing, presentations, and data analysis.
+- Improve AI-generated outputs through follow-up instructions.
+- Evaluate AI outputs for accuracy, relevance, completeness, and bias.
+- Verify important information using reliable sources.
+- Apply privacy, safety, and academic-integrity practices.
 
 ### Content topics
 
-1. Choosing an appropriate AI tool.
-2. Defining a task before using AI.
-3. Writing clear prompts.
-4. Providing useful context and constraints.
-5. Reviewing and improving outputs.
-6. Fact-checking AI-generated information.
-7. Privacy and information security.
-8. Acknowledging AI assistance where required.
-9. Recognising situations where AI should not be relied upon.
-10. Applying a responsible AI workflow.
+- Modern AI tools and their practical uses.
+- Understanding the stages of an AI workflow.
+- Effective prompting techniques.
+- Research workflows.
+- Writing workflows.
+- Presentation workflows.
+- Data-analysis workflows.
+- Improving AI-generated outputs.
+- Evaluating AI-generated information.
+- Responsible AI practices and human oversight.
 
 ### Learning activities
 
-**Activity 1: Complete an AI-assisted task**
-
-Learners choose a low-risk task, such as generating study questions, organising non-sensitive notes, or drafting a simple outline. They write a prompt, review the output, identify weaknesses, and make improvements.
-
-Learners must not enter passwords, confidential information, or unnecessary personal data into an AI tool.
-
-**Activity 2: Evaluate the result**
-
-Learners assess their output for accuracy, relevance, clarity, bias, and suitability. They explain what they accepted, changed, or rejected and why.
+- Identify suitable AI tools for different tasks.
+- Create a simple AI-assisted workflow.
+- Practise writing and improving prompts.
+- Explore AI-assisted research, writing, and presentation tasks.
+- Review AI-generated content and identify possible errors.
+- Complete a practical activity to create a presentation outline using AI.
 
 ### Assessment
 
-Learners complete a practical task and submit the prompt, a short description of the output, their verification process, and a reflection on responsible use.
+- Knowledge-check questions.
+- Prompt-writing activity.
+- AI workflow design activity.
+- Practical presentation-planning task.
+- Short reflection on responsible AI use.
 
 ### Evidence of learning
 
-Learners submit a completed practical task with an explanation of their decisions and checks.
-
----
+Learners can design a basic AI-assisted workflow, write effective prompts, evaluate AI-generated results, verify important information, and explain the importance of human judgement and responsible AI use.
 
 # 6. Teaching and Learning Approach
 
