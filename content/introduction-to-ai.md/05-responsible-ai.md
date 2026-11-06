@@ -574,24 +574,20 @@ If the diagram is included in the repository, record its source, creator, licens
 
 ## 15. Chapter Completion Checklist
 
-Before marking this chapter complete, confirm that:
+- [ ] Chapter overview and learning objectives are complete.
+- [ ] The six responsible-AI principles are explained with examples.
+- [ ] Additional concerns are included.
+- [ ] Practical activity and suggested response are included.
+- [ ] Knowledge-check questions and explanations are complete.
+- [ ] References and links have been checked.
+- [ ] Markdown formatting has been checked on GitHub.
+- [ ] The chapter has been reviewed for accuracy and consistency.
 
-- [ ] The chapter has a clear title and overview.
-- [ ] Learning objectives are specific and assessable.
-- [ ] Responsible AI is defined in accessible language.
-- [ ] The six core principles are explained with examples and practical safeguards.
-- [ ] Additional concerns, including misinformation and intellectual property, are addressed.
-- [ ] The chapter includes a practical scenario, learner worksheet, and suggested response.
-- [ ] Knowledge-check questions cover the learning objectives.
-- [ ] Every knowledge-check answer includes an explanation.
-- [ ] References are relevant, accessible, and accurately presented.
-- [ ] The chapter is consistent with `content/00-module-outline.md`.
-- [ ] Any proposed visual has appropriate alt text and a documented source or creation record.
-- [ ] Markdown formatting and links have been checked on GitHub.
-- [ ] The team has reviewed the chapter and addressed feedback.
+## 16. Further Improvement
 
-## 16. Completion Status
+The team should review this chapter alongside the other five chapters to ensure consistent terminology, difficulty, formatting, and learning objectives.
 
+Feedback from peer review and learner testing should be used to improve the explanations, examples, and activities where necessary.
 **Document status:** Submission note.
 
 **Next steps:**
