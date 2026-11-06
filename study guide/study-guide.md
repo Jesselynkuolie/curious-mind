@@ -186,29 +186,33 @@ Glitch has twelve cards describing different systems. Before you read any explan
 
 | | |
 |---|---|
-| **Goal** | Notice what you already believe about "AI" and find where the idea of AI becomes blurry. |
-| **Preparation** | Write each of the twelve statements below on a small card (or number them 1–12 on paper). Draw three zones: **Pile 1 — Follows fixed instructions**, **Pile 2 — Learns patterns from data**, **Pile 3 — Not sure / something else**. |
-| **Task** | Sort the twelve statements into the three piles before reading Section 1.2. Write one sentence for any card you place in Pile 3. |
-| **Observation** | Record your piles and the one-sentence reasons. |
-| **Reflection** | Which cards were hardest to place, and why? Where does "AI" start to feel like a marketing word? |
-| **Feedback** | The twelve statements and expected piles are given below. Hint: if you put many cards in Pile 3, that is a good sign. The boundary of "AI" really is blurry, and Section 1.2 explains why. |
+| **Goal** | Notice what you already believe about AI and explore the differences between rule-based systems and systems that learn from data. |
+| **Preparation** | Write each of the nine statements below on a small card (or number them 1–9 on paper). Draw three zones: **Pile 1 — Follows fixed instructions**, **Pile 2 — Learns patterns from data**, **Pile 3 — Not sure / something else**. |
+| **Task** | Sort the nine statements into the three piles before reading Section 1.2. Write one sentence explaining any card you place in Pile 3. |
+| **Observation** | Record your piles and your reasons. |
+| **Reflection** | Which cards were hardest to place, and why? Where does AI become difficult to define? |
+| **Feedback** | Suggested classifications are provided below. Some systems combine different approaches, so more than one explanation may be reasonable. |
 
-*The twelve statements (as preserved in the source; some cards are partially lost in OCR):*
+**The nine statements:**
 
 1. A calculator that adds numbers using a keypad. — *Pile 1 (fixed instructions)*
 2. A spam filter that learns from labelled emails. — *Pile 2 (learns patterns)*
 3. A chess program that searches moves using rules written by programmers. — *Pile 1 (search and rules)*
-4. A photo app that recognises faces by training on many images. — *Pile 2*
-5. A voice assistant that responds to spoken commands. — *Pile 2 (typically)*
-6. A recommendation feed that suggests videos. — *Pile 2*
-7. A bank's rule-based fraud alert ("flag any transaction over $5,000"). — *Pile 1*
-8. A navigation app that estimates travel time. — *Pile 2 (typically) Travel-time estimates usually combine data and predictive models, but the exact method depends on the service.*
-9. A search engine that matches keywords using indexed rules. — *Pile 3 It seems intelligent, but it uses search and rules written by people, not learning from data. It shows that not every AI system learns from data.*
-10. [Card 10 — OCR missing; insert from original]
-11. [Card 11 — OCR missing; insert from original]
-12. [Card 12 — OCR missing; insert from original]
+4. A photo app that recognises faces by training on many images. — *Pile 2 (learns patterns)*
+5. A voice assistant that responds to spoken commands. — *Pile 2 (typically uses learned speech-recognition models)*
+6. A recommendation feed that suggests videos based on viewing history. — *Pile 2 (learns patterns)*
+7. A bank's rule-based fraud alert that flags transactions over a fixed amount. — *Pile 1 (fixed instructions)*
+8. A navigation app that estimates travel time using traffic information. — *Pile 2 (typically uses data and predictive models)*
+9. A search engine that matches keywords using indexed rules. — *Pile 3 (something else or a combination). It may appear intelligent, but keyword matching can rely on rules rather than learning from data. Modern search engines may also use machine learning.*
 
-> Hint: if you put many cards in Pile 3, that is a good sign. The boundary of "AI" really is blurry, and Section 1.2 explains why.
+**Reflection questions:**
+
+- Which cards were easiest to classify?
+- Which cards were difficult to classify?
+- Can a system combine fixed rules and machine learning?
+- Does every system that appears intelligent necessarily use AI?
+
+**Important:** These classifications are simplified examples. Real-world systems may combine rule-based methods, machine learning, and other techniques.
 
 ### 1.2 Explain: What Is AI?
 
