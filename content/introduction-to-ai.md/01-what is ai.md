@@ -1,813 +1,324 @@
 # Chapter 1: What Is Artificial Intelligence?
 
-## Chapter Overview
+**Level:** Beginner  
+**Estimated learning time:** 35–45 minutes  
+**Target audience:** Students and general learners with little or no prior knowledge of AI
 
-Artificial Intelligence (AI) is increasingly used in education, healthcare, business, transportation, entertainment, and everyday digital services. It can help people analyse information, recognise patterns, generate content, and solve particular problems.
+## 1. Chapter Overview
 
-However, AI is not the same as human intelligence. AI systems have limitations, can make mistakes, and may produce biased or misleading results. Understanding how AI works at a basic level helps learners use these technologies more effectively and responsibly.
+Artificial Intelligence (AI) is a field of computer science that focuses on creating systems capable of performing tasks associated with human intelligence. These tasks include learning, reasoning, problem-solving, recognising patterns, understanding language, and making predictions.
 
-This chapter introduces the meaning of AI, explains the relationship between AI, machine learning, and deep learning, and explores common applications, benefits, risks, and responsible-use practices.
+AI is used in education, healthcare, business, transportation, communication, and everyday digital tools.
 
-**Estimated learning time:** 30–40 minutes
+There are different approaches to developing AI systems. Three important approaches are Symbolic AI, Connectionist AI, and Behaviorist AI. Each approach represents a different way of creating intelligent behaviour.
 
-## 1.1 Learning Objectives
+This chapter introduces the meaning of AI, its development, common applications, and these three approaches.
+
+## 2. Learning Objectives
 
 By the end of this chapter, learners should be able to:
 
-1. Define artificial intelligence in their own words.
-2. Distinguish between AI, machine learning, and deep learning.
-3. Identify common applications of AI in everyday life.
-4. Explain at least two benefits and two limitations of AI.
-5. Identify potential ethical concerns associated with AI.
-6. Apply basic responsible-use principles when interacting with an AI system.
-
-## 1.2 What Is Artificial Intelligence?
-
-Artificial Intelligence is a field of computing concerned with developing systems that perform tasks commonly associated with human intelligence.
-
-These tasks may include:
-
-- Recognising patterns in information.
-- Understanding or generating language.
-- Identifying objects in images.
-- Making predictions from data.
-- Recommending products or content.
-- Supporting decisions and solving specific problems.
-
-For example, an email service may use AI to identify messages that are likely to be spam. A navigation application may estimate journey times using traffic information. An AI assistant may help a user draft an email or summarise a document.
-
-In each case, the system performs a task that can benefit from processing information and identifying patterns.
-
-AI systems do not all work in the same way. Some use rules written by people, while others learn patterns from data. More advanced systems may combine different techniques.
-
-It is important to remember that performing an intelligent-looking task does not necessarily mean that a system understands the world in the same way a human does.
-
-### Key Definition
-
-**Artificial Intelligence (AI):** A field of computing that develops systems capable of performing tasks associated with abilities such as learning, reasoning, perception, language processing, and decision support.
-
-### Check Your Understanding
-
-In your own words, explain what AI is. Give one example of an AI system you have used or encountered.
-### 1.2.1 A Brief History of Artificial Intelligence
-
-Artificial Intelligence did not appear suddenly with modern chatbots. It developed through decades of research in mathematics, computer science, and cognitive science.
-
-Understanding its history helps explain why AI capabilities have changed over time.
-
-**Important stages in AI development**
-
-| Period | Development | Significance |
-|---|---|---|
-| 1950 | Alan Turing published his work on machine intelligence and proposed what became known as the Turing Test. | Raised the question of whether machines could demonstrate intelligent behaviour. |
-| 1956 | The Dartmouth Summer Research Project helped establish artificial intelligence as a recognised research field. | AI became a distinct area of academic research. |
-| 1960s–1970s | Researchers developed early symbolic AI systems and rule-based approaches. | Computers could solve certain problems using explicitly defined rules. |
-| 1980s | Expert systems became an important area of AI development. | Computer programs used stored knowledge and rules to support specialised decisions. |
-| 1990s–2000s | Statistical machine learning approaches became increasingly important. | Systems could learn patterns from data rather than relying entirely on manually written rules. |
-| 2010s | Deep learning achieved major progress in areas such as image recognition, speech processing, and language technology. | Neural networks became increasingly capable of processing complex information. |
-| 2020s | Generative AI systems became widely accessible to the public. | Users could generate text, images, code, and other content through natural-language prompts. |
-
-**Why does this history matter?**
-
-The development of AI shows a gradual change in how computers perform intelligent-looking tasks.
-
-Earlier systems often relied heavily on human-defined rules. Machine learning introduced methods for learning patterns from data. Deep learning enabled systems to process increasingly complex information, while generative AI expanded the ability to produce new content.
-
-However, newer technology does not automatically mean perfect intelligence. Modern AI systems still have limitations and require evaluation.
-
-**Check Your Understanding**
-
-1. What was the significance of the 1956 Dartmouth research project?
-2. How did machine learning change the way some AI systems were developed?
-3. Why should modern generative AI not automatically be considered equivalent to human intelligence?
-
-**Suggested Answers**
-
-1. It helped establish artificial intelligence as a recognised research field.
-2. It allowed systems to learn patterns from data instead of relying entirely on manually written rules.
-3. Generative AI can produce convincing content but may still make mistakes and does not necessarily possess human-like understanding or judgement.
-
-### 1.2.2 AI vs Traditional Rule-Based Software
-
-Not every computer program is an AI system. Understanding the difference between traditional rule-based software and AI is important.
-
-**Traditional rule-based software**
-
-Traditional software follows instructions and conditions explicitly written by developers.
-
-For example, imagine a simple system that determines whether a student passes an examination.
-
-The developer writes the following rule:
-
-- If the score is 50 or above, display "Pass".
-- If the score is below 50, display "Fail".
-
-The system follows these instructions exactly. It does not need to learn from previous examination results.
-
-**AI-based software**
-
-An AI-based system may use machine learning to identify patterns from previous examples.
-
-Imagine a system that analyses historical student performance to estimate which students may need additional academic support.
-
-It might examine information such as:
-- Previous examination results.
-- Assignment performance.
-- Attendance patterns.
-- Changes in academic performance.
-
-The model learns patterns from historical data and uses them to make predictions about new cases.
-
-**Comparison**
-
-| Feature | Traditional rule-based software | Machine-learning-based AI |
-|---|---|---|
-| How it works | Follows predefined instructions | Learns patterns from data |
-| Rules | Explicitly written by developers | Patterns are learned during training |
-| Learning | Does not automatically learn from examples | Can improve through suitable training and evaluation |
-| Output | Determined by programmed rules | Based on learned patterns and model predictions |
-| Example | Pass/fail calculator | Student performance prediction model |
-
-**Worked Example**
-
-A school wants to identify students who may need additional support.
-
-Approach A: Traditional software
-
-The school creates a rule:
-
-"If a student's examination score is below 50, flag the student for additional support."
-
-The program checks the score against the condition and produces a result.
-
-Approach B: Machine learning
-
-The school develops a model using historical student data. The model identifies patterns associated with students who previously needed additional support.
-
-It then estimates whether a new student may need support.
-
-The model's prediction is not guaranteed to be correct. The school should evaluate its performance and avoid treating the prediction as a final judgement about a student.
-
-**Important Distinction**
-
-Traditional rule-based software is not automatically AI. However, AI is a broad field that can include systems using rules, search, reasoning, machine learning, and other approaches.
-
-Therefore, it would be inaccurate to say that every AI system learns from data.
-
-**Learning Activity: Identify the Approach**
-
-For each scenario, decide whether it describes traditional rule-based software or machine-learning-based AI.
-
-1. A calculator follows a programmed formula to calculate a percentage.
-2. An email filter learns from labelled examples of spam and legitimate messages.
-3. A program displays a warning whenever a bank transaction exceeds a predefined amount.
-4. A recommendation system learns from users' previous viewing behaviour to suggest films.
-
-**Suggested Answers**
-
-1. Traditional rule-based software.
-2. Machine-learning-based AI.
-3. Traditional rule-based software.
-4. Machine-learning-based AI.
-
-**Reflection**
-
-Why might a school prefer human judgement alongside an AI prediction system rather than allowing the model to make the final decision independently?
-
-## 1.3 AI, Machine Learning, and Deep Learning
-
-The terms artificial intelligence, machine learning, and deep learning are closely related, but they do not mean exactly the same thing.
-
-### Artificial Intelligence
-
-AI is the broad field concerned with creating systems that can perform tasks associated with intelligent behaviour.
-
-Some AI systems use predefined rules. For example, a simple rule-based system might flag a transaction when its value exceeds a specified limit.
-
-### Machine Learning
-
-Machine Learning (ML) is a subset of AI. It involves methods that allow computer systems to learn patterns from data and use those patterns to make predictions or decisions.
-
-For example, a machine-learning model can be trained using labelled examples of spam and legitimate emails. It can then estimate whether a new email is likely to be spam.
-
-### Deep Learning
-
-Deep Learning (DL) is a subset of machine learning that uses artificial neural networks with multiple layers to learn complex patterns.
-
-Deep learning is used in tasks such as image recognition, speech processing, and many modern language-generation systems.
-
-### Understanding the Relationship
-
-The relationship can be summarised as follows:
-
-- AI is the broadest category.
-- Machine learning is one approach within AI.
-- Deep learning is one approach within machine learning.
-
-Therefore, all deep-learning systems belong to machine learning, and machine learning belongs to the broader field of AI. However, not every AI system uses machine learning, and not every machine-learning system uses deep learning.
-
-### Example
-
-Imagine a system designed to identify unwanted emails.
-
-- A **rule-based AI system** might flag emails containing certain predefined phrases.
-- A **machine-learning system** might learn patterns from examples of spam and legitimate emails.
-- A **deep-learning system** might use a neural network to identify more complex patterns in email text.
-
-These are simplified examples. Real email-filtering systems may combine several methods.
-
-### Learning Activity 1: Classify the Concepts
-
-For each statement, identify the most appropriate term: AI, machine learning, or deep learning.
-
-1. The broad field of creating systems that perform tasks associated with intelligence.
-2. A method that learns patterns from examples.
-3. A machine-learning approach that uses neural networks with multiple layers.
-
-**Answers:**
-
-1. Artificial Intelligence.
-2. Machine Learning.
-3. Deep Learning.
-
-## 1.4 How Does an AI System Work?
-
-AI systems differ in design, but many data-driven AI applications follow a process involving data, development, evaluation, and use.
-
-### Step 1: Define the Problem
-
-Developers first identify the task the system should perform.
-
-For example, a school might want to analyse student feedback to identify common concerns.
-
-A clearly defined problem helps determine which data, methods, and evaluation measures are appropriate.
-
-### Step 2: Collect or Prepare Data
-
-Many AI systems rely on data.
-
-Data might include text, images, measurements, audio, or records of past events. The data needs to be relevant to the problem and handled appropriately.
-
-Poor-quality, incomplete, or unrepresentative data can reduce the reliability of an AI system.
-
-### Step 3: Develop or Train the System
-
-Depending on the approach, developers may create rules, select an algorithm, or train a model using examples.
-
-During machine-learning training, a model adjusts its internal parameters to learn patterns from the training data.
-
-### Step 4: Evaluate the Results
-
-Developers test whether the system performs well enough for its intended purpose.
-
-For example, an email classifier should be evaluated on emails it did not use for training. Testing can help identify errors and weaknesses.
-
-### Step 5: Use and Monitor the System
-
-After evaluation, a suitable system may be deployed.
-
-Its performance should be monitored because data, user needs, and real-world conditions can change. Some systems require updates or additional evaluation over time.
-
-### Important Point
-
-Not every AI system follows an identical workflow. A rule-based system may not require model training, while a generative AI system may have a complex training and deployment process.
-
-
-
->**Work Example**
->
-> Worked example: How an email spam filter works
->
->**1. Define the problem**
->  
->  Identify unwanted emails automatically.
->
->**2. Collect data**
->   
->   Gather examples of spam and legitimate emails, labelled appropriately.
->
->**3. Train the model**
->   
->   Let a machine-learning model learn patterns from the labelled emails.
->
->**4. Evaluate**
->   
->   Test the model using emails it has not seen during training. Check how often it incorrectly classifies messages.
->
->**5. Deploy and monitor**
->   
->   Use it to classify incoming emails and monitor performance as spam techniques change.
->
->
->Q: What might happen if the training data contains very few examples of legitimate emails?
->
->A: The model may incorrectly classify legitimate emails as spam because it has not learned enough about them.
-
-
-## 1.5 Types of AI by Capability
-
-AI can be described in different ways. One common introductory distinction concerns the range of tasks a system can perform.
-
-### Narrow AI
-
-Narrow AI is designed to perform a specific task or a limited range of tasks.
+- Define artificial intelligence in their own words.
+- Identify common examples of AI in everyday life.
+- Explain the basic development of AI.
+- Describe Symbolic, Connectionist, and Behaviorist AI.
+- Compare the strengths and limitations of these approaches.
+- Distinguish AI, machine learning, and deep learning.
+- Identify common benefits and limitations of AI.
+
+## 3. What Is Artificial Intelligence?
+
+Artificial Intelligence refers to computer systems designed to perform tasks associated with human intelligence.
 
 Examples include:
 
-- Identifying objects in images.
-- Recommending films.
-- Filtering spam.
-- Translating text.
-- Generating responses to prompts.
+- Recognising faces in photographs.
+- Translating languages.
+- Recommending movies or music.
+- Answering questions using chatbots.
+- Detecting suspicious banking transactions.
+- Supporting medical image analysis.
 
-A system may perform a task very well without having general human-like abilities.
+AI systems do not all work in the same way. Some follow programmed rules, some learn patterns from data, and others learn through interaction with an environment.
 
-Most AI applications in everyday use today fall into this category.
+## 4. A Brief History of AI
 
-### Artificial General Intelligence
+AI has developed through several important stages:
 
-Artificial General Intelligence (AGI) is a proposed form of AI that would have broad abilities to learn, understand, and perform many different intellectual tasks across contexts.
+- **1950s:** Early researchers explored whether machines could demonstrate intelligent behaviour.
+- **1956:** The term Artificial Intelligence became established as a research field at the Dartmouth workshop.
+- **1960s–1970s:** Researchers developed symbolic reasoning systems and early problem-solving programs.
+- **1980s:** Expert systems became more widely used in specialised areas.
+- **1990s–2000s:** Machine learning developed further with larger datasets and improved computing.
+- **2010s:** Deep learning advanced image recognition, speech recognition, and natural language processing.
+- **2020s:** Generative AI tools became widely available for producing text, images, audio, and other content.
 
-There is no universally accepted test that settles every question about AGI, and current AI capabilities should not be confused with the achievement of human-level general intelligence.
+## 5. Three Main Approaches to Artificial Intelligence
 
-### Superintelligence
+### 5.1 Symbolic AI
 
-Artificial superintelligence is a hypothetical concept referring to AI that would greatly exceed human intellectual abilities across many domains.
+Symbolic AI uses symbols, facts, logical rules, and structured knowledge to represent information and solve problems.
 
-It is a topic of debate and speculation rather than an established description of current AI systems.
+Instead of learning everything from examples, a symbolic system follows rules provided by humans or encoded in its knowledge base.
 
-### Summary
+**How it works:**
 
-Narrow AI describes specialised systems. AGI and superintelligence describe hypothetical broader capabilities. These terms refer to capability, not simply how complicated a system looks.
+1. Information is represented using symbols or facts.
+2. Rules describe relationships between the facts.
+3. A reasoning system applies these rules to reach a conclusion.
 
-## 1.6 AI in Everyday Life
+**Examples:**
 
-AI is used in many products and services. The following examples illustrate how it can support different activities.
+- Expert systems that support medical decision-making.
+- Rule-based chatbots.
+- Systems that solve logical puzzles.
+- Planning systems that follow defined conditions.
 
-### Education
+**Strengths:**
 
-AI tools can help learners brainstorm ideas, explain unfamiliar concepts, generate practice questions, and receive feedback on drafts.
+- Rules and reasoning processes can be easier to explain.
+- Works well when information and rules are clearly defined.
+- Can produce predictable results in structured situations.
 
-However, AI-generated explanations may be inaccurate. Learners should check important claims against reliable educational sources and follow their institution's rules for AI use.
+**Limitations:**
 
-### Healthcare
+- Requires humans to define many rules.
+- Can struggle with uncertain or incomplete information.
+- May not adapt easily to unexpected situations.
 
-AI systems can support medical-image analysis, help researchers analyse data, and assist with administrative tasks.
+### 5.2 Connectionist AI
 
-Such systems require appropriate validation, oversight, and privacy protections. An AI-generated result should not automatically be treated as a medical diagnosis.
+Connectionist AI is inspired by the way networks of neurons process information. It uses artificial neural networks made up of connected computational units.
 
-### Transportation
+These systems learn patterns from data by adjusting the strengths of connections between units during training.
 
-AI may help estimate travel times, identify road conditions, support driver-assistance functions, and optimise routes.
+**How it works:**
 
-The quality of these functions depends on available information, system design, and operating conditions.
+1. The system receives training data.
+2. Information passes through connected artificial neurons.
+3. The network produces an output.
+4. The system compares the output with the expected result.
+5. Its internal parameters are adjusted to improve future results.
 
-### Business and Customer Service
+**Examples:**
 
-Businesses may use AI to classify enquiries, forecast demand, summarise documents, or assist customer-service staff.
+- Image recognition.
+- Speech recognition.
+- Language translation.
+- Deep learning systems.
+- Generative AI models.
 
-Organisations should consider accuracy, fairness, data protection, and whether a human needs to review important decisions.
+**Strengths:**
 
-### Entertainment and Online Services
+- Can learn complex patterns from large datasets.
+- Useful for images, audio, text, and other complex information.
+- Can improve through training.
 
-Streaming platforms and online stores may use recommendation systems to suggest films, music, products, or other content based on observed behaviour and preferences.
+**Limitations:**
 
-These recommendations can be convenient, but they may also narrow what users see or reinforce existing interests.
+- Often requires large amounts of data and computing resources.
+- Decisions can be difficult to explain.
+- May learn biases or errors present in training data.
 
-### Activity 2: Find an Everyday Example
+### 5.3 Behaviorist AI
 
-Choose one AI application you have encountered.
+Behaviorist AI focuses on learning through interaction with an environment. A system takes actions and receives feedback, such as rewards or penalties, which influence its future behaviour.
 
-Complete the following:
+A major example is reinforcement learning.
 
-- **Application:** What is the product or service?
-- **Task:** What does the AI system help accomplish?
-- **Benefit:** How might it help the user?
-- **Limitation:** What mistake or problem could occur?
-- **Human role:** When might a person need to check the result?
+**How it works:**
 
-### Activity 3: Identify AI in Everyday Life
+1. An agent observes its environment.
+2. It chooses an action.
+3. The environment responds.
+4. The agent receives a reward or penalty.
+5. It uses this feedback to improve future decisions.
 
-**Learning Objective:** Identify AI applications in everyday digital tools and distinguish them from traditional rule-based software.
+**Examples:**
 
-**Instructions:**
+- Game-playing AI.
+- Robots learning to navigate environments.
+- Systems learning to control movement.
+- AI agents learning strategies through repeated interaction.
 
-Think about the digital tools you use in your everyday life. Identify five tools or applications and investigate whether they use Artificial Intelligence (AI).
+**Strengths:**
 
-For each tool, complete the following table:
+- Can learn through experience and feedback.
+- Useful for sequential decision-making.
+- Can adapt its actions based on results.
 
-| No. | Digital Tool / Application | Does It Use AI? (Yes/No/Unsure) | How Does It Work? |
+**Limitations:**
+
+- Learning can require many attempts.
+- Designing suitable rewards can be difficult.
+- Behaviour may be unpredictable in unfamiliar situations.
+
+### 5.4 Comparing the Three Approaches
+
+| Approach | Main Idea | How It Works | Example |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| Symbolic AI | Rules and logic | Uses human-defined knowledge and rules | Expert systems |
+| Connectionist AI | Neural networks | Learns patterns from data | Image recognition |
+| Behaviorist AI | Actions and feedback | Learns through rewards and penalties | Game-playing AI |
 
-**Guiding Questions:**
+These approaches are not always completely separate. Modern AI systems can combine ideas from different approaches.
 
-1. Does the application learn patterns from data or make predictions?
-2. Does it simply follow predefined instructions?
-3. What evidence supports your decision?
-4. Can the same application contain both AI-powered and traditional software features?
+## 6. AI, Machine Learning, and Deep Learning
 
-**Example:**
+AI, machine learning, and deep learning are related concepts, but they do not mean exactly the same thing.
 
-| Digital Tool | Does It Use AI? | How Does It Work? |
+- **Artificial Intelligence (AI):** The broad field of creating systems that perform tasks associated with intelligence.
+- **Machine Learning (ML):** A branch of AI that allows systems to learn patterns from data.
+- **Deep Learning (DL):** A branch of machine learning that uses multi-layer neural networks.
+
+Their relationship can be represented as:
+
+**AI → Machine Learning → Deep Learning**
+
+All deep learning is machine learning, and all machine learning is part of AI. However, not all AI uses machine learning.
+
+## 7. AI in Everyday Life
+
+| Area | Example | Purpose |
 |---|---|---|
-| Google Maps traffic prediction | Yes | Uses traffic data and predictive models to estimate traffic conditions and travel times. |
-| Basic calculator | No | Performs calculations using predefined mathematical operations. |
-| Netflix recommendations | Yes | Uses recommendation algorithms to suggest content based on user activity and preferences. |
-| Traditional alarm clock | No | Follows a predefined schedule to activate an alarm. |
-| Email spam filter | Yes, if machine-learning-based | Uses patterns learned from labelled emails to identify potential spam. |
+| Education | AI learning assistants | Support learning and provide explanations |
+| Healthcare | Medical image analysis | Help identify patterns in medical images |
+| Entertainment | Movie recommendations | Suggest content based on preferences |
+| Transportation | Navigation systems | Estimate routes and travel times |
+| Business | Customer service chatbots | Respond to common customer questions |
+| Communication | Translation tools | Translate text between languages |
 
-**Discussion Questions:**
+AI can make services more efficient, but its outputs still need to be evaluated.
 
-1. Which of your five tools relies most heavily on AI? Explain your reasoning.
-2. Which tool could operate effectively without AI? Why?
-3. What are the possible benefits of using AI in these applications?
-4. What problems might occur if an AI system makes an incorrect prediction?
+## 8. Benefits and Limitations of AI
 
-**Expected Learning Outcomes:**
+### Benefits
 
-After completing this activity, learners should be able to:
+- **Efficiency:** AI can complete certain tasks quickly.
+- **Pattern recognition:** AI can identify patterns in large amounts of data.
+- **Accessibility:** AI tools can support translation and communication.
+- **Automation:** Repetitive tasks can be handled automatically.
+- **Decision support:** AI can provide information that helps people make decisions.
 
-- Recognise AI applications in everyday digital tools.
-- Distinguish machine-learning-based systems from traditional rule-based software.
-- Explain how AI contributes to the functionality of familiar applications.
-- Recognise that not every digital feature within an AI-powered application necessarily uses AI.
+### Limitations
 
-**Answer Guidance:**
+- **Errors:** AI systems can produce incorrect information.
+- **Bias:** Systems may reflect unfair patterns in their training data.
+- **Privacy:** AI tools may process personal or sensitive information.
+- **Lack of human judgement:** AI does not replace human understanding and responsibility.
+- **Dependence on data:** Poor-quality data can lead to unreliable results.
 
-Answers will vary depending on the applications selected. Learners should provide a reasonable explanation supported by evidence rather than simply guessing whether a tool uses AI.
+## 9. Practical Activity: Identify the AI Approach
 
+Read each scenario and identify the AI approach that best matches it.
 
-## 1.7 Benefits of Artificial Intelligence
+1. A computer program uses a set of medical rules to suggest possible conditions.
+2. A neural network learns to recognise cats and dogs from thousands of labelled pictures.
+3. A game-playing agent improves its strategy by receiving rewards when it wins.
 
-AI can provide several benefits when it is appropriately designed and used.
+**Questions:**
 
-### 1. Efficiency
+- Which approach is used in each scenario?
+- What is the main difference between the three approaches?
+- What might be one limitation of each system?
 
-AI can automate some repetitive tasks and help people process large amounts of information.
+**Suggested Answers:**
 
-For example, an AI tool may classify customer enquiries so staff can review and respond to them more efficiently.
+1. Symbolic AI — it uses predefined rules and knowledge.
+2. Connectionist AI — it learns patterns using a neural network.
+3. Behaviorist AI — it learns through actions and rewards.
 
-### 2. Pattern Recognition
+## 10. Knowledge Check
 
-AI systems can identify patterns in data that may be difficult for a person to notice quickly.
+**1. What is artificial intelligence?**
 
-This can support tasks such as analysing images, detecting unusual transactions, and examining scientific data.
+A. A computer that only stores information.  
+B. A field of computing that develops systems capable of performing tasks associated with intelligence.  
+C. A programming language.  
+D. A type of computer hardware.
 
-### 3. Personalisation
+**Answer: B.** AI focuses on developing systems that can perform tasks such as learning, reasoning, and problem-solving.
 
-Some AI systems adapt recommendations or learning activities to observed user preferences or performance.
+**2. Which approach uses logical rules and symbols?**
 
-Personalisation can make services more relevant, although it depends on the quality and appropriateness of the information used.
+A. Behaviorist AI  
+B. Connectionist AI  
+C. Symbolic AI  
+D. Deep learning
 
-### 4. Accessibility
+**Answer: C.** Symbolic AI represents knowledge using symbols, facts, and logical rules.
 
-AI tools can support speech recognition, transcription, translation, and some assistive technologies.
+**3. Which approach uses artificial neural networks?**
 
-These capabilities can make information and services more accessible to some users.
+A. Symbolic AI  
+B. Connectionist AI  
+C. Behaviorist AI  
+D. Rule-based computing
 
-### 5. Decision Support
+**Answer: B.** Connectionist AI uses networks of connected computational units to learn patterns.
 
-AI can provide predictions, summaries, or classifications that help people consider available information.
+**4. What is a central idea of Behaviorist AI?**
 
-For important decisions, users should understand the system's limitations and retain appropriate human oversight.
+A. Learning through actions and feedback.  
+B. Following only fixed logical rules.  
+C. Storing information without processing it.  
+D. Avoiding interaction with the environment.
 
-## 1.8 Limitations and Risks of AI
+**Answer: A.** Behaviorist AI commonly uses feedback and rewards to improve actions.
 
-AI can be useful, but it is not infallible.
+**5. Which statement about deep learning is correct?**
 
-### 1. Inaccurate Results
+A. It is separate from AI.  
+B. It is a type of symbolic reasoning.  
+C. It is a branch of machine learning that uses multi-layer neural networks.  
+D. It only works with text.
 
-AI systems can produce incorrect predictions, misleading summaries, or fabricated information.
+**Answer: C.** Deep learning uses neural networks with multiple layers to learn complex patterns.
 
-Generative AI tools may produce fluent and convincing answers even when the information is wrong.
+## 11. Chapter Summary
 
-### 2. Bias and Unfair Outcomes
+Artificial Intelligence is a field of computing that develops systems capable of performing tasks associated with human intelligence.
 
-An AI system may produce unfair results if its training data, design, or evaluation does not adequately represent the people affected by its decisions.
+This chapter introduced three important AI approaches:
 
-For example, a recruitment model trained on historical hiring decisions might reproduce patterns of past discrimination.
+- Symbolic AI uses symbols, facts, and logical rules.
+- Connectionist AI uses neural networks to learn patterns from data.
+- Behaviorist AI learns through interaction, actions, and feedback.
 
-Developers and organisations should evaluate performance across relevant groups and investigate possible sources of unfairness.
+We also explored the relationship between AI, machine learning, and deep learning, along with everyday applications, benefits, and limitations.
 
-### 3. Privacy Risks
-
-AI applications may process personal or confidential information.
-
-Users should avoid entering sensitive information into tools unless they understand the applicable privacy protections and have permission to share the information.
-
-### 4. Lack of Transparency
-
-Some AI systems are difficult to interpret. Users may not know exactly why a particular output was produced.
-
-When decisions have significant consequences, organisations should consider whether the system can provide sufficient explanation and accountability.
-
-### 5. Overreliance on AI
-
-People may accept AI-generated information without checking it.
-
-This can lead to errors in assignments, workplace decisions, research, and other activities.
-
-AI should support informed human judgement rather than automatically replace it.
-
-### 6. Security and Misuse
-
-AI can be used to generate deceptive messages, impersonate people, or support other harmful activities.
-
-Appropriate safeguards, verification practices, and responsible-use policies are important.
-
-### Reflection Question
-
-Which of these risks concerns you most, and what practical measure could reduce it?
-
-## 1.9 Responsible and Ethical AI
-
-Responsible AI involves developing and using AI systems in ways that consider their effects on people and society.
-
-Several principles are especially important.
-
-### Fairness
-
-AI systems should be evaluated for unfair differences in how they affect people and groups.
-
-Fairness requires attention to the problem being solved, the data used, the system's behaviour, and the context in which it is applied.
-
-### Privacy and Data Protection
-
-Personal information should be collected, used, and stored appropriately.
-
-Users should follow relevant laws, institutional policies, and organisational procedures.
-
-### Transparency
-
-People should receive appropriate information about when AI is being used and what its role is, especially when that information affects their decisions or rights.
-
-### Accountability
-
-People and organisations remain responsible for decisions about how AI systems are selected, deployed, monitored, and used.
-
-An AI system should not be treated as a substitute for accountability.
-
-### Safety and Reliability
-
-AI systems should be tested for their intended uses and monitored for errors, failures, and unexpected behaviour.
-
-The level of testing and oversight should reflect the possible consequences of a mistake.
-
-### Human Oversight
-
-Important decisions may require meaningful human review, particularly when they affect health, education, employment, finances, legal rights, or personal safety.
-
-Human oversight should be appropriate to the situation rather than merely a formality.
-
-## 1.10 Practical Activity: Evaluate an AI Response
-
-In this activity, you will practise checking an AI-generated answer rather than accepting it automatically.
-
-### Scenario
-
-You ask an AI assistant:
-
-"What are three benefits of using AI in education?"
-
-The assistant replies:
-
-"AI can provide personalised practice, help explain difficult concepts, and support teachers with routine tasks. However, AI tools can also make mistakes, raise privacy concerns, and produce explanations that do not suit every learner."
-
-### Your Task
-
-Answer the following questions:
-
-1. Identify two benefits mentioned in the response.
-2. Identify two risks mentioned in the response.
-3. What evidence could you consult to verify the claims?
-4. Would this answer be sufficient as an academic reference? Explain your reasoning.
-5. How could you improve the prompt to obtain a more useful answer?
-
-### Suggested Answers
-
-1. Personalised practice and support with routine teaching tasks.
-2. Inaccurate information and privacy concerns.
-3. Consult credible education research, official guidance, and relevant academic publications.
-4. Not by itself. An AI-generated response is not a substitute for checking original sources and citing evidence.
-5. A more specific prompt could request evidence-supported examples, explain the intended education level, and ask for reliable references that can be independently verified.
-
-### Learning Point
-
-AI output should be treated as information to evaluate, not automatically as established fact. Checking evidence is an essential part of responsible AI use.
-
-## 1.11 How to Use Generative AI Responsibly
-
-Generative AI systems can produce text, images, code, summaries, and other content in response to instructions called prompts.
-
-The quality of the output depends partly on the prompt, the model, and the available context. Even a well-written prompt does not guarantee a correct answer.
-
-Follow these practices when using generative AI:
-
-1. **Be specific:** Clearly describe the task and the kind of response you need.
-2. **Provide appropriate context:** Explain the audience, purpose, and relevant constraints.
-3. **Verify important claims:** Check facts against reliable sources.
-4. **Protect confidential information:** Do not disclose personal or sensitive data without proper authorisation.
-5. **Disclose AI use when required:** Follow your institution's or organisation's rules.
-6. **Retain responsibility:** Review the output and take responsibility for any work you submit or decisions you make.
-7. **Respect intellectual property:** Check whether the intended use complies with relevant licences, policies, and copyright rules.
-
-### Example of Improving a Prompt
-
-**Less specific prompt:**
-
-"Explain AI."
-
-**Improved prompt:**
-
-"Explain artificial intelligence to a beginner in approximately 150 words. Include two everyday examples, one limitation, and a short explanation of the difference between AI and machine learning."
-
-The improved prompt gives the system clearer instructions about the audience, length, and content.
-
-However, the resulting answer should still be checked for accuracy.
-
-## 1.12 Key Terms
+## 12. Key Terms
 
 | Term | Definition |
 |---|---|
-| Artificial Intelligence (AI) | A field of computing concerned with systems that perform tasks associated with intelligent behaviour. |
-| Machine Learning (ML) | Methods that allow systems to learn patterns from data. |
-| Deep Learning (DL) | A subset of machine learning that uses neural networks with multiple layers. |
-| Algorithm | A defined procedure for solving a problem or carrying out a task. |
-| Data | Information used to develop, operate, or evaluate a system. |
-| Model | A computational system or representation used to produce predictions, classifications, or other outputs. |
-| Training | The process of adjusting a machine-learning model using data. |
-| Bias | A systematic tendency that can contribute to inaccurate or unfair outcomes. |
-| Generative AI | AI designed to generate content such as text, images, audio, or code. |
-| Human oversight | Appropriate human review and supervision of an AI system or its outputs. |
+| Artificial Intelligence | The field of creating systems that perform tasks associated with intelligence. |
+| Symbolic AI | An approach that uses symbols, facts, and logical rules. |
+| Connectionist AI | An approach based on connected computational units, such as neural networks. |
+| Behaviorist AI | An approach that learns through actions and feedback from an environment. |
+| Machine Learning | A branch of AI that learns patterns from data. |
+| Deep Learning | A branch of machine learning that uses multi-layer neural networks. |
+| Neural Network | A computational model made up of connected processing units. |
+| Reinforcement Learning | A learning approach based on actions, rewards, and feedback. |
 
-## 1.13 Chapter Summary
+## 13. References and Further Reading
 
-In this chapter, you learned that:
+- Russell, S. and Norvig, P. *Artificial Intelligence: A Modern Approach*. Pearson.
+- IBM. [What is Artificial Intelligence (AI)?](https://www.ibm.com/think/topics/artificial-intelligence)
+- IBM. [What is Machine Learning?](https://www.ibm.com/think/topics/machine-learning)
+- Google for Developers. [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml)
 
-- Artificial Intelligence is a field of computing concerned with systems that perform tasks associated with intelligent behaviour.
-- Machine learning is a subset of AI, and deep learning is a subset of machine learning.
-- AI is used in education, healthcare, transportation, business, and online services.
-- AI can improve efficiency, recognise patterns, support accessibility, and assist decision-making.
-- AI systems can also produce inaccurate results, reflect bias, create privacy risks, and encourage overreliance.
-- Responsible AI use requires attention to fairness, privacy, transparency, accountability, reliability, and appropriate human oversight.
-- Generative AI outputs should be checked against reliable evidence before being used in important work.
+## 14. Chapter Completion Checklist
 
-The main lesson is that AI can be a valuable tool, but its outputs and limitations must be understood and evaluated.
-
-## 1.14 Review Questions
-
-### Part A: Multiple-Choice Questions
-
-**Question 1**
-
-Which statement best describes Artificial Intelligence?
-
-A. A technology used only to create robots.  
-B. A field of computing concerned with systems that perform tasks associated with intelligent behaviour.  
-C. A method of storing files on a computer.  
-D. A system that always produces correct answers.
-
-**Question 2**
-
-Which statement correctly describes the relationship between AI, machine learning, and deep learning?
-
-A. AI is a subset of deep learning.  
-B. Machine learning and AI are unrelated.  
-C. Deep learning is a subset of machine learning, which is a subset of AI.  
-D. All AI systems use deep learning.
-
-**Question 3**
-
-Which is an example of an AI application?
-
-A. A paper notebook.  
-B. A basic light switch with no data-processing capability.  
-C. An email filter that uses a trained model to classify spam.  
-D. A printed timetable.
-
-**Question 4**
-
-What is one potential risk of using AI-generated information?
-
-A. It is always too short.  
-B. It may contain inaccurate or fabricated information.  
-C. It cannot generate text.  
-D. It never uses data.
-
-**Question 5**
-
-Which action demonstrates responsible AI use?
-
-A. Sharing confidential information with any AI tool.  
-B. Accepting every AI response without checking it.  
-C. Using AI output as a substitute for all original research.  
-D. Verifying important claims and protecting sensitive information.
-
-### Part B: Short-Answer Questions
-
-**Question 6**
-
-Define Artificial Intelligence and provide one example.
-
-**Question 7**
-
-Explain the difference between machine learning and deep learning.
-
-**Question 8**
-
-Describe two benefits and two limitations of AI.
-
-**Question 9**
-
-Explain why privacy and fairness are important considerations when developing or using AI systems.
-
-**Question 10**
-
-Describe two steps a student should take before using AI-generated information in an academic assignment.
-
-## 1.15 Answer Key and Marking Guidance
-
-### Part A: Multiple-Choice Answers
-
-| Question | Correct answer | Explanation |
-|---|---|---|
-| 1 | B | AI concerns systems that perform tasks associated with intelligent behaviour. |
-| 2 | C | Deep learning is a subset of machine learning, which is a subset of AI. |
-| 3 | C | The email filter uses a model to classify messages. |
-| 4 | B | AI-generated information may be inaccurate or fabricated. |
-| 5 | D | Verification and privacy protection are responsible-use practices. |
-
-Award **1 mark** for each correct answer. Total: **5 marks**.
-
-### Part B: Suggested Answers
-
-**Question 6 — 2 marks**
-
-Award 1 mark for a reasonable definition of AI and 1 mark for a relevant example.
-
-**Question 7 — 2 marks**
-
-Award 1 mark for explaining that machine learning learns patterns from data and 1 mark for explaining that deep learning uses neural networks with multiple layers.
-
-**Question 8 — 4 marks**
-
-Award up to 2 marks for two valid benefits and up to 2 marks for two valid limitations.
-
-Possible benefits include efficiency and pattern recognition. Possible limitations include inaccurate outputs and privacy risks.
-
-**Question 9 — 4 marks**
-
-Award up to 2 marks for explaining privacy concerns and up to 2 marks for explaining fairness concerns.
-
-Answers should demonstrate an understanding of protecting personal information and avoiding unfair outcomes.
-
-**Question 10 — 4 marks**
-
-Award up to 2 marks for each appropriate step, such as verifying claims against credible sources, checking references, following institutional AI-use policies, and reviewing the accuracy of the output.
-
-**Total suggested score: 21 marks**
-
-The lecturer or course designer may adjust the marking scheme to match the assessment requirements.
-
-## References and Further Reading
-
-The following resources provide additional information about AI and responsible AI use.
-
-1. Russell, S. J., & Norvig, P. (2021). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson.
-
-   [Publisher page](https://www.pearson.com/en-us/subject-catalog/p/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/P200000003500/9780137505135)
-4. IBM. *What Is Artificial Intelligence (AI)?*  
-   https://www.ibm.com/think/topics/artificial-intelligence
-
-5. Google for Developers. *Introduction to Machine Learning.*  
-   https://developers.google.com/machine-learning/intro-to-ml
-
-6. UNESCO. *Guidance for Generative AI in Education and Research.*  
-   https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
-
-7. National Institute of Standards and Technology. *Artificial Intelligence Risk Management Framework (AI RMF 1.0).*  
-   https://www.nist.gov/itl/ai-risk-management-framework
-
-Learners should consult the original resources for further detail and follow their institution's referencing requirements.
-
-## Chapter Completion Checklist
-
-Before considering this chapter complete, confirm that:
-
-- [x] The learning objectives are clear and assessable.
-- [x] AI, machine learning, and deep learning are distinguished.
-- [x] The chapter includes relevant real-world examples.
-- [x] Benefits, limitations, and ethical considerations are explained.
-- [x] Practical learning activities are included.
-- [x] Review questions align with the material taught.
-- [x] The answer key and marking guidance are included.
-- [x] References and further reading are provided.
-- [x] References and external links have been verified.
-- [x] The chapter has been proofread and checked for accessibility.
-- [x] The estimated learning time matches the module outline.
-- [x] The chapter has been checked against the learning objectives in the module outline.
+- [ ] AI is clearly defined.
+- [ ] A brief history of AI is included.
+- [ ] Symbolic AI is explained with examples, strengths, and limitations.
+- [ ] Connectionist AI is explained with examples, strengths, and limitations.
+- [ ] Behaviorist AI is explained with examples, strengths, and limitations.
+- [ ] The three approaches are compared.
+- [ ] The relationship between AI, ML, and DL is explained.
+- [ ] Everyday applications are included.
+- [ ] Benefits and limitations are discussed.
+- [ ] Practical activity and suggested answers are included.
+- [ ] Knowledge-check answers include explanations.
+- [ ] References and links have been checked.
+- [ ] Markdown formatting has been reviewed.
