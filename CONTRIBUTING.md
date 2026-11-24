@@ -37,7 +37,7 @@ curious-mind-main/
 │       ├── 01-what is ai.md
 │       ├── 02-machine-learning-basics.md
 │       ├── 03-generative-ai-llms.md
-│       ├── 04 -ai-applications.md
+│       ├── 04-ai-applications.md
 │       ├── 05-responsible-ai.md
 │       └── 06-practical-skills-ai.md
 ├── study guide/
