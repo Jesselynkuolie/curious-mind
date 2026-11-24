@@ -175,14 +175,17 @@ The model learns relationships between the inputs and labels. It can then use th
 
 A dataset contains emails labelled as “Spam” or “Not spam.” A model learns patterns from these examples and uses them to classify new emails.
 Imagine you have 100 emails:
+
 - 60 legitimate emails.
 - 40 spam emails.
-Answer these questions:
+
+**Answer these questions:**
+
 1. What information could help distinguish spam from legitimate emails?
 2. What happens if the training data contains incorrect labels?
 3. How would you evaluate whether the model works?
-Learning outcome: Learners understand training data, features, labels, classification, and model evaluation through one connected example.
-Other examples include:
+
+**Learning outcome:** Learners understand training data, features, labels, classification, and model evaluation through one connected example.
 
 - Predicting house prices from property information.
 - Classifying images.
@@ -305,7 +308,7 @@ A possible split could be:
 - 150 examples for validation.
 - 150 examples for testing.
 
-This is only an illustration. The best split depends on the amount and type of data, the learning method, and the task.
+This is only an example of one possible data split, not a fixed rule. The appropriate proportions depend on the dataset size, the learning method, and the task.
 
 ### Why separate the data?
 
@@ -325,7 +328,7 @@ A model should be evaluated according to the purpose of the task. No single meas
 
 Accuracy is the proportion of predictions that are correct.
 
-For example, if a model correctly classifies 90 out of 100 examples, its accuracy is 90%.
+Accuracy is calculated as:  **Accuracy = Number of Correct Predictions ÷ Total Number of Predictions**  For example, if a model correctly classifies 90 out of 100 examples:  **Accuracy = 90 ÷ 100 = 90%**
 
 However, accuracy alone can be misleading when one category is much more common than another.
 
@@ -397,7 +400,13 @@ Possible approaches include:
 
 These approaches can help, but none guarantees that a model will perform well in every new situation.
 
-### Generalisation
+### Underfitting
+
+Underfitting occurs when a model is too simple to learn important patterns from its training data.  For example, a model that uses only one basic feature to predict house prices may fail to consider important factors such as location, size, and condition. 
+
+**Remember the difference:** 
+- **Overfitting:** The model learns the training data too closely and performs poorly on new data.
+- **Underfitting:** The model fails to learn important patterns from the training data.
 
 Generalisation describes how well a model performs on new examples beyond the data used to train it.
 
@@ -519,7 +528,7 @@ There may be more than one reasonable response. Your explanation should consider
 
 ## 2.13 Knowledge Check
 
-Answer the following questions before reading the answer key.
+Answer all ten questions independently before checking your responses in Section 2.14. Each question has one correct answer.
 
 ### Question 1
 
@@ -665,7 +674,9 @@ This self-assessment is intended to guide revision rather than serve as a formal
 | Training data | Data used by a learning algorithm to fit a model. |
 | Unsupervised learning | A learning approach that identifies patterns or structure in data without predefined target labels. |
 | Validation data | Data used during development to compare models or adjust settings. |
-
+| Accuracy | The proportion of predictions that a model classifies correctly. |
+| Precision | The proportion of positive predictions that are actually positive. |
+| Recall | The proportion of actual positive cases that a model correctly identifies. |
 ---
 
 ## 2.16 Chapter Summary
@@ -730,8 +741,8 @@ Before considering this chapter complete, confirm that:
 - [x] The practical activity has clear instructions and an answer guide.
 - [x] Knowledge-check questions include answers and explanations.
 - [x] The glossary and summary are complete.
-- [x] References have been checked to confirm they are accessible and relevant.
-- [x] The chapter's estimated learning time matches the module outline.
-- [x] Markdown tables, headings, and links have been checked to ensure they render correctly.
+- [ ] References have been checked to confirm they are accessible and relevant.
+- [ ] The chapter's estimated learning time matches the module outline.
+- [ ] Markdown tables, headings, and links have been checked to ensure they render correctly.
 
 **End of Chapter 2**
