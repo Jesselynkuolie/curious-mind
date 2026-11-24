@@ -17,31 +17,37 @@ Peer review checks whether the content is accurate, understandable, well-organiz
 
 ## 3. Learner Testing
 
-Learner testing checks whether students can understand the learning materials and complete the activities or questions.
+Learner testing is intended to check whether students can understand the learning materials, follow the activities, and complete the practice questions.
 
 | Participant | Material Tested | Feedback | Action Taken |
 |---|---|---|---|
-| Learner 1 | Study Guide | Testing feedback has not yet been recorded. | Pending learner feedback. |
-| Learner 2 | Test Bank | Testing feedback has not yet been recorded. | Pending learner feedback. |
+| N/A | Study Guide | No learner testing has been conducted yet. | Pending learner testing. |
+| N/A | Test Bank | No learner testing has been conducted yet. | Pending learner testing. |
 
-**Learner Testing Status:** Pending completion and recording of learner testing.
+**Learner Testing Status:** Pending. The materials have been reviewed, but no actual learner testing has been conducted.
 
 ## 4. Planned Improvements
 
-The team will use peer review and learner testing to:
+The team will continue improving the learning materials through content checking and final quality assurance.
 
-- Correct inaccurate or unclear explanations.
+The following areas will be checked before submission:
+
+- Correct any inaccurate or unclear explanations.
 - Improve confusing instructions and examples.
-- Check whether practice questions match the learning objectives.
-- Improve the organization and readability of the materials.
-- Update the materials based on feedback.
+- Ensure practice questions match the learning objectives.
+- Check the organization, formatting, and readability of the materials.
+- Maintain consistency across the six chapters, Study Guide, and Test Bank.
+
+No specific revisions were requested during peer review. Further improvements will be based on the team's own quality checks and any feedback received during future learner testing.
+
+## 5. Final Review
 
 ## 5. Final Review
 
 Before submission, the team will confirm that:
 
-- [ ] Peer review feedback has been recorded.
-- [ ] Learner testing feedback has been recorded.
-- [ ] Revisions have been made based on actual feedback.
+- [x] Peer review has been completed and recorded.
+- [ ] Learner testing has been completed and feedback recorded.
+- [ ] Revisions have been made based on review or testing feedback, where applicable.
 - [ ] The final materials have been checked for accuracy and consistency.
-- [ ] All testing and review records reflect work that was actually completed.
+- [x] Review and testing records accurately reflect the work completed.
