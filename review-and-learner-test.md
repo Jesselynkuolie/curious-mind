@@ -6,8 +6,6 @@ This document records feedback from peer review and learner testing of the AI Ov
 
 ## 2. Peer Review
 
-## 2. Peer Review
-
 Peer review checks whether the content is accurate, understandable, well-organized, and suitable for the intended learners.
 
 | Reviewer | File Reviewed | Feedback | Action Taken |
