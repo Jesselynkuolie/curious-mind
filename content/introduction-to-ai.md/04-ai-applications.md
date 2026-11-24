@@ -482,21 +482,21 @@ D. Ignore the original meaning
 
 ## 4.18 Key Terms
 
-| Term                        | Definition                                                                               |
-| --------------------------- | ---------------------------------------------------------------------------------------- |
-| AI application              | A tool or system that uses AI to perform a particular task.                              |
-| Computer vision             | AI techniques that analyse images or video.                                              |
-| Natural language processing | Techniques that enable computers to process and work with human language.                |
-| Generative AI               | AI that produces new content, such as text, images, audio, or video.                     |
-| Recommendation system       | A system that suggests items a user may find relevant or interesting.                    |
-| Automation                  | Using technology to perform tasks with reduced manual effort.                            |
-| Human oversight             | Appropriate human supervision, review, or intervention in the use of a system.           |
-| Bias                        | A systematic tendency that can lead to uneven or unfair results.                         |
-| Data privacy                | Protecting personal information and controlling how it is collected, accessed, and used. |
-| Reliability                 | The extent to which a system performs consistently and produces dependable results.      |
-| Driver-assistance system | Technology that supports a human driver with specific driving tasks. |
-| Autonomous vehicle | A vehicle designed to perform some or all driving tasks using automated systems. |
-| Recommendation algorithm | A method used to select and rank content or items that may interest a user. |
+| Term | Definition |
+|---|---|
+| AI application | The use of artificial intelligence to perform or support a specific task. |
+| Automation | The use of technology to perform tasks with limited human intervention. |
+| Autonomous vehicle | A vehicle designed to perform driving tasks using sensors, software, and AI technologies. |
+| Bias | A systematic tendency that can lead to unfair or unbalanced outcomes. |
+| Computer vision | An AI field that enables computers to interpret and analyse visual information. |
+| Data privacy | The protection of personal information and control over how it is collected, used, and shared. |
+| Driver-assistance system | A vehicle technology that supports the driver with tasks such as lane warnings or adaptive cruise control. |
+| Generative AI | AI designed to generate new content, such as text, images, audio, or code. |
+| Human oversight | Human review and supervision of AI systems and their outputs. |
+| Natural language processing | An AI field that enables computers to process and understand human language. |
+| Recommendation algorithm | A method used by a system to suggest items based on user data, preferences, or behaviour. |
+| Recommendation system | An AI-supported system that suggests relevant items, such as products, videos, or music. |
+| Reliability | The ability of a system to perform consistently and appropriately. |
 
 ## 4.19 Chapter Summary
 
@@ -521,8 +521,6 @@ The following resources provide additional information about AI applications and
 **Note:** Check that each reference is accessible and directly supports the relevant material before submitting the project.
 
 ## 4.21 Chapter Completion Checklist
-
-Use this checklist after reviewing the chapter and testing the file in GitHub.
 
 Use this checklist after reviewing the chapter and testing the file in GitHub.
 
