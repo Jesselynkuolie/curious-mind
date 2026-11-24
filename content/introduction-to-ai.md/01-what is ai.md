@@ -45,14 +45,15 @@ AI systems do not all work in the same way. Some follow programmed rules, some l
 
 AI has developed through several important stages:
 
-- **1950s:** Early researchers explored whether machines could demonstrate intelligent behaviour.
-- **1956:** The term Artificial Intelligence became established as a research field at the Dartmouth workshop.
+AI has developed through several important stages:
+
+- **1950:** Alan Turing published his paper "Computing Machinery and Intelligence," introducing the question of whether machines can think.
+- **1956:** The Dartmouth Summer Research Project on Artificial Intelligence helped establish AI as a formal research field.
 - **1960s–1970s:** Researchers developed symbolic reasoning systems and early problem-solving programs.
 - **1980s:** Expert systems became more widely used in specialised areas.
-- **1990s–2000s:** Machine learning developed further with larger datasets and improved computing.
+- **1990s–2000s:** Machine learning developed further as datasets and computing capabilities improved.
 - **2010s:** Deep learning advanced image recognition, speech recognition, and natural language processing.
 - **2020s:** Generative AI tools became widely available for producing text, images, audio, and other content.
-
 ## 5. Three Main Approaches to Artificial Intelligence
 
 ### 5.1 Symbolic AI
@@ -141,32 +142,40 @@ A related learning method is Reinforcement Learning. It allows an agent to learn
 3. The environment responds.
 4. The agent receives a reward or penalty.
 5. It uses this feedback to improve future decisions.
-**Examples:**
 
-- Game-playing AI.
-- Robots learning to navigate environments.
-- Systems learning to control movement.
-- AI agents learning strategies through repeated interaction.
+**Examples of Behavior-Based AI:**
+
+- Robots that avoid obstacles using sensor information.
+- Robots that respond to nearby objects or movement.
+- Autonomous systems that perform simple tasks based on environmental conditions.
+
+**Examples of Reinforcement Learning:**
+
+- Game-playing AI that improves its strategy through rewards.
+- Robots learning movement through repeated interaction.
+- AI agents learning decisions through feedback.
 
 **Strengths:**
 
-- Can learn through experience and feedback.
-- Useful for sequential decision-making.
-- Can adapt its actions based on results.
+- Can respond to changes in the environment.
+- Useful for robots and systems that interact with their surroundings.
+- Can perform simple tasks without requiring complex reasoning.
 
 **Limitations:**
 
-- Learning can require many attempts.
-- Designing suitable rewards can be difficult.
-- Behaviour may be unpredictable in unfamiliar situations.
-
+- May struggle in unfamiliar or unpredictable environments.
+- Simple behaviours may not be enough for complex tasks.
+- Requires suitable sensors and reliable environmental information.
+  
 ### 5.4 Comparing the Three Approaches
 
 | Approach | Main Idea | How It Works | Example |
 |---|---|---|---|
 | Symbolic AI | Rules and logic | Uses human-defined knowledge and rules | Expert systems |
 | Connectionist AI | Neural networks | Learns patterns from data | Image recognition |
-| Behaviorist AI | Actions and feedback | Learns through rewards and penalties | Game-playing AI |
+| Behavior-Based AI | Interaction with the environment | Responds to changes in the environment using different behaviours | Robots that avoid obstacles |
+
+Reinforcement Learning is a related learning method in which an agent improves its decisions through actions and feedback. It is commonly used in game-playing AI and robotics.
 
 These approaches are not always completely separate. Modern AI systems can combine ideas from different approaches.
 
@@ -310,22 +319,24 @@ We also explored the relationship between AI, machine learning, and deep learnin
 ## 13. References and Further Reading
 
 - Russell, S. and Norvig, P. *Artificial Intelligence: A Modern Approach*. Pearson.
+- Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, 59(236), 433–460.
+- Dartmouth College. [Artificial Intelligence Coined at Dartmouth](https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth).
 - IBM. [What is Artificial Intelligence (AI)?](https://www.ibm.com/think/topics/artificial-intelligence)
 - IBM. [What is Machine Learning?](https://www.ibm.com/think/topics/machine-learning)
 - Google for Developers. [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml)
 
 ## 14. Chapter Completion Checklist
 
-- [ ] AI is clearly defined.
-- [ ] A brief history of AI is included.
-- [ ] Symbolic AI is explained with examples, strengths, and limitations.
-- [ ] Connectionist AI is explained with examples, strengths, and limitations.
-- [ ] Behaviorist AI is explained with examples, strengths, and limitations.
-- [ ] The three approaches are compared.
-- [ ] The relationship between AI, ML, and DL is explained.
-- [ ] Everyday applications are included.
-- [ ] Benefits and limitations are discussed.
-- [ ] Practical activity and suggested answers are included.
-- [ ] Knowledge-check answers include explanations.
+- [x] AI is clearly defined.
+- [x] A brief history of AI is included.
+- [x] Symbolic AI is explained with examples, strengths, and limitations.
+- [x] Connectionist AI is explained with examples, strengths, and limitations.
+- [x] Behavior-Based AI is explained with examples, strengths, and limitations.
+- [x] The three approaches are compared.
+- [x] The relationship between AI, ML, and DL is explained.
+- [x] Everyday applications are included.
+- [x] Benefits and limitations are discussed.
+- [x] Practical activity and suggested answers are included.
+- [x] Knowledge-check answers include explanations.
 - [ ] References and links have been checked.
 - [ ] Markdown formatting has been reviewed.
