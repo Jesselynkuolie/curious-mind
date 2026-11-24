@@ -1,4 +1,8 @@
 # Chapter 4: AI Applications in Everyday Life
+**Module:** Introduction to Artificial Intelligence  
+**Level:** Beginner  
+**Prerequisites:** Chapter 1 — What Is AI? and Chapter 2 — Machine Learning Basics  
+**Estimated learning time:** 40–50 minutes
 
 ## 4.1 Chapter Overview
 
@@ -32,6 +36,12 @@ AI applications use different techniques depending on the task. For example:
 - Natural language processing can work with human language.
 - Generative AI can produce new text, images, audio, or other content.
 - Recommendation systems can suggest products, films, music, or other items.
+
+**Important distinction:**
+
+AI techniques are methods used to perform tasks, while AI applications are the actual tools or systems that use those methods.
+
+For example, computer vision is an AI technique, while a medical image analysis tool is an application that may use computer vision.
 
 AI applications vary in complexity. Some perform a narrow task, such as filtering spam emails, while others can support several activities, such as answering questions or summarising documents.
 
@@ -105,6 +115,10 @@ AI is used in transportation to analyse traffic, plan routes, and support vehicl
 
 **Autonomous vehicles:** Self-driving technologies combine sensors, software, and AI methods to interpret their surroundings and make driving-related decisions.
 
+**Driver assistance vs. autonomous driving:**
+
+Driver-assistance systems support a human driver with specific tasks, such as maintaining distance or identifying lane markings. Autonomous driving systems aim to perform more driving tasks without continuous human control. Their capabilities and limitations vary, so users must understand the requirements of each system.
+
 ### Benefits
 
 - Can help people choose efficient routes.
@@ -171,6 +185,12 @@ AI plays a major role in how people discover and interact with digital content.
 ### Risks and Limitations
 
 Recommendations may repeatedly show users similar content and reduce their exposure to different viewpoints. Platforms may also recommend misleading material. AI-generated content can be used to create convincing fake images, audio, or videos.
+
+**How recommendations influence users:**
+
+Recommendation systems select and rank content based on factors such as viewing history, interactions, and predicted interests. This can make content easier to discover, but it may also limit exposure to different perspectives.
+
+Users should explore information from different reliable sources instead of relying entirely on recommended content.
 
 **Key point:** Users should think critically about online content and remember that a recommendation is not necessarily a reliable or balanced choice.
 
@@ -303,6 +323,14 @@ Automation may change job tasks and the skills people need. The effects vary acr
 Developing and operating some AI systems requires significant computing resources and energy.
 
 The appropriate response depends on the application. A minor error in a music recommendation is different from an error in a medical or transportation system.
+
+### Why the Consequences Matter
+
+The level of risk depends on how an AI system is used.
+
+For example, an incorrect film recommendation may cause minor inconvenience, while an incorrect medical or transportation recommendation could have much more serious consequences.
+
+Therefore, AI systems used in high-impact situations require stronger testing, monitoring, and human oversight.
 
 ## 4.14 Human Oversight and Responsible Use
 
@@ -466,6 +494,9 @@ D. Ignore the original meaning
 | Bias                        | A systematic tendency that can lead to uneven or unfair results.                         |
 | Data privacy                | Protecting personal information and controlling how it is collected, accessed, and used. |
 | Reliability                 | The extent to which a system performs consistently and produces dependable results.      |
+| Driver-assistance system | Technology that supports a human driver with specific driving tasks. |
+| Autonomous vehicle | A vehicle designed to perform some or all driving tasks using automated systems. |
+| Recommendation algorithm | A method used to select and rank content or items that may interest a user. |
 
 ## 4.19 Chapter Summary
 
@@ -493,6 +524,8 @@ The following resources provide additional information about AI applications and
 
 Use this checklist after reviewing the chapter and testing the file in GitHub.
 
+Use this checklist after reviewing the chapter and testing the file in GitHub.
+
 - [x] The chapter has a clear overview and learning objectives.
 - [x] AI applications across multiple industries are explained.
 - [x] Real-world examples are provided.
@@ -502,7 +535,7 @@ Use this checklist after reviewing the chapter and testing the file in GitHub.
 - [x] A practical activity includes clear instructions and an example answer.
 - [x] Knowledge-check questions and an answer key are included.
 - [x] Key terms and a chapter summary are provided.
-- [x] References have been checked for accessibility and relevance.
-- [x] Spelling, grammar, and clarity have been reviewed.
-- [x] Headings, tables, and links have been checked in GitHub's rendered preview.
-- [x] The estimated learning time matches the module outline.
+- [ ] References have been checked for accessibility and relevance.
+- [ ] Spelling, grammar, and clarity have been reviewed.
+- [ ] Headings, tables, and links have been checked in GitHub's rendered preview.
+- [ ] The estimated learning time matches the module outline.
