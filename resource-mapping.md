@@ -29,14 +29,13 @@ It helps ensure that the Study Guide, Test Bank, PowerPoint Presentation, and Vi
 
 ## 4. Consistency Checklist
 
-- [ ] All six chapters are included in the learning resources.
-- [ ] Study Guide topics match the Markdown chapters.
-- [ ] Test Bank questions are related to the learning objectives.
-- [ ] PowerPoint slides cover the main concepts.
-- [ ] Video Tutorials support the corresponding chapters.
+- [x] All six chapter files have been created.
+- [ ] Study Guide topics have been checked against the Markdown chapters.
+- [ ] Test Bank questions have been checked against the learning objectives.
+- [ ] PowerPoint slides have been checked against the main concepts.
+- [ ] Video Tutorials have been checked against the corresponding chapters.
 - [ ] Terminology and explanations are consistent across all resources.
-- [ ] All resources have been checked before submission.
-
+- [ ] All resources have completed final verification.
 ## 5. Final Note
 
 The resource mapping helps the team maintain consistency across the AI Overview learning materials. Each resource supports the same learning objectives while presenting information in a different format.
