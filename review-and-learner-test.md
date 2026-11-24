@@ -42,8 +42,6 @@ No specific revisions were requested during peer review. Further improvements wi
 
 ## 5. Final Review
 
-## 5. Final Review
-
 Before submission, the team will confirm that:
 
 - [x] Peer review has been completed and recorded.
