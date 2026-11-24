@@ -84,7 +84,7 @@ By the end of this chapter, learners should be able to:
 
 - Define artificial intelligence in simple terms.
 - Describe key stages in the development of AI.
-- Explain Symbolic AI, Connectionist AI, and Behaviorist AI.
+- Explain Symbolic AI, Connectionist AI, and Behavior-Based AI.
 - Compare the strengths and limitations of these three approaches.
 - Explain the relationship between AI, machine learning, and deep learning.
 - Identify examples of AI in everyday life.
@@ -95,7 +95,7 @@ By the end of this chapter, learners should be able to:
 - Definition and history of artificial intelligence.
 - Symbolic AI: rules, symbols, and logical reasoning.
 - Connectionist AI: neural networks and learning from data.
-- Behaviorist AI: actions, rewards, and feedback.
+- Behavior-Based AI: actions, rewards, and feedback.
 - Comparison of the three AI approaches.
 - Relationship between AI, machine learning, and deep learning.
 - Everyday applications of AI.
@@ -104,7 +104,7 @@ By the end of this chapter, learners should be able to:
 ### Learning activities
 
 - Explore examples of AI in everyday life.
-- Compare Symbolic, Connectionist, and Behaviorist AI.
+- Compare Symbolic, Connectionist, and Behavior-Based AI.
 - Identify which AI approach is illustrated by different examples.
 - Discuss the benefits and limitations of AI.
 
