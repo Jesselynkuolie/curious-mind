@@ -67,7 +67,7 @@ Only mark a task complete when the relevant file has been checked against the st
 | Chapter 1 — What Is AI? | `content/introduction-to-ai.md/01-what is ai.md` | Review and verify |
 | Chapter 2 — Machine Learning Basics | `content/introduction-to-ai.md/02-machine-learning-basics.md` | Verify saved version and formatting |
 | Chapter 3 — Generative AI and LLMs | `content/introduction-to-ai.md/03-generative-ai-llms.md` | Review and complete |
-| Chapter 4 — AI Applications | `content/introduction-to-ai.md/04 -ai-applications.md` | Review and complete |
+| Chapter 4 — AI Applications | `content/introduction-to-ai.md/04-ai-applications.md` | Review and complete |
 | Chapter 5 — Responsible AI | `content/introduction-to-ai.md/05-responsible-ai.md` | Review and complete |
 | Chapter 6 — Practical AI Skills | `content/introduction-to-ai.md/06-practical-skills-ai.md` | Review and complete |
 
