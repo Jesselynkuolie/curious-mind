@@ -168,14 +168,7 @@ Learners answer questions about machine learning terminology, learning types, mo
 
 ### Evidence of learning
 
-Learners complete a learning-type classification table and explain one way that poor-quality data can affect an AI system.
-### Assessment
-
-Learners answer questions about machine learning terminology, learning types, model evaluation, and data quality.
-
-### Evidence of learning
-
-Learners complete a task-classification table and explain one way that poor-quality data can affect an AI system.
+Learners complete a learning-type classification table and explain one way that poor-quality data can affect a machine learning model.
 
 ---
 
@@ -234,8 +227,8 @@ Learners submit an improved prompt and a short verification plan.
 
 ## Chapter 4: AI Applications
 
-**File:** [`04 -ai-applications.md`](04%20-ai-applications.md)  
-**Estimated time:** 35–45 minutes
+**File:** [`04-ai-applications.md`](04-ai-applications.md)
+**Estimated time:** 40–50 minutes
 
 ### Chapter purpose
 
@@ -287,7 +280,7 @@ Learners produce a comparison table and a brief recommendation supported by reas
 ## Chapter 5: Responsible AI
 
 **File:** [`05-responsible-ai.md`](05-responsible-ai.md)  
-**Estimated time:** 40–50 minutes
+**Estimated time:** 45–55 minutes
 
 ### Chapter purpose
 
@@ -489,7 +482,7 @@ The following files support the module and should remain consistent with its lea
 | Chapter 1 | `content/introduction-to-ai.md/01-what is ai.md` | Introduces foundational AI concepts. |
 | Chapter 2 | `content/introduction-to-ai.md/02-machine-learning-basics.md` | Explains machine learning fundamentals. |
 | Chapter 3 | `content/introduction-to-ai.md/03-generative-ai-llms.md` | Introduces generative AI and language models. |
-| Chapter 4 | `content/introduction-to-ai.md/04 -ai-applications.md` | Examines AI applications across sectors. |
+| Chapter 4 |content/introduction-to-ai.md/04-ai-applications.md| Examines AI applications across sectors. |
 | Chapter 5 | `content/introduction-to-ai.md/05-responsible-ai.md` | Explores responsible AI principles and risks. |
 | Chapter 6 | `content/introduction-to-ai.md/06-practical-skills-ai.md` | Develops practical and critical AI skills. |
 | Study guide | `study guide/study-guide.md` | Supports revision and independent learning. |
