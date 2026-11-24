@@ -45,8 +45,6 @@ AI systems do not all work in the same way. Some follow programmed rules, some l
 
 AI has developed through several important stages:
 
-AI has developed through several important stages:
-
 - **1950:** Alan Turing published his paper "Computing Machinery and Intelligence," introducing the question of whether machines can think.
 - **1956:** The Dartmouth Summer Research Project on Artificial Intelligence helped establish AI as a formal research field.
 - **1960s–1970s:** Researchers developed symbolic reasoning systems and early problem-solving programs.
@@ -242,7 +240,7 @@ Read each scenario and identify the AI approach that best matches it.
 
 1. Symbolic AI — it uses predefined rules and knowledge.
 2. Connectionist AI — it learns patterns using a neural network.
-3. Behaviorist AI — it learns through actions and rewards.
+3. Reinforcement Learning — it learns through actions and rewards from the environment.
 
 ## 10. Knowledge Check
 
@@ -257,7 +255,7 @@ D. A type of computer hardware.
 
 **2. Which approach uses logical rules and symbols?**
 
-A. Behaviorist AI  
+A. Behavior-Based AI
 B. Connectionist AI  
 C. Symbolic AI  
 D. Deep learning
@@ -268,7 +266,7 @@ D. Deep learning
 
 A. Symbolic AI  
 B. Connectionist AI  
-C. Behaviorist AI  
+C. Behavior-Based AI
 D. Rule-based computing
 
 **Answer: B.** Connectionist AI uses networks of connected computational units to learn patterns.
@@ -299,7 +297,7 @@ This chapter introduced three important AI approaches:
 
 - Symbolic AI uses symbols, facts, and logical rules.
 - Connectionist AI uses neural networks to learn patterns from data.
-- Behaviorist AI learns through interaction, actions, and feedback.
+- Behavior-Based AI responds to changes in its environment, while Reinforcement Learning uses rewards and feedback to improve decisions.
 
 We also explored the relationship between AI, machine learning, and deep learning, along with everyday applications, benefits, and limitations.
 
@@ -310,7 +308,7 @@ We also explored the relationship between AI, machine learning, and deep learnin
 | Artificial Intelligence | The field of creating systems that perform tasks associated with intelligence. |
 | Symbolic AI | An approach that uses symbols, facts, and logical rules. |
 | Connectionist AI | An approach based on connected computational units, such as neural networks. |
-| Behaviorist AI | An approach that learns through actions and feedback from an environment. |
+| Behavior-Based AI | An approach in which systems respond to changes in their environment. |
 | Machine Learning | A branch of AI that learns patterns from data. |
 | Deep Learning | A branch of machine learning that uses multi-layer neural networks. |
 | Neural Network | A computational model made up of connected processing units. |
