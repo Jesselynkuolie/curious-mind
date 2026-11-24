@@ -189,7 +189,8 @@ For each chapter:
 - [ ] Check that the findings reflect the current repository.
 - [ ] Distinguish completed corrections from remaining actions.
 - [ ] Verify file paths.
-- [ ] Update the review status after final checks.
+- [x] Record the completed peer review and note that no specific feedback was provided.
+- [ ] Complete learner testing and record the results.
 
 ### Audit Report
 
@@ -233,16 +234,16 @@ For each chapter:
 
 ## 11. Team Responsibilities
 
-Complete this table using actual agreed assignments.
+## 11. Team Responsibilities
 
 | Responsibility | Assigned member | Evidence |
 |---|---|---|
-| Project coordination | To be confirmed | Agreed plan and priorities |
-| Repository and submission | To be confirmed | Verified repository and submission |
-| Content development | To be confirmed | Completed outline and chapters |
-| Visual design | To be confirmed | Reviewed visual materials, if required |
-| Video production | To be confirmed | Required video deliverables, if applicable |
-| Quality assurance | To be confirmed | Completed verification checks |
+| Project coordination | Jesselyn Kuolie — Coordinator (CEO) | Project coordination and progress tracking |
+| Repository and submission | Lê Trần Đức Trọng — Repository and Submission Lead (CIO) | Repository organization and submission support |
+| Content development | Michelle Kalyani — Content Lead | Learning content development |
+| Visual design | Lai Quoc Hung — Visual Design Lead | Visual materials and presentation design |
+| Video production | Kristabelle Lian — Video Lead | Video tutorial production |
+| Quality assurance | Samantha Salvatrice — Quality Lead | Content review and quality checks |
 
 ## 12. Completion Record
 
