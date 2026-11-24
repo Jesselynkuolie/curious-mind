@@ -1,5 +1,9 @@
-
 # Chapter 5: Responsible AI — Fairness, Safety, Privacy, and Accountability
+
+**Module:** Introduction to Artificial Intelligence  
+**Level:** Beginner  
+**Prerequisites:** Chapters 1–4 of Introduction to Artificial Intelligence  
+**Estimated learning time:** 45–55 minutes
 
 ## 1. Chapter Overview
 
@@ -8,6 +12,15 @@ Artificial intelligence (AI) can help people learn, communicate, solve problems,
 **Responsible AI** means developing, using, and evaluating AI in ways that consider human rights, fairness, safety, privacy, transparency, and accountability throughout the AI system's life cycle.
 
 Responsible AI is not only the responsibility of developers. Organizations, educators, students, users, policymakers, and other stakeholders all have roles to play.
+
+The six core principles explored in this chapter are:
+
+1. Fairness and non-discrimination.
+2. Transparency and explainability.
+3. Privacy and data protection.
+4. Safety, security, and reliability.
+5. Accountability and responsibility.
+6. Human oversight and human agency.
 
 In this chapter, learners will explore the major principles of responsible AI, examine real-world situations, and practise evaluating AI use before deciding whether and how to rely on it.
 
@@ -63,6 +76,12 @@ The main stages include:
 
 A system that performs well during testing may still create problems after deployment because its users, data, or operating environment can change.
 
+**Example:**
+
+An AI system used to recommend learning materials may perform well when first introduced. However, students' learning needs and the available information may change over time.
+
+The school should regularly evaluate the system to check whether its recommendations remain useful, accurate, and appropriate.
+
 **Key principle:** Responsible AI is an ongoing process, not a one-time approval.
 
 ## 4. Six Core Principles of Responsible AI
@@ -72,6 +91,13 @@ A system that performs well during testing may still create problems after deplo
 Fairness means considering whether an AI system produces unjustified disadvantages for particular people or groups.
 
 AI systems learn patterns from data and reflect choices made during their design. If the data contains historical inequalities or does not adequately represent the people affected by the system, the results may be biased.
+
+**Bias and discrimination are related but different:**
+
+- Bias refers to patterns or tendencies that can influence an AI system's results.
+- Discrimination occurs when people receive unfair treatment because of characteristics such as their background or identity.
+
+Bias can contribute to discriminatory outcomes, so systems should be tested carefully.
 
 **Example: Recruitment**
 
@@ -142,6 +168,12 @@ This may expose personal information without the classmate's permission or an ap
 - Follow relevant laws, school policies, and workplace requirements.
 
 Removing names does not always make information anonymous. A person may still be identifiable from a combination of details.
+
+**Data minimisation:**
+
+Data minimisation means collecting and using only the information necessary for a specific purpose.
+
+For example, if an AI tool only needs to summarise a school report, the student's identification number and other unnecessary personal details should not be included.
 
 **Important:** Do not assume that information entered into an AI tool is automatically private, confidential, or deleted immediately.
 
@@ -309,6 +341,12 @@ Before using an AI tool, ask the following questions.
 A simple decision rule is:
 
 **Use AI when its expected benefits justify the risks and suitable safeguards are in place. If serious risks cannot be adequately reduced, do not use the system for that purpose.**
+
+| Evaluation result | Recommended action |
+|---|---|
+| Benefits are clear and risks are adequately controlled. | Use the tool with appropriate monitoring. |
+| Some risks remain unclear or require further testing. | Pause and investigate before using the tool. |
+| Serious risks cannot be adequately reduced. | Do not use the tool for that purpose. |
 
 ## 8. Practical Learning Activity: Responsible AI Case Review
 
@@ -527,6 +565,9 @@ The central lesson is that **an AI system should not be used simply because it i
 | Automation bias | Excessive reliance on automated recommendations, even when contrary evidence exists. |
 | Risk mitigation | Actions taken to reduce the likelihood or severity of harm. |
 | AI life cycle | The stages involved in planning, developing, deploying, monitoring, and improving an AI system. |
+| Data minimisation | The practice of collecting and using only the information necessary for a specific purpose. |
+| Discrimination | Unfair treatment of people based on characteristics or group membership. |
+| Human agency | People's ability to make meaningful choices and retain control over decisions affecting them. |
 
 ## 13. Further Reading and References
 
@@ -574,15 +615,17 @@ If the diagram is included in the repository, record its source, creator, licens
 
 ## 15. Chapter Completion Checklist
 
-- [ ] Chapter overview and learning objectives are complete.
-- [ ] The six responsible-AI principles are explained with examples.
-- [ ] Additional concerns are included.
-- [ ] Practical activity and suggested response are included.
-- [ ] Knowledge-check questions and explanations are complete.
+- [x] Chapter overview and learning objectives are complete.
+- [x] The six responsible-AI principles are explained with examples.
+- [x] Additional concerns are included.
+- [x] Practical activity and suggested response are included.
+- [x] Knowledge-check questions and explanations are complete.
+- [x] Accessibility and learning-design guidance are included.
 - [ ] References and links have been checked.
 - [ ] Markdown formatting has been checked on GitHub.
 - [ ] The chapter has been reviewed for accuracy and consistency.
-
+- [ ] The estimated learning time matches the module outline.
+- [ ] The chapter has been checked against the teacher's rubric.
 ## 16. Further Improvement
 
 The team should review this chapter alongside the other five chapters to ensure consistent terminology, difficulty, formatting, and learning objectives.
