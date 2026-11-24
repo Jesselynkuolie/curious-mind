@@ -31,7 +31,7 @@ This report records the current review of the Curious Mind — AI Overview proje
 
 - [ ] Complete the final content review.
 - [ ] Verify all file names and internal links.
-- [ ] Complete peer review records.
+- [x] Complete peer review records.
 - [ ] Complete learner testing records.
 - [ ] Check the Study Guide and Test Bank.
 - [ ] Review the PowerPoint and Video materials.
