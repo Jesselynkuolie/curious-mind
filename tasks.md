@@ -234,8 +234,6 @@ For each chapter:
 
 ## 11. Team Responsibilities
 
-## 11. Team Responsibilities
-
 | Responsibility | Assigned member | Evidence |
 |---|---|---|
 | Project coordination | Jesselyn Kuolie — Coordinator (CEO) | Project coordination and progress tracking |
