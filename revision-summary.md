@@ -15,7 +15,7 @@
 | `content/introduction-to-ai.md/01-what is ai.md` | Reviewed explanations, examples, activities, and knowledge-check questions. | To improve clarity and learning experience. |
 | `content/introduction-to-ai.md/02-machine-learning-basics.md` | Reviewed chapter explanations, activities, questions, answers, and references. | To provide complete learning content on machine learning. |
 | `content/introduction-to-ai.md/03-generative-ai-llms.md` | Reviewed generative AI explanations, examples, and learning activities. | To improve understanding of generative AI and large language models. |
-| `content/introduction-to-ai.md/04 -ai-applications.md` | Reviewed AI application examples and learning activities. | To connect AI concepts with real-world applications. |
+| `content/introduction-to-ai.md/04-ai-applications.md` | Reviewed AI application examples and learning activities. | To connect AI concepts with real-world applications. |
 | `content/introduction-to-ai.md/05-responsible-ai.md` | Reviewed responsible AI content, ethical concerns, and limitations. | To improve understanding of responsible AI practices. |
 | `content/introduction-to-ai.md/06-practical-skills-ai.md` | Reviewed practical AI skills, activities, and responsible-use guidance. | To support practical application and critical evaluation of AI outputs. |
 | `study guide/study-guide.md` | Reviewed study guide content against the learning chapters. | To reinforce important concepts and support revision. |
