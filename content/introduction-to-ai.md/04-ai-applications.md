@@ -12,8 +12,6 @@ However, AI does not always produce correct or fair results. Understanding how A
 
 This chapter introduces common AI applications, explains how they work at a basic level, and explores their benefits and challenges.
 
-**Estimated learning time:** 40–50 minutes
-
 ## 4.2 Learning Objectives
 
 By the end of this chapter, learners will be able to:
