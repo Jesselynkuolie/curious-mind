@@ -1,6 +1,11 @@
 
 # Chapter 3: Generative AI and Large Language Models (LLMs)
 
+**Module:** Introduction to Artificial Intelligence  
+**Level:** Beginner  
+**Estimated learning time:** 40–50 minutes  
+**Prerequisites:** Chapter 1 — What Is AI? and Chapter 2 — Machine Learning Basics
+
 ## 3.1 Introduction
 
 Generative artificial intelligence (generative AI) is a type of AI that can create new content, such as text, images, audio, video, and computer code. These systems learn patterns from training data and use those patterns to generate new outputs in response to instructions or prompts.
@@ -59,7 +64,13 @@ AI systems can be designed for different purposes. Some systems primarily classi
 
 These categories can overlap. For example, a generative AI system may also use classification or prediction components.
 
-The main difference is the intended output: a classification system assigns a label, while a generative system produces content.
+The main difference is the intended output:
+
+- Classification systems assign labels or categories.
+- Prediction systems estimate values or likely outcomes.
+- Generative systems create new content based on learned patterns.
+
+Some AI systems combine these capabilities depending on the task.
 
 ## 3.5 What Are Large Language Models?
 
@@ -81,9 +92,25 @@ Some LLMs can also process images or other types of input. Their capabilities de
 
 A token is a unit of text processed by a language model. A token may represent a word, part of a word, punctuation, or another text unit. The exact tokenisation depends on the model.
 
+### How does an LLM learn?
+
+During training, an LLM processes large amounts of text and adjusts its internal parameters to learn statistical relationships between tokens and language patterns.
+
+The model does not simply store every sentence as an answer. Instead, it learns patterns that help it generate responses to new prompts.
+
 ## 3.6 How Do LLMs Generate Text?
 
 Many LLMs generate text by repeatedly estimating which token should come next, given the preceding context.
+
+**Simple example:**
+
+Consider the beginning of a sentence:
+
+"The sun rises in the ____."
+
+Based on the context, a language model may assign a high probability to the token "east." It then continues generating the response one token at a time.
+
+This example simplifies the process. Actual models use complex calculations and may generate different responses depending on their settings and context.
 
 A simplified process is:
 
@@ -152,6 +179,12 @@ Models may reproduce unfair stereotypes or patterns found in their training data
 
 A model may not have access to the latest information unless it uses an appropriate retrieval or browsing system.
 
+### Context Limitations
+
+An AI system may misunderstand unclear instructions, missing context, sarcasm, or specialised terminology.
+
+For example, a short question may have different meanings depending on the situation. If the prompt does not provide enough context, the response may not match the user's intended meaning.
+
 ### Privacy Risks
 
 Entering personal, confidential, or sensitive information into an AI tool may create privacy risks. Users should follow the tool's privacy settings and their organisation's data-handling rules.
@@ -206,6 +239,22 @@ If the first response is not suitable, the user can refine the prompt by asking 
 
 Prompt refinement can improve relevance, but it does not guarantee accuracy.
 
+### A Simple Prompt Formula
+
+A useful prompt can follow this structure:
+
+**Task + Context + Audience + Format + Constraints**
+
+For example:
+
+- Task: Explain machine learning.
+- Context: Use an everyday example.
+- Audience: A beginner.
+- Format: A short paragraph.
+- Constraints: Use simple language and stay within 150 words.
+
+Combining these elements helps make instructions clearer and more specific.
+
 ## 3.12 Practical Activity: Improve and Evaluate a Prompt
 
 **Activity purpose:**
@@ -247,6 +296,9 @@ Learners should demonstrate that clear instructions can improve the relevance of
 
 | Term | Definition |
 |---|---|
+| Context | Background information that helps an AI system interpret a prompt. |
+| Next-token prediction | The process of estimating which token is likely to come next in a sequence. |
+| Prompt refinement | The process of improving an instruction to obtain a more useful response. |
 | Generative AI | AI designed to generate new content, such as text, images, audio, or code. |
 | Large language model (LLM) | An AI model trained to process and generate language. |
 | Prompt | An instruction or input provided to an AI system. |
@@ -334,7 +386,7 @@ Check each reference before submission to confirm that the link is accessible an
 - [x] Review questions and an answer key are provided.
 - [x] Key terms and a chapter summary are included.
 - [x] References and further reading are listed.
-- [x] All external references have been checked for accessibility and relevance.
-- [x] The chapter has been proofread and checked for accessibility.
-- [x] The estimated learning time matches the module outline.
-- [x] The chapter has been previewed on GitHub to check Markdown formatting and links.
+- [ ] References and further reading have been checked for accessibility and relevance.
+- [ ] The chapter has been proofread and checked for accessibility.
+- [ ] The estimated learning time matches the module outline.
+- [ ] The chapter has been previewed on GitHub to check Markdown formatting and links.
