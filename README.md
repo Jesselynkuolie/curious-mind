@@ -60,12 +60,14 @@ curious-mind/
 │       ├── 01-what is ai.md
 │       ├── 02-machine-learning-basics.md
 │       ├── 03-generative-ai-llms.md
-│       ├── 04 -ai-applications.md
+│       ├── 04-ai-applications.md
 │       ├── 05-responsible-ai.md
 │       └── 06-practical-skills-ai.md
 │
 ├── study guide/
-│   └── study-guide.md
+│   ├── study-guide.md
+│   └── videos/
+│       └── video-storyboard.md
 │
 ├── test-bank/
 │   └── practice-questions.md
@@ -77,7 +79,25 @@ curious-mind/
 │   ├── video-plan.md
 │   └── video-storyboard.md
 │
-├── revision-summary.md
+├── Mini lecture/
+│   └── mini-lecture-script.md
+│
+├── Meeting notes/
+│   └── Mini lecture/
+│       └── slides/
+│           └── meeting-notes.md
+│
+├── review/
+│   └── review-notes.md
+│
+├── assets documentation/
+│   └── README.md
+│
+├── AUDIT-REPORT.md
+├── CONTRIBUTING.md
+├── README.md
+├── resource-mapping.md
 ├── review-and-learner-test.md
-└── README.md
+├── revision-summary.md
+└── tasks.md
 
