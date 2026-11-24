@@ -48,8 +48,9 @@ Maintain a record of every external or original asset used in the project.
 
 | Asset name | File path | Purpose | Creator or source | Licence or permission | Attribution | Checked by |
 |---|---|---|---|---|---|---|
-| [Add actual asset name] | `images/[actual-filename]` | [Explain its educational purpose] | [Creator or source URL] | [Verified licence] | [Required credit or none required] | [Reviewer] |
-| [Add actual diagram name] | `diagrams/[actual-filename]` | [Explain the concept it teaches] | [Creator or team] | [Licence or ownership status] | [Credit if required] | [Reviewer] |
+| No verified assets recorded yet. | N/A | Asset records are pending verification. | N/A | N/A | N/A | Pending |
+
+**Status:** Pending verification. Add an entry for each actual image, diagram, or other external asset used in the project. Record its creator, source, licence, and required attribution before submission.
 
 Replace the example entries with actual assets before submission. If no assets have been added yet, keep the register clearly marked as pending rather than presenting examples as completed work.
 
