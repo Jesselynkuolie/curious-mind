@@ -626,11 +626,13 @@ If the diagram is included in the repository, record its source, creator, licens
 - [ ] The chapter has been reviewed for accuracy and consistency.
 - [ ] The estimated learning time matches the module outline.
 - [ ] The chapter has been checked against the teacher's rubric.
+
 ## 16. Further Improvement
 
 The team should review this chapter alongside the other five chapters to ensure consistent terminology, difficulty, formatting, and learning objectives.
 
 Feedback from peer review and learner testing should be used to improve the explanations, examples, and activities where necessary.
+
 **Document status:** Submission note.
 
 **Next steps:**
