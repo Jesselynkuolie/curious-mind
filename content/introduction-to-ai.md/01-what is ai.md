@@ -10,7 +10,7 @@ Artificial Intelligence (AI) is a field of computer science that focuses on crea
 
 AI is used in education, healthcare, business, transportation, communication, and everyday digital tools.
 
-There are different approaches to developing AI systems. Three important approaches are Symbolic AI, Connectionist AI, and Behaviorist AI. Each approach represents a different way of creating intelligent behaviour.
+There are different approaches to developing AI systems. Three important approaches are Symbolic AI, Connectionist AI, and Behavior-Based AI. Each approach represents a different way of creating intelligent behaviour.
 
 This chapter introduces the meaning of AI, its development, common applications, and these three approaches.
 
@@ -21,7 +21,7 @@ By the end of this chapter, learners should be able to:
 - Define artificial intelligence in their own words.
 - Identify common examples of AI in everyday life.
 - Explain the basic development of AI.
-- Describe Symbolic, Connectionist, and Behaviorist AI.
+- Describe Symbolic, Connectionist, and Behavior-Based AI.
 - Compare the strengths and limitations of these approaches.
 - Distinguish AI, machine learning, and deep learning.
 - Identify common benefits and limitations of AI.
@@ -273,14 +273,14 @@ D. Rule-based computing
 
 **Answer: B.** Connectionist AI uses networks of connected computational units to learn patterns.
 
-**4. What is a central idea of Behaviorist AI?**
+**4. What is a central idea of Behavior-Based AI?**
 
 A. Learning through actions and feedback.  
 B. Following only fixed logical rules.  
 C. Storing information without processing it.  
 D. Avoiding interaction with the environment.
 
-**Answer: A.** Behaviorist AI commonly uses feedback and rewards to improve actions.
+**Answer: A.** Behavior-Based AI focuses on how systems respond to changes in their environment. Reinforcement Learning uses rewards and feedback to improve actions.
 
 **5. Which statement about deep learning is correct?**
 
