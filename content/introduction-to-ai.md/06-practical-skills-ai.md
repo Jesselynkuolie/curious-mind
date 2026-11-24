@@ -1,5 +1,7 @@
 # Chapter 6: Modern Practical AI Skills and Workflows
 
+**Module:** Introduction to Artificial Intelligence  
+**Prerequisites:** Chapters 1–5 of Introduction to Artificial Intelligence  
 **Level:** Beginner  
 **Estimated learning time:** 45–60 minutes  
 **Target audience:** Students and general learners who want to use modern AI tools effectively and responsibly
@@ -40,6 +42,18 @@ Different AI tools are designed for different purposes. Choosing a suitable tool
 | Productivity | AI assistants | Organise tasks and draft schedules |
 | Programming | AI coding assistants | Explain code and help identify errors |
 
+### How to Choose a Suitable Tool
+
+Before selecting an AI tool, consider:
+
+- **Purpose:** Does the tool support the task you want to complete?
+- **Features:** Can it produce the required output?
+- **Accuracy:** Can its results be checked and verified?
+- **Privacy:** Does it handle information appropriately?
+- **Accessibility:** Can you use the tool with the available resources and requirements?
+
+The most popular tool is not necessarily the best choice. Select the tool that fits the task and its requirements.
+
 **Important:** AI tools may produce incorrect results. Users should check important information rather than accepting every output.
 
 ## 4. Understanding an AI Workflow
@@ -54,6 +68,20 @@ A simple workflow contains six stages:
 4. **Give instructions:** Provide a clear prompt with context and requirements.
 5. **Review the result:** Check accuracy, relevance, completeness, and quality.
 6. **Improve and finalise:** Make corrections and decide what should be used.
+
+### AI Tasks and Human Responsibilities
+
+AI can assist with organising information, generating suggestions, summarising content, and identifying possible patterns.
+
+However, humans should remain responsible for:
+
+- Defining the purpose of the task.
+- Deciding which information is appropriate to use.
+- Checking important facts and calculations.
+- Evaluating whether the output is suitable.
+- Making final decisions and accepting responsibility for the result.
+
+A successful workflow uses AI as an assistant rather than treating its output as automatically correct.
 
 ### Example: Creating a Study Guide
 
@@ -106,6 +134,22 @@ A useful prompt should provide:
 "Create a beginner-friendly biology revision guide about cells for a high-school student. Include five key terms, short explanations, three examples, and five multiple-choice questions with answers. Use simple English and organise the information with headings."
 
 The improved prompt gives the AI clearer instructions and a more specific expected result.
+
+### Improving a Prompt Step by Step
+
+If the first response is not suitable, improve the prompt by identifying what is missing.
+
+For example:
+
+**Initial prompt:**  
+"Explain climate change."
+
+**Improved prompt:**  
+"Explain climate change to a beginner. Include three main causes, three possible effects, and two practical examples. Use simple English and organise the answer with headings."
+
+**Why is the second prompt better?**
+
+It specifies the audience, required content, number of examples, and expected format. This helps the AI produce a more focused response.
 
 ## 6. Using AI for Common Workflows
 
@@ -199,6 +243,16 @@ Before using AI-generated content, consider the following questions:
 | Bias | Does the output contain unfair assumptions? |
 | Privacy | Does it expose personal or confidential information? |
 
+### What Should You Do When an Output Fails a Check?
+
+- If information is inaccurate, verify it using reliable sources and correct it.
+- If information is incomplete, provide additional context or ask for missing details.
+- If the output is unclear, request a simpler explanation.
+- If the output contains bias, examine the assumptions and consider other perspectives.
+- If private information is exposed, remove it and follow the relevant privacy procedures.
+
+Do not use an output simply because it is well-written or sounds confident.
+
 If the output fails any important check, revise it or verify the information independently.
 
 ## 9. Responsible AI Practices
@@ -246,6 +300,18 @@ You may use an AI assistant to support the planning process.
 - What errors or weaknesses did you identify?
 - How did you verify the information?
 - Which decisions required your own judgement?
+
+### Activity Success Criteria
+
+A successful submission should:
+
+- Include a clear presentation purpose and target audience.
+- Use a prompt with specific instructions and requirements.
+- Include an AI-generated presentation outline.
+- Identify at least two improvements made after reviewing the output.
+- Verify at least two factual claims using reliable sources.
+- Explain which AI suggestions were accepted or rejected.
+- Demonstrate responsible AI use and independent human judgement.
 
 ## 11. Knowledge Check
 
@@ -306,14 +372,14 @@ A good AI workflow combines the speed and assistance of AI with human judgement,
 
 | Term | Definition |
 |---|---|
-| AI Workflow | A sequence of steps combining AI tools and human decisions to complete a task. |
-| Prompt | An instruction or request given to an AI system. |
 | AI Assistant | A tool that helps users complete tasks using AI capabilities. |
-| Fact-checking | Verifying information using reliable sources. |
-| Data Analysis | The process of examining data to identify patterns and findings. |
-| Human Oversight | Human review and control of AI-supported processes. |
 | AI Output | Information or content generated by an AI system. |
+| AI Workflow | A sequence of steps combining AI tools and human decisions to complete a task. |
+| Data Analysis | The process of examining data to identify patterns and findings. |
+| Fact-checking | Verifying information using reliable sources. |
+| Human Oversight | Human review and control of AI-supported processes. |
 | Iterative Prompting | Improving an AI response through follow-up instructions. |
+| Prompt | An instruction or request given to an AI system. |
 
 ## 14. References and Further Reading
 
@@ -323,13 +389,15 @@ A good AI workflow combines the speed and assistance of AI with human judgement,
 
 ## 15. Chapter Completion Checklist
 
-- [ ] Modern AI tools and their uses are introduced.
-- [ ] AI workflows are explained step by step.
-- [ ] Research, writing, presentation, and data-analysis workflows are included.
-- [ ] Prompting and output improvement are explained.
-- [ ] AI-generated results are evaluated using clear criteria.
-- [ ] Privacy and responsible-use practices are included.
-- [ ] Practical activity and deliverables are complete.
-- [ ] Knowledge-check answers include explanations.
+- [x] Modern AI tools and their uses are introduced.
+- [x] AI workflows are explained step by step.
+- [x] Research, writing, presentation, and data-analysis workflows are included.
+- [x] Prompting and output improvement are explained.
+- [x] AI-generated results are evaluated using clear criteria.
+- [x] Privacy and responsible-use practices are included.
+- [x] Practical activity and deliverables are complete.
+- [x] Knowledge-check answers include explanations.
 - [ ] References and links have been checked.
 - [ ] Markdown formatting has been reviewed.
+- [ ] Chapter terminology and learning objectives have been compared with the other five chapters.
+- [ ] The chapter has been checked against the teacher's rubric.
