@@ -120,20 +120,27 @@ These systems learn patterns from data by adjusting the strengths of connections
 - Decisions can be difficult to explain.
 - May learn biases or errors present in training data.
 
-### 5.3 Behaviorist AI
+### 5.3 Behavior-Based AI and Reinforcement Learning
 
-Behaviorist AI focuses on learning through interaction with an environment. A system takes actions and receives feedback, such as rewards or penalties, which influence its future behaviour.
+Behavior-Based AI develops intelligent behaviour through interactions between an AI system and its environment. It is often used in robotics, where systems respond to changes in their surroundings using different simple behaviours.
 
-A major example is reinforcement learning.
+A related learning method is Reinforcement Learning. It allows an agent to learn which actions are useful by receiving rewards or penalties from its environment.
 
 **How it works:**
+
+1. The system observes its environment.
+2. It responds using programmed behaviours or rules.
+3. It selects an action based on the current situation.
+4. The environment changes in response to the action.
+5. The system continues adjusting its behaviour as conditions change.
+
+**Reinforcement Learning:**
 
 1. An agent observes its environment.
 2. It chooses an action.
 3. The environment responds.
 4. The agent receives a reward or penalty.
 5. It uses this feedback to improve future decisions.
-
 **Examples:**
 
 - Game-playing AI.
