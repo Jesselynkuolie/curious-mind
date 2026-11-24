@@ -5,12 +5,12 @@
 ## 1. Meeting Information
 
 - **Meeting title:** Curious Mind Project Progress Meeting
-- **Date:** [Enter the actual meeting date]
-- **Time:** [Enter the actual meeting time]
-- **Location or platform:** [Enter the actual location or platform]
-- **Meeting type:** Project planning / progress review / quality review
-- **Meeting chair:** [Enter name]
-- **Notes recorded by:** [Enter name]
+- **Date:** [Not recorded]
+- **Time:** [Not recorded]
+- **Location or platform:** [Online and B1]
+- **Meeting type:** Project progress review
+- **Meeting chair:** [Jesselyn Kuolie (Coordinator)]
+- **Notes recorded by:** [Jesselyn Kuolie (Coordinator)]
 
 ### Attendance
 
