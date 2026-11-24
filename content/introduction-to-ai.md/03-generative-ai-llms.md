@@ -4,6 +4,7 @@
 **Module:** Introduction to Artificial Intelligence  
 **Level:** Beginner  
 **Prerequisites:** Chapter 1 — What Is AI? and Chapter 2 — Machine Learning Basics
+**Estimated learning time:** 40–50 minutes
 
 ## 3.1 Introduction
 
