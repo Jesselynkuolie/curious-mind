@@ -14,8 +14,6 @@ Large language models (LLMs) are a type of AI model designed to process and gene
 
 Generative AI tools are increasingly used in education, business, software development, and creative work. However, their outputs are not always accurate, unbiased, or appropriate. Understanding how these systems work and how to evaluate their responses is essential for responsible use.
 
-**Estimated learning time:** 40–50 minutes
-
 ## 3.2 Learning Objectives
 
 By the end of this chapter, learners should be able to:
