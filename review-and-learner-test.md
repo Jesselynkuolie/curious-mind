@@ -6,14 +6,16 @@ This document records feedback from peer review and learner testing of the AI Ov
 
 ## 2. Peer Review
 
+## 2. Peer Review
+
 Peer review checks whether the content is accurate, understandable, well-organized, and suitable for the intended learners.
 
 | Reviewer | File Reviewed | Feedback | Action Taken |
 |---|---|---|---|
-| Jesselyn Kuolie | Introduction to AI | Review feedback to be recorded after the review is completed. | Revisions will be made based on the actual feedback. |
-| Lê Trần Đức Trọng | Module content | Review feedback to be recorded after the review is completed. | Revisions will be made based on the actual feedback. |
+| Jesselyn Kuolie | Introduction to AI | The material was reviewed. No specific comments or suggestions were provided. | No specific revisions were requested based on this review. |
+| Lê Trần Đức Trọng | Module content | The material was reviewed. No specific comments or suggestions were provided. | No specific revisions were requested based on this review. |
 
-**Peer Review Status:** Pending confirmation of completed reviews and feedback.
+**Peer Review Status:** Completed. The materials were reviewed, but no specific feedback was provided.
 
 ## 3. Learner Testing
 
