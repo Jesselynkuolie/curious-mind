@@ -229,12 +229,18 @@ Reinforcement learning differs from supervised learning because it does not simp
 
 ### Comparison of learning types
 
-| Learning type | Data or feedback | Main purpose | Example |
-|---|---|---|---|
-| Supervised learning | Examples with known labels or target values | Predict a category or value | Classifying emails as spam or not spam |
-| Unsupervised learning | Data without predefined target labels | Discover patterns or groupings | Grouping customers by purchase behaviour |
-| Reinforcement learning | Feedback from actions in an environment | Learn a strategy through interaction | Learning to play a game |
+### Visual Summary of Machine Learning Types
 
+| Learning Type | How It Learns | Simple Example |
+|---|---|---|
+| Supervised Learning | Learns from labelled examples | Identifying spam emails |
+| Unsupervised Learning | Finds patterns in unlabelled data | Grouping similar customers |
+| Reinforcement Learning | Learns through actions and feedback | Learning to play a game |
+
+**Remember:**
+- Supervised learning learns from known answers.
+- Unsupervised learning discovers patterns.
+- Reinforcement learning learns through rewards and penalties.
 ---
 
 ## 2.7 Classification and Regression
@@ -328,11 +334,17 @@ A model should be evaluated according to the purpose of the task. No single meas
 
 Accuracy is the proportion of predictions that are correct.
 
-Accuracy is calculated as:  **Accuracy = Number of Correct Predictions ÷ Total Number of Predictions**  For example, if a model correctly classifies 90 out of 100 examples:  **Accuracy = 90 ÷ 100 = 90%**
+**Formula:**
+
+Accuracy = Number of Correct Predictions ÷ Total Number of Predictions
+
+**Example:**
+
+If a model correctly classifies 90 out of 100 examples:
+
+Accuracy = 90 ÷ 100 = 90%
 
 However, accuracy alone can be misleading when one category is much more common than another.
-
-Imagine a dataset in which 95% of transactions are legitimate. A model that always predicts “legitimate” would have 95% accuracy, yet it would fail to identify any fraudulent transactions.
 
 ### Precision
 
@@ -341,6 +353,35 @@ Precision measures the proportion of positive predictions that are actually posi
 For a fraud-detection model, precision helps answer:
 
 **Of the transactions flagged as potentially fraudulent, how many were actually fraudulent?**
+
+### Example: Understanding Precision and Recall
+
+Imagine a fraud-detection model examines 100 transactions.
+
+- 20 transactions are actually fraudulent.
+- The model correctly identifies 15 fraudulent transactions.
+- The model incorrectly flags 5 legitimate transactions as fraudulent.
+
+| Result | Number |
+|---|---:|
+| True Positives (correctly identified fraud) | 15 |
+| False Positives (legitimate transactions flagged as fraud) | 5 |
+| False Negatives (fraudulent transactions missed) | 5 |
+| True Negatives (correctly identified legitimate transactions) | 75 |
+
+**Precision:**
+
+15 ÷ (15 + 5) = 75%
+
+This means 75% of the transactions flagged as fraudulent were actually fraudulent.
+
+**Recall:**
+
+15 ÷ (15 + 5) = 75%
+
+This means the model identified 75% of all actual fraudulent transactions.
+
+**Learning point:** Precision and recall measure different aspects of model performance. Both are useful when evaluating classification systems.
 
 ### Recall
 
@@ -464,7 +505,14 @@ Apply the concepts of learning types, classification, and regression to everyday
 
 ### Instructions
 
-Read each scenario. Identify the most suitable answer using the concepts introduced in this chapter.
+1. Read all five scenarios carefully.
+2. Identify the most suitable machine learning type for each scenario.
+3. For supervised learning tasks, identify whether the task is classification or regression.
+4. Explain how you would evaluate the model.
+5. Identify one possible limitation or risk.
+6. Compare your answers with the answer guide after completing the activity.
+
+**Important:** Try to answer independently before looking at the answer guide.
 
 | Scenario | Question |
 |---|---|
@@ -744,5 +792,10 @@ Before considering this chapter complete, confirm that:
 - [ ] References have been checked to confirm they are accessible and relevant.
 - [ ] The chapter's estimated learning time matches the module outline.
 - [ ] Markdown tables, headings, and links have been checked to ensure they render correctly.
+- [ ] Accuracy, precision, and recall examples have been checked.
+- [ ] The three machine learning types are visually distinguishable.
+- [ ] The practical activity instructions are clear for beginners.
+- [ ] Chapter 2 terminology matches the Study Guide, Test Bank, and presentation.
+- [ ] The chapter has been previewed to check formatting.
 
 **End of Chapter 2**
