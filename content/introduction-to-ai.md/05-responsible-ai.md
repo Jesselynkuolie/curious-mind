@@ -660,6 +660,39 @@ This chapter is designed to support accessible and self-directed learning.
 | Accountability | Who is responsible when something goes wrong? |
 | Human Oversight | Can people review and challenge important decisions? |
 
+
+### Visual Diagram: Six Core Principles of Responsible AI
+
+```mermaid
+flowchart TD
+    A["Responsible AI"]
+
+    A --> B["Fairness"]
+    A --> C["Transparency"]
+    A --> D["Privacy"]
+    A --> E["Safety and Reliability"]
+    A --> F["Accountability"]
+    A --> G["Human Oversight"]
+
+    B --> H["Reduce unfair outcomes"]
+    C --> I["Explain purpose and limitations"]
+    D --> J["Protect personal information"]
+    E --> K["Reduce risks and errors"]
+    F --> L["Establish responsibility"]
+    G --> M["Enable human review and intervention"]
+
+    N["Continuous evaluation throughout the AI life cycle"]
+    H --> N
+    I --> N
+    J --> N
+    K --> N
+    L --> N
+    M --> N
+```
+
+**Key Point:** The six principles work together. Responsible AI requires continuous evaluation, appropriate safeguards, and human responsibility.
+
+
 **Remember:** These six principles work together. Responsible AI requires considering all of them throughout the AI life cycle.
 
 **Suggested alt text:** "A diagram showing six connected responsible-AI principles: fairness, transparency, privacy, safety and reliability, accountability, and human oversight. A circular arrow represents continuous evaluation."
