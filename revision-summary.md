@@ -27,8 +27,7 @@ The team also identified the following points during the review of the Markdown 
 |---|---|---|---|
 | Chapter 2 required a more complete key-terms section and a clearer ending. | A more complete version was prepared with learning objectives, explanations, examples, activities, knowledge checks, an answer key, glossary, summary, and references. | `02-machine-learning-basics.md` | Prepared; final file and rendering must be checked |
 | Chapter 2 needed to align with the planned module duration. | The prepared version was designed for approximately 40–50 minutes to match the module outline. | Chapter 2 and `00-module-outline.md` | Requires final verification |
-| Chapter 3 contained prompts such as `[Enter your chosen topic]`. | Determine whether these are intentional learner instructions or unfinished placeholders. | `03-generative-ai-llms.md` | Requires review |
-| Chapter 4 contained prompts such as `[Enter the application.]`. | Determine whether these are intentional learner instructions or unfinished placeholders. | `04-ai-applications.md` | Requires review |
+| Review current activity instructions and confirm no authoring placeholders remain | Chapter 3 and Chapter 4 | Pending final rendered check |
 | Some resource-mapping checklist items were still incomplete. | Check that each chapter is correctly connected to the Study Guide, Test Bank, slides, and videos. | `resource-mapping.md` | Requires completion |
 
 ## 4. Peer Review and Learner Testing
@@ -113,17 +112,21 @@ Check the relationship between the six Markdown chapters and the supporting lear
 
 ## 6. Final Verification Checklist
 
-- [ ] Review all six Markdown chapters.
-- [ ] Confirm that Chapter 2's revised version is saved correctly.
-- [ ] Resolve unfinished or unclear placeholders in Chapters 3 and 4.
+The following checks remain to be completed or confirmed before submission:
+
+- [ ] Review all six Markdown chapters against the assignment requirements.
+- [ ] Confirm that the final Chapter 2 version is saved and renders correctly.
+- [ ] Review activity instructions in Chapters 3 and 4 and confirm that no authoring placeholders remain.
 - [ ] Check explanations, examples, and references.
-- [ ] Check the Study Guide and Test Bank.
+- [ ] Compare the Study Guide and Test Bank with the Markdown chapters.
 - [ ] Check the PowerPoint slides and PDF version.
-- [ ] Check the video tutorials and subtitles.
-- [ ] Update and verify `resource-mapping.md`.
-- [ ] Check images, links, and repository navigation.
-- [ ] Add before-and-after evidence for important revisions.
+- [ ] Check video tutorials, narration, and subtitles.
+- [ ] Verify `resource-mapping.md` against the actual learning materials.
+- [ ] Check images, links, file paths, and GitHub Markdown rendering.
+- [ ] Add before-and-after evidence for important revisions where available.
 - [ ] Confirm that the final repository matches the submission package.
+
+Only mark an item complete after the corresponding check has actually been performed.
 
 ## 7. Conclusion
 
