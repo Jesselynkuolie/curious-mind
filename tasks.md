@@ -38,7 +38,7 @@
 |---|---|---|
 | Review module structure and learning outcomes | 00-module-outline.md | To verify |
 | Check explanations, examples, and references | Chapters 1–6 | To verify |
-| Complete missing content and remove placeholders | Chapter 3 and Chapter 4 | Pending verification |
+| Review current activity instructions and confirm no authoring placeholders remain | Chapter 3 and Chapter 4 | Pending final rendered check |
 | Improve explanations and learning activities | Chapter 2 | To verify |
 | Review activity instructions and answer placement | study-guide.md | To verify |
 | Check question wording and answer distribution | practice-questions.md | To verify |
