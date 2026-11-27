@@ -1619,3 +1619,38 @@ Complete the AI-assistance statement so that it clearly explains how AI tools we
 - Make sure instructions and examples are understandable.
 - Confirm that no unfinished placeholders remain.
 - Review the final PDF to ensure the layout is consistent.
+
+## Video Tutorial Revisions
+
+### 1. Video A
+
+- Review the quiz section around 4:41.
+- Make sure the answer is not revealed before students have enough time to think.
+- Add sufficient time for students to consider the question before showing the answer.
+
+### 2. Video B
+
+- Review the narration around 2:52–3:00.
+- Correct the contradiction identified in the peer review.
+- Give students more time to think before revealing quiz answers.
+
+### 3. Video C
+
+- Make sure the narrated learning objectives match the objectives shown on the slide.
+- Review the image around 2:08–2:15 and replace it if it is unrelated to the topic.
+- Check that the narration and visuals support the same learning content.
+
+### 4. Audio and Visual Consistency
+
+- Review audio clarity and volume across all videos.
+- Keep resolution and presentation style consistent.
+- Check that text and visuals are readable.
+- Make sure transitions between sections are smooth.
+
+### 5. Final Review
+
+- Watch each video from beginning to end.
+- Check narration, subtitles, quiz timing, and visuals.
+- Confirm that all identified issues have been corrected.
+- Verify that the final video files are ready for submission.
+  
