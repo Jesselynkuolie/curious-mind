@@ -816,7 +816,7 @@ Before considering this chapter complete, confirm that:
 - [ ] The chapter's estimated learning time matches the module outline.
 - [ ] Markdown tables, headings, and links have been checked to ensure they render correctly.
 - [ ] Accuracy, precision, and recall examples have been checked.
-- [ ] The three machine learning types are visually distinguishable.
+- [x] The three machine learning types are visually distinguishable.
 - [ ] The practical activity instructions are clear for beginners.
 - [ ] Chapter 2 terminology matches the Study Guide, Test Bank, and presentation.
 - [ ] The chapter has been previewed to check formatting.
