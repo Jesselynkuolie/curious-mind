@@ -49,6 +49,7 @@ By the end of the video, viewers should be able to:
 - Open with the title, "Curious Mind: Understanding Artificial Intelligence".
 - Show a simple animated sequence of a smartphone, a laptop, a voice assistant, and a digital image.
 - Display the Curious Mind project title and team or course details if required.
+- Show a short screen-recording or animation demonstrating how a model makes a prediction using a new image.
 
 **Narration:**
 
@@ -148,6 +149,8 @@ Machine learning uses data to learn patterns and make predictions. The quality a
 
 **Time:** 01:20–02:00  
 **Duration:** 40 seconds
+
+- Show a real or simulated demonstration of entering a prompt and reviewing the generated response.
 
 **Visuals:**
 - Show a user entering a prompt into an AI tool.
@@ -314,6 +317,7 @@ Use a consistent visual style throughout the video.
 - **Accessibility:** Add accurate captions and ensure that text has sufficient contrast.
 - **Audio:** Keep narration clear and background music quiet.
 - **Sources:** Credit third-party images, music, and other assets according to their licence and the course requirements.
+- **Subtitles:** Include accurate subtitles throughout the video. Synchronise them with the narration and use readable text with sufficient contrast.
 
 ---
 
@@ -347,6 +351,11 @@ Before submitting the video, confirm the following:
 - [ ] Visual assets and external materials are appropriately credited.
 - [ ] The exported video has been watched from beginning to end.
 - [ ] All team, course, and submission details required by the assignment are included.
+- [ ] Important narration points are supported by relevant visuals or demonstrations.
+- [ ] No unrelated images appear while a concept is being explained.
+- [ ] Subtitles match the spoken narration.
+- [ ] Important information remains on screen long enough to be read.
+- [ ] Demonstrations have been checked for accuracy.
 
 ---
 
@@ -378,3 +387,18 @@ The storyboard is ready for production when:
 5. The production team has reviewed and approved the storyboard.
 
 **Status:** Planned storyboard. Actual recording, editing, runtime, and final video quality must be verified after production.
+
+## 9. Peer Feedback and Improvement Record
+
+The following improvements should be checked during video production and review.
+
+| Feedback Area | Improvement Required | Verification |
+|---|---|---|
+| Visual Engagement | Use demonstrations, animations, or screen recordings instead of relying mainly on still images. | [ ] |
+| Narration | Ensure narration matches the visuals and on-screen information. | [ ] |
+| Subtitles | Include accurate and readable subtitles throughout the video. | [ ] |
+| Pacing | Give viewers enough time to understand important information. | [ ] |
+| Consistency | Maintain consistent visual formatting, audio quality, and resolution. | [ ] |
+| Accuracy | Check explanations against the Curious Mind learning materials. | [ ] |
+
+**Status:** These are planned improvements. Confirm each item only after reviewing the final video.
