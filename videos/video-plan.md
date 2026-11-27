@@ -276,15 +276,13 @@ The video may be marked complete when:
 
 ## 13. Related Project Files
 
-- `videos/video-storyboard.md` — planned scenes, narration messages, visuals, and quality checks.
-- `content/00-module-outline.md` — overall learning structure.
-- `content/01-what-is-ai.md` — introduction to artificial intelligence.
-- `content/02-machine-learning-basics.md` — machine-learning concepts.
-- `content/03-generative-ai-and-llms.md` — generative AI and large language models.
-- `content/04-ai-applications.md` — practical applications.
-- `content/05-responsible-ai.md` — responsible AI considerations.
-- `content/06-practical-ai-skills.md` — practical AI literacy skills.
-
+- `content/introduction-to-ai.md/00-module-outline.md` — overall learning structure.
+- `content/introduction-to-ai.md/01-what is ai.md` — introduction to artificial intelligence.
+- `content/introduction-to-ai.md/02-machine-learning-basics.md` — machine-learning concepts.
+- `content/introduction-to-ai.md/03-generative-ai-llms.md` — generative AI and large language models.
+- `content/introduction-to-ai.md/04-ai-applications.md` — practical applications.
+- `content/introduction-to-ai.md/05-responsible-ai.md` — responsible AI considerations.
+- `content/introduction-to-ai.md/06-practical-skills-ai.md` — practical AI literacy skills.
   The following points should be checked when reviewing the final video:
 
 | Feedback Area | Required Improvement | Verification |
