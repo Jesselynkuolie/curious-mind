@@ -88,10 +88,13 @@
 
 ## 8. Progress Notes
 
-Update this section whenever the team completes an important task.
+No dated progress entries have been added to this tracker yet.
 
-| Date | Task Completed | Responsible Member | Evidence / Notes |
-|---|---|---|---|
-| Add an entry only when a task has actually been completed. | Describe the specific work completed. | Record the actual contributor. | Add the related commit, file path, or other evidence. |
+Add an entry whenever an important task is completed. Each entry should include:
 
-**Important:** Update the task statuses only after the corresponding work has actually been completed and checked.
+- The actual completion date.
+- The task completed.
+- The responsible team member.
+- Supporting evidence, such as a file path or commit reference.
+
+**Important:** Do not invent completion dates, contributions, or evidence. Update task statuses only after the corresponding work has been completed and checked.
