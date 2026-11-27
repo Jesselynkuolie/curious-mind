@@ -127,21 +127,34 @@ Users should verify important claims using reliable sources.
 
 ### Visual Summary: How an LLM Generates a Response
 
-User enters a prompt
-        ↓
-The prompt is processed into tokens
-        ↓
-The model analyses the context
-        ↓
-The model estimates possible next tokens
-        ↓
-Tokens are selected one at a time
-        ↓
-The response is completed
-        ↓
-The user reviews and verifies the response
 
-**Remember:** This is a simplified explanation. Actual LLM systems may include additional processing steps and components.
+### Visual Summary: How an LLM Generates a Response
+
+```mermaid
+flowchart TD
+    A["User enters a prompt"]
+    B["Prompt is processed into tokens"]
+    C["Model analyses the context"]
+    D["Model estimates possible next tokens"]
+    E["A token is selected"]
+    F{"Is the response complete?"}
+    G["Add the selected token to the response"]
+    H["Return the completed response"]
+    I["User reviews and verifies the response"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F -->|No| G
+    G --> C
+    F -->|Yes| H
+    H --> I
+```
+
+**Remember:** This is a simplified explanation of text generation. Many actual LLM systems include additional processing steps and components.
+
 
 ## 3.7 Common Applications of Generative AI
 
