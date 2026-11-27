@@ -83,6 +83,18 @@ However, humans should remain responsible for:
 
 A successful workflow uses AI as an assistant rather than treating its output as automatically correct.
 
+### AI Assistance vs Human Responsibility
+
+| Task | AI Can Assist With | Human Responsibility |
+|---|---|---|
+| Research | Suggest topics and search terms | Verify original sources |
+| Writing | Generate drafts and improve clarity | Check accuracy and originality |
+| Presentations | Suggest slide structures | Review content and deliver the presentation |
+| Data Analysis | Identify possible patterns | Verify calculations and interpretations |
+| Studying | Explain concepts and create questions | Check understanding and correct mistakes |
+
+**Learning point:** AI can support many tasks, but humans remain responsible for evaluating and using its outputs.
+
 ### Example: Creating a Study Guide
 
 A student wants to prepare a study guide for an upcoming class.
@@ -112,6 +124,24 @@ The student compares the generated guide with the original notes and checks for 
 The student corrects errors, adds missing explanations, and produces the final study guide.
 
 The AI supports the process, but the student remains responsible for the final result.
+
+### Visual Summary: The AI-Assisted Workflow
+
+Define the task
+        ↓
+Prepare relevant information
+        ↓
+Choose a suitable AI tool
+        ↓
+Write a clear prompt
+        ↓
+Review the AI-generated result
+        ↓
+Verify important information
+        ↓
+Improve and finalise the output
+
+**Remember:** Human judgement is involved throughout the workflow. AI should support the task, not replace human responsibility.
 
 ## 5. Effective Prompting for Practical Tasks
 
@@ -150,6 +180,18 @@ For example:
 **Why is the second prompt better?**
 
 It specifies the audience, required content, number of examples, and expected format. This helps the AI produce a more focused response.
+
+### Prompt Evaluation Checklist
+
+| Prompt Element | Guiding Question |
+|---|---|
+| Task | Is the requested task clear? |
+| Context | Does the AI have enough background information? |
+| Audience | Is the intended audience identified? |
+| Requirements | Are the instructions specific? |
+| Format | Is the expected output format explained? |
+
+**Learning point:** A clear prompt helps guide the AI, but it does not guarantee an accurate response.
 
 ## 6. Using AI for Common Workflows
 
@@ -276,25 +318,43 @@ Your team needs to prepare a short presentation about the benefits and limitatio
 
 You may use an AI assistant to support the planning process.
 
-**Tasks:**
+### Instructions
 
-1. Define the presentation's purpose and target audience.
-2. Choose an appropriate AI tool.
-3. Write a prompt asking the AI to create a presentation outline.
-4. Review the outline and identify two improvements.
-5. Check at least two important factual claims using reliable sources.
-6. Create a final outline and explain which AI suggestions you accepted or rejected.
+**Step 1: Define the task**
+- Identify the presentation purpose.
+- Identify the target audience.
+- Decide how long the presentation should be.
 
-**Deliverables:**
+**Step 2: Select an AI tool**
+- Choose a tool suitable for creating a presentation outline.
+- Explain why it is appropriate.
 
-- Initial prompt.
-- AI-generated outline.
-- Two improvements made after reviewing the result.
-- Evidence of fact-checking.
-- Final presentation outline.
-- Short reflection on responsible AI use.
+**Step 3: Write an initial prompt**
+- Include the task, context, audience, requirements, and format.
 
-**Suggested Reflection Questions:**
+**Step 4: Review the AI output**
+- Identify at least two weaknesses or areas for improvement.
+- Explain how you would improve them.
+
+**Step 5: Verify information**
+- Select at least two factual claims.
+- Check them using reliable sources.
+- Record the sources used.
+
+**Step 6: Finalise the outline**
+- Produce the revised presentation outline.
+- Explain which AI suggestions you accepted or rejected.
+
+### Deliverables
+
+1. Initial prompt.
+2. AI-generated outline.
+3. Two improvements made after reviewing the output.
+4. Evidence of fact-checking.
+5. Final presentation outline.
+6. Short reflection on responsible AI use.
+
+### Suggested Reflection Questions
 
 - Which part of the workflow did AI help with most?
 - What errors or weaknesses did you identify?
@@ -305,14 +365,13 @@ You may use an AI assistant to support the planning process.
 
 A successful submission should:
 
-- Include a clear presentation purpose and target audience.
-- Use a prompt with specific instructions and requirements.
-- Include an AI-generated presentation outline.
-- Identify at least two improvements made after reviewing the output.
-- Verify at least two factual claims using reliable sources.
-- Explain which AI suggestions were accepted or rejected.
-- Demonstrate responsible AI use and independent human judgement.
-
+- [ ] Include a clear presentation purpose and target audience.
+- [ ] Use a specific and well-structured prompt.
+- [ ] Include an AI-generated presentation outline.
+- [ ] Identify at least two improvements.
+- [ ] Verify at least two factual claims.
+- [ ] Explain which AI suggestions were accepted or rejected.
+- [ ] Demonstrate responsible AI use and independent human judgement.
 ## 11. Knowledge Check
 
 **1. What is an AI workflow?**
@@ -401,3 +460,10 @@ A good AI workflow combines the speed and assistance of AI with human judgement,
 - [ ] Markdown formatting has been reviewed.
 - [ ] Chapter terminology and learning objectives have been compared with the other five chapters.
 - [ ] The chapter has been checked against the teacher's rubric.
+- [ ] The AI workflow diagram is included.
+- [ ] The prompt evaluation table is included.
+- [ ] The practical activity instructions are clear.
+- [ ] AI assistance and human responsibilities are distinguished.
+- [ ] The three references and links have been checked.
+- [ ] The chapter terminology matches Chapters 1–5.
+- [ ] The chapter has been previewed to check formatting.
