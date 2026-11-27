@@ -365,12 +365,13 @@ This video supports the following chapters in the Curious Mind learning module:
 
 | Video Topic | Related Chapter |
 |---|---|
-| What Is AI? | `content/01-what-is-ai.md` |
-| Machine Learning | `content/02-machine-learning-basics.md` |
-| Generative AI | `content/03-generative-ai-and-llms.md` |
-| Everyday Applications | `content/04-ai-applications.md` |
-| Responsible AI | `content/05-responsible-ai.md` |
-| Practical and Responsible Use | `content/06-practical-ai-skills.md` |
+- `content/introduction-to-ai.md/00-module-outline.md` — overall learning structure.
+- `content/introduction-to-ai.md/01-what is ai.md` — introduction to artificial intelligence.
+- `content/introduction-to-ai.md/02-machine-learning-basics.md` — machine-learning concepts.
+- `content/introduction-to-ai.md/03-generative-ai-llms.md` — generative AI and large language models.
+- `content/introduction-to-ai.md/04-ai-applications.md` — practical applications.
+- `content/introduction-to-ai.md/05-responsible-ai.md` — responsible AI considerations.
+- `content/introduction-to-ai.md/06-practical-skills-ai.md` — practical AI literacy skills.
 
 The video is intended to introduce and reinforce the learning materials. It does not replace the complete module outline or the full chapter required for the assignment.
 
