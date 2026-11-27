@@ -34,7 +34,7 @@ In this mini-lecture, we will explore the fundamentals of AI, examine real-world
 
 ## 3. What Is Artificial Intelligence? (0:40–1:30)
 
-**[Visual: Simple diagram showing AI as a broad field, with machine learning as one approach within AI.]**
+**[Visual: Animated diagram showing AI as the broad field, Machine Learning as a subset of AI, and Deep Learning as a subset of Machine Learning.]**
 
 **Narrator:**
 
@@ -176,5 +176,25 @@ Before recording or submitting this mini-lecture:
 - [ ] Confirm that the presentation or recording meets the required format.
 - [ ] Obtain a genuine peer review and record any revisions.
 - [ ] Check the final script against the assignment rubric.
+- [ ] Include accurate subtitles throughout the mini-lecture.
+- [ ] Ensure subtitles are synchronised with the narration.
+- [ ] Use animations, demonstrations, or screen recordings where appropriate.
+- [ ] Avoid relying entirely on static images.
+- [ ] Ensure important information remains on screen long enough to read.
+- [ ] Use consistent fonts, colours, and visual formatting.
+- [ ] Check that no unrelated visuals appear during explanations.
+
+## 11. Revision and Review Record
+
+| Review Area | Required Improvement | Status |
+|---|---|---|
+| Content Accuracy | Verify AI definitions, examples, and explanations. | Pending |
+| Visual Support | Ensure visuals clearly support the narration. | Pending |
+| Narration | Check that the spoken explanation is clear and appropriately paced. | Pending |
+| Subtitles | Include accurate and synchronised subtitles. | Pending |
+| References | Verify references and relevant claims. | Pending |
+| Peer Review | Record feedback and document revisions. | Pending |
+
+**Note:** Update the status only after completing and checking each improvement.
 
 **Completion status:** Draft prepared; factual verification, rubric alignment, and any required recording remain to be completed.
