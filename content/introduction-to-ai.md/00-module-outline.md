@@ -7,7 +7,7 @@
 **Estimated total learning time:** 4–5 hours  
 **Format:** Self-directed learning with explanations, examples, practical activities, reflection questions, and assessments  
 **Prerequisites:** Basic digital literacy and access to a computer or internet-connected device  
-**Module status:** Content structure defined; individual learning materials should be checked against this outline before submission.
+**Module status:** Stage 3 review in progress. The module structure and learning outcomes are defined. Supporting learning materials must be checked for completeness, consistency, accuracy, and alignment before final submission.
 
 ---
 
@@ -482,7 +482,7 @@ The following files support the module and should remain consistent with its lea
 | Chapter 1 | `content/introduction-to-ai.md/01-what is ai.md` | Introduces foundational AI concepts. |
 | Chapter 2 | `content/introduction-to-ai.md/02-machine-learning-basics.md` | Explains machine learning fundamentals. |
 | Chapter 3 | `content/introduction-to-ai.md/03-generative-ai-llms.md` | Introduces generative AI and language models. |
-| Chapter 4 |content/introduction-to-ai.md/04-ai-applications.md| Examines AI applications across sectors. |
+| Chapter 4 | `content/introduction-to-ai.md/04-ai-applications.md` | Examines AI applications across sectors. |
 | Chapter 5 | `content/introduction-to-ai.md/05-responsible-ai.md` | Explores responsible AI principles and risks. |
 | Chapter 6 | `content/introduction-to-ai.md/06-practical-skills-ai.md` | Develops practical and critical AI skills. |
 | Study guide | `study guide/study-guide.md` | Supports revision and independent learning. |
@@ -596,3 +596,24 @@ These criteria describe the required standard; they do not automatically confirm
 This module provides a structured introduction to artificial intelligence, progressing from foundational concepts to machine learning, generative AI, practical applications, responsible use, and hands-on skills.
 
 The sequence is designed to help learners build understanding progressively, practise applying concepts, and evaluate AI critically. The detailed chapter outlines, learning objectives, activities, assessment strategy, and quality-assurance criteria provide a consistent framework for developing the accompanying educational materials.
+
+---
+
+# 10. Final Module Alignment Checklist
+
+Before submission, verify that:
+
+- [ ] All six chapters follow the module structure.
+- [ ] Each chapter includes clear and measurable learning objectives.
+- [ ] Chapter content matches the topics listed in this outline.
+- [ ] Examples and activities are suitable for beginner learners.
+- [ ] Activities include clear instructions and appropriate answers or feedback.
+- [ ] The Study Guide supports the learning outcomes.
+- [ ] The Test Bank covers all six chapters.
+- [ ] The PowerPoint presentation follows the correct chapter sequence.
+- [ ] Video tutorials support the relevant module topics.
+- [ ] References and learning resources are checked.
+- [ ] All file paths and internal links work correctly.
+- [ ] The final materials are consistent with one another.
+
+**Final status:** Pending verification of all supporting learning materials.
