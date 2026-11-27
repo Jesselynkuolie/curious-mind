@@ -1585,3 +1585,37 @@ Videos, websites, and platforms linked in this guide belong to their creators: 3
 - [ ] Visuals are referenced in the relevant activity or explanation.
 - [ ] The rendered PDF displays all visuals correctly.
 
+## Study Guide Revisions
+
+### 1. Activity and Content Improvements
+
+- Review all activities to make sure the instructions are clear and complete.
+- Correct activity references so they point to the correct pages and sections.
+- Review Activity 1.6 and remove any wording that reveals the answer before learners complete the task.
+- Check that the SWISH example is properly explained and included in the relevant learning activity.
+
+### 2. Remove Unfinished Notes
+
+Before final submission:
+
+- Remove unfinished author notes and editing comments.
+- Replace all remaining placeholders with the final content.
+- Check pages 27, 32, 33, 35, 40, 44, and 51 for unfinished notes identified in the peer review.
+
+### 3. AI-Assistance Statement
+
+Complete the AI-assistance statement so that it clearly explains how AI tools were used in preparing the Study Guide.
+
+### 4. Visual Resources
+
+- Add relevant diagrams, illustrations, or visual examples to support difficult concepts.
+- Make sure every visual is relevant to the learning content.
+- Include image credits or sources where necessary.
+
+### 5. Final Review
+
+- Check all page numbers and activity references.
+- Check spelling, grammar, and formatting.
+- Make sure instructions and examples are understandable.
+- Confirm that no unfinished placeholders remain.
+- Review the final PDF to ensure the layout is consistent.
