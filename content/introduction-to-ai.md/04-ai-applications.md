@@ -277,7 +277,7 @@ This comparison shows that AI does not have one universal purpose. Each applicat
 
 ### Visual Diagram: AI Applications Across Industries
 
-```mermaid id="8f2kqv"
+```mermaid
 flowchart TD
     A["Artificial Intelligence Applications"]
 
