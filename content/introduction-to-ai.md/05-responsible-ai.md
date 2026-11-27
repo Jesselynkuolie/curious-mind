@@ -717,20 +717,12 @@ If the diagram is included in the repository, record its source, creator, licens
 - [ ] The chapter terminology is consistent with the Study Guide, Test Bank, and presentation.
 - [ ] The suggested diagram has been created and added to the asset register, if included.
 
-## 16. Further Improvement
+## 16. Final Verification Status
 
-The team should review this chapter alongside the other five chapters to ensure consistent terminology, difficulty, formatting, and learning objectives.
+This chapter includes explanations of the six responsible-AI principles, examples, a practical activity, knowledge-check questions, and a visual summary.
 
-Feedback from peer review and learner testing should be used to improve the explanations, examples, and activities where necessary.
+The chapter's completion checklist identifies several items that still require verification before final submission. These include checking references, GitHub Markdown rendering, accuracy and consistency, the teacher's rubric, the practical activity, and alignment with the Study Guide, Test Bank, and presentation.
 
-**Document status:** Submission note.
+The chapter should not be marked as fully verified until these checks have been completed and the results recorded.
 
-**Next steps:**
-1. Compare this chapter with the approved module outline and course learning objectives.
-2. Verify the references and ensure that the team follows the institution's citation requirements.
-3. Review the examples and terminology for accuracy and consistency with the other chapters.
-4. Test the knowledge-check questions and practical activity.
-5. Record review feedback in `review/review-notes.md`.
-6. Update `tasks.md` only after the relevant work has actually been completed and checked.
-
-**Submission note:** This chapter is a substantial draft, but it should not be marked as fully approved until the team has checked it against the teacher's rubric and the rest of the project.
+**Next step:** Complete the outstanding items in Section 15 and update the project review documents based on the actual results.
