@@ -49,14 +49,22 @@ The repository is also expected to be self-contained, clearly organized, traceab
 
 ### 4.1 Peer Feedback
 
-The repository's `review-and-learner-test.md` records two reviews:
+The team received peer-review feedback from Team DLLM and Team Bumingbai on the Stage 2 learning materials.
 
-- Jesselyn Kuolie reviewed the Introduction to AI material.
-- Lê Trần Đức Trọng reviewed the module content.
+The reviews covered the Study Guide, Test Bank, PowerPoint presentation, and Video Tutorials.
 
-The document states that no specific comments or suggestions were provided by these reviewers. It therefore records no specific peer-review revisions.
+The main feedback included:
 
-The supplied repository does not contain identifiable, specific feedback from another team about the Markdown deliverable. Feedback from other teams on other deliverables should be documented in the corresponding deliverable reports and should not be presented as Markdown feedback.
+- **Study Guide:** Remove unfinished author notes, correct activity references, improve activity instructions, and add diagrams and visual resources.
+- **Test Bank:** Improve the distribution of correct multiple-choice answers, strengthen incorrect answer options, and add questions covering missing topics.
+- **PowerPoint:** Improve diagram consistency, explain technical terms more clearly, correct spelling errors, and add image credits.
+- **Video Tutorials:** Correct narration inconsistencies, provide more thinking time during quizzes, and improve consistency between narration and visuals.
+
+The feedback has been recorded in `review-and-learner-test.md` and used to identify areas requiring revision and verification.
+
+These peer reviews mainly concern the Stage 2 learning materials and should not be presented as feedback specifically about the Markdown chapters.
+
+The team distinguishes between feedback that has been recorded and revisions that have actually been completed. The implementation status of each revision is documented in the revision summary and audit report.
 
 ### 4.2 Mini-Lecture Experience
 
