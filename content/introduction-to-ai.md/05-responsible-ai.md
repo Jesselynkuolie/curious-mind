@@ -3,7 +3,7 @@
 **Module:** Introduction to Artificial Intelligence  
 **Level:** Beginner  
 **Prerequisites:** Chapters 1–4 of Introduction to Artificial Intelligence  
-**Estimated learning time:** 45–55 minutes
+**Estimated learning time:** 40–50 minutes
 
 ## 1. Chapter Overview
 
