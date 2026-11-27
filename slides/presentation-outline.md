@@ -363,3 +363,49 @@ Before submission, confirm that:
 - [ ] PowerPoint has been exported to PDF.
 - [ ] The exported PDF has been checked.
 - [ ] Presentation matches the Study Guide and Test Bank.
+
+## PowerPoint Revisions
+
+### 1. Diagram Accuracy and Consistency
+
+- Review the diagrams on slides 5, 9, 12, and 13.
+- Make sure the diagrams match the explanations and learning content.
+- Correct any inconsistent labels, arrows, or relationships.
+- Ensure that each diagram supports the topic being explained.
+
+### 2. Technical Labels and Explanations
+
+- Add a clear explanation of Deep Learning where it appears.
+- Make technical terms understandable for beginners.
+- Check that all diagrams have clear and accurate labels.
+
+### 3. Spelling and Alignment
+
+- Correct the spelling error "Accesibility" to "Accessibility" on slide 11.
+- Review text alignment and spacing.
+- Make sure slide elements are consistently positioned.
+
+### 4. Infographic Readability
+
+- Increase the size of small infographic labels on slide 12.
+- Check that all text is readable.
+- Keep fonts, spacing, and visual elements consistent.
+
+### 5. Image Credits and References
+
+- Add image credits to slides 6, 10, and 12.
+- Include the original source for externally sourced images.
+- Review the reference slide and add any missing sources.
+
+### 6. Slide Organization
+
+- Review slide 7 and improve the transition between topics.
+- Make sure the presentation follows a logical sequence.
+- Check that each slide connects clearly to the next one.
+
+### 7. Final Review
+
+- Check all diagrams, labels, spelling, and references.
+- Review the presentation in slideshow mode.
+- Make sure the text and visuals are readable.
+- Confirm that all revisions have been checked before final submission.
