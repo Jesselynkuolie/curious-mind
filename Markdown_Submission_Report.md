@@ -8,8 +8,8 @@
 - **Deliverable:** Final Markdown Content and GitHub Repository
 - **Stage:** Stage 3
 - **Repository:** https://github.com/Jesselynkuolie/curious-mind
-- **Snapshot date:** [Enter the date of the final repository snapshot]
-- **Latest commit identifier:** [Enter the short hash of the latest commit from GitHub]
+- **Snapshot date:** 27 November 2026
+- **Latest commit identifier:** Jesselyn Kuolie
 
 ## 2. Purpose of This Report
 
