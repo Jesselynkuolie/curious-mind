@@ -459,4 +459,4 @@ Check each reference before submission to confirm that the link is accessible an
 - [ ] The prompt-writing activity matches the Study Guide.
 - [ ] Hallucination and responsible-use examples are clear for beginners.
 - [ ] The chapter terminology is consistent with the Test Bank.
-- [ ] The visual explanation has been checked after rendering.
+- [x] The visual explanation has been checked after rendering.
