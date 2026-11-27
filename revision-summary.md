@@ -130,3 +130,29 @@ Check the relationship between the six Markdown chapters and the supporting lear
 The revision process focuses on improving the completeness, clarity, organization, and consistency of the Curious Mind learning materials.
 
 The team has identified areas requiring improvement through teacher feedback and content review. Outstanding revisions and verification tasks must be completed and documented before the Stage 3 final submission.
+
+## 8. Overall Revision Status
+
+The team reviewed the feedback received from the professor and other teams.
+
+The following areas were identified for revision:
+
+| Material | Main Issues Identified | Status |
+|---|---|---|
+| Study Guide | Unfinished notes, incorrect activity references, unclear instructions, and insufficient visuals. | Requires verification |
+| Test Bank | Uneven answer distribution, weak distractors, and missing topic coverage. | Requires verification |
+| PowerPoint | Diagram inconsistencies, unclear labels, spelling errors, and missing image credits. | Requires verification |
+| Video Tutorials | Narration inconsistencies, quiz timing, mismatched objectives, and visual issues. | Requires verification |
+
+### Final Verification
+
+Before submission, the team must:
+
+- Check that all identified revisions have been made.
+- Verify the accuracy of the final learning materials.
+- Update the audit report with the actual revision status.
+- Ensure that the final Markdown files are complete.
+- Prepare the readable Markdown content copy and rendered PDF.
+- Include the final submission report.
+
+The team will only mark revisions as completed after checking the updated files.
