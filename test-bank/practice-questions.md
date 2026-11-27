@@ -256,12 +256,12 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**4.** Ch. 2 — A model that memorises training data but fails on new data is experiencing:
+**4.** Ch. 2 — A model performs very well on its training data but poorly on new data. What is the most likely explanation?
 
-- a) Underfitting.
-- b) Overfitting.
-- c) Reinforcement learning.
-- d) Unsupervised learning.
+- a) Underfitting
+- b) Overfitting
+- c) Data leakage
+- d) Poor generalisation caused by a mismatch between training and test data
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
@@ -283,12 +283,12 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**7.** Ch. 2 — Why must a model be tested on unseen data?
+**7.** Ch. 2 — A spam filter labels 20 emails as spam. Of these, 15 are actually spam. What is the model's precision?
 
-- a) To increase its training speed.
-- b) To check whether it generalises beyond the training examples.
-- c) To make the model more complex.
-- d) To remove bias from the data.
+- a) 25%
+- b) 50%
+- c) 60%
+- d) 75%
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
@@ -346,12 +346,12 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**14.** Ch. 4 — Which sector uses AI for route optimisation and navigation?
+**14.** Ch. 2 — A system examines 40 actual spam emails and correctly identifies 30 of them. What is its recall?
 
-- a) Healthcare.
-- b) Transportation.
-- c) Entertainment.
-- d) Agriculture.
+- a) 75%
+- b) 60%
+- c) 40%
+- d) 30%
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
@@ -413,7 +413,17 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 ## Section C: Open Missions — Think Like an AI Explorer
 
-Answer each mission in developed prose, normally around 80–120 words. Use examples, reasoning, and clear explanations. These questions are worth **5 points each**.
+### Open-Ended Question Instructions
+
+Answer all 12 questions using complete sentences.
+
+- Short responses: approximately 50–80 words.
+- Extended responses: approximately 80–120 words.
+- Use relevant examples where appropriate.
+- Explain your reasoning rather than simply listing keywords.
+- The sample answers are examples of suitable responses, not the only acceptable answers.
+
+Your answers will be assessed based on accuracy, understanding, reasoning, examples, and completeness.
 
 ### Mission 1 — The Nested Boxes
 
@@ -518,14 +528,14 @@ Complete this after marking your answers. The best explorers learn from mistakes
 | 4 | **b** | Overfitting is memorising training data and failing on unseen data. |
 | 5 | **c** | Supervised learning uses labelled examples. |
 | 6 | **b** | Regression predicts numerical values. |
-| 7 | **b** | Testing on unseen data checks generalisation. |
+| 7 | **d** | Precision = True Positives ÷ (True Positives + False Positives) = 15 ÷ 20 = 75%. |
 | 8 | **b** | Generative AI creates new content. |
 | 9 | **b** | LLMs predict likely token sequences. |
 | 10 | **b** | This is a hallucination. |
 | 11 | **c** | LLMs may produce biased or incorrect outputs. |
 | 12 | **b** | Medical image analysis is a healthcare AI example. |
 | 13 | **b** | AI recommendations may be inaccurate or inappropriate and require human judgement. |
-| 14 | **b** | Transportation uses AI for navigation and route optimisation. |
+| 14 | **a** | Recall = True Positives ÷ (True Positives + False Negatives) = 30 ÷ 40 = 75%. |
 | 15 | **c** | Transparency is the relevant principle. |
 | 16 | **b** | This is bias. |
 | 17 | **b** | The "should" question concerns appropriateness, conditions, and safeguards. |
@@ -630,6 +640,20 @@ Complete this after marking your answers. The best explorers learn from mistakes
 | **2 — Developing** | Partial understanding; several omissions or unclear reasoning. |
 | **1 — Limited** | Very little relevant understanding; major inaccuracies or unsupported statements. |
 | **0 — No credit** | No answer or response is unrelated. |
+
+## Test Bank Final Verification
+
+- [ ] All 20 True/False questions have been checked.
+- [ ] All 20 multiple-choice questions have one correct answer.
+- [ ] Correct answers are distributed evenly across A, B, C, and D.
+- [ ] Incorrect options are plausible and relevant.
+- [ ] Precision and recall are assessed.
+- [ ] Questions cover all six chapters.
+- [ ] Section C word-count instructions are consistent.
+- [ ] Activity references match the Study Guide.
+- [ ] Every answer-key entry matches its question.
+- [ ] Sample answers and explanations have been checked.
+- [ ] Markdown formatting has been previewed.
 
 ---
 
