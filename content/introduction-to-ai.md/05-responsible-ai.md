@@ -710,7 +710,7 @@ If the diagram is included in the repository, record its source, creator, licens
 - [ ] The chapter has been reviewed for accuracy and consistency.
 - [ ] The estimated learning time matches the module outline.
 - [ ] The chapter has been checked against the teacher's rubric.
-- [ ] The six responsible-AI principles are presented in a clear visual summary.
+- [x] The six responsible-AI principles are presented in a clear visual summary.
 - [ ] The practical activity includes a risk and safeguard evaluation table.
 - [ ] The decision-making process is easy for beginners to follow.
 - [ ] Knowledge-check questions match the chapter's explanations.
