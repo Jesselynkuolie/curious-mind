@@ -663,6 +663,11 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 
 ### 2.3 Try and Observe: Train a Small Text Classifier
 
+This section contains two activities:
+
+- **Activity 2.2:** Which Kind of Learning?
+- **Activity 2.3:** Spam or Not Spam: Train, Test, Break, Improve.
+
 #### ACTIVITY 2.2 Which Kind of Learning?
 
 *Individual • 10 minutes*
@@ -683,6 +688,23 @@ To check that a model generalises, data is often split. Example for 1,000 labell
 | C | Supervised • regression | Compare predicted and actual prices on test data | Market changes make old data outdated |
 | D | Reinforcement learning | Test across many games or scenarios | May fail in situations unlike training |
 | E | Supervised • classification | Test-set performance; study errors by image condition | Fails on images unlike the training data |
+
+### Before You Start: Activity 2.3
+
+1. Open the Machine Learning for Kids website.
+2. Select the text-recognition project.
+3. Create two labels: `spam` and `not_spam`.
+4. Enter the training examples under the correct labels.
+5. Train the model.
+6. Test all six messages individually.
+7. Record the predicted label and confidence.
+8. Compare the predictions with the expected classifications.
+9. Add new examples for mistakes and train the model again.
+10. Compare the results before and after retraining.
+
+**Important:** The platform interface may change. If a button or option has a different name, follow the current on-screen instructions. Do not enter personal information.
+
+**If the website is unavailable:** Use the hypothetical results in the activity's Feedback section instead.
 
 #### ACTIVITY 2.3 Spam or Not Spam: Train, Test, Break, Improve
 
@@ -1016,6 +1038,29 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 
 **APPLY** — *Use the inspection form*
 
+### AI Application Inspection Worksheet
+
+Choose one AI application and complete the table.
+
+| Evaluation Area | Questions to Consider |
+|---|---|
+| Purpose | What problem does the application solve? |
+| Input | What information does it use? |
+| Process | What does the AI system do with the information? |
+| Output | What result does it produce? |
+| Benefits | What are two possible benefits? |
+| Limitations | What are two possible limitations? |
+| Risks | What could happen if the system makes a mistake? |
+| Human Oversight | When should a person review its output? |
+
+### Reflection
+
+1. Would you trust this AI application in every situation?
+2. What information would you need to check before relying on it?
+3. Who could be affected if it produces an incorrect result?
+
+**Expected outcome:** Your evaluation should explain both the benefits and limitations of the chosen application, rather than simply describing what it does.
+
 #### ACTIVITY 4.2 AI Inspection Form
 
 *Individual • 15 minutes • paper or document*
@@ -1133,6 +1178,27 @@ An **AI application** is a tool or system that uses AI for a task. Techniques be
 > **Decision rule:** use AI when the expected benefits justify the risks and suitable safeguards are in place. If serious risks cannot be adequately reduced, do not use the system for that purpose.
 
 ### 5.3 Try and Observe: Bias Detective
+
+### Bias Investigation Steps
+
+1. Identify the information used by the AI system.
+2. Consider whether the data represent different groups fairly.
+3. Identify which groups could receive less accurate predictions.
+4. Explain how an unfair prediction could affect people.
+5. Suggest at least one way to reduce the risk.
+6. Explain why human review is important.
+
+### Investigation Record
+
+| Question | Your Findings |
+|---|---|
+| What possible bias did you identify? | |
+| Who could be affected? | |
+| What evidence supports your concern? | |
+| What safeguard could reduce the risk? | |
+| What should a human reviewer check? | |
+
+**Learning point:** A difference in outcomes does not automatically prove discrimination. Investigate the data, context, and possible causes before reaching a conclusion.
 
 **TRY / OBSERVE** — *Overall accuracy can hide unfair differences*
 
@@ -1386,6 +1452,21 @@ Only share context that is relevant and appropriate. Constraints improve control
 - Verify claims and citations, protect information, follow academic-integrity rules, and respect intellectual property.
 - Define → check rules and risks → prompt → review → revise → verify → finalise → reflect.
 
+### Capstone Submission Checklist
+
+Your final submission should include:
+
+1. **Task description:** Explain the purpose of your three-minute explainer.
+2. **Initial prompt:** Include the first prompt you used.
+3. **AI-generated draft:** Include the generated response, if AI use is permitted.
+4. **Review:** Identify weaknesses or errors in the draft.
+5. **Revised version:** Show the improvements you made.
+6. **Fact-checking:** Provide at least three claims and their supporting sources.
+7. **AI-use disclosure:** Explain how AI supported your work.
+8. **Reflection:** Describe what you learned and which decisions required your own judgement.
+
+**Important:** If AI tools are not permitted, use the alternative draft provided in the activity.
+
 ---
 
 ## Glossary
@@ -1483,3 +1564,24 @@ Videos, websites, and platforms linked in this guide belong to their creators: 3
 ### Team contributions and AI-assistance statement
 
 > **Team contribution and AI-use record:** The team will document who wrote, tested, and reviewed each Case, identify activities attempted by someone other than the author, and record AI assistance in accordance with the Shared Assignment Rules and the project and personal logs.
+
+## Visual Improvement Checklist
+
+| Case | Recommended Visual |
+|---|---|
+| Case 1 | AI, ML, and DL relationship diagram |
+| Case 2 | Machine learning training and testing diagram |
+| Case 3 | LLM text-generation workflow |
+| Case 4 | AI applications across different industries |
+| Case 5 | Six responsible AI principles infographic |
+| Case 6 | AI-assisted workflow diagram |
+
+### Visual Verification
+
+- [ ] Each visual supports the explanation beside it.
+- [ ] Labels are readable.
+- [ ] Images and diagrams have suitable captions.
+- [ ] External images include source credits.
+- [ ] Visuals are referenced in the relevant activity or explanation.
+- [ ] The rendered PDF displays all visuals correctly.
+
