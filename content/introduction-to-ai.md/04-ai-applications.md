@@ -274,6 +274,33 @@ This comparison shows that AI does not have one universal purpose. Each applicat
 | Agriculture | Crop images | Identify plant conditions | Possible crop problems |
 | Communication | Spoken language | Recognise speech | Written text |
 
+
+### Visual Diagram: AI Applications Across Industries
+
+```mermaid id="8f2kqv"
+flowchart TD
+    A["Artificial Intelligence Applications"]
+
+    A --> B["Healthcare"]
+    A --> C["Education"]
+    A --> D["Transportation"]
+    A --> E["Business"]
+    A --> F["Entertainment"]
+    A --> G["Agriculture"]
+    A --> H["Communication"]
+
+    B --> B1["Medical image analysis"]
+    C --> C1["AI tutoring"]
+    D --> D1["Route planning"]
+    E --> E1["Fraud detection"]
+    F --> F1["Content recommendations"]
+    G --> G1["Crop monitoring"]
+    H --> H1["Machine translation"]
+```
+
+**Key Point:** AI supports different tasks across industries. Its purpose, benefits, and risks depend on how each application is designed and used.
+
+
 **Remember:** Different industries use AI for different purposes. The quality of the output depends on the system, its data, and the task.
 
 ## 4.12 Benefits of AI Across Industries
