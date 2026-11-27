@@ -127,9 +127,6 @@ Users should verify important claims using reliable sources.
 
 ### Visual Summary: How an LLM Generates a Response
 
-
-### Visual Summary: How an LLM Generates a Response
-
 ```mermaid
 flowchart TD
     A["User enters a prompt"]
