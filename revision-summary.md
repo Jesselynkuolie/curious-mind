@@ -21,8 +21,6 @@ The purpose is to show how the team reviewed the learning materials, identified 
 
 ## 3. Content Review Findings
 
-## 3. Content Review Findings
-
 The team also identified the following points during the review of the Markdown content and repository.
 
 | Identified Problem | Revision or Action | Location | Status |
