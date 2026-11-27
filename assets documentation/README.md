@@ -3,7 +3,7 @@
 
 ## 1. Purpose
 
-The `assets/` directory stores the visual and audio resources used in the Curious Mind — AI Overview learning materials. These resources support explanations, improve learner engagement, and make complex AI concepts easier to understand.
+This guide describes how visual and audio resources for the Curious Mind — AI Overview learning materials should be organized, documented, and checked. The actual asset folders and files must be confirmed in the repository before they are described as completed. These resources support explanations, improve learner engagement, and make complex AI concepts easier to understand.
 
 All assets must be relevant to the learning objectives, accessible to learners, and used in accordance with their licence and attribution requirements.
 
