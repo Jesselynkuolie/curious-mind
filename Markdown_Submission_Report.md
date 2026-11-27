@@ -9,7 +9,7 @@
 - **Stage:** Stage 3
 - **Repository:** https://github.com/Jesselynkuolie/curious-mind
 - **Snapshot date:** 28 November 2026
-- **Repository commit reviewed for this report:** `7c770a75426c7eae6e61d5288ccb8ee14d202072`
+- **Repository commit reviewed for this report:** `31ef58e1a63a43b1a57e8f423f95ae5fe323ef74`
 
 ## 2. Purpose of This Report
 
@@ -168,13 +168,11 @@ The supplied repository documents several checks that remain outstanding:
 - Extract the submission package into a separate folder and confirm that it works independently.
 
 1. Original diagrams have been added to the Study Guide. Final GitHub and PDF rendering checks are still required, and external image assets are not included.
-
-1. The team has added original diagrams to the Study Guide and chapter materials to address the feedback about visual resources. Final GitHub and PDF rendering checks are still required, and external image assets are not included
 2. The peer-review record contains no specific suggestions from the listed reviewers, and no specific feedback from another team about Markdown was found in the supplied documents.
 3. Formal learner testing is recorded as not yet conducted.
 4. Mini-lecture audience responses and their effect on Markdown revisions are not clearly documented.
 5. The review notes identify corrections and checks that still require confirmation in the final GitHub repository.
-6. Git commit history, the latest commit identifier, and repository screenshots are not included in the ZIP snapshot and must be added from GitHub.
+6. Git commit history and repository screenshots must be added from GitHub. The latest commit reviewed for this report is listed in Section 1.
 
 
 ## 10. Conclusion
