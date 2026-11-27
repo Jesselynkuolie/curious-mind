@@ -442,8 +442,6 @@ A strong response should:
 
 ## 9. Knowledge Check
 
-## 9. Knowledge Check
-
 Answer all eight questions independently before checking the answer key.
 
 **Instructions:**
