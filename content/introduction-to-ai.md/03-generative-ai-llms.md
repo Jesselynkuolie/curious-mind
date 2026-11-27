@@ -125,6 +125,24 @@ Actual systems may include additional components, such as safety controls, retri
 
 Users should verify important claims using reliable sources.
 
+### Visual Summary: How an LLM Generates a Response
+
+User enters a prompt
+        ↓
+The prompt is processed into tokens
+        ↓
+The model analyses the context
+        ↓
+The model estimates possible next tokens
+        ↓
+Tokens are selected one at a time
+        ↓
+The response is completed
+        ↓
+The user reviews and verifies the response
+
+**Remember:** This is a simplified explanation. Actual LLM systems may include additional processing steps and components.
+
 ## 3.7 Common Applications of Generative AI
 
 ### Education
@@ -168,6 +186,16 @@ A system may provide incorrect facts or explanations while sounding confident.
 ### Hallucinations
 
 An AI hallucination is an output that presents unsupported or fabricated information as though it were true. For example, a model might invent a research paper or provide a reference that does not exist.
+
+**Example:**
+
+A learner asks an AI tool to provide three academic references about artificial intelligence. The AI may generate a reference with an incorrect author, title, or publication date.
+
+**How to respond:**
+
+The learner should check whether each reference exists and confirm its details using a reliable academic source.
+
+**Learning point:** A response that looks professional is not necessarily accurate.
 
 ### Bias
 
@@ -270,6 +298,24 @@ Practise writing a clear prompt and evaluating an AI-generated response.
 7. Check that claim against a reliable source.
 8. Write a short reflection on which prompt was more useful and why.
 
+### Response Evaluation Table
+
+Complete the table after comparing your two AI-generated responses.
+
+| Evaluation Criteria | Initial Prompt | Improved Prompt |
+|---|---|---|
+| Clarity | | |
+| Relevance | | |
+| Accuracy | | |
+| Usefulness | | |
+
+### Reflection
+
+1. Which prompt produced a more useful response?
+2. What changed after improving the prompt?
+3. Did either response contain information that needed verification?
+4. What would you improve further?
+
 **Example initial prompt:**
 
 “Explain machine learning.”
@@ -289,6 +335,17 @@ Practise writing a clear prompt and evaluating an AI-generated response.
 **Expected outcome:**
 
 Learners should demonstrate that clear instructions can improve the relevance of an AI response and that generated information still requires evaluation.
+
+### Responsible Use Checklist
+
+Before using an AI-generated response, ask yourself:
+
+- [ ] Have I checked important facts?
+- [ ] Have I verified references and sources?
+- [ ] Have I avoided entering private or confidential information?
+- [ ] Have I checked for possible bias?
+- [ ] Have I followed my institution's academic integrity rules?
+- [ ] Have I reviewed the final response myself?
 
 ## 3.13 Key Terms
 
@@ -388,3 +445,8 @@ Check each reference before submission to confirm that the link is accessible an
 - [ ] The chapter has been proofread and checked for accessibility.
 - [ ] The estimated learning time matches the module outline.
 - [ ] The chapter has been previewed on GitHub to check Markdown formatting and links.
+- [ ] The explanation of LLM text generation matches the presentation slides.
+- [ ] The prompt-writing activity matches the Study Guide.
+- [ ] Hallucination and responsible-use examples are clear for beginners.
+- [ ] The chapter terminology is consistent with the Test Bank.
+- [ ] The visual explanation has been checked after rendering.
