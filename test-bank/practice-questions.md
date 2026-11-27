@@ -225,16 +225,17 @@ Welcome back, Explorer. Detective Pip has hidden six AI mysteries across this Te
 
 ---
 
+
 ## Section B: Multiple Choice — The Decision Dashboard
 
 Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure**.
 
 **1.** Ch. 1 — Which statement best defines artificial intelligence?
 
-- a) A system that is conscious and understands the world like a human.
-- b) A field of computing that develops systems performing tasks associated with human intelligence.
-- c) A type of calculator that solves mathematical equations.
-- d) A programming language used only for robotics.
+- a) A field of computing that develops systems performing tasks associated with human intelligence.
+- b) A system that is conscious and understands the world exactly like a human.
+- c) A programming language used only for robotics.
+- d) A type of calculator designed only for mathematical equations.
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
@@ -247,165 +248,165 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**3.** Ch. 1 — Which of the following is usually performed without AI?
+**3.** Ch. 1 — Which option correctly matches the three approaches to AI?
 
-- a) Recognising objects in images.
-- b) Generating human language.
-- c) Adding two numbers with a basic calculator.
-- d) Making predictions from data.
+- a) Symbolic AI learns only through rewards, Connectionist AI uses handwritten rules, and Behaviorist AI uses neural networks.
+- b) Symbolic AI uses neural networks, Connectionist AI follows fixed rules, and Behaviorist AI focuses on data storage.
+- c) Symbolic AI uses explicit rules and symbols, Connectionist AI uses networks of connected units, and Behaviorist AI learns through interaction and feedback.
+- d) All three approaches use exactly the same methods.
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **4.** Ch. 2 — A model performs very well on its training data but poorly on new data. What is the most likely explanation?
 
 - a) Underfitting
-- b) Overfitting
-- c) Data leakage
-- d) Poor generalisation caused by a mismatch between training and test data
+- b) Data cleaning
+- c) Successful generalisation
+- d) Overfitting
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**5.** Ch. 2 — Which type of learning uses labelled examples?
+**5.** Ch. 2 — Which type of machine learning uses labelled examples?
 
-- a) Unsupervised learning.
-- b) Reinforcement learning.
-- c) Supervised learning.
-- d) Clustering.
+- a) Supervised learning
+- b) Unsupervised learning
+- c) Reinforcement learning
+- d) Clustering
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **6.** Ch. 2 — Predicting a house price from features such as size and location is an example of:
 
-- a) Classification.
-- b) Regression.
-- c) Clustering.
-- d) Generation.
+- a) Classification
+- b) Regression
+- c) Clustering
+- d) Image generation
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**7.** Ch. 2 — A spam filter labels 20 emails as spam. Of these, 15 are actually spam. What is the model's precision?
+**7.** Ch. 2 — A spam filter labels 20 emails as spam. Of these, 15 are actually spam. What is its precision?
 
 - a) 25%
 - b) 50%
-- c) 60%
-- d) 75%
+- c) 75%
+- d) 100%
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **8.** Ch. 3 — What is the primary purpose of generative AI?
 
-- a) To classify emails as spam or not spam.
-- b) To create new content such as text, images, or code.
-- c) To predict numerical values from historical data.
-- d) To replace all human decision-making.
+- a) To classify existing data only
+- b) To store information without processing it
+- c) To replace all human decision-making
+- d) To create new content such as text, images, audio, or code
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**9.** Ch. 3 — How does an LLM generate a response?
+**9.** Ch. 3 — How does a large language model generally generate a response?
 
-- a) By searching a database of correct answers.
-- b) By predicting likely sequences of tokens based on learned patterns.
-- c) By asking a human for the answer.
-- d) By using a fixed set of hand-written rules.
+- a) By predicting likely sequences of tokens based on learned patterns.
+- b) By retrieving only verified answers from a fixed database.
+- c) By asking a human to write every response.
+- d) By following one unchanging sequence of instructions.
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **10.** Ch. 3 — A generative AI produces a detailed but entirely false biography of a nonexistent person. This is an example of:
 
-- a) Overfitting.
-- b) Hallucination.
-- c) Classification.
-- d) Reinforcement learning.
+- a) Classification
+- b) Hallucination
+- c) Regression
+- d) Data labelling
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**11.** Ch. 3 — Which of the following is a limitation of LLMs?
+**11.** Ch. 3 — Which of the following is a limitation of large language models?
 
-- a) They can only generate images, not text.
-- b) They always provide accurate and verified information.
+- a) They can only process numerical data.
+- b) They cannot generate summaries.
 - c) They may produce biased or incorrect outputs.
-- d) They cannot be used for summarising documents.
+- d) They always verify every statement before responding.
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **12.** Ch. 4 — Which of the following is an example of AI in healthcare?
 
-- a) A spreadsheet used to store patient records.
-- b) An AI system that flags possible abnormalities in medical images.
-- c) A stethoscope used by a doctor.
-- d) A hospital's payroll software.
+- a) A paper form used to record appointments
+- b) A basic calculator used by hospital staff
+- c) A filing cabinet used to store patient records
+- d) An AI system that flags possible abnormalities in medical images
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **13.** Ch. 4 — Why is human oversight important in high-stakes AI applications?
 
-- a) Because AI systems are always wrong.
-- b) Because AI recommendations may be inaccurate or inappropriate and require professional judgement.
-- c) Because humans are faster than AI at all tasks.
-- d) Because AI cannot process large amounts of data.
+- a) AI recommendations may be inaccurate or inappropriate, so qualified people must review important decisions.
+- b) AI systems are always wrong.
+- c) Humans are faster than AI at every task.
+- d) AI cannot process large amounts of information.
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **14.** Ch. 2 — A system examines 40 actual spam emails and correctly identifies 30 of them. What is its recall?
 
-- a) 75%
-- b) 60%
-- c) 40%
-- d) 30%
+- a) 25%
+- b) 75%
+- c) 60%
+- d) 90%
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**15.** Ch. 5 — Which principle of responsible AI requires that people can understand, at an appropriate level, how a system produces its results?
+**15.** Ch. 5 — Which responsible AI principle requires people to understand, at an appropriate level, how a system produces its results?
 
-- a) Fairness.
-- b) Privacy.
-- c) Transparency.
-- d) Safety.
+- a) Privacy
+- b) Fairness
+- c) Transparency
+- d) Data storage
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**16.** Ch. 5 — A hiring AI favours candidates from one university because past hires came mostly from that university. This is an example of:
+**16.** Ch. 5 — A hiring AI favours candidates from one university because most previous hires came from that university. This is an example of:
 
-- a) Overfitting.
-- b) Bias.
-- c) Hallucination.
-- d) Reinforcement learning.
+- a) Data compression
+- b) Hallucination
+- c) Regression
+- d) Bias
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **17.** Ch. 5 — What does the "should" question in responsible AI ask?
 
-- a) Whether the system can technically perform the task.
-- b) Whether the system should be used for this task, under these conditions, and with these safeguards.
+- a) Whether the system should be used for the task under the given conditions and safeguards.
+- b) Whether the system can technically perform the task.
 - c) Whether the system is faster than a human.
 - d) Whether the system uses deep learning.
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**18.** Ch. 6 — What is the first stage of the practical AI workflow?
+**18.** Ch. 6 — What is the first stage of a practical AI workflow?
 
-- a) Writing the prompt.
-- b) Verifying claims.
-- c) Defining the task and deciding whether AI is appropriate.
-- d) Submitting the output.
+- a) Writing the prompt immediately
+- b) Defining the task and deciding whether AI is appropriate
+- c) Submitting the AI output
+- d) Verifying the final result
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
-**19.** Ch. 6 — In the six-part prompt framework, which element tells the AI the rules, limits, or requirements its answer must follow (for example, “use no more than 150 words” or “do not invent citations”)?
+**19.** Ch. 6 — In the six-part prompt framework, which element tells the AI the rules, limits, or requirements its answer must follow?
 
-- a) Role.
-- b) Constraints.
-- c) Context.
-- d) Output format.
+- a) Role
+- b) Context
+- c) Constraints
+- d) Example
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
 **20.** Ch. 6 — Which task requires extra care when using an AI assistant?
 
-- a) Brainstorming project topics.
-- b) Explaining a concept at a simpler level.
-- c) Making a medical decision.
-- d) Suggesting an outline for an essay.
+- a) Brainstorming project topics
+- b) Explaining a concept at a simpler level
+- c) Suggesting an outline for an essay
+- d) Making a medical decision
 
 *Your answer:* a / b / c / d — *Confidence:* Sure / Unsure
 
@@ -520,28 +521,29 @@ Complete this after marking your answers. The best explorers learn from mistakes
 
 ### Section B: Multiple Choice
 
+
 | # | Answer | Explanation |
-|---:|---|---|
-| 1 | **b** | AI is a field of computing that develops systems performing tasks associated with human intelligence. |
+|---:|:---:|---|
+| 1 | **a** | AI develops systems that perform tasks associated with human intelligence. |
 | 2 | **b** | Deep learning is a subset of machine learning, which is a subset of AI. |
-| 3 | **c** | A basic calculator performs arithmetic rather than an AI-associated task. |
-| 4 | **b** | Overfitting is memorising training data and failing on unseen data. |
-| 5 | **c** | Supervised learning uses labelled examples. |
-| 6 | **b** | Regression predicts numerical values. |
-| 7 | **d** | Precision = True Positives ÷ (True Positives + False Positives) = 15 ÷ 20 = 75%. |
-| 8 | **b** | Generative AI creates new content. |
-| 9 | **b** | LLMs predict likely token sequences. |
-| 10 | **b** | This is a hallucination. |
-| 11 | **c** | LLMs may produce biased or incorrect outputs. |
-| 12 | **b** | Medical image analysis is a healthcare AI example. |
-| 13 | **b** | AI recommendations may be inaccurate or inappropriate and require human judgement. |
-| 14 | **a** | Recall = True Positives ÷ (True Positives + False Negatives) = 30 ÷ 40 = 75%. |
-| 15 | **c** | Transparency is the relevant principle. |
-| 16 | **b** | This is bias. |
-| 17 | **b** | The "should" question concerns appropriateness, conditions, and safeguards. |
-| 18 | **c** | The first stage is defining the task and deciding whether AI is appropriate. |
-| 19 | **b** | Constraints set the rules and limits the answer must follow. |
-| 20 | **c** | Medical decisions are high-stakes and require extra care. |
+| 3 | **c** | The three approaches differ in their use of explicit rules, connected networks, and learning through interaction and feedback. |
+| 4 | **d** | Overfitting occurs when a model performs well on training data but poorly on unseen data. |
+| 5 | **a** | Supervised learning uses labelled examples. |
+| 6 | **b** | Regression predicts numerical values, such as house prices. |
+| 7 | **c** | Precision = True Positives ÷ (True Positives + False Positives) = 15 ÷ 20 = 75%. |
+| 8 | **d** | Generative AI creates new content, including text, images, audio, and code. |
+| 9 | **a** | LLMs generate responses by predicting likely token sequences based on learned patterns. |
+| 10 | **b** | A hallucination is an output that may sound convincing but contains false or unsupported information. |
+| 11 | **c** | LLMs can produce biased or incorrect outputs. |
+| 12 | **d** | AI image-analysis systems can help identify possible abnormalities in medical images. |
+| 13 | **a** | Human oversight helps ensure that important decisions are reviewed by qualified people. |
+| 14 | **b** | Recall = True Positives ÷ (True Positives + False Negatives) = 30 ÷ 40 = 75%. |
+| 15 | **c** | Transparency concerns making the system's processes and results understandable. |
+| 16 | **d** | The system reflects bias in historical hiring data. |
+| 17 | **a** | The "should" question considers whether using AI is appropriate and what safeguards are needed. |
+| 18 | **b** | A workflow begins by defining the task and deciding whether AI is suitable. |
+| 19 | **c** | Constraints specify the rules, limits, and requirements for the output. |
+| 20 | **d** | Medical decisions are high-stakes and require qualified human judgement. |
 
 ### Section C: Sample Answers and Key Points
 
@@ -656,48 +658,5 @@ Complete this after marking your answers. The best explorers learn from mistakes
 - [ ] Markdown formatting has been previewed.
 
 ---
-
-## Test Bank Revisions
-
-### 1. Multiple-Choice Answer Distribution
-
-- Review the correct answers across all multiple-choice questions.
-- Distribute correct answers more evenly among options A, B, C, and D.
-- Avoid having too many correct answers under the same option.
-- Check that the answer key matches the revised questions.
-
-### 2. Improve Distractors
-
-- Review incorrect answer choices to make them more realistic and meaningful.
-- Avoid options that are obviously incorrect.
-- Make sure all options are related to the question.
-- Ensure that only one answer is clearly correct unless the question specifies otherwise.
-
-### 3. Add Missing Questions
-
-Add questions covering the following topics:
-
-- The three approaches to AI: Symbolic, Connectionist, and Behaviorist.
-- Precision and recall in evaluating AI systems.
-
-### 4. Correct Activity References
-
-- Review Mission 2 and check its reference to the spam card activity.
-- Make sure the activity exists and matches the question.
-- Replace incorrect references with the correct activity or task.
-
-### 5. Improve Instructions
-
-- Make word-count instructions consistent throughout the Test Bank.
-- Clearly explain what students are expected to write in each section.
-- Check that the instructions match the marking criteria.
-
-### 6. Final Review
-
-- Check all questions for accuracy and clarity.
-- Verify the answer key and sample answers.
-- Check the distribution of multiple-choice answers.
-- Remove ambiguous or repeated questions.
-- Review formatting and numbering before submission.
 
 ## End of Test Bank
