@@ -17,7 +17,7 @@ This chapter introduces common AI applications, explains how they work at a basi
 By the end of this chapter, learners will be able to:
 
 1. Identify common applications of AI in everyday life.
-2. Explain how AI is used in healthcare, education, transportation, business, and entertainment.
+2. Explain how AI is used in healthcare, education, transportation, business, entertainment, agriculture, and communication.
 3. Describe the benefits of using AI in different industries.
 4. Identify risks and limitations associated with AI applications.
 5. Explain why human oversight is important when using AI.
