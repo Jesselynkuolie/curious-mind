@@ -161,28 +161,39 @@ Thank you for joining this Curious Mind mini-lecture.
 
 **Reference note:** These sources provide background on AI risk management, generative AI in education, and responsible AI principles. Verify each source and consult the relevant sections before using it to support a specific claim.
 
+
 ## 10. Production and Quality Checklist
 
-Before recording or submitting this mini-lecture:
+Before submitting the mini-lecture, confirm that:
 
-- [ ] Confirm that the duration meets the assignment requirements.
-- [ ] Read the script aloud and adjust the pacing naturally.
-- [ ] Verify technical explanations and important factual claims.
-- [ ] Check that the examples are appropriate for the target audience.
-- [ ] Ensure the visuals match the narration.
-- [ ] Add image credits and slide-level citations where required.
-- [ ] Check spelling, grammar, and pronunciation of technical terms.
-- [ ] Ensure the audio is clear if a recording is required.
-- [ ] Confirm that the presentation or recording meets the required format.
-- [ ] Obtain a genuine peer review and record any revisions.
-- [ ] Check the final script against the assignment rubric.
-- [ ] Include accurate subtitles throughout the mini-lecture.
-- [ ] Ensure subtitles are synchronised with the narration.
-- [ ] Use animations, demonstrations, or screen recordings where appropriate.
-- [ ] Avoid relying entirely on static images.
-- [ ] Ensure important information remains on screen long enough to read.
-- [ ] Use consistent fonts, colours, and visual formatting.
-- [ ] Check that no unrelated visuals appear during explanations.
+### Content and Accuracy
+- [ ] AI, machine learning, deep learning, and generative AI are explained accurately.
+- [ ] Technical terms are explained in beginner-friendly language.
+- [ ] Examples are relevant and easy to understand.
+- [ ] Important factual claims are checked against credible sources.
+- [ ] References support the information presented.
+
+### Teaching and Learning
+- [ ] Learning objectives are addressed throughout the lecture.
+- [ ] The learning activity encourages critical thinking.
+- [ ] Instructions are clear for beginner learners.
+- [ ] The conclusion reinforces the main learning points.
+
+### Visual and Audio Quality
+- [ ] Visuals support the narration.
+- [ ] Animations or demonstrations are included where appropriate.
+- [ ] Subtitles are accurate and synchronised.
+- [ ] Important information remains on screen long enough to read.
+- [ ] Audio is clear and narration is appropriately paced.
+- [ ] Fonts, colours, and formatting are consistent.
+
+### Final Verification
+- [ ] The mini-lecture follows the assignment requirements.
+- [ ] The duration meets the required time.
+- [ ] Image credits and slide-level citations are included where necessary.
+- [ ] Peer feedback and revisions are documented accurately.
+- [ ] The final version has been reviewed by the team.
+
 
 ## 11. Revision and Review Record
 
