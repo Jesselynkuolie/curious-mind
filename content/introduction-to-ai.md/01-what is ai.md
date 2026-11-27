@@ -119,21 +119,20 @@ These systems learn patterns from data by adjusting the strengths of connections
 - Decisions can be difficult to explain.
 - May learn biases or errors present in training data.
 
-### 5.3 Behavior-Based AI and Reinforcement Learning
+### 5.3 Behavior-Based AI
 
-Behavior-Based AI develops intelligent behaviour through interactions between an AI system and its environment. It is often used in robotics, where systems respond to changes in their surroundings using different simple behaviours.
+Behavior-Based AI focuses on creating intelligent behaviour through interactions between a system and its environment. It is commonly used in robotics, where systems respond to changes in their surroundings.
 
-A related learning method is Reinforcement Learning. It allows an agent to learn which actions are useful by receiving rewards or penalties from its environment.
+A related learning method is Reinforcement Learning. It allows an agent to improve its decisions by taking actions and receiving rewards or penalties from its environment.
 
-**How it works:**
+**How Behavior-Based AI works:**
 
 1. The system observes its environment.
-2. It responds using programmed behaviours or rules.
-3. It selects an action based on the current situation.
-4. The environment changes in response to the action.
-5. The system continues adjusting its behaviour as conditions change.
+2. It identifies changes or conditions around it.
+3. It responds using programmed behaviours.
+4. It adjusts its response when the environment changes.
 
-**Reinforcement Learning:**
+**How Reinforcement Learning works:**
 
 1. An agent observes its environment.
 2. It chooses an action.
@@ -141,37 +140,32 @@ A related learning method is Reinforcement Learning. It allows an agent to learn
 4. The agent receives a reward or penalty.
 5. It uses this feedback to improve future decisions.
 
-**Examples of Behavior-Based AI:**
+**Examples:**
 
 - Robots that avoid obstacles using sensor information.
 - Robots that respond to nearby objects or movement.
-- Autonomous systems that perform simple tasks based on environmental conditions.
-
-**Examples of Reinforcement Learning:**
-
 - Game-playing AI that improves its strategy through rewards.
-- Robots learning movement through repeated interaction.
-- AI agents learning decisions through feedback.
+- AI agents that learn decisions through repeated interaction.
 
 **Strengths:**
 
 - Can respond to changes in the environment.
-- Useful for robots and systems that interact with their surroundings.
-- Can perform simple tasks without requiring complex reasoning.
+- Useful for robotics and interactive systems.
+- Reinforcement Learning can improve decisions through feedback.
 
 **Limitations:**
 
-- May struggle in unfamiliar or unpredictable environments.
-- Simple behaviours may not be enough for complex tasks.
-- Requires suitable sensors and reliable environmental information.
+- May struggle in unfamiliar environments.
+- Can require repeated interaction and feedback.
+- Performance depends on the quality of environmental information and feedback.
   
 ### 5.4 Comparing the Three Approaches
 
 | Approach | Main Idea | How It Works | Example |
 |---|---|---|---|
-| Symbolic AI | Rules and logic | Uses human-defined knowledge and rules | Expert systems |
+| Symbolic AI | Rules and logic | Uses human-defined knowledge and logical rules | Expert systems |
 | Connectionist AI | Neural networks | Learns patterns from data | Image recognition |
-| Behavior-Based AI | Interaction with the environment | Responds to changes in the environment using different behaviours | Robots that avoid obstacles |
+| Behavior-Based AI | Interaction with the environment | Responds to environmental changes through behaviours | Robots that avoid obstacles |
 
 Reinforcement Learning is a related learning method in which an agent improves its decisions through actions and feedback. It is commonly used in game-playing AI and robotics.
 
@@ -190,6 +184,17 @@ Their relationship can be represented as:
 **AI → Machine Learning → Deep Learning**
 
 All deep learning is machine learning, and all machine learning is part of AI. However, not all AI uses machine learning.
+
+### Visual Relationship
+
+```text
+Artificial Intelligence (AI)
+          |
+          v
+   Machine Learning (ML)
+          |
+          v
+     Deep Learning (DL)
 
 ## 7. AI in Everyday Life
 
@@ -238,9 +243,15 @@ Read each scenario and identify the AI approach that best matches it.
 
 **Suggested Answers:**
 
-1. Symbolic AI — it uses predefined rules and knowledge.
-2. Connectionist AI — it learns patterns using a neural network.
-3. Reinforcement Learning — it learns through actions and rewards from the environment.
+**Suggested Answers:**
+
+1. Symbolic AI — the system uses predefined medical rules and knowledge.
+2. Connectionist AI — the neural network learns patterns from labelled pictures.
+3. Reinforcement Learning — the agent improves its strategy through actions and rewards.
+
+**Key Explanation:**
+
+Behavior-Based AI and Reinforcement Learning are related but not identical. Behavior-Based AI focuses on responding to the environment, while Reinforcement Learning focuses on improving actions through rewards and feedback.
 
 ## 10. Knowledge Check
 
@@ -271,14 +282,14 @@ D. Rule-based computing
 
 **Answer: B.** Connectionist AI uses networks of connected computational units to learn patterns.
 
-**4. What is a central idea of Behavior-Based AI?**
+**4. Which statement best describes Behavior-Based AI?**
 
-A. Learning through actions and feedback.  
-B. Following only fixed logical rules.  
-C. Storing information without processing it.  
-D. Avoiding interaction with the environment.
+A. It responds to changes in the environment using different behaviours.  
+B. It only follows fixed mathematical equations.  
+C. It stores information without processing it.  
+D. It only uses predefined logical rules.
 
-**Answer: A.** Behavior-Based AI focuses on how systems respond to changes in their environment. Reinforcement Learning uses rewards and feedback to improve actions.
+**Answer: A.** Behavior-Based AI focuses on how a system responds to changes in its environment. Reinforcement Learning is a related method that uses rewards and feedback to improve decisions.
 
 **5. Which statement about deep learning is correct?**
 
