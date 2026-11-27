@@ -418,8 +418,8 @@ Choose the best answer. One point each. Mark confidence as **Sure** or **Unsure*
 
 Answer all 12 questions using complete sentences.
 
-- Short responses: approximately 50–80 words.
-- Extended responses: approximately 80–120 words.
+- Aim for approximately 50–80 words for each response.
+- Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 - Use relevant examples where appropriate.
 - Explain your reasoning rather than simply listing keywords.
 - The sample answers are examples of suitable responses, not the only acceptable answers.
@@ -434,9 +434,12 @@ Your answers will be assessed based on accuracy, understanding, reasoning, examp
 
 ### Mission 2 — The Overfit Alarm
 
-**2a.** Ch. 2 — In the card activity, you sorted messages into SPAM and NOT SPAM. Explain what the data, the features, and the labels were in that activity. Then explain why you should test your rule on cards you did not use for learning. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
+#### Mission 2
 
-**2b.** Ch. 2 — A spam filter gets 99% correct on its training emails, but only 65% correct on new emails. What has probably happened? Explain in simple words, and give one way the team could fix it. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
+**2a. Ch. 2: The Card Activity**, you sorted messages into SPAM and NOT SPAM. Explain what the data, the features, and the labels were in that activity. Then explain why you should test your rule on cards you did not use for learning. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
+
+**2b. Ch. 2: Overfitting**— A spam filter gets 99% correct on its training emails, but only 65% correct on new emails. What has probably happened? Explain in simple words, and give one way the team could fix it. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
+
 ### Mission 3 — The Hallucination Hunt
 
 **3a.** Ch. 3 — Name one good way and one risky way to use generative AI for studying. Explain why the risky way is a problem and what a student should do before using AI-written text. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
@@ -450,7 +453,9 @@ Your answers will be assessed based on accuracy, understanding, reasoning, examp
 
 ### Mission 5 — The Fairness File
 
-**5a.** Ch. 5 — Pick two responsible AI ideas (for example, fairness, privacy, or transparency). Explain what each one means in simple words, using one small example for each. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
+#### Mission 5
+
+**5a. Ch. 5: Two Responsible AI Ideas**— Pick two responsible AI ideas (for example, fairness, privacy, or transparency). Explain what each one means in simple words, using one small example for each. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
 **5b.** Ch. 5 — A university uses AI to choose scholarship students. The AI was trained on past winners, and most past winners came from three rich schools. What is the problem here? Who could be hurt? Give one way to make the system fairer. **Answer length:** Aim for approximately 80–120 words per question. Focus on accurate explanations, relevant examples, and clear reasoning rather than writing extra words.
 
@@ -611,7 +616,7 @@ Complete this after marking your answers. The best explorers learn from mistakes
 
 *Key points:* identifies bias from training data; explains who is harmed; gives one safeguard (remove the feature, audit data, or add human review).
 
-**5b. Ch. 5: Two Responsible AI Ideas**
+**5b. Ch. 5: Scholarship Bias**
 
 *Sample answer:* Fairness means AI should not treat one group worse than another. For example, a hiring tool should not reject people because of their gender. Privacy means personal data must be protected. For example, a health chatbot should not share your medical details with strangers. Both ideas matter because AI affects real people.
 
