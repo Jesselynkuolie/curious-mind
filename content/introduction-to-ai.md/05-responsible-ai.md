@@ -348,6 +348,25 @@ A simple decision rule is:
 | Some risks remain unclear or require further testing. | Pause and investigate before using the tool. |
 | Serious risks cannot be adequately reduced. | Do not use the tool for that purpose. |
 
+### Responsible AI Decision Process
+
+Identify the purpose of the AI tool
+        ↓
+Examine the data and information used
+        ↓
+Identify possible risks and harms
+        ↓
+Check fairness, privacy, safety, and transparency
+        ↓
+Establish accountability and human oversight
+        ↓
+Are the risks adequately controlled?
+        ↓
+Yes: Use with appropriate monitoring.
+No: Pause, improve safeguards, or do not use.
+
+**Learning point:** AI should only be used when its benefits justify the risks and suitable safeguards are available.
+
 ## 8. Practical Learning Activity: Responsible AI Case Review
 
 ### Scenario
@@ -362,14 +381,27 @@ Work individually or in small groups. Evaluate the proposal using the six core p
 
 Complete the following worksheet.
 
-| Principle | Question to investigate | Your recommendation |
+### Responsible AI Evaluation Worksheet
+
+| Principle | Risk Identified | Recommended Safeguard |
 |---|---|---|
-| Fairness | Could the tool make less accurate predictions for some student groups? | |
-| Transparency | Do students and teachers understand the tool's purpose and limitations? | |
-| Privacy | Is student data collected and used appropriately? | |
-| Safety and reliability | What happens if a prediction is wrong? | |
-| Accountability | Who is responsible for reviewing and correcting errors? | |
-| Human oversight | Can teachers challenge the prediction and consider other evidence? | |
+| Fairness | Could predictions be less accurate for certain student groups? | |
+| Transparency | Do students understand how predictions are produced? | |
+| Privacy | Is student information collected and protected appropriately? | |
+| Safety and Reliability | What happens if the prediction is incorrect? | |
+| Accountability | Who is responsible for reviewing the predictions? | |
+| Human Oversight | Can teachers challenge or override predictions? | |
+
+### Final Recommendation
+
+Based on your evaluation:
+
+1. Should the school use the AI tool?
+2. What conditions should be met before it is introduced?
+3. Who should monitor its performance?
+4. How should students and families raise concerns?
+
+Explain your recommendation using evidence from the scenario.
 
 ### Discussion Questions
 
@@ -410,7 +442,16 @@ A strong response should:
 
 ## 9. Knowledge Check
 
-Choose the best answer for each question before checking the answer key.
+## 9. Knowledge Check
+
+Answer all eight questions independently before checking the answer key.
+
+**Instructions:**
+1. Read each question carefully.
+2. Select the single best answer.
+3. Record your answers before checking the explanations.
+4. Review any incorrect answers and revisit the relevant section.
+5. Try the questions again to check your understanding.
 
 ### Question 1
 
@@ -607,7 +648,19 @@ This chapter is designed to support accessible and self-directed learning.
 - The practical activity allows learners to apply the concepts rather than only memorize definitions.
 - The chapter does not rely on color alone to communicate meaning.
 
-**Suggested visual:** Create a six-part diagram showing Fairness, Transparency, Privacy, Safety and Reliability, Accountability, and Human Oversight around a central label: "Responsible AI." Add a circular arrow around the diagram to represent continuous evaluation throughout the AI life cycle.
+**Suggested visual:** 
+### Visual Summary: Six Core Principles of Responsible AI
+
+| Principle | Main Question |
+|---|---|
+| Fairness | Does the system treat people fairly? |
+| Transparency | Can people understand the system's purpose and limitations? |
+| Privacy | Is personal information protected? |
+| Safety and Reliability | Can the system operate safely and consistently? |
+| Accountability | Who is responsible when something goes wrong? |
+| Human Oversight | Can people review and challenge important decisions? |
+
+**Remember:** These six principles work together. Responsible AI requires considering all of them throughout the AI life cycle.
 
 **Suggested alt text:** "A diagram showing six connected responsible-AI principles: fairness, transparency, privacy, safety and reliability, accountability, and human oversight. A circular arrow represents continuous evaluation."
 
@@ -626,6 +679,12 @@ If the diagram is included in the repository, record its source, creator, licens
 - [ ] The chapter has been reviewed for accuracy and consistency.
 - [ ] The estimated learning time matches the module outline.
 - [ ] The chapter has been checked against the teacher's rubric.
+- [ ] The six responsible-AI principles are presented in a clear visual summary.
+- [ ] The practical activity includes a risk and safeguard evaluation table.
+- [ ] The decision-making process is easy for beginners to follow.
+- [ ] Knowledge-check questions match the chapter's explanations.
+- [ ] The chapter terminology is consistent with the Study Guide, Test Bank, and presentation.
+- [ ] The suggested diagram has been created and added to the asset register, if included.
 
 ## 16. Further Improvement
 
