@@ -128,9 +128,6 @@ The AI supports the process, but the student remains responsible for the final r
 
 ### Visual Summary: The AI-Assisted Workflow
 
-
-### Visual Summary: The AI-Assisted Workflow
-
 ```mermaid
 flowchart TD
     A["1. Define the task"] --> B["2. Prepare relevant information"]
