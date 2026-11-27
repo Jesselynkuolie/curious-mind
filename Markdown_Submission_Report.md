@@ -8,7 +8,7 @@
 - **Deliverable:** Final Markdown Content and GitHub Repository
 - **Stage:** Stage 3
 - **Repository:** https://github.com/Jesselynkuolie/curious-mind
-- **Snapshot date:** 27 November 2026
+- **Snapshot date:** 28 November 2026
 - **Repository commit reviewed for this report:** `7c770a75426c7eae6e61d5288ccb8ee14d202072`
 
 ## 2. Purpose of This Report
@@ -41,7 +41,7 @@ The repository is also expected to be self-contained, clearly organized, traceab
 | Feedback or expectation | Revision or response recorded | Location and verification |
 |---|---|---|
 | The Markdown coverage was good, but the earlier submission did not fully follow the instructions. | The repository contains a module outline and six chapter files covering AI fundamentals, machine learning, generative AI and LLMs, AI applications, responsible AI, and practical AI skills. | `content/introduction-to-ai.md/00-module-outline.md` and chapter files 01–06. Check the final rendered content against the assignment checklist. |
-| The Markdown had no images and lacked visual resources. | This feedback has **not been fully addressed** in the supplied repository snapshot. No separate image or diagram asset collection was present in the ZIP. | Review the chapter files and `assets documentation/README.md`. Add and attribute relevant visuals if the team is able to do so before submission. |
+| The Markdown had no images and lacked visual resources. | The team added six original Mermaid diagrams to the Study Guide, covering AI and ML, the machine-learning process, LLM text generation, AI applications, responsible AI, and an AI-assisted workflow. | `study guide/study-guide.md` and the six chapter files. Confirm that all diagrams render correctly in GitHub and the final PDF. External image assets are still not included. | | This feedback has **not been fully addressed** in the supplied repository snapshot. No separate image or diagram asset collection was present in the ZIP. | Review the chapter files and `assets documentation/README.md`. Add and attribute relevant visuals if the team is able to do so before submission. |
 | The Markdown could not adequately support the Study Guide, PPT, and videos. | A resource mapping document now connects each of the six chapters to the Study Guide, Test Bank, PowerPoint, and Video Tutorial topics. | `resource-mapping.md`. Its consistency checklist still contains unchecked items, so cross-resource verification remains outstanding. |
 | The final content must be complete, checked, and understandable to a first-time reader. | The repository includes a module outline, six chapters, a Study Guide, a Test Bank, presentation and video planning documents, and project documentation. The audit and review notes still identify checks and corrections that need completion. | `README.md`, `content/introduction-to-ai.md/`, `AUDIT-REPORT.md`, `review-and-learner-test.md`, and `tasks.md`. |
 
@@ -168,7 +168,7 @@ The supplied repository documents several checks that remain outstanding:
 
 ### Known limitations recorded in this report
 
-1. The professor's feedback about missing images and visual resources has not been fully addressed in the supplied repository snapshot.
+1. The team has added original diagrams to the Study Guide and chapter materials to address the feedback about visual resources. Final GitHub and PDF rendering checks are still required, and external image assets are not included
 2. The peer-review record contains no specific suggestions from the listed reviewers, and no specific feedback from another team about Markdown was found in the supplied documents.
 3. Formal learner testing is recorded as not yet conducted.
 4. Mini-lecture audience responses and their effect on Markdown revisions are not clearly documented.
@@ -179,7 +179,7 @@ The supplied repository documents several checks that remain outstanding:
 
 The Stage 3 repository provides an organized foundation for the Curious Mind — Introduction to Artificial Intelligence module. It contains a module outline, six learning chapters, supporting learning resources, resource mapping, and project review documentation.
 
-The team has documented a number of content-organization and review improvements. However, the professor's feedback about visual resources has not been fully addressed, and the repository's own review and audit documents identify further checks that remain outstanding.
+The team has documented content-organization and review improvements and added original diagrams to strengthen the visual support in the Study Guide. The final diagrams still require a rendering check in GitHub and the exported PDF. The repository's review and audit documents also identify other verification tasks that should be completed before submission. However, the professor's feedback about visual resources has not been fully addressed, and the repository's own review and audit documents identify further checks that remain outstanding.
 
 The final submission should only be marked complete after the revised content is confirmed in GitHub, the resource mapping and cross-resource consistency checks are completed, the required evidence is added, and the final Markdown and PDF snapshots are verified.
 
