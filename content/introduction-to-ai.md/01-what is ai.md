@@ -234,8 +234,6 @@ Read each scenario and identify the AI approach that best matches it.
 
 **Suggested Answers:**
 
-**Suggested Answers:**
-
 1. Symbolic AI — the system uses predefined medical rules and knowledge.
 2. Connectionist AI — the neural network learns patterns from labelled pictures.
 3. Reinforcement Learning — the agent improves its strategy through actions and rewards.
