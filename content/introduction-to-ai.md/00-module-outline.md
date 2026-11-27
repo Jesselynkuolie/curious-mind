@@ -58,8 +58,8 @@ The module contains six chapters. Each chapter introduces a defined set of conce
 | 1 | What Is AI? | AI definitions, AI history, AI capabilities, AI in everyday life | 35–45 minutes |
 | 2 | Machine Learning Basics | Data, models, training, supervised learning, unsupervised learning, evaluation | 40–50 minutes |
 | 3 | Generative AI and Large Language Models | Generative AI, LLMs, prompts, generated outputs, limitations | 40–50 minutes |
-| 4 | AI Applications | Applications across industries, benefits, limitations, case analysis | 35–45 minutes |
-| 5 | Responsible AI | Bias, fairness, privacy, transparency, accountability, safety | 40–50 minutes |
+| 4 | AI Applications | Applications across industries, benefits, limitations, case analysis | 40–50 minutes |
+| 5 | Responsible AI | Bias, fairness, privacy, transparency, accountability, safety | 45–55 minutes |
 | 6 | Practical AI Skills | Choosing tools, prompt writing, verifying outputs, responsible use, final activity | 45–60 minutes |
 
 **Estimated total:** Approximately 4–5 hours, including chapter activities and review.
