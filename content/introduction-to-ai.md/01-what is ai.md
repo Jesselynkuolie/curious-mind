@@ -185,6 +185,8 @@ Their relationship can be represented as:
 
 All deep learning is machine learning, and all machine learning is part of AI. However, not all AI uses machine learning.
 
+
+
 ## 7. AI in Everyday Life
 
 | Area | Example | Purpose |
@@ -340,13 +342,16 @@ We also explored the relationship between AI, machine learning, and deep learnin
 - [ ] Markdown formatting has been reviewed.
 
 
-### Visual Relationship
+### Visual Diagram: Relationship Between AI, ML, and DL
 
-```text
-Artificial Intelligence (AI)
-          |
-          v
-   Machine Learning (ML)
-          |
-          v
-     Deep Learning (DL)
+```mermaid
+flowchart TD
+    A["Artificial Intelligence (AI)"]
+    B["Machine Learning (ML)"]
+    C["Deep Learning (DL)"]
+
+    A -->|"Includes"| B
+    B -->|"Includes"| C
+
+    D["AI can also use approaches that do not involve machine learning."]
+    A -.-> D
