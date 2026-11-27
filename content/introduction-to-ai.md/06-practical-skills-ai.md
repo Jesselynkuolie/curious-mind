@@ -1,3 +1,4 @@
+
 # Chapter 6: Modern Practical AI Skills and Workflows
 
 **Module:** Introduction to Artificial Intelligence  
@@ -466,7 +467,7 @@ A good AI workflow combines the speed and assistance of AI with human judgement,
 - [ ] Markdown formatting has been reviewed.
 - [ ] Chapter terminology and learning objectives have been compared with the other five chapters.
 - [ ] The chapter has been checked against the teacher's rubric.
-- [ ] The AI workflow diagram is included.
+- [x] The AI workflow diagram is included.
 - [ ] The prompt evaluation table is included.
 - [ ] The practical activity instructions are clear.
 - [ ] AI assistance and human responsibilities are distinguished.
