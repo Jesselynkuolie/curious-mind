@@ -623,7 +623,7 @@ Use this checklist after reviewing the chapter and testing the file in GitHub.
 - [ ] Spelling, grammar, and clarity have been reviewed.
 - [ ] Headings, tables, and links have been checked in GitHub's rendered preview.
 - [ ] The estimated learning time matches the module outline.
-- [ ] - [ ] All seven industry examples are explained clearly.
+- [ ] All seven industry examples are explained clearly.
 - [ ] The AI application comparison table is included.
 - [ ] The practical activity includes a structured evaluation worksheet.
 - [ ] The risk-level examples are consistent with the chapter.
