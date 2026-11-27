@@ -1,268 +1,99 @@
-# Curious Mind — Introduction to Artificial Intelligence
-## Project Task List and Completion Tracker
+# Stage 3 Task Tracker — Curious Mind
 
-## 1. Project Goal
+## 1. Project Information
 
-Develop a complete, well-organised set of AI learning materials that demonstrates a clear instructional design approach, accurate content, learner engagement, accessibility, and responsible use of AI.
+| Item | Details |
+|---|---|
+| Project | Curious Mind — Introduction to AI |
+| Stage | Stage 3 — Final Markdown and Repository |
+| Team Coordinator | Jesselyn Kuolie |
+| Repository | https://github.com/Jesselynkuolie/curious-mind |
+| Status | In Progress |
 
-The project must meet two essential requirements:
+## 2. Team Responsibilities
 
-1. Provide a complete content structure for the learning materials.
-2. Complete at least one full chapter that demonstrates the overall design approach.
-
-## 2. Task Status Key
-
-- [ ] Not completed or not yet verified
-- [x] Completed and checked
-
-Only mark a task complete when the relevant file has been checked against the stated criteria.
-
-## 3. Essential Assignment Requirements
-
-### A. Complete Content Structure
-
-**File:** `content/introduction-to-ai.md/00-module-outline.md`
-
-- [x] Define the course overview, target audience, and prerequisites.
-- [x] Write course-level learning objectives.
-- [x] List all six chapters in a logical sequence.
-- [x] Describe the purpose and key topics of each chapter.
-- [x] Define chapter-level learning objectives.
-- [x] Identify learning activities and assessments.
-- [ ] Confirm that the progression between chapters is sufficiently explicit.
-- [x] Confirm that all six chapter files are present in the repository.
-- [ ] Open and verify all chapter links on GitHub.
-- [ ] Compare the outline against the final chapter content.
-
-**Acceptance criteria:** The outline clearly communicates the full course structure, learning objectives, chapter sequence, activities, and assessment approach.
-
-### B. Fully Completed Demonstration Chapter
-
-**File:** `content/introduction-to-ai.md/01-what is ai.md`
-
-- [x] Include a chapter title and introduction.
-- [x] Include learning objectives.
-- [x] Explain the main concepts.
-- [x] Organise content with clear headings.
-- [x] Include relevant examples.
-- [x] Include practical activities.
-- [x] Include key terms and definitions.
-- [x] Include review questions.
-- [x] Provide an answer key.
-- [x] Include a chapter summary.
-- [ ] Verify all references and factual claims.
-- [ ] Check readability and accessibility.
-- [ ] Preview the saved chapter on GitHub.
-- [ ] Confirm that learners can complete the chapter independently.
-- [ ] Align the estimated learning time with the module outline.
-
-**Acceptance criteria:** The chapter provides a complete learning experience and demonstrates the instructional design approach used for the course.
-
-**Note:** Chapter 1 has the components of a complete chapter. The remaining checks must be completed before this requirement is marked fully verified.
-
-## 4. Content Chapters
-
-| Chapter | File path | Status |
+| Team Member | Role | Main Responsibilities |
 |---|---|---|
-| Chapter 1 — What Is AI? | `content/introduction-to-ai.md/01-what is ai.md` | Review and verify |
-| Chapter 2 — Machine Learning Basics | `content/introduction-to-ai.md/02-machine-learning-basics.md` | Verify saved version and formatting |
-| Chapter 3 — Generative AI and LLMs | `content/introduction-to-ai.md/03-generative-ai-llms.md` | Review and complete |
-| Chapter 4 — AI Applications | `content/introduction-to-ai.md/04-ai-applications.md` | Review and complete |
-| Chapter 5 — Responsible AI | `content/introduction-to-ai.md/05-responsible-ai.md` | Review and complete |
-| Chapter 6 — Practical AI Skills | `content/introduction-to-ai.md/06-practical-skills-ai.md` | Review and complete |
+| Jesselyn Kuolie | Coordinator (CEO) | Coordinate the team, monitor progress, organize meetings, and review the final submission |
+| Kristabelle Lian | Video Lead | Review and improve video tutorials, narration, subtitles, and demonstrations |
+| Le Tran Duc Trong | Repository and Submission Lead (CIO) | Organize repository files, maintain documentation, and prepare submission files |
+| Lai Quoc Hung | Visual Design Lead | Improve presentation design, diagrams, illustrations, and visual consistency |
+| Samantha Salvatrice | Quality Lead | Check content accuracy, formatting, learning materials, and final quality |
+| Michelle Kalyani | Content Lead | Review chapter explanations, learning outcomes, activities, and references |
 
-For each chapter:
+## 3. Stage 3 Documentation Tasks
 
-- [ ] Check alignment with the module outline.
-- [ ] Verify factual accuracy and references.
-- [ ] Check examples and explanations.
-- [ ] Ensure learning activities have clear instructions.
-- [ ] Check that summaries reinforce the key concepts.
-- [ ] Verify knowledge-check questions and answers.
-- [ ] Resolve unfinished authoring placeholders.
-- [ ] Check consistency of learning time estimates.
-- [ ] Preview Markdown formatting on GitHub.
-
-## 5. Study and Assessment Materials
-
-### Study Guide
-
-**File:** `study guide/study-guide.md`
-
-- [ ] Review the content.
-- [ ] Check consistency with the six chapters.
-- [ ] Verify internal links.
-- [ ] Confirm that explanations support the learning objectives.
-
-### Practice Questions
-
-**File:** `test-bank/practice-questions.md`
-
-- [ ] Review question wording.
-- [ ] Check alignment with the learning objectives.
-- [ ] Verify the answer key.
-- [ ] Confirm coverage of the main course topics.
-
-## 6. Presentation and Lecture Materials
-
-### Presentation Outline
-
-**File:** `slides/presentation-outline.md`
-
-- [ ] Review the presentation outline.
-- [ ] Check consistency with the module structure.
-- [ ] Verify the accuracy of examples.
-
-### Mini-Lecture Script
-
-**File:** `Mini lecture/mini-lecture-script.md`
-
-- [ ] Review the script.
-- [ ] Check clarity and factual accuracy.
-- [ ] Confirm alignment with the learning objectives.
-
-**PowerPoint note:** `slides/Curious-Mind-AI-Overview.pptx` is not present in the uploaded ZIP. Confirm whether an actual PowerPoint file is required before adding it to the task list as a required deliverable.
-
-## 7. Video Materials
-
-### Video Plan
-
-**File:** `videos/video-plan.md`
-
-- [ ] Review the proposed content.
-- [ ] Check alignment with the learning objectives.
-
-### Video Storyboard
-
-**File:** `videos/video-storyboard.md`
-
-- [ ] Review the scene sequence.
-- [ ] Check the narration and proposed visuals.
-- [ ] Verify factual accuracy.
-
-### Supplementary Storyboard
-
-**File:** `study guide/videos/video-storyboard.md`
-
-- [ ] Review the storyboard.
-- [ ] Confirm that it complements the study guide.
-
-- [ ] Check permissions and attribution for any external assets.
-- [ ] Prepare captions or transcripts where required.
-- [ ] Produce a finished video only if required by the assignment.
-
-## 8. Assets and Attribution
-
-**File:** `assets documentation/README.md`
-
-- [ ] Review asset documentation.
-- [ ] Confirm that referenced assets exist.
-- [ ] Verify sources, permissions, and licences.
-- [ ] Include required attribution.
-- [ ] Check alternative text, captions, or transcripts where applicable.
-- [ ] Remove unused template entries.
-
-**Asset register note:** `assets/asset-register.md` is not present in the uploaded ZIP. Create it only if the assignment requires it; otherwise, use the existing asset documentation.
-
-## 9. Collaboration and Project Records
-
-### Contributing Guidelines
-
-**File:** `CONTRIBUTING.md`
-
-- [ ] Verify that instructions match the current repository structure.
-- [ ] Check file paths and formatting guidance.
-
-### Meeting Notes
-
-**File:** `Meeting notes/Mini lecture/slides/meeting-notes.md`
-
-- [ ] Review the meeting notes.
-- [ ] Replace or remove unfinished template placeholders.
-- [ ] Verify all file paths.
-- [ ] Record actual decisions and action items where applicable.
-
-### Review Notes
-
-**File:** `review/review-notes.md`
-
-- [ ] Check that the findings reflect the current repository.
-- [ ] Distinguish completed corrections from remaining actions.
-- [ ] Verify file paths.
-- [x] Record the completed peer review and note that no specific feedback was provided.
-- [ ] Complete learner testing and record the results.
-
-### Audit Report
-
-**File:** `AUDIT-REPORT.md`
-
-- [ ] Resolve remaining reviewer and date placeholders.
-- [ ] Make the audit status consistent throughout the document.
-- [ ] Verify that findings reflect the current repository.
-- [ ] Record only checks that have actually been performed.
-- [ ] Confirm contributor details and acknowledgements where applicable.
-
-## 10. Quality Assurance
-
-### Content Quality
-
-- [ ] Check terminology throughout the project.
-- [ ] Verify factual claims using credible sources.
-- [ ] Check citations and references.
-- [ ] Proofread spelling, grammar, and readability.
-- [ ] Confirm that activities and assessments align with learning objectives.
-
-### Technical Quality
-
-- [x] Run an automated check of internal Markdown links in the uploaded ZIP; no broken internal links were detected.
-- [ ] Verify links on GitHub.
-- [ ] Confirm file paths match the repository.
-- [ ] Preview Markdown formatting on GitHub.
-- [ ] Verify that referenced images and other media exist.
-- [ ] Check for accidental duplicates and temporary files.
-- [ ] Resolve outdated paths and missing-resource references.
-
-### Final Submission Review
-
-- [ ] Compare the project with the official assignment brief.
-- [ ] Map each marking criterion to evidence in a specific file.
-- [ ] Verify the complete content structure.
-- [ ] Verify at least one completed demonstration chapter.
-- [ ] Confirm that all required deliverables are present.
-- [ ] Resolve outstanding critical issues.
-- [ ] Confirm that the final GitHub repository matches the reviewed version.
-
-## 11. Team Responsibilities
-
-| Responsibility | Assigned member | Evidence |
+| Task | File | Status |
 |---|---|---|
-| Project coordination | Jesselyn Kuolie — Coordinator (CEO) | Project coordination and progress tracking |
-| Repository and submission | Lê Trần Đức Trọng — Repository and Submission Lead (CIO) | Repository organization and submission support |
-| Content development | Michelle Kalyani — Content Lead | Learning content development |
-| Visual design | Lai Quoc Hung — Visual Design Lead | Visual materials and presentation design |
-| Video production | Kristabelle Lian — Video Lead | Video tutorial production |
-| Quality assurance | Samantha Salvatrice — Quality Lead | Content review and quality checks |
+| Update project introduction and repository instructions | README.md | Draft updated |
+| Record feedback and revisions | revision-summary.md | Draft updated |
+| Map learning chapters to supporting materials | resource-mapping.md | Draft updated |
+| Record peer reviews and learner testing | review-and-learner-test.md | Draft updated |
+| Document audit findings and outstanding checks | AUDIT-REPORT.md | Draft updated |
+| Update team task tracking | tasks.md | In progress |
 
-## 12. Completion Record
+## 4. Learning Material Revision Tasks
 
-Update this section after verification.
+| Task | File / Area | Status |
+|---|---|---|
+| Review module structure and learning outcomes | 00-module-outline.md | To verify |
+| Check explanations, examples, and references | Chapters 1–6 | To verify |
+| Complete missing content and remove placeholders | Chapter 3 and Chapter 4 | Pending verification |
+| Improve explanations and learning activities | Chapter 2 | To verify |
+| Review activity instructions and answer placement | study-guide.md | To verify |
+| Check question wording and answer distribution | practice-questions.md | To verify |
+| Improve slide readability and visual support | presentation-outline.md | To verify |
+| Review video narration and demonstrations | Video tutorials | To verify |
+| Check video subtitles and consistency | Video tutorials | Pending verification |
 
-- Complete content structure: Prepared; final verification pending.
-- Demonstration chapter: Chapter content prepared; final verification pending.
-- Supporting learning materials: Review pending.
-- Asset attribution and accessibility: Review pending.
-- Technical quality checks: Partially completed.
-- Official assessment rubric: Final comparison pending.
+## 5. Feedback Implementation Tasks
 
-## 13. Definition of Done
+- [ ] Address the teacher's feedback about text-heavy materials.
+- [ ] Add relevant diagrams, figures, and illustrations.
+- [ ] Improve instructions for practical learning activities.
+- [ ] Check the Study Guide's activity references and answer placement.
+- [ ] Review Test Bank question distribution and topic coverage.
+- [ ] Correct PowerPoint diagrams, terminology, spelling, and image credits.
+- [ ] Review video narration, timing, objectives, and visual consistency.
+- [ ] Include subtitles where required.
+- [ ] Improve meeting records and individual worklogs.
 
-The project is ready for submission when:
+## 6. Repository and Submission Tasks
 
-1. The full content structure is documented and matches the repository.
-2. At least one complete chapter demonstrates the intended instructional design.
-3. Supporting materials align with the learning objectives.
-4. References, accessibility, and technical quality have been checked.
-5. All deliverables required by the assignment brief are present.
-6. The completion record reflects verified work rather than planned work.
+- [ ] Check that all Markdown files are correctly organized.
+- [ ] Check that filenames and folder names are understandable.
+- [ ] Verify internal links and image paths.
+- [ ] Preview Markdown files on GitHub.
+- [ ] Check the repository's latest commit and contribution history.
+- [ ] Prepare the complete final Markdown source snapshot.
+- [ ] Export the final Markdown content into PDF.
+- [ ] Prepare the final report in Word and PDF formats.
+- [ ] Include relevant screenshots and revision evidence.
+- [ ] Prepare the final ZIP package.
+- [ ] Extract the ZIP and verify that all required files are included.
 
-**Final status:** In progress — final verification required.
+## 7. Final Submission Checklist
+
+- [ ] README and repository documentation updated.
+- [ ] Revision summary completed with accurate evidence.
+- [ ] Resource mapping checked against the actual learning materials.
+- [ ] Peer review feedback recorded.
+- [ ] Learning chapters reviewed.
+- [ ] Study Guide and Test Bank checked.
+- [ ] PowerPoint and video materials checked.
+- [ ] Meeting notes and individual contributions documented.
+- [ ] Final PDF reviewed.
+- [ ] Final ZIP package tested.
+- [ ] GitHub repository updated with the final changes.
+
+## 8. Progress Notes
+
+Update this section whenever the team completes an important task.
+
+| Date | Task Completed | Responsible Member | Evidence / Notes |
+|---|---|---|---|
+| To be updated | Documentation revisions | To be confirmed | Record the files updated and the related commit |
+| To be updated | Learning material revisions | To be confirmed | Record the actual changes and supporting evidence |
+| To be updated | Final repository verification | To be confirmed | Record the final repository commit and checks |
+
+**Important:** Update the task statuses only after the corresponding work has actually been completed and checked.
