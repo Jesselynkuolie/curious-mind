@@ -33,16 +33,45 @@ The team also identified the following points during the review of the Markdown 
 
 ## 4. Peer Review and Learner Testing
 
-The available review records identify the following reviewers:
+### 4.1 Peer Review Feedback
 
-- Jesselyn Kuolie — reviewed the Introduction to AI material.
-- Le Tran Duc Trong — reviewed the module content.
+The team received peer-review feedback from Team DLLM and Team Bumingbai on the Stage 2 learning materials.
 
-The current review records do not document specific suggestions from these reviewers.
+The reviews covered the Study Guide, Test Bank, PowerPoint presentation, and Video Tutorials.
 
-Formal learner testing of the Study Guide and Test Bank has also not yet been documented.
+The main findings and required revisions are summarized below:
 
-These activities should only be marked as completed after the team has conducted and recorded the relevant reviews and tests.
+| Material | Feedback Received | Revision or Action Required |
+|---|---|---|
+| Study Guide | Unfinished author notes, incorrect activity references, unclear activity instructions, and insufficient visual resources. | Remove unfinished notes, correct references, improve instructions, and add relevant diagrams or visuals. |
+| Test Bank | Uneven distribution of correct multiple-choice answers, weak distractors, and missing questions on some topics. | Improve answer distribution, strengthen distractors, and add questions covering the identified topics. |
+| PowerPoint | Inconsistent diagrams, unclear technical labels, spelling errors, small infographic labels, and missing image credits. | Correct diagrams and labels, fix errors, improve readability, and add image credits. |
+| Video Tutorials | Inconsistent narration, insufficient thinking time during quizzes, and mismatches between narration and visuals. | Review narration, adjust quiz timing, and improve consistency between audio and visuals. |
+
+The detailed peer-review comments are recorded in `review-and-learner-test.md` and `AUDIT-REPORT.md`.
+
+### 4.2 Internal Review
+
+The team also conducted internal reviews of the learning materials.
+
+The recorded reviewers include:
+
+- Jesselyn Kuolie
+- Le Tran Duc Trong
+
+Any additional comments or revision suggestions should be documented when available.
+
+### 4.3 Learner Testing
+
+Formal learner testing of the Study Guide and Test Bank has not yet been documented.
+
+The team should only mark learner testing as completed after actual testing has been conducted and the results have been recorded.
+
+### 4.4 Revision Status
+
+Receiving and recording feedback does not mean every suggested revision has been completed.
+
+The team must verify each change in the final learning materials before marking it as completed. Outstanding revisions should remain identified in the audit report until they have been checked.
 
 ## 5. Before-and-After Evidence
 
