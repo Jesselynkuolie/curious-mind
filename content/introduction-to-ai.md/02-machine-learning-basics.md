@@ -237,6 +237,29 @@ Reinforcement learning differs from supervised learning because it does not simp
 | Unsupervised Learning | Finds patterns in unlabelled data | Grouping similar customers |
 | Reinforcement Learning | Learns through actions and feedback | Learning to play a game |
 
+
+### Visual Diagram: Three Main Types of Machine Learning
+
+```mermaid
+flowchart TD
+    A["Machine Learning"]
+
+    A --> B["Supervised Learning"]
+    A --> C["Unsupervised Learning"]
+    A --> D["Reinforcement Learning"]
+
+    B --> E["Learns from labelled data"]
+    C --> F["Finds patterns in unlabelled data"]
+    D --> G["Learns through actions and feedback"]
+
+    E --> H["Example: Spam email classification"]
+    F --> I["Example: Customer grouping"]
+    G --> J["Example: Learning to play a game"]
+```
+
+**Key Point:** The three types differ mainly in the information and feedback used during learning. Supervised learning uses labelled examples, unsupervised learning discovers patterns, and reinforcement learning learns through actions and feedback.
+
+
 **Remember:**
 - Supervised learning learns from known answers.
 - Unsupervised learning discovers patterns.
