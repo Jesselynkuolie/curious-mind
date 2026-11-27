@@ -127,21 +127,27 @@ The AI supports the process, but the student remains responsible for the final r
 
 ### Visual Summary: The AI-Assisted Workflow
 
-Define the task
-        ↓
-Prepare relevant information
-        ↓
-Choose a suitable AI tool
-        ↓
-Write a clear prompt
-        ↓
-Review the AI-generated result
-        ↓
-Verify important information
-        ↓
-Improve and finalise the output
+
+### Visual Summary: The AI-Assisted Workflow
+
+```mermaid
+flowchart TD
+    A["1. Define the task"] --> B["2. Prepare relevant information"]
+    B --> C["3. Choose a suitable AI tool"]
+    C --> D["4. Write a clear prompt"]
+    D --> E["5. Review the AI-generated result"]
+    E --> F{"Is the result accurate and suitable?"}
+    F -->|No| G["Revise the prompt or correct the output"]
+    G --> E
+    F -->|Yes| H["6. Verify important information"]
+    H --> I["7. Improve and finalise the output"]
+    I --> J["Human reviews and takes responsibility"]
+
+    style J fill:#d9ead3,stroke:#38761d,color:#000
+```
 
 **Remember:** Human judgement is involved throughout the workflow. AI should support the task, not replace human responsibility.
+
 
 ## 5. Effective Prompting for Practical Tasks
 
