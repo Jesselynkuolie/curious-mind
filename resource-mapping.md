@@ -18,6 +18,8 @@ The resource mapping helps the team check that the Study Guide, Test Bank, Power
 | Chapter 5 | Responsible AI | AI ethics, risks, limitations, and responsible practices | Questions about responsible AI and ethical concerns | Responsible AI and its importance | Responsible AI |
 | Chapter 6 | Practical AI Skills | Practical guidance for using AI tools | Application-based questions and practical activities | Practical AI skills and responsible AI use | Practical AI Skills |
 
+**Video mapping note:** The current video storyboard describes one overview video that introduces topics from all six chapters. The entries in the Video Tutorials column identify the topics covered in that overview video; they do not indicate that six separate chapter videos have been produced. Actual video production and completion must be verified separately.
+
 **Important:** The table identifies the intended connections between resources. Confirm that each topic is actually covered in the corresponding file before marking it as complete.
 
 ## 3. Resource Descriptions
