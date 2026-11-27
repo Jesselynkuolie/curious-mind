@@ -262,6 +262,20 @@ Different applications use AI for different purposes. The following table summar
 
 This comparison shows that AI does not have one universal purpose. Each application should be evaluated according to the task it performs and the consequences of its errors.
 
+### Visual Summary: AI Across Different Industries
+
+| Industry | AI Input | AI Task | Possible Output |
+|---|---|---|---|
+| Healthcare | Medical images | Identify patterns | Areas requiring further examination |
+| Education | Learner responses | Analyse progress | Personalised practice |
+| Transportation | Traffic information | Estimate journey times | Suggested routes |
+| Business | Transaction data | Detect unusual patterns | Possible fraud alerts |
+| Entertainment | Viewing history | Recommend content | Suggested films or music |
+| Agriculture | Crop images | Identify plant conditions | Possible crop problems |
+| Communication | Spoken language | Recognise speech | Written text |
+
+**Remember:** Different industries use AI for different purposes. The quality of the output depends on the system, its data, and the task.
+
 ## 4.12 Benefits of AI Across Industries
 
 Although AI applications differ, several potential benefits appear across multiple industries.
@@ -330,6 +344,19 @@ For example, an incorrect film recommendation may cause minor inconvenience, whi
 
 Therefore, AI systems used in high-impact situations require stronger testing, monitoring, and human oversight.
 
+### Comparing the Consequences of AI Errors
+
+Not every AI error has the same consequences.
+
+| AI Application | Example of an Error | Possible Consequence |
+|---|---|---|
+| Music recommendation | Suggests an unsuitable song | Minor inconvenience |
+| Navigation application | Suggests an unsuitable route | Travel delay or possible safety concern |
+| Educational tool | Provides an incorrect explanation | Learner misunderstands a topic |
+| Medical image analysis | Misses an important pattern | May affect further medical assessment |
+
+**Learning point:** AI systems should receive appropriate testing and human oversight according to the possible consequences of their errors.
+
 ## 4.14 Human Oversight and Responsible Use
 
 Human oversight means that people remain appropriately involved in evaluating or supervising AI systems, especially when outcomes affect safety, rights, money, education, or access to services.
@@ -345,6 +372,17 @@ Before relying on an AI application, ask:
 7. How can the output be checked against reliable evidence?
 
 Responsible use also means being transparent when appropriate about AI-generated content, respecting privacy and copyright, and following relevant rules and organisational policies.
+
+### Responsible AI Application Checklist
+
+Before relying on an AI application, consider the following:
+
+- [ ] I understand what the application is designed to do.
+- [ ] I know what information it uses.
+- [ ] I have considered possible errors and limitations.
+- [ ] I have considered privacy and data protection.
+- [ ] I have checked important outputs using reliable information.
+- [ ] I understand when human review is necessary.
 
 ## 4.15 Practical Activity: Evaluate an AI Application
 
@@ -373,6 +411,29 @@ Complete the following questions:
 6. What are two possible risks or limitations?
 7. How could a user check whether its output is reliable?
 8. When should a human review or override its output?
+
+### AI Application Evaluation Worksheet
+
+Complete the table using the AI application you selected.
+
+| Evaluation Area | Your Answer |
+|---|---|
+| Application name or type | |
+| Industry | |
+| Main purpose | |
+| Information required | |
+| Benefit 1 | |
+| Benefit 2 | |
+| Risk 1 | |
+| Risk 2 | |
+| How to check its reliability | |
+| When human oversight is needed | |
+
+### Reflection Questions
+
+1. Would you trust this application for every situation? Why or why not?
+2. What could happen if the application produces an incorrect result?
+3. How can users reduce the risks of using this application?
 
 ### Example Answer: A Navigation Application
 
@@ -535,3 +596,10 @@ Use this checklist after reviewing the chapter and testing the file in GitHub.
 - [ ] Spelling, grammar, and clarity have been reviewed.
 - [ ] Headings, tables, and links have been checked in GitHub's rendered preview.
 - [ ] The estimated learning time matches the module outline.
+- [ ] - [ ] All seven industry examples are explained clearly.
+- [ ] The AI application comparison table is included.
+- [ ] The practical activity includes a structured evaluation worksheet.
+- [ ] The risk-level examples are consistent with the chapter.
+- [ ] Human oversight and responsible-use guidance are clear.
+- [ ] Chapter 4 terminology matches the Study Guide, Test Bank, and presentation.
+- [ ] The chapter has been previewed to check formatting.
