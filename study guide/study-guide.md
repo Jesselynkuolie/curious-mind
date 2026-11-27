@@ -638,7 +638,6 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 
 ```markdown
 **Figure 2. Basic Machine Learning Process**
-
 ```mermaid
 flowchart TD
     A["Collect Data"] --> B["Prepare Data"]
