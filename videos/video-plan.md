@@ -46,15 +46,15 @@ The video should communicate the following messages:
 
 | Time | Segment | Main Content | Suggested Visuals |
 |---|---|---|---|
-| 0:00–0:20 | Opening | Introduce AI and ask where learners encounter it. | Simple icons for navigation, recommendations, and spam filtering. |
-| 0:20–0:55 | AI Basics | Define AI and explain that AI systems do not all work in the same way. | Everyday examples and a short definition. |
-| 0:55–1:35 | Machine Learning | Explain data, training, models, and predictions using spam detection as an example. | Labelled emails → training → model → classification of a new email. |
-| 1:35–2:15 | Generative AI | Explain content generation and how clear prompts can improve relevance. | Compare a vague prompt with one specifying the task, audience, and format. |
-| 2:15–2:55 | AI Applications | Introduce examples from education, healthcare, business, and transport. | Four labelled cards showing a possible benefit and a limitation. |
-| 2:55–3:40 | Responsible AI | Discuss accuracy, bias, privacy, and accountability. | A checklist with practical responsible-use habits. |
-| 3:40–4:10 | Conclusion | Summarize the main ideas and encourage responsible AI use. | Three takeaways and a closing title card. |
+| 0:00–0:20 | Opening | Introduce AI and ask where learners encounter it. | Animated icons for navigation, recommendations, and spam filtering. |
+| 0:20–0:55 | AI Basics | Define AI and explain that AI systems work in different ways. | Short definition, everyday examples, and simple animations. |
+| 0:55–1:35 | Machine Learning | Explain data, training, models, and predictions using spam detection. | Animated email examples moving through a training and prediction process. |
+| 1:35–2:15 | Generative AI | Explain content generation and effective prompting. | Show a prompt being entered and the response appearing on screen. |
+| 2:15–2:55 | AI Applications | Introduce examples from education, healthcare, business, and transport. | Four visual demonstrations showing possible benefits and limitations. |
+| 2:55–3:40 | Responsible AI | Discuss accuracy, bias, privacy, and accountability. | Animated checklist with examples of responsible AI use. |
+| 3:40–4:10 | Conclusion | Summarize the main ideas and encourage responsible AI use. | Three key takeaways and a closing title card. |
 
-**Timing requirement:** The narration, transitions, and visuals must fit the allocated time. If the final recording runs longer than planned, shorten the narration without removing essential learning points.
+fit the allocated time. If the final recording runs longer than planned, shorten the narration without removing essential learning points.
 
 ## 6. Narration and Content Guidance
 
@@ -237,6 +237,16 @@ The finished video should:
 - Avoid unnecessary visual effects that distract from the explanation.
 - Protect personal information and respect asset licences.
 - Meet the duration and file-format requirements in the official assignment instructions.
+  
+### Additional Video Design Requirements
+- Avoid using still images as the main visual throughout the video.
+- Include demonstrations, animations, or screen recordings where appropriate.
+- Make sure the visuals change according to the narration.
+- Do not display unrelated images while explaining a concept.
+- Give learners enough time to read important information.
+- Include accurate subtitles throughout the video.
+- Make sure the spoken explanation matches the information displayed on screen.
+- Use a consistent visual style, resolution, and audio quality across all videos.
 
 ## 11. Sources and Attribution
 
@@ -274,3 +284,16 @@ The video may be marked complete when:
 - `content/04-ai-applications.md` — practical applications.
 - `content/05-responsible-ai.md` — responsible AI considerations.
 - `content/06-practical-ai-skills.md` — practical AI literacy skills.
+
+  The following points should be checked when reviewing the final video:
+
+| Feedback Area | Required Improvement | Verification |
+|---|---|---|
+| Visual Engagement | Use demonstrations, animations, and relevant visuals instead of relying mainly on still images. | [ ] |
+| Narration | Ensure narration matches the information displayed on screen. | [ ] |
+| Subtitles | Include accurate and readable subtitles. | [ ] |
+| Pacing | Allow enough time for learners to understand examples and answer questions. | [ ] |
+| Consistency | Use consistent video resolution, audio quality, and visual formatting. | [ ] |
+| Accuracy | Check all explanations against the Curious Mind learning materials. | [ ] |
+
+**Note:** These are planned improvements. Mark them complete only after checking the final video.
