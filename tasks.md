@@ -92,8 +92,6 @@ Update this section whenever the team completes an important task.
 
 | Date | Task Completed | Responsible Member | Evidence / Notes |
 |---|---|---|---|
-| To be updated | Documentation revisions | To be confirmed | Record the files updated and the related commit |
-| To be updated | Learning material revisions | To be confirmed | Record the actual changes and supporting evidence |
-| To be updated | Final repository verification | To be confirmed | Record the final repository commit and checks |
+| Add an entry only when a task has actually been completed. | Describe the specific work completed. | Record the actual contributor. | Add the related commit, file path, or other evidence. |
 
 **Important:** Update the task statuses only after the corresponding work has actually been completed and checked.
