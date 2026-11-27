@@ -84,6 +84,7 @@ Teachers and reviewers can also refer to `resource-mapping.md`, `revision-summar
 
 ## 9. Repository Structure
 
+```
 curious-mind/
 │
 ├── content/
@@ -133,6 +134,7 @@ curious-mind/
 ├── review-and-learner-test.md
 ├── revision-summary.md
 └── tasks.md
+```
 
 ## 10. Repository Usage
 
