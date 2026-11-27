@@ -362,6 +362,18 @@ Which emails did the rule get wrong, and which did the learned scorer get wrong 
 
 ### 1.4 Explain: AI, Machine Learning, and Deep Learning
 
+**Figure 1. Relationship between AI, Machine Learning, and Deep Learning**
+
+```mermaid
+flowchart TD
+    A["Artificial Intelligence (AI)"]
+    B["Machine Learning (ML)"]
+    C["Deep Learning (DL)"]
+    A --> B
+    B --> C
+
+```
+
 **EXPLAIN** — *Three terms, three nested circles*
 
 The Spam Detective Lab showed two styles of AI-related systems. The vocabulary below helps you name them:
@@ -624,6 +636,21 @@ Responsible use means considering how AI affects people. Core ideas: fairness, p
 
 ### 2.2 Explain: How Machines Learn
 
+```markdown
+**Figure 2. Basic Machine Learning Process**
+
+```mermaid
+flowchart TD
+    A["Collect Data"] --> B["Prepare Data"]
+    B --> C["Train the Model"]
+    C --> D["Test the Model"]
+    D --> E{"Good Results?"}
+    E -->|Yes| F["Use the Model"]
+    E -->|No| G["Improve the Model"]
+    G --> C
+
+```
+
 **EXPLAIN** — *From the scoreboard to the whole pipeline*
 
 **Machine learning (ML)** is an area of AI in which computer systems use data to learn patterns and perform tasks without every decision being written as a separate rule. In the Spam Detective Lab, the word scores were learned from labelled examples instead of typed in by a programmer.
@@ -863,6 +890,18 @@ This section contains two activities:
 | **Feedback (try first, then check)** | Counts after "the": cat 4/12 (about 33%), dog 3/12 (25%), mat, fish, rug, bone, sofa 1/12 each (about 8%). After "cat": sat 2, ate 1, end 1.<br><br>A possible generated sentence is "the dog ate the sofa". It never appears in the corpus, it is grammatical, and it was made from learned patterns — yet nobody stated it. Fluency is not evidence of truth.<br><br>**Teaching-model note:** this is a toy that only looks at one previous word. Real LLMs use very large amounts of text, tokens rather than whole words, and much longer context, and may include extra components such as safety controls, retrieval systems, or tools. |
 
 ### 3.2 Explain: Generative AI and LLMs
+
+```markdown
+**Figure 3. Simplified Text Generation Process**
+
+```mermaid
+flowchart TD
+    A["User Writes a Prompt"] --> B["Prompt Is Processed"]
+    B --> C["Model Predicts Likely Next Tokens"]
+    C --> D["Tokens Form a Response"]
+    D --> E["User Reviews the Response"]
+    E --> F["Verify Important Information"]
+```
 
 **EXPLAIN** — *What generative AI is, and how a chatbot writes*
 
