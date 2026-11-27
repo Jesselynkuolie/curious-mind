@@ -97,6 +97,10 @@ Explain AI using familiar examples. Clarify that AI is not a single tool or one 
 **Speaker notes:**  
 Explain that these terms are related but not interchangeable. Machine learning is one approach within AI, while generative AI describes systems that create content. Avoid suggesting that every AI system uses machine learning or that all AI generates content.
 
+**Deep Learning:** A type of machine learning that uses multi-layered neural networks to learn complex patterns from data.
+
+**Example:** Recognising objects in photographs.
+
 **Estimated time:** 55 seconds
 
 ### Slide 5 — How Does Machine Learning Work?
@@ -113,7 +117,23 @@ A simplified machine-learning workflow:
 
 **Key reminder:** Data quality affects model performance.
 
-**Visual suggestion:** A five-step process diagram.
+**Visual suggestion:**
+
+### Machine Learning Workflow
+
+Collect Data
+     ↓
+Prepare Data
+     ↓
+Train Model
+     ↓
+Evaluate Model
+     ↓
+Make Predictions
+     ↓
+Monitor and Improve
+
+**Important:** Training and evaluation should use appropriate data so that model performance can be assessed fairly.
 
 **Speaker notes:**  
 Explain that machine learning does not mean a system understands the world exactly as a person does. Models learn patterns from data, and poor-quality or unrepresentative data can contribute to errors or unfair outcomes.
@@ -317,3 +337,29 @@ Before submission, confirm that:
 **Status:** Presentation outline drafted.
 
 **Still required before submission:** Verify references and factual claims, confirm team information, review the final PowerPoint for accessibility and consistency, and check every requirement against the official assignment brief and grading rubric. Complete any required peer review or presentation recording before marking those items as finished.
+
+## 8. Final Presentation Improvements
+
+### Content
+- [ ] AI, Machine Learning, and Generative AI are clearly explained.
+- [ ] Deep Learning is defined if included in the presentation.
+- [ ] The machine-learning workflow is accurate.
+- [ ] All six responsible AI principles are included.
+
+### Visual Design
+- [ ] Long paragraphs have been shortened.
+- [ ] Relevant diagrams and illustrations are included.
+- [ ] Text and diagrams are readable.
+- [ ] Visuals support the explanations.
+
+### References
+- [ ] External images have appropriate credits.
+- [ ] References have been checked.
+- [ ] Reference links work.
+
+### Final Submission
+- [ ] All 12 slides are present.
+- [ ] Speaker notes are included if required.
+- [ ] PowerPoint has been exported to PDF.
+- [ ] The exported PDF has been checked.
+- [ ] Presentation matches the Study Guide and Test Bank.
