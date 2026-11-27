@@ -1035,6 +1035,20 @@ A **large language model (LLM)** is an AI model trained on large amounts of text
 
 ### 4.2 Explain: Where AI Is Used
 
+**Figure 4. Examples of AI Applications**
+
+```mermaid
+flowchart TD
+    A["Artificial Intelligence Applications"]
+    A --> B["Healthcare: Support diagnosis"]
+    A --> C["Education: Personalized learning"]
+    A --> D["Transportation: Route planning"]
+    A --> E["Business: Product recommendations"]
+    A --> F["Agriculture: Crop monitoring"]
+```
+
+*AI can support different tasks across industries, but its output should be evaluated in context.*
+
 **EXPLAIN** — *Applications, benefits, and risks*
 
 An **AI application** is a tool or system that uses AI for a task. Techniques behind applications include machine learning (patterns in data), computer vision (images and video), natural language processing (human language), generative AI (new content), and recommendation systems (suggested items).
@@ -1182,6 +1196,21 @@ Choose one AI application and complete the table.
 | Human oversight | Can teachers challenge it and consider other evidence? |  |
 
 ### 5.2 Explain: The Six Principles
+
+**Figure 5. Six Principles of Responsible AI**
+
+```mermaid
+flowchart TD
+    A["Responsible AI"]
+    A --> B["Fairness"]
+    A --> C["Privacy"]
+    A --> D["Transparency"]
+    A --> E["Accountability"]
+    A --> F["Safety and Reliability"]
+    A --> G["Human Oversight"]
+```
+
+*Responsible AI considers these principles throughout the design, use, and evaluation of an AI system.*
 
 **EXPLAIN** — *What each principle means in practice*
 
@@ -1358,6 +1387,21 @@ Choose one AI application and complete the table.
 | **Feedback (try first, then check)** | **Model rewrite for (1):** "You are helping a beginner understand responsible AI. Explain it in about 200 words using simple language. Include two everyday examples and distinguish fairness from privacy. Present it as short paragraphs followed by three review questions. Avoid unsupported claims and note important limitations."<br><br>**(2)** needs context (assignment, audience, rules), task (improve clarity only, keep my arguments), constraints (do not add facts), and a format (suggest changes in a table).<br><br>**(3)** needs audience (beginners), length (five minutes), and format (comparison table with why it matters, one everyday example, and a simple visual). A better prompt improves relevance but does not guarantee accuracy. |
 
 ### 6.2 Explain: Skills for Working with AI
+
+**Figure 6. A Practical AI-Assisted Workflow**
+
+```mermaid
+flowchart TD
+    A["Define Your Task"] --> B["Choose an Appropriate AI Tool"]
+    B --> C["Write a Clear Prompt"]
+    C --> D["Review the Output"]
+    D --> E{"Accurate and Useful?"}
+    E -->|Yes| F["Use Responsibly"]
+    E -->|No| G["Revise the Prompt or Check Sources"]
+    G --> D
+```
+
+*AI can support a task, but the user remains responsible for checking and deciding how to use the result.*
 
 **EXPLAIN** — *Task choice, prompts, iteration, evaluation, verification*
 
@@ -1603,23 +1647,3 @@ Videos, websites, and platforms linked in this guide belong to their creators: 3
 ### Team contributions and AI-assistance statement
 
 > **Team contribution and AI-use statement:** The team is responsible for the content, activities, examples, and final review of this Study Guide. AI tools were used to support parts of the preparation and editing process. The team should document the specific tools used, the nature of their assistance, and the relevant team members' contributions in accordance with the course requirements. All final statements about individual contributions and AI use must reflect the actual work completed.
-
-## Visual Improvement Checklist
-
-| Case | Recommended Visual |
-|---|---|
-| Case 1 | AI, ML, and DL relationship diagram |
-| Case 2 | Machine learning training and testing diagram |
-| Case 3 | LLM text-generation workflow |
-| Case 4 | AI applications across different industries |
-| Case 5 | Six responsible AI principles infographic |
-| Case 6 | AI-assisted workflow diagram |
-
-### Visual Verification
-
-- [ ] Each visual supports the explanation beside it.
-- [ ] Labels are readable.
-- [ ] Images and diagrams have suitable captions.
-- [ ] External images include source credits.
-- [ ] Visuals are referenced in the relevant activity or explanation.
-- [ ] The rendered PDF displays all visuals correctly.
