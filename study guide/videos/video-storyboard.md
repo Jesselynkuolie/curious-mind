@@ -372,7 +372,6 @@ This video supports the following chapters in the Curious Mind learning module:
 - `content/introduction-to-ai.md/04-ai-applications.md` — practical applications.
 - `content/introduction-to-ai.md/05-responsible-ai.md` — responsible AI considerations.
 - `content/introduction-to-ai.md/06-practical-skills-ai.md` — practical AI literacy skills.
-
 The video is intended to introduce and reinforce the learning materials. It does not replace the complete module outline or the full chapter required for the assignment.
 
 ---
